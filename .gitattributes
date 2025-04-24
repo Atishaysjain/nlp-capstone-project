@@ -1,1 +1,11 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
+df_resume_albert_base_v2.csv filter=lfs diff=lfs merge=lfs -text
+training_data_embeddings.csv filter=lfs diff=lfs merge=lfs -text
+training_data.csv filter=lfs diff=lfs merge=lfs -text
+df_resume_bert_base_uncased.csv filter=lfs diff=lfs merge=lfs -text
+df_resume_bert_large_uncased.csv filter=lfs diff=lfs merge=lfs -text
+df_resume_distilbert_base_uncased.csv filter=lfs diff=lfs merge=lfs -text
+df_resume_roberta_base.csv filter=lfs diff=lfs merge=lfs -text
+df_resume_sentence_transformers_all_MiniLM_L6_v2.csv filter=lfs diff=lfs merge=lfs -text
+df_resume_sentence_transformers_all_mpnet_base_v2.csv filter=lfs diff=lfs merge=lfs -text
+resume_matches_output.csv filter=lfs diff=lfs merge=lfs -text
