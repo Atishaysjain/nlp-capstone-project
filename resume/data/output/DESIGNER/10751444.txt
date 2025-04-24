@@ -1,0 +1,125 @@
+PRODUCT DESIGNER
+Professional Summary
+4-5 years engineering experience and 1-2 years working experience. Able to work independently and under pressure, detail oriented, excellent
+problem solver, Innovator. Efficient Mechanical Engineer leveraging a strong technical background in bringing products from the laboratory to
+mass-manufacturing. Mechanical Engineer with [Number] + years of training in varied industries, including manufacturing and high-tech
+environments. Creative manufacturing engineer. Lead team member on process redesign for [Describe product] . Design engineer who has worked
+on [Number] new products, including the [Product name] recognized for industry excellence.
+Skills
+CAD
+Complex problem solving
+Stress analysis training
+Component functions and
+testing requirements
+Technical direction and
+product strategies
+Works well in diverse team
+environment
+Strong decision maker
+Engine components, pumps, and fuel systems knowledgeFEA toolsAutoCAD proficientTeam
+leadershipManufacturing systems integrationManufacturing systems integration
+Work History
+Product designer 10/2014 to Current 
+Company Name â€“ City , State 
+The team wants to develop a portable, easily shipped, cost effective hardware that can send and receive digital content directly from
+satellites.
+Personally involve with prototype designing and 3D modeling.
+Cooperating with a startup called Outernet (https://www.outernet.is/en/), a for-profit media company that already has two satellites covering
+North America, Europe, and the Middle East and has recently started broadcasting free Internet content.
+Assisting drafters in developing the structural design of products using drafting tools or computer-assisted design (CAD) or drafting
+equipment and software.
+Completing project mechanical design while providing technical solutions feedback.
+product design 09/2014 to Current 
+Company Name â€“ City , State 
+Two engineers and designers to collaborate together to create new innovative wearable pieces for a fashion show competition.
+Will access new Makerspce, which includes a 3D printer, will be given a $500 budget to create their wearable piece.
+RESEARCH EcoPRT Research Assistant 01/2014 to 05/2014 
+Company Name â€“ City , State 
+The goal is to develop an economical, automated transit system.
+It will focus on the hands on design and development of a small manned autonomous vehicle.
+www.ecoprt.com).
+The key in the design is to understand the impact weight has on the overall cost and performance, and the incorporation of automated
+control.
+Aspects of the development will possibly include
+product design 01/2014 to 05/2014 
+Company Name â€“ City , State 
+VOLUNTEER The purpose of this project is to design and fabricate a cable management system for a public-access electric
+EXPERIENCE vehicle charging station.
+This system will dispense and retract 20 feet of cable for operation and provide secured storage for the cable when not in use.
+The prototype will be subjected to the following constraints
+Team member 10/2013 to 04/2014 
+Company Name â€“ City , State 
+Attending scheduled control and mechanical teams' training classes.
+EXPERIENCE Â· Learned shop safety, vehicle glider equations, drive cycle modeling, and Simulation.
+Learned the powertrain architecture and components of the 2013 Chevrolet Malibu.
+Learned vehicle dynamics.
+And practiced model simulation by using MATLAB Simulink.
+Mechanical Engineering Components design project (material design.
+material design 10/2013 to 04/2014 
+Company Name â€“ City , State 
+Designed fillet welds connections and bolts for the plate girder, which holds the pipe with horizontal and vertical force loads.
+Calculated the related shear or bending stresses for the welds and bolts to determine the right materials and sizes of welds (thickness) and
+bolts.
+Eddy Current DYNO Research Assistant 09/2013 to 05/2014 
+Company Name â€“ City , State 
+Built the engine stander for our engine and Eddy current dynamometer.
+Currently installing the Eddy current dynamometer with graduate students.
+Future possibility of experimenting with torque, horsepower, RPM, EGR (Exhaust Gas Recirculation) and temperature measurements of the
+Kubota Diesel Engine after installation.
+Possibility of learning the engine tuning.
+Research Assistant 06/2013 to 08/2013 
+Company Name â€“ City , State 
+Graphed sketches and figures for professor's Thermodynamics eBook.
+Learned how to use Smartdraw.
+Performed literature reviews on ongoing research topics and eBook materials.
+Added video links and real-world images to the eBook.
+Program Assistant 05/2013 to 06/2013 
+Company Name â€“ City , State 
+Assisting Dr.
+Eischen, the director of the Hangzhou Engineering Study Abroad Program at Zhejiang University, during his program this coming summer.
+Helping with tasks such as translating, program activities, running errands, classes, transportation, and culture immersion.
+2323 04/2013 to 10/2013 
+Company Name â€“ City , State 
+Designed Airplane Landing Gear by modeling with a mass-spring-damper SDOF system and designing the spring k and damper C that
+limits the given amplitude.
+Part 2
+wew 10/2012 to 04/2013 
+Company Name â€“ City , State 
+Utilized MATLAB for statistical analysis of an elastic band rocket.
+Learned how to make experimental designs, statistical processes, statistics simulations, and graphical displays of data on computer
+workstations.
+Used statistical methods including point and interval estimation of population parameters and curve and surface fitting (regression analysis).
+Graphic Communications Project (3D design.
+rer 10/2012 to 04/2013 
+Company Name â€“ City , State 
+Utilized SolidWorks to design a tape floss container.
+Developed the ability to use SolidWorks within the context of a concurrent design process to understand how everyday objects are
+designed and created.
+Emphasis placed on decision-making processes involving creating geometry and the development of modeling strategies that incorporate the
+intentions of the designer.
+re 02/2009 to 04/2009 
+Company Name â€“ City , State 
+Visited construction sites with senior engineers.
+Kept record of site investigations.
+Dealt with paperwork with senior engineers and answered phone calls.
+Helped install residential wiring in new construction sites.
+Investigated electrical problems and developed the ability to read electrical diagrams and wire electrical panels.
+Education
+Master of science : Mechanical engineering Robotic & Manufacture Current Columbia University in the City of New York - City , State 
+Sep -2015 Dec Mechanical engineering Robotic & Manufacture
+Coursework in Advanced Mechanical Engineering
+Coursework in Drafting, Computer-Aided Design (CAD) and Computer-Aided Manufacturing (CAM)
+Bachelor of science : Mechanical Engineering 1 2010 North Carolina State University, Raleigh (NCSU) - City , State 
+GPA: Magna Cum Laude GPA: 3.5 GPA: 3.63/4.0 Mechanical Engineering Magna Cum Laude GPA: 3.5 GPA: 3.63/4.0
+North Carolina State University - 
+GPA: Magna Cum Laude Magna Cum Laude
+Accomplishments
+Listed in the dean's list for three semesters during Junior and Senior Year Â· Chosen to be on the cover of NC State freshman admissions
+booklet Â· In the process of receiving the Professional Development Certificate Â· NCSU Chinese basketball team player.
+Math and physics club member Â· Control and Mechanical Team member of NCSU EcoCAR2 Â· Took the global training class at NC
+State University Â· CUSA member (Chinese undergraduate student association).
+Skills
+3D, 3D modeling, AutoCAD, broadcasting, budget, C, cable, Chinese, com, hardware, content, controller, data analysis, Dec, decision-making,
+designing, product design, English, fashion, focus, Fortran, frame, Graphic, Lathe, Linux, director, Maple, materials, MATLAB, mechanical,
+Mechanical Engineering, access, Mill, modeling, navigation, printer, processes, profit, speaking, Python, Quantitative analysis, reading, read,
+research, safety, Simulation, sketching, SolidWorks, statistical analysis, Statistics, phone, translating, transportation, video, Welding, wiring, written

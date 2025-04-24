@@ -1,0 +1,64 @@
+CONSULTANT
+Career Overview
+A highly motivated techno-functional and business savvy professional desire to obtain a position as IT Manager/ IT Head with strong ISO 27001
+2005 Information Security knowledge & Network Administration, which will best utilize my managerial experience while allowing challenges and
+growth. I am looking for new position that will enhance my skill and give me an ample opportunity for growth. Over 10 years' rich experience and
+demonstrated expertise in a wide gamut of functions spanning Infrastructure Management, IT Security, Technical Support and System
+Administration with major Telecom organizations Presently associate with Jaiprakash Associates Limited (Jaypee Group), as Consultant central
+Data centre Implemented ISO 27001:2005 standards and compliance A keen planner with abilities in managing IT & information security
+networking operations with focus on profitability and achieving company's mission & strategic direction. Adept in planning, design, installation and
+configuration of IT networks, maintenance and troubleshooting, network user management on multiple platforms, governed by communication
+protocols. Comprehensive understanding of networking concepts pertaining to LAN, WAN, security, IT communication, WAN protocols,
+Networking devices administration and maintenance in multi-platform environments. Adept in analyzing information system needs, evaluating end-
+user requirements, custom designing solutions, troubleshooting for complex information systems management. Core Competencies IT Infrastructure
+Development Architect and deploy new IT solutions by conducting project and risk planning sessions with the blended project management team
+which typically includes both functional specialist and technical team to ensure a high probability of project success. Maintenance of network
+security appliances, Load balancers, Enterprise Servers and , Operating Systems, Clusters, File Systems, Databases and Applications and
+Operations Address performance bottlenecks and ensuring maximum system uptime. Manage all the technology related requirements, including
+technical feasibility study, budget, selection, procurement, up-gradation / migration of hardware, software, database and applications. Designing the
+Backup Strategy for the sites and ensuring scheduled/unscheduled Backups as per backup plan and restoration. Details of information Security
+Projects done Deployment & Implementation of clustering module of Barracuda Spam Firewall Deployment & Implementation of SSL VPN for
+corporate communication
+Work Experience
+Consultant Company Name
+ISO27001:2005 Information Security Implementation Duration: December'2008 - continuing Responsibility: As an Information Security
+Analyst, jobs was related to finding GAP Analysis, managing policy & procedure, O/s Hardening, Information Asset Classification,
+Managing SOA, challenging security issues Deployment & Implementation of Symantec Endpoint Management suite Deployment &
+Implementation of clustering module of Juniper firewall Deployment & Implementation of clustering module of Radware link proof Load
+Balancer Networking / Systems Administration Architect/Design Network security Layered for Enterprise Projects which involve Firewall
+Engineering/Intrusion Detection (IDS)/Intrusion Prevention (IPS) Managing Barracuda Spam Firewall Mail Security solution for corporate
+user Managing Blue coat Web Content Filtering (Proxy) for remote site & office end user Architect/design Managed Security Service
+Projects.
+Conducting Internal and external Vulnerability Assessment.
+Conducting Gap analysis consistently with respect to security operation/risk.
+Involved in Technology Integration/acquisition between Enterprise.
+Responsible for Group policy deployment for new site Responsible for Enforcement of application & device Control Leading the team of
+technical professionals during the development stages.
+Imparting training to end-users in the post-implementation phase.
+Active Directory Administration such as health Monitoring of Directory structure, FSMO Role, NtFRS, AD Replication , DHCP & DNS
+EDP/Facilities Management Interact with 60 core sites for sourcing of client security products and solutions and for closure of calls all
+related to Information & network security , which are supported by them Maintain an Asset database for the company and update at regular
+intervals.
+Track asset movements and ensuring software and hardware assets are within control.
+Direct installation of Operating Systems and application software on Windows, deployment of Servers, network, console, power and
+monitoring the same.
+Information Security) Data centre.
+06/2004 to 03/2008
+Asst Manager Company Name
+07/2002 to 06/2004
+System Engineer Company Name
+Hardware & network Support) Vishnuprayag Joshimath in Uttranchal.
+Education and Training
+1 2001
+B.E Jawaharlal Institute of Technology (J I T) Computer Science & Engg. Rajiv Gandhi Proudyogiki Vishawavidhalaya, Bhopal
+Cisco Certified Network Associates (CCNA) 2006 Microsoft Certified IT Professional (MCITP) 2011 Symantec Certified Specialist (SCS)
+2011 Certified Ethical Hacker (CEH) 2013 Permanent Address: E-1/1006 Shree Sharanam Apartment Unique Garden off Kanakia Road Near
+Seveb Eleven Scholastic Mira Road Dist Thane Pin 401107
+Interests
+Date of Birth : 7th December 1977 Mother Name : Pushpa Mahajan
+Skills
+Active Directory, AD, Analyst, Architect, CCNA, Cisco Certified, clustering, Hardware, client, database, DHCP, DNS, Facilities Management,
+Firewall, IDS, Information Security, ISO, Managing, Microsoft Certified, Mail, office, Windows, Enterprise, Network Associates, Network
+security, network Support, network, Networking, Operating Systems, Proxy, Servers, Symantec, Systems Administration, Unique, Web Content
+Additional Information
+PERSONAL DETAILS Date of Birth : 7th December 1977 Mother Name : Pushpa Mahajan

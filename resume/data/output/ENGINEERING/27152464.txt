@@ -1,0 +1,82 @@
+QA ENGINEERING MANAGER
+Professional Summary
+Seasoned Engineering Manager with ability to build and motivate high-performing engineering team with over 14+ years of experience in cards and
+payments industry, committed to rapidly and efficiently completing projects by leveraging team-based frameworks to best leverage available
+engineering talent. Self-motivated, forward thinking mindset, solution-focused, clear communicator, decision maker and problem solver.
+Skills
+QA Engineering software expertise - Design, Estimate,
+Execute, Maintain and Document.
+Technical communication skills - Bug Triage, reporting,
+technical reviews, Root cause analysis
+Automation tools - Design and Implement
+Collaborating with stakeholders - Roadmap, Managing
+releases, Demos, Risk mitigation planning,
+Organization and Time management - resource planning
+Leadership - Strategic Planning, Team building, Conflict resolution,
+Training & Development, mentoring
+Behavioral skills - Forward-thinking mindset, Detail-oriented,
+Multitasking abilities, Flexible & Adaptable
+Work History
+QA Engineering Manager , 01/2016 to Current 
+Company Name â€“ City , State 
+20+ EMV certs in calendar year with team of 2+ cert Analysts.
+Managed fast paced project delivery from QA for time sensitive and key projects for company.
+Collis tool (BTT) automation using Python to reduce EMV test cases execution time to 1 week for all brands, thus completing any EMV
+certification within 3 months.
+Design test automation using Katalon to for improved regression test coverage and reduce time to complete release cycles to less than 1
+week.
+Managed and Implemented spreadsheet based automation, that helped in improved test coverage and reduced production bug by 20% and
+rollbacks by 80%.
+Performed resource and project trade off analysis to meet roadmap schedule, product life-cycle (PLC)/Software Dev Life-cycle (SDLC)
+and QA requirements, resulting in development of best practice models.
+Reviewed project goals and objectives on monthly basis with project manager and design team.
+Used critical thinking to break down problems, evaluate solutions and make decisions.
+Managed team of 8 employees, overseeing hiring, training, and professional growth of employees.
+4 promotions within team including 1 lead and 1 manager.
+Software Certification Analyst , 04/2015 to 01/2016 
+Company Name â€“ City , State 
+Instrumental in procuring 1st EMV certification within 6 months of joining.
+Reduced overall EMV certification timeline from 1+ year to
+Automation of EMV Certification and Transaction link application using spreadsheet based input.
+Established myself as go to person for any QA issue within QA and Merchant Implementations team.
+Created common test/tool strategy to supplement automation for regression and functional testing; reduced time to market.
+Instrumental in doing POC on different test management tools (zypher, Jira, QA complete) to identify best suited for company needs(Jira).
+Project Lead , 09/2005 to 04/2015 
+Company Name â€“ City , State 
+Received core value awards - â€œSYNERGYâ€​ in 2009 for team building and â€œSMARTâ€​ in 2012 for Individual performances.
+Nominated for BRAVO award in First Data (2012 and 2014).
+Automation improvement using PERL scripting.
+Established involvement of frontend application into Change release management and helped to identify key issues during backend testing.
+3 times achiever of â€œ0â€​ issues in support queue as offshore lead.
+Planned, executed and promoted total of 10+ releases in calendar year.
+Produced quality standards, checklists, report templates and processes for same.
+Developed and trained junior team members by leveraging industry experience to achieve optimal project strategy.
+Education
+Master of Computer Applications (MCA) : Computer Applications, Software Engineering, Databases, Networking, and Operating Systems ,
+2005 
+Devi Ahilya University 
+Bachelors of Science : Electronics , 2002 
+Devi Ahilya University - City 
+Micro-processors, Databases, Networking, and Operating Systems
+Certifications
+Certified Scrum Master (CSM) â€“ Certificate code: 1221056, Expires May 2022 Certified Tester Foundation Level (CTFL) - Certificate code:
+17-CTFL-02141-USA No Expiry Agile Scrum Foundation - Certificate code: 2146592, No Expiry Using Python for Automation â€“ LinkedIn,
+No Expiry Python: XML, JSON, and the Web â€“ LinkedIn, No Expiry SQL for Testers â€“ LinkedIn, No Expiry
+Technical Skills
+Â· Test Methodologies: Regression Testing, Black box testing, Sanity testing, boundary analysis, requirement analysis (Static testing),
+Performance Testing, system integration testing, functional testing, manual testing.
+Â· Test Artifacts: Test Estimation, Test plan, Test coverage, Traceability matrix, bug tracking, automation design, Test scenario engineering
+Â· Programming Tools: Python, Katalon studio, XLS data input, UNIX Shell/PERL scripting, Groovy, REST, JSON, XML, ISO 8583, EMV
+tags, TCP, HTTP, POSTMAN, curl-siege, Jmeter, COBOL, JCL, CICS, Postman,
+Â· Operating Systems: Unix-AIX, Unix-Solaris, Linux, Windows, IBM-AIX
+Â· Virtual Systems: VMWare, VSphere, Proxmox,
+Â· Payment terminals: VeriFone, Ingenico, Equinox, PAX and Innowi, Key Management, KPI, DUKPT, Key Injection, KEK
+Â· Version Control Tools: Git-bash, Git-stash, Git-lab, TorquiseSVN, SourceTree, VSS
+Â· Database and Tools: Oracle 11g, Oracle 12c, PostgreSQL, MongoDB, PGAdmin 4, SQL Developer, SQL management studio, Toad,
+DB2
+Â· Project Management: Confluence, Jira, Microsoft Office Suite, Bugzilla, redmine, HP Quality center
+Â· Project Management Methodologies: Agile, Scrum, Waterfall, Iterative,
+Â· Talent Management tools: HireRight, iCIMS
+Â· POS Systems: Micros, Restaurant Manager, Symphony, positouch, broadPOS
+Â· EMV Systems : BTT (UL), ICCVerify, VCMS, VTS, Astrex, Discover RCT, ATS, MAS, MDFS, ACI-Interchange, ACI-PRM, ACI-
+ADM, TSYS CertifyNow, FirstData CertPro and more.

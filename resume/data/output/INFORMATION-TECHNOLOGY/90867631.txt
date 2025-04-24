@@ -1,0 +1,136 @@
+INFORMATION TECHNOLOGY SPECIALIST
+Career Overview
+Permanent
+Certifications
+ITNW 1458 CompTIA Network+ ITMT 1350 MS 70-270 Managing and Maintaining an MS Windows 2003 Environment ITMT 1355 Server
+2003 Network Infrastructure ITMT 1400 MS 70-270 Implementing and Supporting MS Windows XP Professional Job Related Microsoft
+Certified IT Professional (MCITP) Apr 2012 Training: CompTIA Security+ Certified Professional (Mar 2010) Microsoft Certified Professional
+(MCP) Oct 2008 CompTIA Network+ Certified Professional (May 2008) CompTIA A+ Certified Professional (Apr 2008) Language Language
+Spoken Written Read Skills: Spanish Advanced Advanced Advanced References: Name Employer Title Phone Email William 407th AFSB
+Supervisor 254-287-7798 william.cook2@conus.army.mil Cook (*) Mr. John First Army Chief, 254-553-5006 Ciesiolka Division West
+Information (*) Systems 8 of 9 9/2/2015 7:58 AM USAJOBS - Resumes https://my.usajobs.gov/Applicant/Resume/ListResumes Name Employer
+Title Phone Email Division Leonard DEFENSE IT Manager 714-385-4605 Flemons CONTRACT (*) MANAGEMENT
+leonard.flemons@dcma.mil
+Work Experience
+Company Name May 2012 to Current Information Technology Specialist 
+City , State
+Indicates professional reference.
+October 2009 to May 2012
+Salary: 65,150.00 USD Per Year Hours per week: 40 G6, IT Specialist (CUSTSPT) (This is a federal job Served as a systems
+administrator for First Army Division West Command and Staff.
+Administered over 800 NIPR workstations, 300 SIPR workstations and 100 ARNET workstations.
+This includes hardware, software, and Local Area Network (LAN)and Wide Area Network (WAN) infrastructures.
+Monitored system resources, the installation and integration of systems fixes and workarounds, updates, and enhancements, including
+performance, capacity, availability, serviceability, and recoverability.
+Maintained systems configuration as well as resolving IT equipment/software interfaces and interoperability problems.
+Performed customer service help desk/IT support operations and technical assistance to First Army Division West command and staff.
+Diagnosed and resolved problems in response to customer trouble tickets.
+Recieved, responded to and provides resolutions to a variety of help desk calls/tickets.
+A thorough understanding of and ability to manipulate, features of Microsoft Shared Point, XML, HTML, SQL, C++, VB08/10, Visio,
+Adobe CS5 Dreamweaver and Microsoft Management Console and registry settings.
+Ensured availability of telephones, emails, and Local Area Network (LAN).
+Exceled in troubleshooting software and hardware issues of microcomputers and peripheral devices.
+This includes scanners, digital senders, printers, and other video telecommunication's equipment.
+Maintained MS active directory user accounts and Microsoft exchange Outlook accounts.
+Participated in the planning and execution of unit and systems testing, installing applications and images remotely, providing technical support
+on execution problems, troubleshooting applications packages, and modifying applications as necessary.
+Reconfigured file structures; used knowledge of Windows XP, Vista and Win 7 operating systems, to include the Microsoft Management
+Console (MMC) ensuring systems are configured according to policy.
+Frequently trained IMOs on Desktop Management functions to enhance.
+4 of 9 9/2/2015 7:58 AM.
+USAJOBS - Resumes https://my.usajobs.gov/Applicant/Resume/ListResumes knowledge of Army and NEC policies, thus affording the
+ability to accomplish their duties more effectively.
+Executed a variety of database utility functions.
+Updated user manuals, authentication procedures, systems administrator functions, and related IT security features.
+In accomplishing assignments, ensures the rigorous application of information security/information assurance policies, principles, and
+practices.
+Developed IA reporting requirements for submission to higher-level management, as required - Maintained a continuing awareness of
+technical changes in the areas of equipment technology and software development.
+Managed Unit's Active Directory Share Server with over 600 Gb of share space.
+Served as an Active Directory (AD) Manager and System Administrator for multiple servers in a complex networked environment.
+Maintained Microsoft Exchange on primary and backup servers to provide email with full backup and disaster recovery capabilities.
+Supervisor: Mr.
+John Ciesiolka (254-553-5006) Okay to contact this Supervisor: Yes 407th AFSB/ Vista International Operations.
+January 2009 to September 2009 IT Network System Administrator II 
+City , State
+65,000.00 USD Per Year Hours per week: 40 Served as part of the units S-6 Brigade level office with duties as Network and Computer
+Systems Administrator.
+Directly responsible for design, install, and support of organizations computer systems as well as the local-area networks (LAN), wide-area
+networks (WAN), network segments, internet and intranet systems.
+Supported logistics systems client notebooks, workstations, scanners, digital senders, fax machines, copiers and printers.
+Developed system usage policies and server administration procedures.
+5 of 9 9/2/2015 7:58 AM USAJOBS - Resumes https://my.usajobs.gov/Applicant/Resume/ListResumes Created, tested, and deployed
+group policy objects (GPO) within the AD.
+Responded to system failures by determining the cause and taking corrective action to address the issue.
+Maintained systems tables, directories, security files, and indices.- - Developed and modifies databases.
+Performed database queries and file transfers using SQL.
+Installed new software releases, system upgrades, evaluates and installs patches and resolves software related problems.
+Established and maintain user and group accounts and permissions.
+Develops and tests system disaster recovery plans.
+Troubleshot a wide variety of user difficulties with desktop computer hardware, software, peripherals, or network/ telecommunication lines.
+Coordinated with installation NEC to establish domain and mail accounts.
+Participated in the design, development, and modification of logistics automated systems.
+Daily duties also include responsible for maintaining network efficiency; monitors and adjusts the performance of existing networks and
+continually survey the current computer site to determine future network needs.
+Performs customer service help desk/IT support operations and technical assistance to over 800 users.
+As required, plans, coordinates, and implements the organizations information security.
+In addition, conducted customer support studies and recommended necessary IT action pertinent to all aspects of customer support.
+Maintained systems configuration as well as resolving IT equipment/software interfaces and interoperability problems.
+Help desk/IT support duties.
+Participated in the planning and execution of unit and systems testing, installing applications and images remotely, providing technical support
+on execution problems, troubleshooting applications packages.
+Used IT knowledge, skills, and abilities to quickly and effectively troubleshoot access permissions on computers.
+Managed video teleconference (VTC) suite for unclassified and classified 6 of 9 9/2/2015 7:58 AM USAJOBS - Resumes
+https://my.usajobs.gov/Applicant/Resume/ListResumes access.
+Managed unit's SharePoint site, control access, developed and established policies and accounts, trained users Supervisor: William Cook
+(254-287-6841) Okay to contact this Supervisor: Yes.
+Company Name October 2005 to August 2008 First Sergeant 
+City , State
+Salary: 55,000.00 USD Per Year Hours per week: 70 Over 5 years of Top management experience.
+Led a multi-functional unit with over 120 team members and billions of dollars worth of equipment into combat during Operation Enduring
+Freedom (Afghanistan) and Operation Iraqi Freedom (Iraq) - Company Senior Non-Commissioned Officer served as administrative liaison
+with other services, top management, and outside agencies - Coordinated operational and administrative duties required for the company's
+mission - Supervised operations and performance of Battalion Level Information Systems/Communication Shop (S-6) - Senior advisor to
+Company commander and resource manager for a Headquarters Company - Directly responsible for managing and implementing
+Company's administrative, standards, policies and Training.
+Supervisor: Paul Mercator (254-288-0527) Okay to contact this Supervisor: Yes.
+Education and Training
+Texas A & M University Central Texas 08/2011 Master's Degree City , State , United States GPA: GPA: 3.80 GPA: 3.80 Credits Earned: 36
+Semester hours
+Masters of Sciences : Information Systems Information Systems
+Central Texas College 12/2008 United States Technical or Occupational Certificate City , State GPA: GPA: 4.0 GPA: 4.0 Credits Earned: 18
+Quarter hours
+9/2/2015 Microsoft System Administrator Relevant Coursework, Licenses and Certifications: ITNW 2435 CompTIA A+ Harware and Software
+ITNW 1458 CompTIA Network+ 7 of 9 USAJOBS - Resumes https://my.usajobs.gov/Applicant/Resume/ListResumes ITMT 1350 MS 70-270
+Managing and Maintaining an MS Windows 2003 Environment ITMT 1355 Server 2003 Network Infrastructure ITMT 1400 MS 70-270
+Implementing and Supporting MS Windows XP Professional
+Saint Leo University 10/2007 Bachelor's Degree City , State , United States GPA: GPA: 3.25 GPA: 4.0 GPA: 3.25 GPA: 4.0
+Bachelor of Science : Computer Information Systems Computer Information Systems
+Successfully completed the following computer courses with Saint Leo University: COM-130 PC applications COM-207 Programming in C/C+
+COM-208 Programming Visual Basic COM-230 Spreadsheet Applications COM-312 Computer Architecture COM-315 Decision Support
+Systems COM-320 Systems Analysis COM-410 Database Concepts Programming COM-415 Network Theory and Design COM-498
+Information Resource Management COM-499 Computer Information Systems Exam Successfully completed the following computer courses with
+Central Texas College: ITNW 2435 CompTIA A+ Harware and Software
+Interests
+May 2005) - for superior leadership skills during deployment to Afghanistan in support of Operation Enduring Freedom. 9 of 9 9/2/2015 7:58
+AM
+Additional Information
+Additional Awarded the Achievement Medal for his outstanding civilian service while Information: assigned to First Division West Awarded
+the Legion of Merit award (Jun 1986 - Aug 2008) for 22 years of dedication, loyalty and selfless service to our nation and the people of
+United States of America Awarded the Bronze Star Medal (1 Sep 2006 Â​ 15 Dec 2007) - for outstanding leadership during recent 15
+month deployment to Iraq in support of Operation Iraqi Freedom. Awarded the Bronze Star Medal (1 Apr 2004 Â​ 1 May 2005) - for
+superior leadership skills during deployment to Afghanistan in support of Operation Enduring Freedom. 9 of 9 9/2/2015 7:58 AM
+Skills
+A+, A+ Certified, Active Directory, administrative, administrative duties, Adobe, Dreamweaver, AD, Army, Agency, automation, backup, basic,
+C, C+, C++, COM, hardware configuration, computer hardware, hardware, configuration management, consulting, CONTRACT
+MANAGEMENT, Contract Management, copying, client, customer service, customer support, databases, Database, Decision Support, disaster
+recovery, Email, equipment installation, XML, fax machines, features, functional, Help desk, HTML, information security, Information Systems,
+Information Systems, Information Technology, information technology, computer support, IT support, Local Area Network, Local Area
+Networks, Local Area Network, LAN, notebooks, leadership, logistics, Managing, Mercator, microcomputers, access, Microsoft Certified
+Professional, MCP, Microsoft Certified, exchange, Microsoft Exchange, mail, Office, Outlook, SharePoint, share point, MS Windows, Win 7,
+Windows 2000, Windows XP, MS Windows XP, monitors, NEC, network administrator, Network, networks, Novell, Oct, operating systems,
+ORACLE, organizational, peripherals, personnel, copiers, policies, PR, printers, processes, Programming, project management, Read, repairs,
+reporting, safety, scanners, servers, software development, software troubleshooting, Spanish, Spreadsheet, SQL, strategic, Supervisor, System
+Administrator, systems administration, Systems Analysis, systems development, tables, technical support, technical assistance, user manuals,
+telecommunications, telecommunication, telephones, Phone, troubleshoot, troubleshooting, unique, upgrades, video, Visio, Vista, Visual Basic,
+Wide Area Network (WAN), WAN, workflow, Written

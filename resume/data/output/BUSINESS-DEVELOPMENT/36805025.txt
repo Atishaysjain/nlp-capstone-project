@@ -1,0 +1,120 @@
+BUSINESS DEVELOPMENT
+Executive Profile
+Over 17 years of demonstrated operational, consulting and architecture experience in IT development, implementations and architectures with a
+proven background in capturing new business ranging from $1 Million to over $1.5 Billion Total Contract Value. Experienced leader with strong
+business and technical skills. Successful track record of supporting bid analysis and decomposition of requirements to provide strategic IT
+architectures that meet demanding functional, financial and technical needs while meeting security requirements. Provides technical leadership in the
+areas of transformations, strategies and implementations to bring demonstrable value to streamline IT spend and reduce the TCO of IT.
+Skill Highlights
+Project management
+Leadership/communication skills
+Client account management
+Business development
+Customer-oriented
+Market research and analysis
+Professional Experience
+Business Development 
+January 2013 to January 2014 Company Name ï¼​ City , State
+Served as business development and principal solution architect consultent for Elevate Technology Solutions - Federal Practice.
+Captured activities included opportunity assessment, pipeline qualification and development, customer relationship building, teaming partner
+selection and negotiation, vendor evaluation, cost and schedule pursuit estimation, executive management reviews and project planning.
+Managed bid efforts by executing all phases of the capture lifecycle process.
+Provided regular briefings to executive management concerning overall pipeline status and also updates to specific capture pursuits.
+Lead adjacent growth and new growth strategies in white space areas.
+Worked all phases of the proposal lifecycle - from opportunity identification and customer relationship building to partner selection,
+development and delivery.
+Researched and developed clients and executed customer call plans to shape program requirements early, increase customer intimacy and
+improve our position within the target agency.
+Identified potential Source Evaluation Board (SEB) members and developed call plans to effectively influence key decision makers.
+Developed relationships with key teaming partners and major software vendors that compliment our solution sets.
+Led competitor black hat assessments and related PTW activities.
+Deals Won include: United States Agency for International Development (USAID) - Engineering of Information Technology Infrastrucutre
+and Systems, USAID M/CIO PIV & NPE, U.S.
+Securities and Exchange Commision National Exam Program Support Services, SEC Neat Pi, SEC Office of Compliance Inspection and
+Examination: Analytics Support; Asset Verification Support, eDiscovery and Exam Management Support.
+Senior vArchitect (Senior Solution Architect) 
+January 2012 to January 2013 Company Name ï¼​ City , State
+Direct internal, parent and partner Program Capture and Business Development teams responding to RFI, RFQ, RFP and unsolicited
+proposals that lead to successful capture of new business opportunities.
+Deals won include: CSC/ Eagle Alliance, Boeing, Lockheed Martin, NASA, MHS Army and Navy.
+Engage clients at the Cxx level to articulate all aspects of VCE offerings including Cloud-based Products and Services including presenting
+the value proposition and company roadmap through onsite, phone, and WebEx presentations Architect innovative technical solutions to
+meet the needs of both Public Sector and Federal Systems Integrators increased IT requirements while supporting reduced IT budgets,
+including developing Proof of Concept and technology demonstrators in the Cloud Computing space Authored pre-sales documentation to
+include SOW's, SLA's, Economic Impact Calculator, Project Proposals, Product/Service Costs and White Papers.
+Lead technical business development of key accounts, providing technical and strategic solution architectures for VCE, Parent Company
+and Client needs.
+Design Cost Modeling of solutions for various bids across multiple client verticals, managing partners and sub-contractors throughout the bid
+process, mapping requirements to solutions providing a cohesive solution, lead proposal text authoring and review of proposal documents
+with VCE and parent companies including Cisco, EMC and VMware.
+Principal Business Architect Leader 
+January 2009 to January 2012 Company Name ï¼​ City , State
+Identified business targets, gathered, assessed and qualified requirements, prepared cost models and developed proposal artifacts including
+SOW, WBS, CONOPS, BOE, LOE and SLA for pursuit and successful capture of new business Public Sector opportunities.
+Developed operational and technical strategies and solutions for CSC's North American Public Sector.
+Areas of expertise include Cloud Computing, Service Desk, Desktop Support, Network Monitoring and Communication Network Services
+which are now part of the NPS New Business Service Offerings and Standard Operating Procedures (SOP).
+Developed key relationships and teaming agreements with federal prime government contractors, small business subs and technology
+vendors that lead to streamlined processes to go after large federal business, capturing several business opportunities for CSC NPS.
+FY 2011 CSC Main Thrust New Business deals won (TCV): $461 Million- US-Visit (Eagle), $100 Million- GSA FAS Hosting (Alliant),
+$192 Million- Maryland Medicare & Medicaid (MERP), and $300 Million- DHS Work Place as a Service Cloud Computing (Eagle).
+Senior Sales Engineer 
+January 2007 to January 2009 Company Name ï¼​ City , State
+Effectively demonstrated product solutions through presentations, both on-site and web conference, marketing campaigns and new media
+advertising for capture of opportunities for over 200 diverse accounts within Commercial, Non-Profit and Government Contracting
+organizations including U.S.
+Based and International customers.
+Developed and executed tactical win strategies including Reduced Costs, Productivity Improvement, Governance, Risk & Compliance,
+Business Continuity and Disaster Recovery Managed business solutions, responding to various RFP, RFI, and RFQ that lead to a 60% win
+ratio over a two year period.
+Boosted potentiality of securing high-value client accounts through business development & relationship building skills, advancing
+organizational objectives as a Subject Matter Expert.
+Customer requirements often met or exceeded by providing tremendous cost savings and ROI.
+Sold over 1,000 licenses, 300 WAN Optimization Devices and 5 Global Managed Service Contracts within 24 month period, leading to
+exceptional performance of exceeding 150% OTE.
+Senior Information Technology Consultant 
+January 2002 to January 2007 Company Name ï¼​ City , State
+Performed program management oversight of implementation plan, timelines, issues, risks, and successes to maintain a portfolio of projects.
+Assess results, determine and implement risk mitigation solutions.
+Through effective business development strategies, worked closely with client stakeholders to understand emerging customer needs, gain
+competitive positioning and requisite capabilities to successfully capture new business opportunities including North American Call Center,
+Global Managed Desktop Services and End User Field Support for Pfizer Executives.
+Effectively demonstrated project management and leadership skills to develop and implement several technical solutions based on ITIL and
+Six Sigma standards.
+Managed design and implementation of new Remedy IT Service Management to track change, incident and problem management services.
+Through research, best practices, industry standards, saved customer Business Units over 60% in technical systems implementation costs
+with a total savings projected to more than 150%.
+Systems Engineer 
+January 1999 to January 2002 Company Name ï¼​ City , State
+Configured and maintained Windows NT Server & Win2k for corporate, production, and test environments including both servers and
+client upgrades.
+Tested and installed all server and client applications and designed technical installation procedures for implementation of Market data
+applications.
+Led team developing Help Desk, supporting LAN network and end-user client base of +250, end result was launch of a 24/7 Market Call
+Center for support.
+Implemented Data Center environment to include Disaster Recovery and Production environment.
+Reduced over 45% costs of IT Operations by implementing processes, methodologies and procedures based on industry standards.
+Regional Account Manager 
+January 1997 to January 1999 Company Name ï¼​ City , State
+Successfully established relationships with new accounts in multi-regional territory.
+Managed account base of over 267 (1999), which is an increase of 219 accounts from 1997.
+Developed strategic referral system which provided continuous leads for new business development.
+Received "President's Club Award" for two consecutive years.
+Achieved Top Account Manager Status from 1997 Q2 - 1998 Q2.
+Education
+EMC Isilon Scale-Out Storage, 2013 EMC E20-322 Solutions Design for Technology Architects, 2013 EMC Information Storage and
+Management v2, 2013 EMC Storage and Information Infrastructure Solution Design Concepts v6, 2013 Architecting VCE Vblock Infrastructure
+Platforms, 2012 Architecting VCE Vblock System 100, 2012 Architecting VCE Vblock System 200 : 1 2012 Strayer University
+Bachelor of Science : Information Systems Information Systems
+Certifications
+SBA 8(a) Certification *estimated 2015* ITIL v3 Foundation Certificate VMware Technical Sales Professional 5 (VTSP 5) VMware Sales
+Professional 5 (VSP 5) VMware - MGMT (Management 5) Riverbed Certified Solutions Professional Palo Alto Networks Certificate CompTIA
+A+ Certificate CompTIA Network+ Certificate Castle Rock SNMPc Certificate
+Skills
+A+, advertising, Architect, Army, articulate, Agency, budgets, business development, business solutions, Calculator, Call Center, Cisco,
+competitive, Concept, Contracts, Client, clients, delivery, Disaster Recovery, documentation, executive management, Government, Help Desk,
+Information Technology, ITIL, ITIL v, LAN, Lockheed Martin, MGMT, managing, marketing, Market, Exchange, Office, win, Win2, Windows
+NT Server, Modeling, Navy, Neat, negotiation, Network, Networks, new business development, new media, Optimization, organizational,
+positioning, presenting, presentations, prime, processes, Profit, program management, project management and leadership, project planning,
+Proposals, proposal, relationship building, research, RFI, RFP, Sales, Securities, servers, Six Sigma, SLA, SOP, strategic, Technical Sales,
+Desktop Support, White Papers, phone, upgrades, WAN

@@ -1,0 +1,89 @@
+P
+DIRECTOR, INFORMATION SYSTEMS PACS ADMINISTRATOR/IS SYSTEMS ANALYST
+Summary
+I have developed a solid history of managing multiple projects and employees simultaneously while implementing workable strategies with a
+constant focus on the future of the company. The combination of my proven success in IT Management, Project Management, PACS
+development and implementation, with the communication skills developed as a Public Relations Manager creates a rare level of proficiency and
+problem-solving ability which will complement the success of any company project or department.
+Highlights
+COMPUTER SKILLS
+Windows PC and Server OS platforms through current, MS Office, MS SQL Server 2000-2008, UNIX, Linux, Internet Explorer,
+Adobe Photoshop, FrontPage, Dreamweaver, Flash, PowerPoint, Photo Finish, PageMaker, WordPerfect, IMAP4, plus many others..
+PACS/HIS Related: CPSI - All modules of HIS, ChartLink, ClientWare, EMR - All versions of ImageLink PACS software and server
+systems (directed development)
+Non-CPSI - McKesson PACS, E-Film, Philips iSite, Sectra, GE Centricity - Current GE, Philips, Toshiba, Siemens, Konica, Kodak and
+Fuji radiology modalities (US, CT, CR, MR, etc), AS400, HMS, SpeechQ, MModal DocQRoute, Kronos, HMS
+LETTERS OF REFERENCE & MATERIAL EXAMPLES AVAILABLE UPON REQUEST
+Accomplishments
+As the Director of Information Systems for South Baldwin RMC, I was responsible for leveraging all technology, security and
+communication resources within the hospital and its 6 outlying properties.
+This position required coordinating with IS Leadership at our corporate parent, Community Health Systems, and balancing the same with
+local Administration.
+Early in my tenure, we were able to develop a new level of communication and cooperation between Nursing, Financial, Administration,
+Physicians, IS and CHS Corporate.
+I sat on a number of committees both within the company and the community to maintain the cooperation that allowed us to advance.
+In addition to successfully developing and mentoring an exceptional IS team of 6 during my two years in this position, we implemented the
+first three phases of Electronic Medical Record through the hospital and owned physician offices, completed a new data center
+implementation, conversion to fiber backbone communications and digital phone system, Windows 7 upgrade for over 800 users and total
+systems upgrades in the clinical departments.
+This facility was shifted to a higher level within the CHS network of 250 hospitals and awarded numerous national accolades from third-
+parties due to some of the changes made by my department and team.
+Experience
+Director, Information Systems PACS Administrator/IS Systems Analyst 
+City , State Company Name / Aug 2012 to Jul 2014 As the Director of Information Systems for South Baldwin RMC, I was responsible for
+leveraging all technology, security and communication resources within the hospital and its 6 outlying properties. This position required coordinating
+with IS Leadership at our corporate parent, Community Health Systems, and balancing the same with local Administration. Early in my tenure, we
+were able to develop a new level of communication and cooperation between Nursing, Financial, Administration, Physicians, IS and CHS
+Corporate. I sat on a number of committees both within the company and the community to maintain the cooperation that allowed us to advance.
+In addition to successfully developing and mentoring an exceptional IS team of 6 during my two years in this position, we implemented the first
+three phases of Electronic Medical Record through the hospital and owned physician offices, completed a new data center implementation,
+conversion to fiber backbone communications and digital phone system, Windows 7 upgrade for over 800 users and total systems upgrades in the
+clinical departments. This facility was shifted to a higher level within the CHS network of 250 hospitals and awarded numerous national accolades
+from third-parties due to some of the changes made by my department and team. I was brought into South Baldwin Regional Medical Center as
+the facility's first IS-based PACS Administrator. After initial reorganization of the PACS environment and creation of PACS related support
+procedures and documentation, my responsibilities quickly expanded to IS projects where I identified productivity improvements that could be
+made. Some of these projects included: Becoming the 24/7 dedicated technical resource for all Radiology functions, meaningful use implementation
+coordination, fileserver redesign for more stable and productive use, network and system optimizations where needed to improve efficiency,
+outlying clinic improvements to encourage "single-company" relations, and a number of others where needed. My primary focus has always been
+providing the necessary tools and support for the constant improvement of patient care.
+Manager, ImageLink PACS 
+City , State Company Name / Jun 2006 to Jul 2011 My hiring position at CPSI was as a Senior Project Manager in the ITS Special Projects
+division. After only 3 months in this position, I was recruited into the ImageLink PACS division as an Implementation Project Manager. Before
+being promoted to Assistant Manager then Manager of this division, my primary responsibilities were system install scheduling, preparation and
+complete onsite implementation. The three week onsite implementation of the ImageLink system entailed; coordinating server placement and
+networking with hospital IT, directing the installation of all server and reading hardware, coordination with all modality vendors to establish
+DICOM communication with the new system, integration with CPSI and other vendor HIS, Radiologist and staff training and conversion of data
+from the previous Radiology system. A number of these sites requested that we perform the conversion of data without involving the previous
+vendor. Success in these situations required developing an in-depth familiarity with numerous systems, including: McKesson, GE Centricity, Philips
+iSite, OrthoView, E-Film and Spectra PACS systems. Because responsibilities included development planning with Programming and travel with
+Sales to assist in promoting the ImageLink product, I acquired additional familiarity with these competitor systems in order to keep ImageLink
+current with the needs of our customers and provide my employees with training relevant to their implementations. This broad spectrum of
+involvement with multiple PACS systems left me knowledgeable on their use, tools and configuration. CPSI of Mobile In September 2006,
+ImageLink was in use at 27 of CPSI's 950 hospitals nationwide. Of the 101 sites added during my time in ImageLink, I implemented 58, either
+directly or in an onsite supervisory capacity while retaining ultimate responsibility for all installs and the overall performance of the division and its
+employees.
+IT Services/Public Relations Project Manager 
+City , State Company Name / Oct 2003 to Apr 2006 In addition to managing all aspects of the company's information systems, I handled the
+development and execution of public education and outreach plans and materials, including public meeting organization and facilitation, direct mail,
+printed collateral, website updates and public relations events. Our primary clients included the City of Tucson, Arizona Department of
+Transportation, Pima County, Nevada Department of Transportation and the Federal Highway Administration.
+ICS Director Senior Hardware/Software Support Technician 
+City , State Company Name / May 2002 to Jun 2003 After accepting full authority over all corporate information, communication and security
+systems, my primary responsibilities included: Employee management, cost control, developing and directing the implementation of all IT related
+projects, while assuring that my team and I consistently maintained the systems and services that our customers and employees relied on. My
+efforts in this position resulted in a 60% increase in employee productivity and the development of the first Private Label Auction site, for one of
+our key clients, creating the first source of income from the ICS Department. Spending in the ICS Department was decreased by more than
+$100,000. I was hired into this position as the direct assistant to the Vice President over the ICS (Information and Communication Services)
+Department. My duties included: Project management, documentation of policies and procedures, and reporting on the overall status of the ICS
+Department. During this year, I built the first comprehensive ICS procedure manual as well as the creation or replacement of all corporate IT and
+communication related policies.
+Education
+High School Diploma Mount Desert Island High School
+Skills
+PROJECT MANAGER, ITS, PACS, RADIOLOGY, DICOM, INTEGRATION, INTEGRATOR, MCKESSON, NETWORKING, SALES,
+SALES TO, SCHEDULING, STAFF TRAINING, TRAINING, WITH SALES, CLIENTS, SECURITY, DIRECT MAIL, PUBLIC
+RELATIONS, DOCUMENTATION, BACKBONE, DATA CENTER, MENTORING, PHONE SYSTEM, WINDOWS 7, COST
+CONTROL, INCREASE, SYSTEMS ANALYST, PROJECT MANAGEMENT, ADOBE PHOTOSHOP, AS400, DREAMWEAVER,
+EMR, EXCELLENT MULTITASKER, FLASH, FRONTPAGE, HMS, INTERNET EXPLORER, KRONOS, LINUX, MS OFFICE, MS
+SQL SERVER, MS SQL SERVER 2000, PAGEMAKER, PHOTOSHOP, POWERPOINT, PROBLEM-SOLVING, SIEMENS,
+SIMULTANEOUSLY, SQL, SQL SERVER, SQL SERVER 2000, TECHNOLOGY MANAGEMENT, UNIX, WORDPERFECT

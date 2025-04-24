@@ -1,0 +1,67 @@
+ENGINEERING OFFICER
+Objective
+Looking for opportunities to work in an research environment for creating solutions using digital systems at circuit as well as system level.
+Education
+Master of Science : Electrical Engineering 2017 North Carolina State University City , State , USA
+Bachelor of Engineering : Instrumentation and Control Engineering 2013 Netaji Subhas Institute Of Technology City , State , India
+Majored with 78.34 %, First Class With Distinction Â 
+Academic Merit Award 2011-12 and 2012-13
+Experience
+Engineering Officer 07/2014 to 06/2015 Company Name City , State
+Spearheaded a team of electricians and technicians to carry out preventive maintenance of equipment of LPG bottling plant. Role also entailed
+procurement of spares and materials and maintain inventory at plant. Major tasks involved:
+Maintenance and calibration of equipment such as cylinder gas leak detectors, washer leak detectors, gas analyzers etc.
+Upkeep of electrical panels and control systems.
+Maintenance of drive units, compressors, LPG pumps etc.
+Modified and developed various plant equipments to improve production line throughput.
+Operations Officer 06/2013 to 06/2014 Company Name City , State
+Oversaw the operations of LPG bottling plant production activities.
+Managed workforce on the production line to give maximum production while maintaining safety standards.
+Optimized the production line equipment and maintained regular calibration checks of equipments like quality check machines to produce
+hazard free bottled cylinders.
+Intern 06/2012 to 07/2012 Company Name City , State
+Engaged in various automation and control system design using Distributed Control Systems and Programmable Logical Controllers. Learned
+interfacing of instruments with Controllers and their respective communication protocols.
+Documented and created a report as a reference manual on the technical details of various systems and instruments which was presented to the
+company.
+Intern 06/2011 to 07/2011 Company Name City , State
+Learned about the various instruments used in different process applications of the petroleum refinery. Knowledge of the use of intrinsically safe
+devices in hazardous areas and the ratings of equipment as per the hazardous zones. Interfacing of these instruments with Distributed Control
+Systems and parameters of tuning the PID controllers
+Published Work
+Research Paper: Â 
+K.P.S. Rana, N. Mittra, N. Pramanik , P. Dwivedi and P. Mahajan: " Virtual Instrumentation Approach to Neural Network Based
+Thermistor Linearization on Field Programmable Gate Array "; Experimental Techniques Volume 39, Issue 2, pages 23â€“30, Jan 2013 Â 
+Â 
+Conference Presentation: Â 
+K. P. S. Rana, Vineet Kumar, Neel Pramanik , Nishant Mitra, Sumit Kumar Shakya: " Some Applications of FPGA in Custom Waveform
+Generation and Triggering for Metrology ";Conference: 8th International Conference on Advances in Metrology (AdMET), Organised jointly
+by CSIR-NPL and Metrology Society of India, At New Delhi, India, Feb 2013 Â 
+Projects
+Company Name City , State
+Engineering Officer 12/2014
+Programmable Logic Controller (PLC) Based Chain Conveyor Tripping System
+Designed a control loop which was interfaced with a Allen Bradely PLC controller to read the current readings of individual drive units and
+provide appropriate tripping signals as per the motor health.
+Engineering Officer 06/2014
+Infrared Sensor based telescopic boom tripping system
+IR sensor based intrinsically safe system that detects presence of objects in front of moving machinery and trips them instantly.
+Operations Officer 01/2014
+Infrared sensor based automatic hot air sealing machine
+Modified old pneumatic based cylinder sealing system to an electro-pneumatic and infrared sensor based sealing system. Improved
+production line performance by 1000 cylinders/ hour.
+Company Name City , State
+Bachelor of Engineering 06/2013
+Some Intelligent Controllers for HVAC system
+Implementation of various control techniques for power management like PWM, PI control , Fuzzy PI control on FPGA target which was
+the standalone controller for the HVAC system. Designed and implemented a modern Fractional Order PI controller on target which
+obtained better results.
+Skills
+Design Software: LabVIEW, Synopsys Design Vision, Modelsim, Cadence Virtuoso
+Programming Languages: C/C++, Verilog
+Operating Systems: Windows, Linux, OSX
+Equipment: Oscilloscope, Spectrum Analyzer, Multimeter
+Accomplishments
+Certificate of Merit in academics, NSIT, 2011-12, 2012-13
+Green House Vice Captain, Senior Secondary
+Black Belt in Taekwon-do

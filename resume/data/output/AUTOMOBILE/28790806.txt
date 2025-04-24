@@ -1,0 +1,85 @@
+DATASTAGE ETL DEVELOPER
+Summary
+I have 6 years of ETL experience and extensive experience in business and system analysis across multiple platforms using the full software
+development life cycle. I have worked in the role of Data Warehouse Specialist,ETL Datastage developer and Production Support Analyst
+requiring subject matter expertise when dealing with mainframe sources with COBOL/ASCII File structure ,Distributed sources (RDBMS) and
+handling business intelligence data with DB2, Netezza, Oracle, SQL Server and Hadoop Hive Data Warehouses . Â I have worked on developing
+and supporting major Banking Credit card conversion and Member Debt solutions project for Unites Services Automobile Association. These
+projects involved Requirement analysis, Risk assessment and management, Data planning and driving, Process Implementation, Team
+management, Project tracking, Customer interaction, Release Management, Defect tracking, Deliverable and Warranty support. Over this period,
+I have established an exemplary record of providing successful system support and delivering business value for mid-level to large business
+intelligence applications. I have demonstrated excellent leadership skills in handling multiple offshore, nearshore project assignments with multiple
+resources and have delivered all requirements on time.
+Skills
+Expertise in IBM Datastage (8.5,9.1 and 11.5 versions) to perform ETL & ELT operations on data
+Proficiency in Unix Shell Scripting
+Proficiency in writing and debugging Â complex SQL
+Informatica ETL Support experience (Version 9.1)
+Hands on experience on IBM DB2 /Netezza/ SQL Server/Oracle
+Data archival into IBM BIGINSIGHTS with HIVE tables
+Experience in Control-M Scheduling Tool
+Accomplishments
+IBM Certified Solution Developer-InfoSphere Datastagev8.5Â 
+IBM Certified Solution Developer-InfoSphere Datastage v9.1Â 
+Certified in Oracle Database 11g: SQL Fundamentals I.
+Experience
+DATASTAGE ETL DEVELOPER Jan 2016 to Current 
+Company Name ï¼​ City , State
+MEMBER DEBT SOLUTIONS PROJECT
+Project involved the conversion of un-scalable SQL sandbox data into scalable Netezza Collections data capable of doing large scale analytics.Â 
+Developed Datastage Jobs to load Collections data from multiple sources Aspect,CACS,Strata,FICO,Fidelity and FDR to the respective
+Dimensions and Fact tables with required business transformations.
+Involved in all phases of SDLC, created detailed Analysis-Design documents with source to target mappings.
+Developed and maintained accurate project documentation and data model diagrams to provide management with proper understanding of
+organizational needs.
+Prepared technical data flow proposals for enhancements and integration of existing third-party data.Communicated with business users and
+project management to get business requirements and translate to ETL/ELT specifications.
+Provided technical support to both business team and user departments for all projects.
+HandledÂ multiple offshore, nearshore resources during the project and delivered all requirements on time.
+â€‹â€‹
+BIGINSIGHTS DATA ARCHIVAL
+As a part of raw data archival I had worked in a project developing a framework to load all raw files into foundation layer. Coding was
+done on Unix Shell Scripting. All data were loaded into foundation layer with a BIGSQL compatible Hive tables built on top of it.The
+Hadoop data is read through Hive query language and is being used for discovery purpose.
+â€‹
+DATASTAGE 11.5 MIGRATION PROJECTÂ 
+Â Worked on migrating Datastage jobs from InfoSphere Information Server, Version 9.1 toÂ InfoSphere Information Server, Version
+11.5. My primary task was to gather migration requirements, design topology/playbook, test jobs in QA server ver 11.5 and production
+implementation/support.
+DATASTAGE ETL DEVELOPER Feb 2013 to Jan 2016 
+Company Name ï¼​ City , State
+CREDIT CARD CONVERSION PROJECT
+Large project to integrate the single entity credit cards to dual entity credit cards. This migration enabled a cross-border portfolio view for all credit
+card applications and enabled maintaining same plastic number across history for analytics usage.
+Developed Datastage jobs to do ETL transformations with the requirement provided and load respective Dimensions and Fact tables.
+Lead Offshore team throughout the project and created detailed and accurate project documentation.
+Application SME (subject matter expertise) to the project implementation from offshore.
+INFORMATICA TO DATASTAGE ETL CONVERSION
+Migrated 180 mappings from Informatica ETL tool to Datastage tool as part of ETL conversion project. Analysed each Informatica
+workflow/mapping and converted it to Datastage jobs with Industry standards. Performed test case scenario/production implementation and
+support.
+DATAWAREHOUSE MIGRATION TO IBM NETEZZA
+Migrated over 100 TB of Data to IBM Netezza platform from multiple DB2/SQL and Oracle warehouses. Involved in Requirement
+gathering,Table design, ETL Design/testing and implementation.
+DATASTAGE SERVER MIGRATION PROJECT
+Worked on migrating 1000+ Datastage jobs from InfoSphere Information Server, Version 8.1 toÂ InfoSphere Information Server,
+Versions 8.5 and 9.1 over the years.
+PRODUCTION SUPPORT ANALYST Jan 2012 to Feb 2013 
+Company Name ï¼​ City , State
+DATA MANAGEMENT RETURN TO SERVICE
+The primary objective of the project is to maintain Extract Transform Load (ETL) portfolio of projects at enterprise level.In a production
+support role, provided quick problem resolution to daily, weekly, and monthly processing cycles executing in Datastage/Informatica. Over
+this period, I have established an exemplary record of providing successful system support and delivering business value for mid-level to
+large business intelligence applications. Â Also worked on Service Requests developing ETL Datastage jobs for small business
+requirements.
+Education and Training
+BACHELOR OF TECHNOLOGY 2011 ANNA UNIVERSITY ï¼​ City , State , INDIA
+BUSINESS INTELLIGENCE TRAINING 2011 TATA CONSULTANCY SERVICES ï¼​ City , State , INDIA
+SEPTEMBER 2011 - DECEMBER 2011Â 
+This course provides an overview that gives business and information technology professionals the confidence to dive right into their business
+intelligence and data warehousing activities. Hands-On training provided on ETL tools Informatica/Datastage andÂ data warehousing environment
+for 90 days.
+DATASTAGE TRAINING 2012 GREENS TECHNOLOGIES ï¼​ City , State , INDIA This course is designed to introduce ETL developers to
+Datastage Development, Data Warehousing and Data Modeling training's with real-world ETL process implementations.
+Activities and Honors
+DISTINGUISHED ACHIEVER AWARD- TATA CONSULTANCY SERVICES [FEB 2015]

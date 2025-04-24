@@ -1,0 +1,82 @@
+CONSULTANT
+Summary
+College graduate with interest in insurance claims work. Proven record of success in all endeavors. Strong work ethic and focus on the details.
+Excited to begin career in investigative work. Searching for an entry level position as an insurance claims adjuster.
+Skills
+Unix, SQL Server 2005, SQL Server 2008, SQL Server 2008R2, VM-Ware, ODBC, SQL, PL/SQL, Access, MS Office Suite, MS
+Visio, Oracle 10g, Oracle 11g, SAP Business Objects BI Suite, PeopleSoft, ADP, and cView SAP Business Objects Suite, MS
+Reporting Suite, MicroStrategy, MS Office Suite, Tableau
+Industry Software: SQL Server Studio, EmpCenter, CQCS, DNA, DNA-sme, IMC, eSoms, and cView
+Web Design: Internet Explorer, Netscape Navigator, Chrome, Firefox, JAVA, ASP.NET, and HTML
+Operating Systems: MS Windows Professional/Enterprise/XP/7/8, NT, Novell NetWare
+Server Environments: SQL 2008, SQL 2008R2, SQL 2012, Oracle 11g, Oracle 11g2, and RPG Metadata, SAS, PeopleSoft, ADP,
+Ceridian Encore, SSRS, SSAS, SSIS, ETL, Access, Excel, Teradata, Crystal Reports, ServiceNow, SharePoint, and Cyberquery
+Experience
+Consultant 07/2016 to Current Company Name City , State
+Top 4 Financial Institution) Create SQL queries, stored procedures, and tables to extract data
+Analyze data to create executive team dashboards and daily visualizations
+Utilize Excel pivot tables to monitor observations within the Core Finance metadata templateÂ 
+Analyze Core Finance and GBAM Americas feeds for manual spreadsheet remediation
+Support data stewards with review of various domain issues with vlookups extractions
+Document process improvements to enhance the data integrity
+Conduct data reviews to ensure the data quality and reasonability of data feeds supplied to EDM Generated trend reporting to assist with
+reducing the number of feed gaps
+Environment - Access, Excel, SharePoint, SQL Server, Metadata, Teradata, and Adaptive.
+Database Analyst 04/2016 to 07/2016 Company Name City , State
+Provided technical support and basic development for computer applications and programs
+Documented technical specifications to design or redesign complex projects and applications
+Analyzed complex computer application problems to maintain or restore functionality Led the resolution of complex issues or escalated as
+needed to meet established SLAs
+Prepared programming specifications and completed programming tasks to develop basic, and/or assist in the development of moderately
+complex, computer solutions
+Prepared program test data, tests and debugs programs using Waterfall methodologies Updated and completed documentation, procedures
+and user guides to ensure data quality
+Participated in testing and updating the business continuation plan Planned and analyzed highly complex business requirements
+Environment - SQL Server, Teradata, Oracle 11g, Oracle Discoverer, MicroStrategy 9.3.1, Metadata, and BMC Remedy.
+Senior Business Intelligence Analyst 02/2015 to 04/2016 Company Name City , State
+Developed and enhanced WebI reports and universes through Business Objects Provided technical support to triage database performance
+and reporting related issues Reviewed and interpret report SQL to determine data source and business logic Conducted report requirement
+gathering sessions with project business SMEs Compiled report mapping of legacy reports to aid in Change Management communication
+Quality Assurance tested additional objects in the universe structure to ensure data quality Created functional and technical specifications
+according to business requirements Conducted unit and system tests with various technical tools including SSAS Collaborate with Business
+SMEs to develop report testing strategy using Agile methodologies Conducted UAT with Business units and Quality leaders Performed
+various tasks throughout Software Development Life Cycle (SDLC) Environment - SQL Server, Oracle 11g, Business Objects WebI,
+Tableau 9.0.1, and ServiceNow.
+Reporting Analyst 10/2013 to 02/2015 Company Name City , State
+Reviewed and translated current state Business Object/Crystal Reports/Report Builder/MSRS Reviewed and interpreted report SQL to
+determine data source and business logic Conducted report requirement gathering sessions with business SMEs and focus groups
+Developed new or modify reports in MSRS, BIDS, and SQL Server 2008 R2 or 2012 Compiled report mapping of legacy reports to aid
+in Change Management communication Designed, developed, and implemented new and existing interfaces for ETL processes using SSIS
+Created Logical and Physical Data Models utilizing ERWIN Developed and implemented data warehouse tables and views with Metadata
+Created functional and technical specifications according to BRDs Created test plans to validate the adherence to business requirements
+using HP ALM QC Conducted Unit and System tests with various technical tools including SSAS Collaborated with Business SMEs to
+develop report testing strategy using Agile methodologies Conducted UAT with the eSOMS Business SMEs to ensure data integrity and
+quality Environment - ERWIN, eSOMS, SQL Server 2008R2, SQL Server 2012, SQL, SSAS, SSIS, SSRS, SAP BO Crystal Reports,
+MS Office Suite, MS Visual SourceSafe, MS Visio, and TOAD.
+Business Analyst 04/2012 to 09/2013 Company Name City , State
+Collaborated with team members and clients to gather HR/payroll report requirements Created functional and technical specifications
+according to BRDs Configured screen layouts, dashboards, workflows, and interfaces according to HR specifications Developed and
+enhanced reports using SAP Business Objects with SQL, PL/SQL, and Oracle Integrated developed HR reports into SQL and Oracle
+based ERP environments Analyzed query performance and optimization using SSAS and other analytical tools Documented functional
+specifications and procedural documentation for HR BRDs Developed and enhanced WebI reports and universes through Business Objects
+Provided technical support to triage database performance and reporting issues Created test plans to validate the adherence to HR business
+requirements using SQL Conducted Unit and System tests to ensure data integrity with various tools including SSAS Provided technical
+guidance and direction to peers Designed, developed, and implemented new and existing programs for ETL processes using SSIS
+Environment - SAP Business Objects BI, Visual Basic, SQL Server 2005, SQL Server 2008R2, SQL Server 2012, VM-Ware, ODBC,
+SQL, PL/SQL, SSAS, SSIS, SSRS, MS Office Suite, Oracle 10g, Oracle 11g, Oracle 11g2, JavaScript, PeopleSoft, ADP, Kronos, and
+ETL.
+Business Analyst 09/1999 to 12/2011 Company Name City , State
+Interrogated data for domestic and international banks and credit unions including Fifth Third Manipulated large financial datasets and
+utilized complex queries for data transformations Cross departmental collaboration for software development as subject matter expert
+(SME) Collaborated with team members and clients to gather and document project requirements Acted as liaison between clients and
+technical teams to aid in go-live transition Created functional and technical specifications according to BRDs Created Logical and Physical
+Data Models utilizing ERWIN Developed and enhanced reports using SAP Business Objects with PL/SQL, SQL, and Oracle Generated
+business reports including matrix, parameter reports, charts, with drill down functions Integrated developed reports into SQL and Oracle
+based ERP environments Designed and conducted technical knowledge transfer sessions at various client sites.
+Education and Training
+B.S. Degree : Information Management Systems Wayne State University City , State Information Management Systems
+A.S. Degree : Accounting Wayne County Community College MCL Distinction City , State Accounting
+Skills
+ASP.NET, Business Objects, Crystal Reports, data warehouse, DNA, JAVA, JavaScript, SharePoint, MicroStrategy 9.3.1, MicroStrategy,
+Oracle Discoverer, Oracle, PL/SQL, PeopleSoft, pivot tables, SAP, SAS, Software Development, spreadsheet, SQL, SQL Server, Tableau
+9.0.1, Tableau, technical support, Teradata, triage, Unix, Visual Basic, Web Design

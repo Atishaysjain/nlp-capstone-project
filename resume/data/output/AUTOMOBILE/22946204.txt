@@ -1,0 +1,75 @@
+Highlights
+Prog. Languages: C (5+ yrs), Python (3+ yrs), Java (3+ yrs), MATLAB (Simulink) (5+ yrs), R (2 yrs), Processing (2yrs), SQL(4+ yrs),
+PLC(2 yrs)
+Doc. Editing: Word/PPT/Excel, Pages/Numbers/Keynote, LATEX
+Mechanical Design: AutoCAD (6 yrs), Solidworks (5+ yrs)
+Mechanical Skills: MakerBot 3D print, Laser cut, Mill, Drill, Lathe Machine.
+Statistics Softwares: STATA, SPSS
+Database Softwares: SQL Server (4 yrs), Navicat (2 yrs)
+Operating Systems: Windows 7/10, OS X
+Experience
+Company Name June 2016 to Current R&D Product Development Engineer 
+City
+Design and build a tail-sitter VTOL(vertical take off and landing) UAV(unmanned aerial vehicle) which.
+takes off and lands vertically and travels horizontally.
+Main duties include but not limit to aerodynamics.
+modeling, UAV control system design, mechanical manufacturing, simulation and tuning/experiments.
+Company Name May 2015 to February 2016 Research assistant 
+City
+Research assistant for Wharton School environment economics projects on Europe Emission Trading.
+System (EU ETC).
+Main duties include large scale data collecting, cleaning, merging, database.
+construction and data analysis, etc.
+Completed with skills ranging from Java, python, Navicat SQLite.
+database software) and STATA (data analyzing software).
+Company Name August 2013 to September 2013 Mechanical Technician 
+City
+Check, report on reducer components, automobile chassis producing, processing and assembly line.
+Trained in mechanical manufacturing fundamentals in industrial production of automobiles.
+Mechatronics & Robotics: Experienced in designing and building Mechatronic systems and Robots, including self-balanced vehicle and
+autonomous hockey-playing robots (more info: www.robockey.com), etc.
+Familiar with embedded system, especially Arduino micro-controller.
+Highly efficient in C and assembly language programming on autonomous systems.
+Solid knowledge and practices in Robotics and Kinematics.
+Participate in projects on planning robot trajectory of PUMA 260 robot arm long-exposure light painting and Haptic Rendering and Motion
+Control with the Phantom Robot.
+Mechanical Engineering Experienced in mechanical CAD softwares(6 yrs).
+Undergraduate thesis focuses on "Mechanical Design of a Flexible-Assembly-System(FAS) for tubes" which is fully designed and analyzed
+in AutoCAD and Solidworks.
+UAV & Quadrotor: Solid knowledge on quadrotor dynamics, motion planning, graph search, trajectory planning.
+Hands-on projects on Dynamic Modeling, Control and Simulation of an Autonomous Quadrotor, including simulation, 3D Path Planning
+against obstacles using Dijkstra and A* algorithms, Trajectory Generation and Control and Lab Experiments with KMel.
+Plenty amount of practices on implement Kalman Filter, Extended Kalman Filter on real system with uncertainty.
+Computer Vision: Study on camera model, projective geometry, optical flow and RANSAC (Random Sample Consensus) in scene analysis
+and automated cartography.
+Projects on vision based robot pose (position, row/pitch/yaw angles) estimation; velocity estimation based on optical flow; implementing
+Error State Kalman Filter to eliminate real system noise.
+Control System Study on Feedback Control systems including Laplace transformation, transform function, block diagram, PID control,
+Bode Plot, Root Locus, Frequency Response and Stability Robustness.
+Research on Ping-Pong ball position control by PIXY camera and smart transporting project of avoiding multi-vehicles crash involving study
+on "string stability".
+Machine Learning Experienced in Supervised Learning (Regression, Decision Tree, Neural Networks, KNN, SVM, NaÃ¯ve Bayes
+Classifiers), Unsupervised Learning (Clustering, PCA, Matrix Factorization), etc.
+Trained a learning model combining Logistic Regression (LASSO), Linear SVM, intersection kernel SVM and Adaboost to predict tweeter
+users' gender by their tweets, profiles and graphic information.
+Programming Efficient on Python and Java with a variety of hand-on projects involving exercises of data structure, algorithms, GUI.
+Good programming habits including unit test, test driven development (TDD).
+5+ years of expertise in C language and Matlab with projects about simulations, analysis and tool- making in mathematic, mechanical and
+electrical areas.
+Education
+University of Pennsylvania, School of Eng. and Applied Science Aug, 2014 Master of Science : Mech. Eng. & Applied Mechanics Jun City , State
+Mech. Eng. & Applied Mechanics Jun
+Harbin Institute of Technology (HIT) 2010 Bachelor of Science : Mechanical Design and Automation Sep Aug City , China Mechanical Design
+and Automation SepAug
+Languages
+English, Chinese
+Additional Information
+COMPETITIONS & AWARDS: Honor Mention Prize (30%), MCM: The Mathematical Contest in Modeling 2011 Regional Second
+Prize, China Undergraduate Mathematical Contest in Modeling 2012 4th Place, Robockey, Hockey-playing Robot competition at Upenn
+2015
+Skills
+3D, assembly language, AutoCAD, automobiles, C, C language, CAD, Chinese, Clustering, com, controller, data analysis, Database, database
+software, designing, economics, Editing, embedded system, English, Experiments, GUI, graphic, Java, Laser, Lathe, Machine Learning,
+MATLAB, Mechanical, Mechanical Design, Mechanical Design, Mechanical Engineering, Excel, Windows 7, Word, Mill, Modeling, Networks,
+Neural, Operating Systems, OS, painting, camera, PLC, predict, producing, Programming, Python, Rendering, Research, Robotics, Simulation,
+Solidworks, SPSS, SQL, SQL Server, STATA, Statistics, system design, Trading System, vision

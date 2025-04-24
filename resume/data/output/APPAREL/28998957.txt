@@ -1,0 +1,71 @@
+BUSINESS SOLUTION PROJECT MANAGER
+Skills
+PLM (PTC and Enovia); SQL; Crystal Reports; Google Analytics; JIRA; HPQC; QlikView; Cognos; Advanced Microsoft Access; Advanced
+Excel; SAS; Power Point; SharePoint; Visio; MicroStrategy; ASPEN; Microsoft Project; JCL; Jobtrac; TSO; CA7; Tivoli; Maestro; Telnet;
+FTP; Group1; Unix; Exceed; Citrix/Metaframe; Altiris
+Experience
+Business Solution Project Manager 01/2011 to 01/2017 Company Name City , State
+Technical and process expert on all web-based marketing systems resolved complex business issues, ad-hoc reporting, and analysis for all
+departments, such as design, operations, product managers, sourcing, warehouse and international markets consisting of over 700
+employees.
+Pivotal in the product creation lifecycle to ensure product was retailed to markets on time.
+Implemented competitive advantages through quick and easy to use tools and training guides for product creation, e-commerce site
+management, product lifecycle management (PTC Flex PLM), digital merchandising, asset management and range segmentation application.
+Worked with off shore team to implement these changes.
+Trained and supported digital merchandising tool to analyze completive purchases.
+Distinguished user requests from the underlying true needs and provided options and recommendations on how best implement solutions to
+drive results.
+Used Google Analytics and other homegrown applications to analyze user behavior.
+Collaborated with the Regional Store Replenishment Managers to reduce ordering lead times to achieve the target goals by providing store
+specific ordering data.
+Responsible for analyzing business issues that span across the entire supply chain.
+Drive impactful decisions through modeling, optimization, varying complexities, benchmarking and vendor score cards.
+Improved operational effectiveness and efficiency by driving Speed-To-Market components into the seasonal marketing process framework
+to reduce warehouse capacity and product liquidations of product.
+Followed change management procedures compliance guidelines (SDLM) which includes gathering user requirements, gap and risk analysis,
+systems landscape as-is and to-be work streams, write and review functional/technical specifications, create and execute system integration
+(SIT) and user acceptance test scripts (UAT), stress testing, process flowcharts, developed SQL reporting queries, develop training
+documentation, release notes, cutover/deployment go live activities, IT service ticket management, conduct training sessions.
+Lead Data Migration Analyst 01/2008 to 01/2011 Company Name City , State
+Lead systems expert to review all systems and process to be moved over to new infrastructure for entire company.
+Played a critical role to move off existing network.
+Recruited to lead the migration implementation of SAP 7.0 Accelerated SAP methodology CRM, SD, MM, WM, FI/CO and PLM
+(Enovia).
+Moved all existing platforms to new system landscape.
+Reviewed and recommended several software vendors to determine best application to fit the business needs.
+Executed data analysis, cleanup, and validation reports utilizing relational databases, SQL, and SAS to migrate to new structure.
+Developed and wrote SOP Database and process flowcharts to document as-is and to-be processes.
+Quality Assurance Data Analyst 01/2006 to 01/2008 Company Name City , State
+Worked closely with quality engineers for new product launch and inspections.
+Reviewed known defects with engineering when developing new product, avoiding costly redesigns.
+Ability to understand changes in trends in both company and category performance, and identify and elevated potential issues.
+Collected raw data to analyze, interpret, and generated reports and graphs to upper management.
+Escalated issues/defects as required, to enforce corrective action.
+Senior Forecast Analyst 01/2006 to 01/2006 Company Name City , State
+Responsible for direct marketing research and all levels of sales demand forecasting and identify opportunities where the organizations can
+become more profitable, and increase revenues.
+Determined and executed decisions on forecast quantities per style for production ramp up and authorize tooling molds to ensure objectives
+are achieved or exceeded.
+Prepared key information for monthly forecast and buy meetings.
+Analyzed and distributed forecasting information to production groups, sales, production, and costing teams.
+Provide Functional Excellence in the area of supply chain data & KPI's.
+Send reports on regular basis to team.
+Marketing Budget Forecast and Circulation Analyst 01/2002 to 01/2006 Company Name City , State
+Developed technology efficiencies to track and forecast weekly sales, demand expectations, inventory levels and resource planning to
+generate catalog profitability.
+Comprehensive data mining, customer segmentation and statistical analysis to produce catalog mailings.
+Analyzed customer performance and target promotions catalog vs.
+e-com sales to generate sale profitability.
+Forecasted weekly and total program sales by catalog using historical data.
+Analyzed click through rates, bounce tracking, abandon rates, and event driven emails to understand user Internet behavior.
+Optimized to strengthened Customer File Master and recommend changes to marketing plans to improve the business sales.
+Education and Training
+Bachelor of Science : Information Systems Northeastern University City , State Information Systems
+SAS Business Intelligence Client Tools, SAS Training Center New York, NY Administering Microsoft Windows NT 4.0, New Horizons Training
+Center Braintree, MA Fundamentals of Solaris 2, Sun Microsystems Massasoit Community College City , State
+Introduction to Software Design & Development Massasoit Community College Boston University Center for Information Technology City , State
+Concepts & Facilities of Emerging Technologies
+Skills
+asset management, benchmarking, Business Intelligence, Citrix, Cognos, costing, Crystal Reports, data analysis, data mining, Database
+Management, direct marketing, e-commerce, forecasting, Google Analytics, inventory levels, merchandising, SharePoint, MicroStrategy, relational
+databases, sales, SAP, SAP 7.0, SAS, Software Design & Development, Solaris 2, SQL, system integration, Tivoli, Unix, validation

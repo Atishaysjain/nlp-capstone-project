@@ -1,0 +1,82 @@
+IT COMPLIANCE AUDITOR
+Career Overview
+I offer 15 years' experience in various areas of the Information Technology Field. Including five years experience installing, configuring, and
+troubleshooting computer software and hardware problems. Five years of experience managing software licenses/compliance, coordinating
+purchases of major projects and volume license contract negotiations. Five years of experience as an IT Compliance Auditor in which I executed
+PCI\SOX Audits and provided corporate governance.
+Qualifications
+Certified Software Manager (CSM) (SIIA)
+Certified Information Security Auditor
+ISACA, License 1191038 Current
+MCP-Windows 2000 MCP ID 2797345
+2000 Server Administration
+Network Infrastructure
+AFFILIATIONS
+Information Systems Audit and Control Association (ISACA)
+Software Information Industry Association (SIIA)
+Work Experience
+IT Compliance Auditor 01/2010 to Current Company Name City , State
+Provide value-added control assurance/governance as it relates to security, e-commerce and industry compliance requirements and
+controls.
+Liaise with Information Technology and Operations areas to proactively assess security policy compliance and monitor risk Coordinate
+external/3rd party auditors, including PCI DSS, SAS 70, Record Retention, and Business Process Improvement reviews Manage internal
+IT audit engagements including: system platform audits, PCI Compliance Readiness reviews, IT Risk Assessments, change management,
+and business process control assurance Manage security control assessments of Payment Systems for merchant boarding and settlement of
+funds.
+Coordinate and perform compliance audits in accordance to the information protection, data asset and threat provisions under the
+Sarbanes-Oxley Acts.
+Coordinate with Incident Response teams for post-event diagnosis, investigation and documentation.
+Evaluate information protection governance framework against ITIL, FFIEC, and COBIT best practices.
+Provide effective project(audit) guidance and leadership to team members and management as it relates to data security and industry
+compliance Assisted to implement policies on information asset protection, operating system platform security, network security, and
+acceptable computing resource use Coordinated with the business organizations to ensure the implementation of proper controls and
+maximum security with a minimum impact to functionality or purpose Performed information security risk assessments and compliance audits
+for information security processes regarding AS/400,AIX , Windows Evaluated AS/400 system security values, UNIX system security files,
+RACF SETROPTS parameters, Windows user and workstation policy settings, firewall rule-set parameters, and router configuration files.
+Evaluated network vulnerability, malware, and port uses Monitored compliance with the organization's information security policies and
+procedures among employees, contractors, alliances, and other third parties.
+Assisted in the creation of the roles and responsibilities matrix for SAP user profiles and authorities based on functional groupings Performed
+the IT audit portion of the internal audit department Annual Plan.
+Execute those audits, activities, projects, and special services to fulfill Annual Plan commitments.
+Performed hands-on analysis of multi-platform and application security.
+Ensure all IT policy and procedures are documented and updated according to regulatory standards, deadlines are met, approvals obtained,
+guidelines followed, repository usage understood, and repository / system of record up-to-date as defined by the IT Governance program
+Interfaces with internal and external requestors as an escalated point and reviews IT artifacts for completeness and satisfaction for the
+delivery of quality services regarding important issues / priorities, and deadline-sensitive information.
+MIS Technology & Procurement Analyst 06/2005 to Current Company Name City , State
+Incorporated corporate wide procedure for ordering software so that every order is tied to a license, a purchase order and an install point.
+Instituted stricter software installation procedures to help insure only licensed software is installed on a company computer.
+Incorporated additional Software Media Control Retired obsolete workstations and software packages by implementing a PC Refresh
+Program and Standardizing software titles.
+Created a software inventory repository utilizing Microsoft's Share Point Responsible for managing all technology purchases and licensing
+activities.
+Centralized and streamlined the technology purchasing activities across JAG to improve speed, reduce costs, and ensure proper record
+keeping of all fixed assets and software licensing.
+Maintained License Compliance for our International and Domestic offices Created and enforced Security policies, Procurement policies
+and Compliance policies Configured Triactive discovery tool, performed software metering and other tasks Negotiated million dollar
+contracts with vendors such as IBM, Microsoft, McAfee, Symantec etc.
+Lead contact on a Multi-Million dollar SIIA software Audit in which I saved the company 9.2 million dollars.
+PC\LAN Support Specialist 01/2000 to 06/2005 Company Name City , State
+Configured and troubleshot Internet connectivity and network related issues via TCP/IP, DNS, WINS, DHCP, and SMTP on Windows
+machines Trained new employees on how to install, configure, and troubleshoot customer equipment.
+Familiar with trouble ticketing system (Magic) in support of tracking customer problems and corrections.
+Serviced, configured, upgraded, and repaired Compaq and HP computer equipment.
+Supported Office 97/2000/XP, Outlook 97/98/2000, Adobe Acrobat, Internet Explorer, IBM AS400 Client Access and other end user
+"shrink wrap" applications along with many homegrown applications.
+Instructed remote users on how to configure their machines for remote access use, and supported VPN for remote access.
+Handled remote access issues such as connectivity, modem, and token authentication issues.
+Familiar with HP Print Server Appliances and HP Jet Admin Created required Domain, Email and Novell user accounts KIX scripting Lead
+tech on Novell migration to Windows servers Managed Moves/Adds/Changes of Customers and hardware Worked with Symantec Ghost
+to perform larger roll outs and create a company-wide standard image Worked with Remote Control Software such as DameWare Utilities
+and VNC Viewer.
+Installed, configured and supported blackberry's Performed file restores and system backups using CA ArcServe.
+Education and Training
+Certificate of Completion -MSCE Prep Course 2003 New Wave Technology
+Associate Degree : Networking Technology 2003 Bucks County Community College Networking Technology
+Skills
+Adobe Acrobat, AIX, ArcServe, AS/400, AS400, business process, Business Process Improvement, change management, Compaq, CA,
+hardware, contracts, Client, delivery, DHCP, diagnosis, DNS, documentation, e-commerce, Email, firewall, fixed assets, functional, funds, Ghost,
+HP, IBM, image, Information Security, Information Systems, Information Technology, Internet connectivity, Internet Explorer, inventory, ITIL,
+KIX, leadership, Magic, managing, McAfee, Access, MCP, Office 97, Outlook 97, Windows, Windows 2000, 2000, 98, migration, modem,
+network security, Network, Novell, operating system, PCI, policies, processes, Procurement, purchasing, quality, RACF, record keeping, router,
+SAP, Sarbanes-Oxley, SAS, servers, scripting, SMTP, software installation, Symantec, TCP/IP, troubleshoot, UNIX system, Utilities, VPN

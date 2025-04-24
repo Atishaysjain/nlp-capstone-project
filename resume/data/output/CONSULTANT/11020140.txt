@@ -1,0 +1,70 @@
+CONSULTANT
+Professional Profile
+Highly motivated and self-driven Systems Analyst with vast experience in various environments and technologies in support of multiple departments
+across the enterprise. Expertise in Software Development Lifecycle (SDLC) and Computer Systems Validation (CSV). Looking for an
+opportunity to apply and develop strong analytical skills and problem solving techniques.
+Qualifications
+Documentum DCM and Documentum D2, MS Access, VBA, C, C++,
+some HTML, Assembly language programming.
+Project leadership, strong technical skills, analytical skills, problem-solving
+skills, organizational skills and communication skills
+Systems analyst, general application support, software development, data
+communications, System administration
+Expertise in SDLC on small to large projects
+Proficient in SDLC and Computer Systems Validation
+Requirements and Documentation
+Experience
+Consultant 
+January 1999 to November 2015 Company Name ï¼​ City , State
+Provides consultant expertise in various roles supporting McNeil Consumer Healthcare including but not limited to the following applications:
+shop floor application, document management application, timekeeper application, business process applications.
+Knowledgeable in the SDLC process and GxP, SOX compliant applications.
+Most supported applications have been FDA validated applications requiring significant Computer System Validation experience.
+Project Leadership roles in several projects including application upgrades.
+Provides support to a GxP compliant document management application based on Documentum D2 as well as older Documentum DCM
+environments.
+Support includes detailed analysis of issues including document transformation, printing issues, reporting and general user troubleshooting.
+Providing Level 2 Production Application support, attend to user requests through ITSM and emails Monitoring the Support Mailbox during
+the Support hours Generating Scheduled and Adhoc Reports for Users Daily Consistency Checks to ensure proper functioning of the
+servers, services and Documentum jobs and other related activities Bug fixing in the application supported that may require Change
+Requests Providing solutions to minor Enhancements in the Application that requires Change Requests Responsible for Doing Root cause
+analysis for recurring issues.
+Escalating to Level 3 Support/ application Core Team where issue is out of scope of Level 2.
+Follow up with different support groups like Windows Team, DBA Team as and when needed Monitoring the Validation Environment to
+ensure proper functioning.
+Monitoring the Training Environment to ensure User Training can run smoothly.
+Provides support to SOX compliant payroll application which tracks the hourly wage employees times and reports into the J&J corporate
+system.
+Provides support to multiple Microsoft Access database and applications.
+Prior support including designing, developing and testing VBA code in the databases and Excel spreadsheets.
+Provided support to FDA-validated manufacturing application that aided the shop floor in reporting activities involved in the manufacturing
+process as well as creating, managing and reporting on non-conformances.
+Involved in various roles and projects to support IT rollouts and upgrades of the Windows operating system.
+Consultant 
+January 1990 to January 1999 Company Name
+Provided consultant expertise to customers in various roles and expertise including but not limited to the following responsibilities: Provided
+design, development, testing and support for Client/server messaging application to provide the communication between VAX and IBM
+systems for a large steel company.
+Provided design, development, testing and support for and electronic batch record application within a large team consisting of consultants
+and customer.
+Provided relational database expertise on multiple projects for various applications and technologies.
+Provided training for several Digital products to customers.
+Provided system administration support to several customers.
+Systems Programmer 
+January 1985 to January 1990 Company Name ï¼​ City , State
+Designed, developed, tested and supported a real-time client/server application to provide messaging.
+communications from a VAX/VMS application to an IBM application.
+The application tracked the movement if trains.
+and locations.
+The application was originally written in assembly language and later converted to C.
+Provided general system and network administration support.
+Education
+M.S : Computer Science Data Communications , 1996 Villanova University ï¼​ City , State Computer Science Data Communications
+B.A : Computer Science , 1985 LaSalle University ï¼​ City , State Computer Science
+Skills
+analytical skills, Assembly language, C, C++, Client/server, communication skills, consultant, Data communications, database and applications,
+DBA, databases, designing, document management, Documentation, Documentum, some HTML, IBM, managing, manufacturing process,
+messaging, Microsoft Access, MS Access, Excel spreadsheets, Windows operating system, Windows, Windows 2000, Windows XP, network
+administration, Operating Systems, organizational skills, payroll, programming, Project Leadership, real-time, relational database, reporting,
+SDLC, servers, System administration, User Training, troubleshooting, upgrades, Validation, VAX, VAX/VMS, Vista, VBA, Windows Server,
+written

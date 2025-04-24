@@ -1,0 +1,102 @@
+SOFTWARE ENGINEERING TEAM LEAD
+Profile
+I have over 10 years of experience in the field of IT infrastructure consulting and operations. I have worked on various Microsoft technologies such
+as System Center Suite (SCOM, SCCM, SCVMM), virtualization (Hyper V), Windows 2003/ 2008 Active directory, DNS, DHCP, Windows
+Clusters, scripting (PowerShell, VBScript), etc. I am currently working for Accenture Technologies. I am currently onsite working for our client in
+USA since March 2012. I am looking for another opportunity within USA in infrastructure consulting/ Systems Administration that gives me the
+opportunity to excel in my current skills and paves way for learning new technologies. System Center System Center Operations Manager 2012 -
+SCOM Currently working on SCOM for over 3 years as technical lead/ SME. Experience in designing, implementing and operating SCOM
+infrastructure. Experience in developing management packs using VSAE, VMPD, Authoring console.
+Professional Experience
+July 2008
+to
+January 2015
+Company Name Software Engineering Team Lead
+Joined as part of the Avanade IO capability.
+Avanade is a joint venture between Microsoft and Accenture and specializes on Microsoft product solutions.
+Project 1: Stanford Hospital and Clinics Tenure: March 2012 Till date I am currently the onshore technical lead and subject matter expert
+for our monitoring solution called Microsoft System Center Operations Manager (SCOM 2012).
+I was part of designing and implementing the SCOM solution for our client.
+I am also leading the operations.
+Some of the key activities that I have been leading here are: Designing, configuring and operating SCOM.
+Expand monitoring to non-trusted domains and cross platform servers.
+Management pack tuning and configuration.
+Building new management packs using VSAE, VMPD, Authoring Tools Migration/ upgrade of SCOM 2012 RTM to Release 2.
+Managing daily operational tasks.
+Working on SLA and other reports and dashboards.
+Application monitoring/ Synthetic transactions Prior to joining the monitoring team, I was working for their core infrastructure.
+My role in the team was to identify flaws and remediate core IO services such as AD, DNS, DHCP, WINS, File/ Print, etc.
+I also provided escalation support for critical incidents.
+We worked on decommissioning Windows 2003 domain controllers out of the environment.
+I also implemented DNS scavenging.
+Project 2: This project dealt with planning and deployment of SCCM site systems across geographies.
+We were also responsible for software distribution and OSD.
+Also we built customer facing artifacts around designing and building SCCM architecture.
+Project 3: Performing P2V and V2V migrations to optimize/minimize datacenter footprint This project was the largest implementation of
+hyper V technology outside US and is also a case study for Microsoft.
+I was part of a project that involved consolidating the datacenter of an FMCG giant.
+As part of the project we were performing V2V and P2V migrations of the servers in large numbers.
+My role in the project was that of SME responsible for handling technical escalations and getting the migrations done within the specified
+change window.
+Supporting and maintaining the client infrastructure I was working for a US-based client who is a major producer of nuclear power there.
+The job mainly related to the remote administration and providing support 24x5.
+The client had implemented all the latest Microsoft technologies in their infrastructure.
+I have been a part of the project since the transition phase.
+I was managing a team of 6 people operating in shifts.
+Achievements: I had been promoted twice within the first 2 years of my tenure in the company and had been given "Contribution
+Significantly above Peer Group" rating in the yearly evaluation cycle.
+April 2007
+to
+July 2008
+Company Name IT Analyst
+January 2006
+to
+March 2007
+Company Name Windows Administrator
+I was working as part of the messaging and collaboration team.
+Job was to administer the internal Windows infrastructure of the company.
+Day to day tasks included working on tickets escalated from the 1st line support/Helpdesk, monitoring systems, attending to SCOM alerts,
+etc.
+Monthly tasks included Software Updates Management.
+As needed tasks included any emergency or planned change.
+Our team was also responsible for active directory operations.
+January 2004
+to
+January 2006
+Company Name Technical Support Engineer
+I was responsible for AD maintenance tasks such as account creation, providing access to shared folders, distribution/security groups
+creation/deletion, replication issues, group policy implementation, etc.
+Providing Line 1 support to the internal users of the company in troubleshooting their mail flow issues, outlook, network or password issues.
+Handling mailboxes for the internal users of the company, etc.
+Also worked on the network routers, bridges and other network devices manufactured by Linksys during my initial days in the company.
+Provided technical support to the customers spread across the world in setting up their small office networks.
+I was responsible for giving desktop support for a small scale IT infrastructure.
+Day to day tasks included troubleshooting issues with outlook, blue screen errors, imaging, etc.
+Education
+National Institute of Technology(NIT) City , India Bachelor of Engineering (B.E
+Accomplishments
+Also working on System Center Orchestrator.
+System Center Configuration Manager 2007 - SCCM Over 4 years' working experience on SCCM.
+Experience on designing, implementing the SCCM infrastructure Prepared artifacts such as environment discovery questionnaire, reference
+architecture, etc.
+for the Avanade Capability in India.
+Virtualization Hyper V, SCVMM, Datacenter consolidation Worked on datacenter consolidation.
+Worked on building and operating Windows 2008 failover clusters.
+Have experience on Hyper V, SCVMM.
+Core Wintel Services Active Directory, DNS, DHCP, WINS Worked on remediating core wintel services for our client.
+Have experience and good understanding on design, deployment, operations of core wintel services such as AD, DNS, DHCP, WINS, etc.
+File and Print Services Experience on setting up and operating file and print services.
+Worked on file and print clusters in windows 2003.
+Scripting Experience on Windows Powershell, VBScript.
+Other Skills: I have conducted technical training for new joiners and people from other streams on technologies such as SCCM, AD,
+HyperV, etc.
+within Accenture.
+I am a member of empanelled interviewers in my current company and have conducted over 50 interviews.
+I have experience in setting up small office/ home office networks in one of my previous organizations.
+I have fair understanding on networking protocols and equipment.
+Certifications
+ITIL v3 Foundations certified. MCSE SCCM certified.
+Skills
+active directory, AD, bridges, client, Designing, DHCP, DNS, imaging, ITIL v, Managing, messaging, access, MCSE, mail, office, outlook,
+Microsoft technologies, Windows, window, Migration, network, networks, producer, routers, servers, SLA, technical support, desktop support,
+troubleshooting, upgrade

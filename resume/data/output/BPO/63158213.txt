@@ -1,0 +1,87 @@
+SR. NETWORK ENGINEER
+Summary
+Bilingual Network Engineer offering in-depth understanding of IT infrastructure areas, particularly IT Network Design, Implementation &
+Optimization of Wired & Wireless Network. Detail-oriented self-starter with demonstrated success in initiating, tracking, reporting and closing
+projects.
+Certifications
+CCT Data Center, CCNP, CCNA, MCSE, Security +, Network +, A+
+Skills
+Routers: Cisco 17XX, 18XX, 26XX, 28XX, 37XX, 38XX, 39XX &72XXÂ series & ASR 1K & 9K SeriesÂ 
+Switches: Cisco 3550, 3750, 45XX, 65XX series, Nexus Â 5K, 2K, 7K, 9K
+Load Balancer: Cisco CSS, F5Â NetworksÂ 
+WAN Optimization: Cisco WAAS, PPP MultilinkÂ Routing: OSPF, EIGRP, BGP, RIP-2, PBR, Route Filtering, Redistribution,Â Summarization,
+Static Routing.Â 
+Switching: VLAN, VTP, STP, PVST+, RPVST+, Inter VLAN routing &Multi-Â Layer Switching, Multicast operations, Layer 3 Switches, Ether
+channels, Transparent BridgingÂ 
+LAN: Ethernet, Fast Ethernet, Gigabit Ethernet, FDDI, CDDI, TokenÂ Ring, ATM LAN EmulationÂ 
+WAN: Leased lines 64k - 155Mb (PPP / HDLC), channelized linksÂ (E1/T1/E3/T3), Fiber Optic Circuits, Frame Relay, ISDN, and Load
+Balancing.Â 
+Various Features & Services: IOS and Features, HSRP, GLBP, IRDP, NAT, SNMP, SYSLOG,Â NTP, DHCP, CDP, DNS, TFTP and FTP
+Management.Â 
+IP Telephony: IP Telephony utilizing Cisco routers, FXO/FXS/E&M/T1/ISDN/Â PRI, Call manager (publisher & subscriber)Â AAA
+Architecture: TACACS+, RADIUS, Cisco ACS.Â 
+Security / Firewalls: Cisco ASA Firewalls 55XX, IPSEC & SSL VPNs, IPS/IDS, DMZÂ Setup, CBAC, Cisco NAC, ACL, IOS Firewall
+features, IOS Setup & Security FeaturesÂ 
+Juniper: EX 2200, EX 4200, EX 4500, MX-480, M Series, SRX210,Â SRX240
+VPN: Remote VPN & Site to Site VPN, DMVPN
+Wireless Site assessment using AirMagnet & Ekahua Adaptors.â€‹
+Installation, configuration and maintenance of Palo Alto Firewalls.Â 
+â€‹
+Work Experience
+Sr. Network Engineer Sep 2014 to Jul 2017 
+Company Name ï¼​ City , State
+Implementation of VLANs with InterVLAN communicationÂ 
+Implementation of HSRP, VRRP and GLBP redundant routing protocols
+Configuration of MPLS, BGP and EIGRP
+Installation and configuration of Layer 3 Switching infrastructure
+Installation and configuration of MPLS WAN routers
+Cisco Call Manager and Unity Connection versions 7.1 and 8.6 administration.
+Cisco Call Manager and Unity Connection operating system upgrades and installationÂ 
+TACACS+ configuration and administration of all network devices using for authentication, authorization and accounting
+Manage incidents, Change Management and projects with System Center Service Manager
+Monitor Active Directory servers and all Cisco network devices with System Center Operations Manager
+Implementation and management of Cisco Prime Network Control System for wireless network
+Implementation and management of Cisco Mobility Service Engine for wireless network
+Sr. Network Engineer Nov 2011 to Aug 2014 
+Company Name ï¼​ City , State
+Responsible for maintaining network with over 5000 users.Â 
+Experienced with troubleshooting of network issues in layers 1, 2, and 3.Â 
+Experienced with Vlan assignment, on both Cisco and Brocade devices. 802.1x and Mab configurations.Â 
+Experienced with troubleshooting issues with both Cisco and Brocade switches/routers.Â 
+Experienced with trouble shooting Spanning Tree issues that may occur during and after hours.Â 
+Responsible for setup and install of switches and routers. Includes Configuration and Hardening for both Cisco and Brocade.Â 
+Responsible for activating user, printer, VTC ports and troubleshooting link inactivity on a daily basis, as well as issues with 802.1x, MAB
+issues, port-channeling, link-aggregation, VTP issues, RSA Key issues.Â 
+Used Knowledge base to find solutions for issues that arose with customers networks using Pro-series network program running on
+Windows Server 2000 and Windows Server 2003 R2.Â 
+Communicated with team members to successfully keep customer downtime to a minimum.Â 
+Experienced with troubleshooting of network issues in layers 1, 2, and 3.Â 
+Experienced with Vlan assignment, on both Cisco and Brocade devices. 802.1x and Mab configurations.Â 
+Responsible for setup and install of switches and routers. Includes Configuration and Hardening for Cisco.
+Network Engineer Feb 2003 to Aug 2009 
+Company Name ï¼​ City , State
+Connected switches using trunk links and Ether Channel
+Responsible for maintenance and utilization of VLANs, Spanning-tree, HSRP, VTP of the switched multilayer backbone with catalyst
+switches
+Implemented redundant Load balancing technique with Internet applications for switches and routers.
+Support Network Technicians as they require training & support for problem resolution including performing diagnostics, & configuring
+network devices
+Used Network Monitoring tool to manage, monitor and troubleshoot the network
+Configured Cisco IOS Feature Set, NAT and Simple Network Management Protocol (SNMP) for Network Security implementation
+Received inbound calls of technical nature, independently resolved customer complaints, concerns and inquiries regarding their Internet
+connection
+Troubleshoot a wide range of technical support issues and connectivity problems such as authentication, connection speed, e-mail
+configuration, and loss of synchronization
+Experience in new employee mentoring, training and coachingÂ 
+Education
+MBA , IT 2011 London School of Accountancy & Management ï¼​ City , United Kingdom
+PGDMS , Management 2010 London School of Accountancy & Management ï¼​ City , UK
+Associate of Science , Science 2001 Rizvi College of Arts, Science & Commerce ï¼​ City , State , India
+Personal Information
+Authorized to work in the US for any employer
+Place of Birth: Hyderabad, India
+Date of Birth: 1st of November, 1982
+Present Resident in Birmingham, AL
+Sex: Male
+Status: Married
+Hobbies: International Travel, Driving, Cooking, Movies, Music, Dinning Out.

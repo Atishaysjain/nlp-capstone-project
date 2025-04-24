@@ -1,0 +1,125 @@
+CONSULTANT
+Summary
+Accomplished Senior Business Systems Analyst with over 10 years of business process, project management, and technology experience for
+fortune 500 companies.
+Recognized success in driving projects of the highest level of complexity, critical business value, and corporate visibility.
+Highlights
+International Institute Business Analysis
+(IIBA) Certification - August 2011
+MCDST Certification - Microsoft
+Certified Desktop Support Technician -
+August 2007
+Lean Six Sigma Certification - May 2013
+Demonstrated skills in business and systems analysis, project management, process
+analysis and improvement, data analysis and mining, inventory control, and quality
+assurance
+Experience
+Consultant 06/2013 to Current Company Name City , State
+Trained internal personnel in process awareness, execution, and documented mission critical processes
+Analyzed business process workflows and identified improvement opportunities
+Identified control gaps, determined root causes, and ensured appropriate controls were enhanced and / or implemented
+Installed and secured Cisco and Netgear routers and triaged internet connectivity issues with POS systems
+Senior Business System Analyst 10/2011 to 05/2013 Company Name City , State
+Served as a change case management liaison between Cardinal Health's medical products and pharmaceutical distribution stakeholders and
+its enterprise IT groups
+Provided SME guidance and support to business and functional users on existing and prospective SAP-related business processes
+Provided business process analysis and recommended workflow design solutions and informed work teams on process improvement and
+re-engineering strategies
+Updated and maintained documentation on process improvements and process performance
+Researched SAP CRM 3.0, CRM7.0 and ECC6.0 system issues and documented opportunities for improvement
+Gathered business requirements from business partners for SAP CRM system enhancement and business continuity purposes
+Documented UAT Plan for large project and worked with UAT Team to ensure all acceptance criteria for the requirements were included
+in the UAT task plan
+Tracked and reported all system and user acceptance test errors for management and developers
+Uploaded and maintained documents in SharePoint for knowledge base and training purposes
+Managed SAP CRM6.0 and CRM7.0 skill group, escalation rule changes, service profiles, BP profile and categorization schema changes
+for maintenance and enhancement
+Analyzed business data and applied analytical tools to interpret data Created reports using Business Objects functionalities, including like
+multiple data providers, prompts, and slice and dice
+Ensured testing activities enabled applications to meet business requirements and systems goals
+Lead discussions between the development and business teams to capture business requirements, stories, use cases, business flows and
+acceptance criteria
+Senior Lead Consultant / Manager 02/2011 to 10/2011 Company Name City , State
+Provided MS Office 2010 & Windows 7 deployment consulting support to package installation and support application patch updates via
+SMS and other enterprise deployment tools
+Managed team responsible for analysis, definition, specification, development, testing, documentation, and installation of new and existing
+applications
+Led and maximized e-commerce sales that achieved goals and customer satisfaction levels
+Analyzed and monitored sales and revenue generation through website traffic
+Ensured successful launch, implementation and operations of website
+Provided packaging and scripting applications via distributed to desktops and laptops across large, distributed enterprise environment
+Provided Tier II / III support of escalated issues, troubleshooting, and documented failed deployments Worked with cross functional teams
+both internally to IT and with business end-users
+IT Technician / Business Analyst 08/2010 to 12/2010 Company Name City , State
+Facilitated and conducted (JAD) Joint Application Design Sessions to determine business requirements by bringing stakeholders and IT
+Team on a common platform
+Provided detailed mapping of current and future state process workflows
+Created reports using SQL Server reporting services
+Identified and prioritized process and system improvements designed to reduce costs and increase productivity
+Coordinated with researched detailed definition of mathematical models for Demand forecast and Optimization models
+Replaced current backup/recovery system with an enterprise solution to provide more reliable data for backup/recovery solution to meet
+enterprise SLA requirements
+Documented use-case scenarios and what-if scenarios for mark down process
+Worked with Quality Assurance Team to create and execute Unit, System, and User Acceptance Plan and test case scenarios
+IS Application Support / Business Analyst 04/2010 to 07/2010 Company Name City , State
+Analyzed current state process for Promotion Item Forecasting and identified opportunities for improvement
+Organized information system policies and procedures to meet audit requirements
+Prepared statistical sections of protocols, statistical analysis plans, and programming specifications for all phases of study design
+Developed Managed Care financial goals specific to each hospital's unique services, costs and market demographics
+Developed and maintained professional and business relationships with medical staff, Chambers of Commerce, local employer groups
+Leveraged Data Stage Tools, including Infosphere DataStage Designer and Infosphere DataStage Director for developing jobs and to view
+log files for execution errors Implementation and knowledge of HIPAA code sets, ICD-9 and ICD-10 coding
+Defined ICD-9 to ICD-10 mapping process using GEMs (General Equivalency Mapping) crosswalk file Interacted with surgeons, doctors
+and nurses regarding equipment or app crashes in OR
+Collaborated with regulatory, clinical, quality assurance, bio-analytical, programmers and data managers in monitoring on-going clinical
+trials, including database locks and un-blinding
+Collaborated with business units to assess impact of business requirements and to reach consensus on alternative solutions when necessary
+to maintain consistent and flexible architecture
+Organized and participated in Scrum meetings with team members
+Project Manager / Business Analyst 03/2008 to 06/2009 Company Name City , State
+Served in project manager role to ensure key responsibilities were carried out in accordance with defined expectations
+Ensured project deliverables met defined expectations and were completed within the baseline of time scales and budget
+Certified Safety, Health & Environmental standards were achieved and all required statutory and regulatory conditions were met
+Provided regular and timely reporting of project progress to the sponsors and stakeholders
+Proactively managed project issues and risks, mitigating as necessary
+Managed changes to the project without unduly affecting the stated objectives and benefits
+Established Scrum project management process and assisted team meet sprint and story goals.
+Served in business analyst role to identify opportunities for system enhancements to assist in planning and implementation
+Facilitated relationships with third party vendors, carriers, and affiliates to meet and improve he SLA time-lines of licensing process
+Partnered with procurement team to identify assets and the risks to those assets (risk assessment)
+Liaison to ensure contract requests moved through process in timely manner
+Monitored batch processing and made corrective actions as required
+Reviewed business requirements, system functional requirements, and developed systems specifications
+Assisted customers in establishing methods to trade files from partner using Cyclone SFTP or AS2 and performed testing after every
+installation
+Triaged customer issues regarding FTP, trading files, or connection error issues, including EDI Transaction Sets
+Business Analyst / Project Manager 02/2006 to 02/2008 Company Name City , State
+Established and managed demand management program for technology organization that improved the optimization and use of IT resources
+Provided SME guidance on compliance issues during requirements and testing phases
+Established enterprise-wide governance structure for technology demand management program that enabled effective decision-making and
+management of IT through all stages of planning, delivery, and operations
+Responsible for running data profiling reports and developing reports using SQL and DataStage
+Worked on all phases of data warehouse development and Product Lifecycle Management, including gathering requirements to testing,
+implementation, and support
+Collaborated with management on changing requirements and business processes in order to disseminate data to more than four different
+development teams (both internal & external) and identified potential risks on an on-going basis
+Led feed-back sessions with stakeholders to solidify business requirements and gain management approval prior to design phase of project
+Business Analyst 11/2004 to 12/2005 Company Name City , State
+Provided underwriting experience to interpret the requirements from the business and user community in order to accurately develop
+OOMC's first automated production underwriting (AUDS) engine
+Worked closely with project sponsor to build over 500 test cases to facilitate vendor proof of concept (ILOG/France) prior to vendor
+selection and contractual engagement
+Selected to work hand-in-hand with pricing manager while documenting the Enterprise Pricing Requirements and creating the AUDS
+message table
+Ensured testing activities enabled applications to meet business requirements and systems goals and participated in user acceptance testing
+prior to Go Live date
+Warehouse Dock Specialist / Trainer 01/2000 to 01/2004 Company Name City , State
+Unloaded and loaded trailers with freight and ensured all necessary paperwork was attached to each shipment of freight
+Dispatched loaded freight trucks out to yard or for delivery
+Trained new dock workers on proper handling of freight and forklift driving
+Ensured OSHA regulations was enforced on a continuous basis
+Education
+Bachelor of Science : Network and Communication Management 2005 DeVry University City , State , USA 
+Skills
+Demonstrated, Hands-On Experience in: Lean/Agile, SDLC, Waterfall, Agile, ITIL, GAP Analysis, UAT, Business Requirements, Process
+Improvement, Process Mapping, Demand Management, Resource Management, and Project Management Lifecycle.

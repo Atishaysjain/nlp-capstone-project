@@ -1,0 +1,80 @@
+DIRECTOR OF INFORMATION TECHNOLOGY
+Executive Profile
+Innovative executive and technology professional with strong work ethic and excellent communication skills, experienced in high-volume, multi-unit,
+retail and business operations. Desires a high-level position in a professional business environment.
+Skill Highlights
+Microsoft Server 2003, 2008, 2012
+Exchange Server 2007, 2010
+VMware ESXi
+VMware vCenter
+VMware Horizon ViewÂ 5.x, 6.x, and 7.x
+Microsoft Hyper-V
+Cisco UCM and Unity
+Help Desk
+ITIL Service Catalog
+Vendor Management
+Budgeting
+Project Management
+SLA Management
+Asset Management
+Professional Experience
+Director of Information Technology 11/2012 to Current Company Name City , State
+Developed and implemented the IT strategy for the organization including software, support and infrastructure
+Hired, developed, and managed IT staff
+Negotiated terms and products from external vendors, including changes needed as business needs changed
+Met and exceeded goals set by executive leadership accomplishing both time and financial gains
+Set annual budgets for organizational technology needs
+IT Administrator 03/2008 to 11/2012 Company Name City , State
+Planned, installed and managed Microsoft domain environment utilizing Microsoft Server 2008
+Upgraded environment to Server 2012
+Planned, installed and managed Microsoft Exchange server, successfully migrating end user data from third party non-Exchange environment
+Planned, installed and managed VMware platform for a virtual environment. Converted all physical servers to virtual environment
+Planned, installed and managed VMware Horizon View virtual desktop environment
+Successfully migrated 120 users from physical computers to zero clients utilizing the VDI environment
+Maintained Cisco routing, switching, VoIP, and camera infrastructure, implementing our design utilizing third party vendors
+Managed help desk, utilizing ITIL framework for 260 end users
+Executed break/fix for computers, printers, security system, camera system, and all A/V systems
+New Car Sales 08/2005 to 02/2008 Company Name City , State
+Recognized by Toyota as one of the top salespeople in the Chicago Region
+IT Consultant 01/2000 to 08/2005 Company Name City , State
+Provided IT consultation and implementation of retail cash register networks
+Managed staff of more than 10 independent IT contractors in implementation of contract projects
+Acted as project manager for new equipment and software roll outs for some of the largest retail chains in the US including Wal-Mart, Mar-
+Maxx, and Toys 'R Us
+Certifications
+VMware Certified Professional 5 - Data Center Virtualization
+VMware Certified Professional 5 - Desktop Virtualization
+ITIL Foundation Certified
+Microsoft Certified Professional - Server 2012
+Core Accomplishments
+Leadership Skills:
+Led committee to successfully changeÂ our organization's dealership management system (DMS).Â  The DMS is similar to an ERP system
+for auto dealerships
+Charged with maintaining compliance and security for customer data. Successfully manage data sharing relationships with more than ten third
+party vendors. Worked closely with DMS provider to develop an acceptable secure data sharing platform.
+Project Management:
+Currently managing the conversion of the dealership to a newÂ dealership management system.Â  Created and ran sub-committees,
+mapped out and executed the conversion plan, responsible for many key process changes and workflowsÂ 
+Served as project manager for project creating a paperless work flow and digital storage process which resulted in 50% reduction of
+administrative processing time, $30,000/year reduction in costs, while increasing document availability and storage accuracy.
+As project manager, developed Smart Motors domain environment including group policy, DNS, multiple domain controllers, and OU
+structure.
+Managed email conversion project, deploying Smart Motors' on-site Exchange server. Converted existing email accounts from non-
+Exchange and provide access via Outlook Web App and mobile phone connectionsÂ 
+Served as project manager on several projects developing Smart Motors' virtual environment, including 5 esxi hosts separated into two
+resource pools, vCenter, Horizon View for 120 users utilizing 2 view connection servers and a security server
+Installed and mange TrendMicro agentless security for VMware View
+Staff Development:
+Frequently met one on one with staff to determine motivation and goals. Guided staff in creation of goals and the pursuit there of
+Presented daily topics in morning meetings to inform and reinforce company core values such as commitment to quality, customer
+satisfaction, and continuous improvment
+Developed and implemented a training program for new employees, providing them with the technology skills necessary for efficient and
+successful use of company technology tools
+Operations Management:
+Managed the infrastructure to support 260 users selling 500 vehicles and servicing 7,000Â vehicles each month
+Handled all technology vendor interactions including contract negotiations, SLA monitoring, and license utilization
+Education
+Bachelor of Science : Management Information Systems Cardinal Stritch University City , State
+Online Profile
+LinkedIn
+www.linkedin.com/in/RobertRJordan Â 

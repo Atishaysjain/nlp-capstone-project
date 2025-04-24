@@ -1,0 +1,97 @@
+CONSULTANT
+Career Focus
+To obtain a position in the area of SAP Consulting, utilizing my skills, academic background and past work experience, thus encouraging career
+advancement with growth of the organization. SYNOPSIS SYNOPSIS 7 years of professional experience with 5 yrs of experience as an SAP
+Consultant and 2 yrs in Banking and Financial Analysis Working with Infosys Limited, Sunnyvale, CA, USA as a SAP Consultant - SAP FI/CO
+since Oct 2010 Have been involved in 5 project implementations across various areas in the SAP FI/CO module Prior work experience includes 2
+years domain experience in Banking and Financial analysis at Yes Bank Ltd. India, Goldman Sachs, India and Ocwen Financials, India Working in
+California, USA (since Oct 2012) on a H1B Work Permit
+Experience
+Consultant 10/2010 to Current Company Name City , State
+5 Yrs) Client: Is a leading American multinational corporation headquartered in Cupertino, California, that designs, develops, and sells
+consumer electronics, mobile devices, computer software, online services and personal computers.
+Roles and Responsibilities: Working as a Functional Consultant in the SAP FI/CO Module for the client.
+Involved in 5 Project Implementations in the FI/CO Module and presently working as the Module Lead of a 40 member Global FI/CO
+Support and Maintenance Team.
+The typical role as the Functional Consultant in each project broadly involved Requirement Gathering, Preparation of the Design Document,
+carrying out the configurations and coordination with the ABAP resources, Integration Testing, End User Training and Documentation, Cut
+Over, Go-live and Post Implementation Support and Production Support Handover.
+Project Overview: Payment Consolidation System, a vendor payment automation system which involves multiple customized tools
+leveraging existing SAP Functionality to enable to automation of a unique and complex business process involving payments to multiple
+vendors in addition to transmitting key information to frontend systems.
+SAP FI-CA (RMCA): Implementation of the FI-CA (RMCA) module implemented by the client for a specific business line involving mass
+business transactions.
+Have been involved in configuration of the system along with integration with the Core SAP Module and other downstream reporting
+systems (SAP BW / EDW) Revenue Recognition, a process involving customization of existing SAP Functionality to enable calculation and
+recognition of deferred revenue through creation of relevant Subscription or Service Oriented Contracts, enabling distinct calculations for
+each of the elaborate mix of product offerings.
+Journal Voucher Workflow, a web based utility which enables manual postings of various Accounting Postings Types, enabled with all SAP
+validations and customized features in addition to scenario based multi level approvals Balance Sheet Reconciliation, a web based utility
+which helps business users perform period reconciliation of balance sheet accounts to meet internal and statutory requirements after fiscal
+close.
+Production Support and Maintenance, supporting and maintaining the complete SAP FI/CO Landscape.
+The scope of work involves but is not limited to key functionalities implemented such as General Ledger, AR/AP, Automatic Payment
+Program (F110), Asset Accounting, AB-COPA, Special Purpose Ledger, Revenue Recognition, Taxes on Sales / Purchases, Vertex,
+Treasury, EBS, Collections and Dispute Management, FI-CA (RM-CA), Invoice Cockpit, Lockbox, in addition to various customized
+utilities and applications.
+Module lead of a 40 member Global FI/CO Support and Maintenance Team Co-ordinating with client for providing acceptable solutions to
+problems, queries raised by client within predefined stringent time limit and providing solution to users.
+Corrections and Enhancements made to the configuration settings for different company codes as per the business requirements Involved in
+Month End , Quarter End and Year End Close acivities which involve monitoring of system and resolving any close critical issues.
+Involved in SAP Support Packs and Enhancement Packs implementations Customizing and configuration of various areas of IMG activities
+including: General Ledger master records, Account receivable/ Accounts Payable, Withholding Tax, House banks, Taxes on sales and
+purchases, Asset Accounting, Basic setting of Controlling, Cost Center and Profit Center Accounting, Internal orders, Profitability Analysis,
+Integration of FI with MM and SD.
+Creation of G/L Masters, Cash Journals, House banks and Maintaining Field Status Variant and Posting Keys.
+Defining Fiscal year variant, Posting periods, Tolerance groups, Document types and number ranges.
+Configuring Automatic Payment Program (F110).
+Involved in Core user & end user training and preparation of user manuals.
+SAP Expertise Have extensive experience in Key SAP FI/CO functionaltities such as General Ledger, AR/AP, Automatic Payment
+Program (F110), Asset Accounting, AB-COPA, Special Purpose Ledger etc.
+Have worked extensively in the FI-CA (RMCA) module implemented by the client for a specific business line involving mass business
+transactions.
+Have been involved in configuration of the system along with integration with the Core SAP Module and other downstream reporting
+systems (SAP BW / EDW) Worked extensivlely in the Revenue Accounting model.
+Enabling deferred revenue accounting for various mix of products Extensive knowlegde of customized web based tools to enable postings in
+SAP with additional approval route features.
+Have been involed in customized tools develeoped leveraging SAP HANA Functionalities Experience in niche functionalities such as
+Electronic Bank Statements (EBS) and Treasury Experience in various standard and customized FI Reports across functionalties and
+integration with other SAP modules such as SD, MM and BW Experience in reading and understanding ABAP Code.
+Relationship Partner 04/2010 to 10/2010 Company Name City
+Acquisition of Small and Medium Enterprises (SME) clients (with turnover up to INR 2500 Million).
+Furnish the clients with end-to-end financial solutions encompassing Financial Markets, Trade and Treasury services, Corporate Finance,
+Account Services and Term Loans with focus towards Working Capital Requirements (such as Cash Credit Limits, Letter of Credit, Bank
+Guarantee, Invoice Discounting, Over Draft Limits etc.).
+Analysing their financials and rating these clients on financial and non financial risk.
+Maintain portfolio quality by proactive account management, Monitoring of account conduct; undertake stock and unit visits etc.
+Analyst 11/2007 to 06/2008 Company Name City
+Ensuring all cash and stock transactions in the client accounts are accurate in order to minimize financial risk.
+Conducting in-depth analysis of exceptions in the account and timely resolution of the same.
+Asset level analysis of funds before the monthly or daily Net Asset Value (NAV) is published.
+Preparing consolidated reports for high net worth clients taking into account all the internal and external holdings.
+Associate 07/2006 to 07/2007 Company Name City
+Financial Analysis of defaulted loans and approving it for foreclosure.
+Initializing and coordinating foreclosure of defaulted loans.
+Ensuring timely completion of active foreclosures.
+Education
+Degree/Certificate Institute Year of Passing Percentage : Finance 2010 International Management Institute City GPA: GPA: 3.047 Finance GPA:
+3.047
+2006 Sri Bhagawan Mahaveer Jain College
+Senior Secondary Certificate (ICSE) Baldwin Boys' High School, Bangalore 2001 76.33% AMFI - Mutual Fund (Advisors) Module NSE's
+Certification in Financial Markets (NCFM) 2003 Sri Bhagawan Mahaveer Jain College DCM Shriram Consolidated Ltd. (New Delhi) Intern
+Bachelor of Commerce Bangalore University
+Higher Secondary Certificate
+Personal Information
+21st September, 1985
+Additional Information
+ACHIEVEMENTS & AWARDS ACHIEVEMENTS & AWARDS Received the Star Performer Award at Infosys Limited in Aug 2014,
+a recognition for excellenece in overall performance and client deliverables Received the MFG-SAP Champion Award at Infosys Limited in
+Q2 FY 2012, a specialized award to recognize excellence in the SAP Area Received Muliple Spot Awards at Infosys Limited , a
+recognition for excellenece in the designated Project. Consistently received the Best Rating in Performance Appraisal Cycle at Infosys
+Limited PERSONAL DETAILS PERSONAL DETAILS Date of Birth: 21st September, 1985 Sex: Male
+Skills
+ABAP, account management, reconciliation of balance sheet accounts, Accounting, Accounts Payable, Go-live, AP, AR, automation, Balance
+Sheet, Basic, Business Process, Cash Management, CA, Consultant, consumer electronics, Contracts, Corporate Finance, Credit, Client, clients,
+Document Management, Documentation, downstream, Estimating, features, financials, Financial, Financial Analysis, focus, Functional, funds,
+General Ledger, Ledger, Market, Profit, quality, reading, reporting, Requirement, Retail, Revenue Recognition, Sales, SAP BW, SAP FI, SAP,
+SD, Tax, Taxes, User Training, user manuals, Treasury, unique, utilities, Vertex, Workflow

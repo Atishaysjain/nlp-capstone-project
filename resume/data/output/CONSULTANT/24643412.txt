@@ -1,0 +1,81 @@
+CONSULTANT
+Summary
+Master's degree in Computer Science with twenty-five years of experience designing, implementing, and maintaining computer programs,
+architectures, and operating systems. Expert in C, C++, Java, SQL and with web based applications. Over ten years' experience teaching as
+adjunct or full time faculty while running a consulting firm.
+Highlights
+Proficient in HTML
+SQL expert
+Analytical
+Self-starter
+JavaScript expert
+C, C++, Java expert
+Accomplishments
+Awarded United States Patent Number 5,758,052 in May 1998 for Network Management Method Using Redundant Control Processors
+Awarded United States Patent Number 5,491,791 in February 1996 for System and Method for Remote Workstation Monitoring Within a
+Distributed Computing Environment
+Deans Scholarship at the University of Pittsburgh towards Ph.D. degree, May 1989 - May 1990
+Teaching Assistant at the University of Pittsburgh, Operating Systems, August 1989
+Experience
+Consultant 
+January 2002 to Current Company Name ï¼​ City , State Currently running a business doing general programming and web development. The
+majority of the work is server side programming using either ASP or PHP with SQL. Recent contracts included a PHP project using MySQL for a
+ticket broker with 1500 websites. Another was doing business analysis programming using SQL Server, C#, .NET, AJAX, and HTML for a
+global law firm.
+Senior Operations Programmer 
+January 2001 to January 2002 Company Name ï¼​ City , State Operations programmer responsible for programming card access systems. The
+programming included enhancements to the Casi-Rusco Picture Perfect system. Responsibilities were to write C and SQL code to enhance the
+capabilities of Picture Perfect. Maintained a Red Hat Linux 7.1 server for development purposes. Wrote PHP code to generate reports from a
+MySQL database.
+Programming Manager & Systems Analyst 
+November 1999 to January 2001 Company Name ï¼​ City , State Programming manager for a distance learning web based business.
+Responsibilities included managing the programming department and the programming for a virtual classroom. The classroom was created using
+Director with parts including ASP, HTML, Flash, Quicktime and VB.
+IS Manager 
+July 1999 to November 1999 Company Name ï¼​ City , State Programming manager for a web based business. Responsibilities included
+managing programmers and IT professionals and maintaining the front and back ends of an Internet based business. Programming was done in VB,
+Delphi and JavaScript.
+Systems Analyst - Department Manager 
+November 1998 to July 1999 Company Name ï¼​ City , State Systems Analyst for a large Internet based automated time clock project.
+Responsibilities included troubleshooting, interface set-ups with other vendors and new account set-ups. Managed the whole department while the
+director was not available. Languages used in this position were Java, C++, VB, SQL, FoxPro and HTML. Databases used were Oracle and
+btrieve.
+Senior Systems Developer 
+October 1997 to October 1998 Company Name ï¼​ City , State Software engineer for an inventory control group in a large project. Product was
+developed in a Windows and a UNIX environment, with the final product to be delivered under UNIX. Code was developed in C using dynamic
+SQL on an Oracle database. Duties included coordinating with off-shore programmers, unit testing, sub-system testing, development and
+performance tuning. Tools were written in VB on a Windows system.
+Computer Consultant 
+April 1994 to September 1997 Company Name ï¼​ City , State Developed a Lotus 123 project to manage resources for the project management
+team. GE Capital Stamford, CT Maintained and enhanced C programs supporting a client/server collections application. Provided 24 hour
+customer support for the application as well. IBM Corporation Fishkill, NY Maintained previously existing code written in Lotus 123. Oversaw
+the delivery of code using TCP/IP and worked on IBM's Financial Data Warehouse's Internet pages. Provided general PC customer support to
+IBM management. IBM Corporation Southbury, CT Designed and implemented an OS/2 DB2/2 interface for all SQL in a VX-REXX
+application. IBM Corporation Fishkill, NY Designed and implemented an OS/2 Presentation Manager program in C to capture real-time scientific
+data from an IBM mainframe assembly line producing computer wafers. The data was captured from the serial port of a piece of equipment
+monitoring wafer qualify. Graphs were then drawn using the OS/2 PM GPI commands. Spent some time learning GPF as a tool for code
+development. Self-Employed New Hyde Park, NY Designed and implemented modifications to a dBase program to customize it for a client.
+Senior Associate Programmer 
+January 1990 to March 1994 Company Name ï¼​ City , State and Poughkeepsie, NY Systems Test Lead and OS/2 developer for a large OS/2
+project written in C to manage the TPF operating system. This included extensive Presentation Manager and Database Manager knowledge. This
+was a LAN based system and some communications programming was included. Also did some 370 Assembler programming for the TPF
+operating system. Additional Programming January 1979 - July 1984 Defense Industry Programmed for defense contractors in Virginia, Maryland
+and New York mostly using the UNIX operating system, with C, Extended Basic and Fortran. This work was mostly classified; some was real-
+time analysis for submarine warfare. One 2-year project was mapping for the Defense Mapping Agency.
+Education
+Master of Science : Computer Science , 1989 University of Pittsburgh University of Pittsburgh, Master of Science in Computer Science, 1989,
+GPA: 3.75 Courses included: Compilers, Computer Architecture. Operating Systems, Algorithm Design and Analysis, Computational Geometry,
+Information Processing, Database Design, Digital Design, Graphics and Microcomputers. Almost all of this work was done using the UNIX
+operating system.
+Bachelor of Arts : Computer Science , 1978 State University of New York, College at Potsdam State University of New York, College at
+Potsdam, Bachelor of Arts in Computer Science, 1978 Studies included: Languages, Top Down Structured Programming, Systems Programming
+and Operating systems.
+Skills
+Sql, Html, Asp, Mysql, Php, .net, Ajax, Business Analysis, C#, Contracts, Ms Sql Server, Sql Server, Os/2, Real-time, Database, Unix,
+Associate, Defense Industry, Fortran, Lan, Mapping, Test Lead, Topo, Tpf, Assembly, Assembly Line, Client/server, Collections, Credit,
+Customer Support, Db2, Dbase, General Pc, Ibm Mainframe, Mainframe, Project Management, Rexx, Tcp, Tcp/ip, Wafer, Systems Analyst,
+Oracle, Web Based, Flash, Engineer, Inventory, Inventory Control, Performance Tuning, Software Engineer, System Testing, Testing, Unit
+Testing, Access, Casi-rusco, Linux, Operations, Red Hat, Btrieve, C++, Databases, Foxpro, Java, New Account, Ups, Adult Learning, Apache,
+Back End, Clients, Computer Programming, Database Management, Dod, Government Contracting, Instructor, Mentor, Pascal, Patent, Security,
+Software Development, Structured Software, Systems Analysis, Teaching, Visual Basic, Web Server, Delphi, Javascript, Algorithm, Architecture,
+Database Design, Digital Design, Systems Programming

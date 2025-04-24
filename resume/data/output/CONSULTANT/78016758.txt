@@ -1,0 +1,61 @@
+CONSULTANT
+Summary
+As a proud Microsoft employee, I'm driven by Customer obsession, Growth Mindset and One Microsoft principles. In every position I've had at
+Microsoft, my guiding principle has been taking customer feedback and advocating for cross-organizational initiatives to unite the ecosystem to
+provide the best possible product, services and support experience for our customers. Combining my technical knowledge and experience with my
+excellent communication, problem solving and strategic planning skills, I have been on the front lines providing dedicated engineering support;
+delivered and created Services global portfolio offerings; architected and delivered cloud migration engagements; driven our critical watch-list
+customers through Get to Green programs and built proactive outreach scale models to empower the entire Microsoft ecosystem from account
+teams, support, services and product engineering teams with visibility, awareness, data and actionable guidance to improve customers' Skype for
+business and O365 experience.
+Experience
+02/2016 to Current
+Consultant
+Enterprise Communications Global Practice), Microsoft Accepted a position in ECGP, specifically to help develop and expand the "Get
+Healthy" program as well as act as a Solutions Architect for pre-sales, artefact and delivery activities on these engagements.
+My key contribution to date has been taking the on premises framework and content and developing the hybrid and Online frameworks and
+content.
+The program will go live at the end of July at which point our focus will be around training global delivery resources.
+I have worked on PG escalations with large customers like 3M in their Online "Get Healthy" efforts, as well as engaging with customers like
+Alcoa (SfBOnline), Aon (O365Dedicated), Lubrizol, AllState (on premises) to scope, customize and deliver "Get Healthy" offerings
+Assisted with AirLift deliveries as well as conducting technical interviews for Consultant and Architect level candidates.
+06/2013 to 02/2016
+Premier Field Engineer City , State
+DSE workload of at least 1600 hours as well as assisting on many transactional engagements, specifically Risk Assessment as a Service and
+Office 365 Network Performance assessments for customers like Delta Airlines.
+I worked with two dedicated customers, and many transactional customers to analyze performance issues, and assist with getting their
+environments healthy using RaaS, but primarily ongoing KHI and CQM analysis and SCOM alert tuning, and helping them move to more
+real-time methods such as StatsMan and Call Quality Dashboard As part of the AIG O365 team who recently achieved a 40 million dollar
+O365 deal, I was the Lync DSE on the AIG account for two years and they have just renewed their Lync DSE contract for another two
+years.
+I focused on helping them stabilize their environment and starting to position them for successful hybrid environments as part of their O365
+strategy.
+I worked as the DSE for multiple other customers helping them transition from IM & P to replacing AT&T conferencing company-wide
+(with enterprise voice capabilities, analysis and correction of all performance and call quality issues, as well as assisting them with
+merger/acquisition scenarios and successful consolidation/migration of two Lync environments Assisted on transactional engagements for
+Citrix, Carnival Cruise Lines, Florida Hospital, Diebold, Kelloggs Company and provided back up for other PFEs covering Amazon, Visa,
+Mastercard, Humana, Deloitte, King County and State of Washington.
+Volunteered for MySkillsForAfrika, and assisted the Botswana Innovation Hub with their Skype for Business deployment.
+01/2009 to 06/2013
+Lead Application Engineer Company Name
+Responsible for designing and engineering unified communication solutions.
+Lead Lync Application Engineer.
+Completed migration from OCS 2007 R2 300 user deployment to on-premise Lync 2010 deployment for 25K user capacity with IM,
+presence, group chat, federation, PIC, audio-video collaboration and Cisco/Tandberg integration functionality.
+Also completed acquisition and integration of Morgan Keegan's Lync 2010 environment.
+Designed Lync 2013 architecture and completed Polycom integration with RMX and DMA infrastructure.
+Additional responsibilities include mobile device management solutions deign and implementations, including Blackberry, Good, ActiveSync
+and MobileIron.
+Education and Training
+1998
+Associate degree University of Stellenbosch and Nelson Mandela Metropolitan University
+1996
+Matriculation Certificate Collegiate Girls High School
+07 / 2018
+MCSE : Communication Communication
+Microsoft Â· License: F372-7058 MCSA: Office 365 - 07 / 2015 - 07/2018 Microsoft Â· License: 10013480
+Skills
+go live, Architect, audio, Cisco, Citrix, Consultant, content and developing, content, delivery, designing, Engineer, focus, Hub, Innovation, Office,
+migration, Enterprise, Network, Quality, real-time, Risk Assessment, sales, strategy, video
+Additional Information
+MCITP: Lync Server Administrator 2010 - 05 / 2013 Microsoft Â· License: 10013480

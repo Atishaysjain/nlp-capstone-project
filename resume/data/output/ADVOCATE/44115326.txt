@@ -1,0 +1,210 @@
+LEVEL 2 CRITICAL PLATFORM SUPPORT ENGINEER
+Career Overview
+Over 7+ years of IT experience specializing in CLOUD/Aix/LINUX/Solaris and WINDOWS Administration in Production Support of various
+systems on AIX 5, 6.1, Linux (RedHat and SUSE). Strong background knowledge of Networking concepts and experience in Network
+Administration & Troubleshooting on AIX based systems. Experience in installation, configuration, tuning, security, backup, recovery and
+upgrades of IBM AIX. Experience in Installation and configuration on IBM System P p690/p650, p5-570, p5-550,p5-55A and p6-570, RS-
+6000 Servers. Experience in installation and configuration of Virtual I/O Server (VIOS) (1.5 and 2.1). Experienced in AIX Migration Installation,
+Preservation Installation and Complete Overwrite Installation using CDROM and configuring NIM Server. Strong knowledge and experience in
+Logical Volume Management (LVM), Storage and Disk Management Configured HACMP 4.x/5.x to monitor, disaster recovery, detect and react
+to failure events, allowing the system to stay available during random, unexpected software problems and also configured to react to system events.
+Experienced in Infrastructure & Support team as Linux/Cloud/ Administrator. Hands on experience on Cloud Computing. Administering all the
+RHEL, RHEV and open stack cloud computing. Familiar with designing high level architecture for implementation of Hybrid Cloud. Experienced in
+doing capacity planning for new AIX environments. Knowledge on AWS OpsWorks. Implementation and Administration of DHCP, NFS and
+NIS on AIX. Good understanding of error logging subsystem and performance monitoring tools like vmstat, iostat, and netstat on AIX 5L.
+Familiar with Tivoli Storage Manager (TSM) for backup automation with policies configuration for Web based databases, setup consisted of
+server and client backup with progressive backup methodology Expert in configuring a TCP/IP network on AIX, adding network routes and
+debugging network related issues. Expertise in shell (korn) scripting and familiar with PERL. Excellent in troubleshooting and Maintaining AIX and
+Patching. Expertise in SMIT, LVM, Mirroring, Paging Space management, job scheduling, Performance monitoring, Error logging, Diagnostics,
+and Fine-tuning. Experience performing problem analysis along with recommending and implementing preventive techniques. Experience in writing
+Technical documentation. Provided 24X7 support to ensure round the clock availability. Team player with excellent communication and inter-
+personal skills.
+Skill Highlights
+Technical Skills: Operating Systems: IBM AIX (v5.3, v6.1, v7.1) Redhat Linux (v6.2,7.2,Enterprise Linux) Oracle-Solaris 10 Hardware: IBM
+Blade server, HMC, HP ILO, DELL IDRAC. Vsphere 5.0 Application Server: AWS EC2,NIM, Apache, HACMP clustering, DNS, NIS,
+NFS, Websphere Application Server 6.x/5.x, Websphere Portal server, Windows 2000/2003 Active Directory, Microsoft IIS Server4/5, SSL,
+Distribution Server. Tools: Nagios, Tivoli, Teradata MSM, HUBEQ, ITSM, Peregrine, SSO, EURC, MQ, EMS Tibco, Sharepoint.
+Professional Experience
+02/2014 to Current
+Level 2 Critical Platform Support Engineer Company Name ï¼​ City , State Day to Day System Administration and Monitoring in an environment
+of 1800+ servers that includes CLOUD, WINDOWS and UNIX/LINUX (HPUX, AIX, LINUX, SOLARIS) envirionments, questions and
+problems via telephone, FAX, and email. Researched the data base for known problems or tested the customers problem on a test system in the
+same environment. Aided customer in resolving their problem. Applying monthly Patches on Windows as well as Unix boxes using HPSA (HP
+Server Automation) Tool. Hands on experience on Amazon EC2 web services. Familiar with Identity Management, Access Control and other
+security aspects on cloud. Experience on Hybrid cloud operations and management. Hands on experience on working with VPC & VPN
+concepts in cloud. Familiar with Amazon SimpleDB web service that is used for indexing and querying the data. Hands on Experience with
+different components used in AWS like Amazon S3, Amazon SQS, Amazon SimpleDB and Amazon EC2. Administering all the RHEL , RHEV
+and open stack cloud computing. Familiar with designing high level architecture for implementation of Hybrid Cloud. Responsible for submitting the
+requests for opening the ports to the Cloud servers. Created 50 EC2 instances for a POC effort and maintained them. Procured S3 storage
+servers. Build, Configure and Install Red Hat Linux 5/6, OS on physical and virtual servers. Working on mission critical applications and
+Middleware tools that includes IBM Websphere MQ, Weblogic, Tibco EMS. Monitoring and Troubleshooting applications and messaging queues
+alerts. Active as an On call Resource for Windows and Unix Boxes in case of P1s and P2s or failure of hardware. Responsible for coordinating
+with vendors like HP, IBM, Microsoft, Symantec, Oracle and RedHat for hardware replacement and troubleshootings. Monitoring and
+Troubleshooting of various services like DNS, Domain Controllers, IIS and Application Services etc. Monitoring and Troubleshooting LAN and
+WAN. Monitoring user and Databases in SQL Server and monitoring backup and replication of SQL and Oracle Databases. Installation,
+configuration and administration of Windows/Unix/Linux servers. Maintain and Manage various services running in the environment which included
+IIS, apache web server, Tomcat, Oracle Databases, Sybase and DB2. Working on Veritas Cluster Server and assisting and coordinating with
+Application and Middleware teams for timely changes using ITSM tool. Providing Breakfix support for all the systems and OS using HP Service
+Manager.
+02/2013 to 01/2014
+Terradata Multi System Manager Company Name ï¼​ City , State Columbus, Ohio/Chicago, IL Feb 2013 - Jan 2014 Level 2 Unix Engineer
+Providing Production Supoort Engineer for over 45000 SERVERS of AIX/LINUX/SOLARIS. Working on wide range of softwares, utilities,
+applications and protocols that includes Oracle Database, Websphere, Apache, Tomcat, Netcool backup, TMSM Client (Terradata Multi System
+Manager). SSH, SSL, TCP Wrappers, Tripwire. Working on ITSM Change management to upgrade and update Applications as well as
+Operating Systems. Providing breakfix support on Peregrine Tickets system for Operating System as well as Applications. Mainly responsible for
+DR Events for backing up and updating Prod Servers. Very good experience with GPFS, SRDF setup as well as Linux, Solaris and AIX
+clustering. Working on VCS (Veritas Cluster Server) and AIX HACMP. Working on HP ILO (integrated light out), Dell Idrac, IBM HMC web
+consoles. Hands on experience in VMware and Vsphere 5.0. Installed and Configured Solaris 10 by using Jumpstart server(Jet server) and also
+installed and configured Linux by using Kickstart server. Involved User Administration (creating user account , password and set the password) on
+Red hat Linux and Solaris. Involved in Sudo , Batch Job Administrations (cron & at)and Send mail configuration Creating File system by using
+Veritas Volume Manager and Solaris volume manager and LVM Involved in Upgrading Sun Solaris 8 to Solaris 10 by using LiveUprade and
+Redhat Linux 4.5 to 5.0 Involved in Upgrading Veritas Volume Manager from 4.0 to 5.0 Involved in creating and configuring Zones/Containers,
+zfs filesystems in Solaris 10 environment. Responsible for day-to-day systems administration tasks in Solaris and Linux. Creating and growing
+Filesystem by using Veritas Volume Manager and Solaris volume manager and CFS file systems. Installed and configured Ldoms in Sun T series.
+InstalledPatches and Packages on Linux (Red Hat) servers and created filesystems by using LVM. Involved in Upgrading Sun Solaris 8 to Solaris
+10 by using LiveUprade. Involved in Upgrading Veritas Volume Manager from 3.5 to 4.0 Installed and configured Media server, Master server
+and Clients by using NetBackup. Involved in creating and configuring Zones/Containers, zfs filesystems in Solaris 10 environment. Configured
+NFS servers on using NetApp. Worked on Backup and restore requests by using NetBackup. Responsible for creating user accounts and setup
+new workstations. Involved in monitoring and troubleshooting network issues.
+01/2012 to 01/2013
+AIX/HP-UX Administrator Company Name ï¼​ City , State
+Practical experience with installation, configuration, upgrade and administration of IBM pSeries and Power5 servers on various levels of
+AIX 5.2, 5.3, 6.1, 7.1 and HP-UX 11.3
+Responsible for Administration, Installation, Upgrading, Migration, Configuration, Troubleshooting, Security, Backup, Disaster Recovery,
+Performance monitoring and Fine-tuning of AIX and HP-UX systems on different oslevels.
+Configuration of NIM Master, NIM slaves and nodes installation through NIM.
+Supporting a major initiative to migrate SAN storage utilized by HP-UX and AIX servers (typically large Oracle data bases, web and
+application servers) across several EMC DMX arrays onto EMC VMAX array.
+Participate in planning sessions to build LPARs and migrate applications.
+Build LPARs and support application migration activities following build and security standards.
+Support the collection of performance data via a predefined centralized collection methodology specified by IBM.
+Work with DBAs on installation of Oracle, restoration and performance tuning.
+Remediate any security issues uncovered by vulnerability scans.
+Installation configuration and testing of VIO Server with AIX 5.3, 6.1 on client LPAR's on 550, 570 and p590, p595 model and using
+NPIV.
+Installed and maintained IBM Tivoli Storage Manager (TSM) for Backups and data storage.
+Aid in the installation or consolidation of applications, developing system administration scripts, planning version release upgrades and
+patches, security administration.
+Working various shifts, including weekends, based on the business requirements for off hour's downtime during migrations.
+Configured backup/archive policies using backup utility and mksysb images of root volume group to meet data archiving requirements and
+disaster recovery readiness.
+Responsible for administration and troubleshooting 4 node HACMP cluster on which ORACLE RAC was installed and containing 34 TB
+of EMC SAN storage.
+Performing System Storage management/LVM tasks like creating volume groups, PV's, LV's and jfs/jfs2 File systems, mirroring, and
+mounting file systems.
+Monitoring, troubleshooting, supporting and fix operating system and hardware problems on several versions of UNIX systems.
+Generated reports to show the trends of resource utilization user/CPU/network load/memory.
+Document UNIX configurations for hand-off to production support team.
+Attending meetings and analyzing information obtained from management to conceptualize and define operational problems.
+Experience in upgrading HMC.
+Assisted other Unix administrators when help was needed (i.e., creating UNIX accounts, writing scripts to perform system administrator
+functions, responding to trouble tickets, etc).
+Coordinated server maintenance through a well-defined change control process including after hours and weekend (Sunday) work as
+necessary to support systems.
+Performed Firmware level upgrades for the Ethernet/fibre card adapters.
+Installation of patches, APARS, Security fixes, packages on AIX servers.
+01/2011 to 12/2011
+AIX/Linux Administrator Company Name ï¼​ City , State
+Responsible for maintaining and administering 100 production IBM pSeries AIX 5.3/6.1 servers.
+Giving the Level 2/3 support and assisting the team members in fixing/troubleshooting the AIX software problems.
+Performed IBM AIX 5.3/6.1 System installation and configuration, problem determination, solutions design and implementation,
+maintenance, performance tuning, disk mirroring using LVM, backup, disaster recovery, trouble shooting and user management.
+Setting up NIM master server and clients for New & Complete Overwrite/Migration Installation management using alternate disk installation
+method.
+Performed AIX Migration of AIX 5.2 to 5.3 and 6.1 on Power7 p-770/750, p6 p570/550 and p5 p550/520/505s Servers & hardware
+Migration from one hardware to another in a Virtualized environment.
+Installed and Configured Dual VIOS 2.1.Created Virtual SCSI server and client adapters. Created Shared Ethernet adapter (SEA) with
+Control Channel adapter and the SEA Failover. Mapped the disks from the SAN to the VIO clients through VIO servers.
+Performed VIOS Migration from VIOS 1.3/1.5 to 1.5/2.1 and VIOS 2.1 to 2.2 Upgrades.
+Planned & Executed Migration of HACMP 5.4 to HACMP 5.5 using Node-by-Node migration without changing the cluster setup,
+Configured disk heart beat for the HACMP cluster, Dynamically added removed resource groups in a HA cluster.
+Installed software using Installp applying PTFs, Microcodes, updating PMRs, downloading Filesets, ODM, LVM and Disk Management.
+Responsible for analyzing vendor security patch notifications and applying the security patches Quarterly.
+Performed the daily system administration tasks like managing system resources, writing scripts, and end users support, operations and
+security.
+Performed routine checks on nodes by monitoring syslogs and error logs for system and hardware errors.
+Extensively used LVM - created VGs, LVs, FSs and disk mirroring for IBM p-series servers.
+Installed and configured the SAN LUN under the Multipath software Hitachi HDLM and IBM MPIO.
+Installed and configured IBM Tivoli Network Storage Manager (TSM) client & Server software backup and recovery solutions.
+Configuration and Administration of DNS, NFS, DHCP, FTP, Samba Servers and clients. Security layers like SSL, SSH, HTTPS, SFTP.
+Updated documentation of all the Servers and the installed applications and patches.
+Providing 24X7 On-call Production and Customer Support including trouble shooting problems related to IBM AIX pSeries servers.
+01/2009 to 11/2010
+AIX/Linux Administrator Company Name ï¼​ City , State
+Working in 100+ IBM servers Environment such as IBM RS/6000, p670, p5-570, p5-595 servers running AIX 4.3.3, 5.1, 5.2 and 5.3
+Setup and configured TCP/IP network on LINUX and AIX.
+Working with implementation team of high availability cluster on IBM RS/6000 platform (HACMP for AIX)
+Creating LPARS and configuration of DLPAR scripts for load sharing
+Installation and configuration of network services such as NFS, NIS and DNS Server
+Adding physical volumes, creation Volume groups, File systems, Storage allocation, cron jobs, maintenance levels upgrades and applied
+Fixes for AIX 5.x
+Configuring volume groups and logical volumes, extending logical volumes for file system growth using Logical Volume Manager (LVM)
+commands
+Working in the migration team for migration from AIX 4.3.3, 5.1 to 5.2 and 5.3.
+Configuring backup/archive policies using Tivoli Storage Manager
+Modifying Korn and Bourne shell scripts to automate administration tasks like customizing user environment and performance monitoring.
+Performing routine checks on nodes by monitoring syslogs and errorlogs for system and hardware errors.
+Setup cron jobs schedules for various backup and monitoring tasks. supported with enterprise backups using Veritas Nebackup version 4.5
+Installing, configuring and administrating Websphere Application Server 4.x/5.0
+Installation/Administration of TCP/IP, NIS/NIS+, NFS, DNS, NTP, Auto mounts, Send mail and Print servers as per the client's
+requirement.
+Performing extensive Logical Volume Management (LVM) tasks.
+Installing and configuring SUDO for users to access the root privileges.
+Installing application connectivity software to enable IBM print services. Configuring and administrating firewall rules, including the use of
+SNORT, NMAP to effectively monitor system files, port security, and network traffic activity coming through the firewall.
+Developing Korn and Bash shell-scripts to automate routine activities.
+Installing and setting up Oracle9i on Linux for the development team.
+09/2007 to 11/2008
+UNIX/AIX Linux System Engineer Company Name ï¼​ City , State
+Data center support for AIX (5.3/6.1)/Linux (red-hat enterprise (4/5) ) platforms
+Monitoring TIBCO, Java and Oracle application running on UNIX server
+Analyzing the issues with the application and perform action to fix it, by interacting responsible person's
+Administration, Troubleshooting and monitoring AIX /Linux servers running business critical application like WEBSPHERE(WAS) 6.x,/7.x
+IBM DB2, oracle10g/11g, Apache TOMCAT, JBOSS, ORACLEAPP, Blade logic & JAVA
+Responsible for designing, Implementing disaster recovery planning and policies in VIO sever (Aix 5.3/ 6.1) and VMWARE (Redhat Linux)
+environment
+Closely working with application teams on ORACLE, WEBSPHERE, JAVA, JBOSS, Apache Tomcat and XML
+Applying the Security patches and doing all the change management
+Managing legato net backup and TSM storage server
+Responsible for managing Cisco, hp router, switches and terminal server
+Perform migration from AIX 5.3 TO 6.1 and LINUX REDHAT ES 4.0 TO 5.0
+Responsible for building Testing, development and production server
+Supporting Linux RedHat in High Availability web environment
+Prepare documentation for all procedures and actions
+Developed KSH, AWK, SED & PERL scripts to perform automatic administration tasks
+Design, Implement, and maintain multiple, 570,595 DLPARs, virtualization input output server (VIOS) using HMC
+Hands on experience with VMware ESX, Virtual Center Server & VM cloning in a SAN environment
+Ensuring systems security and data recovery is always maintained.
+Setup and maintenance of several EMC Clariion, VMAX array, symmentix storage server(CX300/CX700 and many more ), IBM and
+NETAPPs storage
+Configuring and Administrating NIM, NFS, NIS &LDAP server
+Managing AIX, Redhat Linux logical volume manager (LVM) and veritas volume manager (VXVM(/4.x/5.x))
+Installed SSH and IPsec on 2600 server as well as upgrades EMC power path
+Responsible for maintain Disaster Recover procedure and Policies
+Working as team lead on many project
+Installation third party application on LINUX /IBM boxes using NFS and NIM
+Installing, configuring and troubleshooting HACMP cluster in production environment
+Monitor hardware and software using customize tool which develop by Comverse
+7 x 24 support to an engineering/programming community of 100+ users on customer site
+Education
+B .S : Computer Science B .S (Computer Science )
+Certifications
+CFS RAC FSs
+Skills
+Aix, Security, Linux, Hacmp, Veritas, Websphere, Maintenance, Network File System, Nfs, Oracle, Unix, Systems Administration, Dns, Veritas
+Volume Manager, Volume Manager, File, File Systems, Tivoli, Apache, Engineer, Tomcat, System Administration, Disaster Recovery, San,
+Storage Area Network, Tsm, Access, Nis, Backups, Lpars, Tivoli Storage Manager, Tcp, Db2, Tibco, Emc, Emc Vmax, Testing, Vmax, Cluster
+Server, Operations, Red Hat, Solaris, Veritas Cluster Server, Change Management, Vmware, Documentation, Ethernet, Performance Tuning,
+Pseries, Clients, Ssl, Application Server, Bash, Bourne Shell, Dns Server, Firewall, Korn, Nmap, Rs/6000, Shell Scripts, Snort, Tcp/ip, Access
+Control, Amazon Ec2, Amazon Elastic Compute Cloud, Amazon S3, Amazon Simple Queue Service, Amazon Simple Storage Service, Amazon
+Sqs, Architecture, Aws, Databases, Ec2, Identity Management, Iis, Internet Information Services, Lan, Middleware, Ms Sql Server, Replication,
+Sql, Sql Server, Sybase, Symantec, Telephone, Unix/linux, Vpn, Web Server, Web Services, Weblogic, Awk, Cisco, Clariion, Cloning, Data
+Center, Data Recovery, Disaster Recovery Planning, Emc Clariion, Emc Power Path, Internet Protocol Security, Ipsec, Java, Jboss, Ksh, Legato,
+Net Backup, Perl, Power Path, Production Environment, Recovery Planning, Router, Sed, Systems Security, Team Lead, Terminal Server,
+Unix/aix, Veritas Net Backup, Virtual Machine, Virtualization, Vm, Xml, Archiving, Business Requirements, Change Control, Collection, Data
+Archiving, Dmx, Emc Dmx, Firmware, Hp-ux, Jfs, Migrations, Resource Utilization, Security Administration, Storage Management, Trouble
+Tickets, Ux, Accounts And, Clustering, Database, Emc Srdf, Netapp, Netbackup, Netcool, Peregrine, Srdf, Sun, Tripwire, Workstations,
+Customer Support, Dhcp, Ftp, Msvc, Network Storage, Odm, Scsi, Secure File Transfer Protocol, Sftp, Solutions, System Installation, Active
+Directory, Capacity Planning, Job Scheduling, Logging, Microsoft Sharepoint, Microsoft Windows, Msm, Nagios, Network Administration,
+Networking, Scheduling, Scripting, Sharepoint, Single Sign On, Sso, Switch Capacity, Team Player, Technical Documentation, Teradata, Web
+Based, Windows 2000, Writing Technical

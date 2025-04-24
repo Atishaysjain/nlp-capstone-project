@@ -1,0 +1,65 @@
+WMS CONSULTANT
+Objective
+Looking for the position of a supply chain consultant, where I can optimize a company's business, by providing supply chain solutions and building
+an efficient customer relationship.
+Summary of Skills
+Strong understanding of supply chain principles with an expertise in warehouse management.
+Functional knowledge in the end to end warehouse systems with an experience in Manhattan Associates' Warehouse Systems.
+Complete understanding of Inbound, Inventory and Outbound in a Warehouse.
+Excellent knowledge in software development life cycle with an emphasis in analysis and testing.
+Ability to clearly define and execute test plans and procedures.
+Ability to meet deadlines and deliver projects on time.
+Strong analytical and problem solving skills.
+Hands on experience in troubleshooting computer hardware peripherals.
+Work Experience
+Company Name City , State WMS Consultant 05/2015 to Current
+Created Test Cases for inbound receiving and put-away fields.
+Verified ASNs after parsing multiple ASNs using XML format.
+Created Inbound and Outbound License Plate Numbers.(iLPN/oLPN).
+Configured and Tested System directed and manual put-away.
+Configured the inventory to move an item from one active location to the another; one active location to a reserve.
+Configured Wave Management, Task Management, Locations, Wave Process Types and Inventory Need Types.
+Tested partial shipment and RF receive menu.
+Tested the PIX transaction to keep track of Inventory Movement.
+Worked on back-end testing of the databases by writing SQL Queries to join the tables, verify the data, etc.
+Environment: Manhattan Associates WMOS 2013, SQL Server 11.02 Â 
+Client: Li&Fung(2013) Â 
+Company Name City , State Quality Assurance Engineer 11/2014 to 05/2015
+Performed necessary software and hardware evaluations as per the client's requirements.
+Designed and modified user interfaces to accommodate new verticals.
+Assisted engineers by troubleshooting and configuring LANs, switches, routers and firewalls.
+Modified and tested prototype using working models for computer simulation.
+Documented and reported bugs to the developers.
+Ensured that the data from the production server is valid and not redundant.
+Worked with other engineering disciplines to evaluate interface between hardware and software and analyze the operational and
+performance requirements of overall systems.
+Worked towards customer satisfaction and overall sales by analyzing and correcting internal software and other customer problems.
+Performed site surveys, commissioned and installed hardware equipment at the client's site.
+Company Name City , State Junior PeopleSoft Developer 06/2014 to 11/2014
+Implemented web based applications using Oracle's PeopleSoft technology for internal projects in the company.
+Worked on Oracle's PeopleSoft Supply Chain Module (SCM) to implement customer order, inventory and fulfillment management.
+Used PeopleTools to develop an order management portal and implemented business logics for the order management system.
+Worked on relational databases by querying relevant data and optimizing performance through normalization.
+Worked on the eight steps of PeopleSoft application development with emphasis on design and creating page definitions.
+Involved in various aspects of software development and generated reports using PeopleSoft's Structured Query Report (SQR).
+Environment : Oracle PeopleTools 8.46, Oracle Database Express 11g.
+Company Name City , State Senior Technology Consultant 01/2012 to 05/2014
+Assisted users with hardware and software issues using the university's Lab resources.
+Monitored and managed computer labs at the University of Florida.
+Assisted Professors in setting up the lab for exams, practical experiments.
+Organized and maintained online classroom reservation system.
+Enforced lab policies and procedures.
+Promoted as a senior technology consultant during the period of work..
+Certified as a Technology Consultant by the Academic Technology Labs, University of Florida.
+Education
+Master of Science : Computer Engineering May 2014 University of Florida , City , State , USA
+Received Achievement Award from the College of Engineering, University of Florida for my academic accomplishment.
+Bachelor of Technology : Information Technology 2011 Anna University , City , State , India
+Graduated with First Class Distinction.
+Technical Skills
+Programming Languages: Java
+Web Technologies: HTML5, CSS3, Java Script, PHP, JQuery
+Development IDE: Eclipse, Microsoft Visual Studio 2012, Matlab
+Database: Microsoft SQL Server R2, Oracle 9i/10g/11g
+Testing Tool: Microsoft Test Manager
+Software Suite: Manhattan Associates SCOPE, Oracle's PeopleSoft Supply Chain management(SCM).

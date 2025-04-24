@@ -1,0 +1,271 @@
+DIRECTOR OF ENGINEERING
+Experience
+Director of Engineering , 04/2018 to 05/2018 
+Company Name â€“ City , State 
+Calero is a leading provider of Communications Lifecycle Management (CLM) solutions designed to turn communication data into
+actionable insight by simplifying the management of voice, mobile, and other communications services and assets
+In control of two new product development teams and one legacy team working driving future growth
+Started the Atlanta Engineering office hiring 12 junior engineers and enabling them to be productive and working on roadmap items in less
+than 9 months
+Built new a new platform enabling the existing marquee software product to be multi-tenant and cloud-enabled
+Powering one-click upgrades / migrations, seamless movement across nodes, and unified performance monitoring
+60% of all implementations are now deployed on this platform
+Created a new product segment for mobility including new mobile-first UI design, e-bonding, self-service responsive portal, unbilled usage
+tracking, and workflow-enabled device ordering
+Sr. Director Software Development , 04/2016 to 04/2018 
+Company Name â€“ City , State 
+CLA is an alternative consumer lending providing consumer loans and various financial products
+Lead three different development teams focused on different areas of business: consumer lending, merchants, and medical insurance
+Responsible for business analysts, quality assurance, database administration, product management, and software development
+Moved team to agile scum process: stories, cards, standups, timebox releases, developer estimation, unit testing, release automation
+Increased quality and decreased time between releases
+Implemented a new single ticketing system across the company
+Created a new application with responsive UI for mobile and tablets for healthcare
+VP of Engineering and Operations , 08/2013 to 04/2016 
+Company Name â€“ City , State 
+Www.pictureu.com PictureU is an innovator in the use of imaging and data capture technologies for experiential marketing and photo
+concessions
+Was responsible for all technology and operations in the organization
+Drove team in delivering innovative, quality applications and solutions that meet client requirements, industry standards, and company goals
+Built 4 new products from scratch including a 16-camera computer-controlled array and car detecting computer vision
+Product manager for new products gathering requirements, defining scope, schedule, wireframing, and story distillation
+Hired staff in-house moving all development in-house saving $30K in 4 months
+Key member in sales: instrumental in the largest deal in 5 years, 30% under plan, ending 18% over plan by year-end by allowing product
+customizations, 3 former customers returned
+Responsible for customer / technical support, training, shipping, receiving, inventory, QA, software development, and procurement
+Kept customer satisfaction ratings in the high 90 percent
+CTO , 02/2012 to 08/2013 
+Company Name â€“ City , State 
+Www.ticketalternative.com Ticket Alternative provides a wide range of ticketing and box office solutions
+TA also prints millions of tickets and sells millions of event wristbands for independent distribution throughout the U.S
+And the U.K
+Accountable for all technology: hosting, vendors, development team, architecture, and information technology
+Built new e-commerce platform on Ruby and Rails utilizing Spree
+Hired technology team from scratch
+Developed event ticketing & box office system in three months which increased online sales by 45% and total sales by 65%
+Designed multi-tenant DIY ticketing and deal platform
+Co-Founder and COO , 01/2011 to 02/2012 
+Company Name â€“ City , State 
+Www.triplingo.com Mobile and web software company that upgrades trips for business and leisure travelers by making it easy and fun to
+learn the local language and culture by providing customized content on your smartphone and the web
+Managed all operations, participated in all partnerships and sales, raised funding, controlled burn, and provided technical guidance
+Launched initial product in 90 days and generated revenue in 14 weeks from the founding
+Drove over 45,000 downloads in App Store from launch
+Built 14 mobile applications, starting on iOS migrated to Nook and Android, all in 9 months from founding
+Created an award-winning product that was featured on the Apple App Store an amazing 6 times
+VP of Engineering , 01/2009 to 12/2010 
+Company Name â€“ City , State 
+Www.deposco.com Offered on-demand software solutions that reduced cost and complexity while streamlining the company's supply chain
+and improving service levels, working in diverse industries like banking, Internet retailing, and hospitality
+Administered all technology development, hosting, and implementations for existing and new customers
+Improved product quality, increasing uptime to "three nines" and reducing support calls to 10% of the previous volume
+Launched version 2; major features: architectural improvements, rock-solid stability, and improving scalability to support the rapid 300%
+growth
+Migrated development and QA from primarily outsourced team to a total onshore team reducing total costs by boosting productivity
+VP Solutions Sales , 09/2006 to 12/2008 
+Company Name â€“ City , State 
+SVG is the leader in Service Lifecycle Management products and solutions
+Initially, directed technical pre-sales leading 10 consultants in presenting, demos, and marketing to Fortune 1000 customers
+Leading product marketing, accountable for worldwide marketing across all products defining strategy in sales, pricing, market, and
+messaging
+Key contributor in sourcing and closing the largest deal in the history of the company
+Created a complete business plan for moving core product to a SaaS offering
+Supported marketing and sales worldwide in both EMEA and APAC as well as managing analyst relationships
+Designed new comp plans and quotas for pre-sales and account executives CTO
+Commerce Science
+Apr 2004 - Sep 2006
+Www.commercescience.com SaaS e-commerce provider focused on multi-store many-to-many retail providers
+Focused on product development along with product and program management for the company, creating plans and strategies to achieve
+new products and objectives
+Directed selections and negotiated contracts for tools, utilities, and OEM products for vendor/reseller management, web services, inventory,
+and order management
+Led product management focused on customization specifications, new product requirements, and market planning
+Supervised a hybrid team of onshore and offshore development
+Independent Consultant , 01/2003 to 04/2004 
+Company Name â€“ City , State 
+Provided high-level technical consulting on multiple long-term projects
+Performed web services design and data migration for a major credit card company by utilizing .Net technology for their hospitality
+customers
+Selected by the Distributed Computing Industry Association to perform Data Rights Management, encryption, and security evaluations
+Designed a technology DRM media wrapper to trigger B2C e-commerce cart and order
+Created and sold technology aggregating in real-time 15 popular job service boards
+CTO & Founder , 10/1999 to 11/2002 
+Company Name â€“ City , State 
+Www.mediaocean.com Created the first electronic television and radio sales management system with full integration to multiple systems
+and all stakeholders
+Developed objectives, policies, budgets, and operating plans for the development, quality, production operations, and IT departments and
+directed their interpretation, implementation, and achievement
+Grew the organization from 2 to 94 in two years, raised $14.7MM of venture capital, PriceWaterhouseCoopers' Georgia's Top 25 Venture
+Capital Deals of 1999 and 2001
+The MO system completed the first fully electronic end-to-end transaction in the industry
+Negotiated $30MM merger of Donovan Data Systems' independent rep business
+Work History
+Director of Engineering , 04/2018 to 05/2018 
+Company Name 
+Www.calero.com Calero is a leading provider of Communications Lifecycle Management (CLM) solutions designed to turn communication
+data into actionable insight by simplifying the management of voice, mobile, and other communications services and assets.
+In control of two new product development teams and one legacy team working driving future growth.
+Started the Atlanta Engineering office hiring 12 junior engineers and enabling them to be productive and working on roadmap items in less
+than 9 months.
+Built new a new platform enabling the existing marquee software product to be multi-tenant and cloud-enabled.
+Powering one-click upgrades / migrations, seamless movement across nodes, and unified performance monitoring.
+60% of all implementations are now deployed on this platform.
+Created a new product segment for mobility including new mobile-first UI design, e-bonding, self-service responsive portal, unbilled usage
+tracking, and workflow-enabled device ordering.
+Sr. Director , 04/2016 to 04/2018 
+Company Name 
+Www.clacorp.com CLA is an alternative consumer lending providing consumer loans and various financial products.
+Lead three different development teams focused on different areas of business: consumer lending, merchants, and medical insurance.
+Responsible for business analysts, quality assurance, database administration, product management, and software development.
+Moved team to agile scum process: stories, cards, standups, timebox releases, developer estimation, unit testing, release automation.
+Increased quality and decreased time between releases.
+Implemented a new single ticketing system across the company.
+Created a new application with responsive UI for mobile and tablets for healthcare.
+VP of Engineering and Operations , 08/2013 to 04/2016 
+Www.pictureu.com PictureU is an innovator in the use of imaging and data capture technologies for experiential marketing and photo
+concessions.
+Was responsible for all technology and operations in the organization.
+Drove team in delivering innovative, quality applications and solutions that meet client requirements, industry standards, and company goals.
+Built 4 new products from scratch including a 16-camera computer-controlled array and car detecting computer vision.
+Product manager for new products gathering requirements, defining scope, schedule, wireframing, and story distillation.
+Hired staff in-house moving all development in-house saving $30K in 4 months.
+Key member in sales: instrumental in the largest deal in 5 years, 30% under plan, ending 18% over plan by year-end by allowing product
+customizations, 3 former customers returned.
+Responsible for customer / technical support, training, shipping, receiving, inventory, QA, software development, and procurement.
+Kept customer satisfaction ratings in the high 90 percent.
+02/2012 to 08/2013 
+Company Name 
+Www.ticketalternative.com Ticket Alternative provides a wide range of ticketing and box office solutions.
+TA also prints millions of tickets and sells millions of event wristbands for independent distribution throughout the U.S.
+And the U.K.
+Accountable for all technology: hosting, vendors, development team, architecture, and information technology.
+Built new e-commerce platform on Ruby and Rails utilizing Spree.
+Hired technology team from scratch.
+Developed event ticketing & box office system in three months which increased online sales by 45% and total sales by 65%.
+Designed multi-tenant DIY ticketing and deal platform.
+Co-Founder , 01/2011 to 02/2012 
+Www.triplingo.com Mobile and web software company that upgrades trips for business and leisure travelers by making it easy and fun to
+learn the local language and culture by providing customized content on your smartphone and the web.
+Managed all operations, participated in all partnerships and sales, raised funding, controlled burn, and provided technical guidance.
+Launched initial product in 90 days and generated revenue in 14 weeks from the founding.
+Drove over 45,000 downloads in App Store from launch.
+Built 14 mobile applications, starting on iOS migrated to Nook and Android, all in 9 months from founding.
+Created an award-winning product that was featured on the Apple App Store an amazing 6 times.
+VP of Engineering , 01/2009 to 12/2010 
+Www.deposco.com Offered on-demand software solutions that reduced cost and complexity while streamlining the company's supply chain
+and improving service levels, working in diverse industries like banking, Internet retailing, and hospitality.
+Administered all technology development, hosting, and implementations for existing and new customers.
+Improved product quality, increasing uptime to "three nines" and reducing support calls to 10% of the previous volume.
+Launched version 2; major features: architectural improvements, rock-solid stability, and improving scalability to support the rapid 300%
+growth.
+Migrated development and QA from primarily outsourced team to a total onshore team reducing total costs by boosting productivity.
+09/2006 to 12/2008 
+Www.servigistics.com SVG is the leader in Service Lifecycle Management products and solutions.
+Initially, directed technical pre-sales leading 10 consultants in presenting, demos, and marketing to Fortune 1000 customers.
+Leading product marketing, accountable for worldwide marketing across all products defining strategy in sales, pricing, market, and
+messaging.
+Key contributor in sourcing and closing the largest deal in the history of the company.
+Created a complete business plan for moving core product to a SaaS offering.
+Supported marketing and sales worldwide in both EMEA and APAC as well as managing analyst relationships.
+Designed new comp plans and quotas for pre-sales and account executives CTO.
+Commerce Science.
+Apr 2004 - Sep 2006.
+Www.commercescience.com SaaS e-commerce provider focused on multi-store many-to-many retail providers.
+Focused on product development along with product and program management for the company, creating plans and strategies to achieve
+new products and objectives.
+Directed selections and negotiated contracts for tools, utilities, and OEM products for vendor/reseller management, web services, inventory,
+and order management.
+Led product management focused on customization specifications, new product requirements, and market planning.
+Supervised a hybrid team of onshore and offshore development.
+Independent Consultant , 01/2003 to 04/2004 
+Provided high-level technical consulting on multiple long-term projects.
+Performed web services design and data migration for a major credit card company by utilizing .Net technology for their hospitality
+customers.
+Selected by the Distributed Computing Industry Association to perform Data Rights Management, encryption, and security evaluations.
+Designed a technology DRM media wrapper to trigger B2C e-commerce cart and order.
+Created and sold technology aggregating in real-time 15 popular job service boards.
+10/1999 to 11/2002 
+Company Name 
+Www.mediaocean.com Created the first electronic television and radio sales management system with full integration to multiple systems
+and all stakeholders.
+Developed objectives, policies, budgets, and operating plans for the development, quality, production operations, and IT departments and
+directed their interpretation, implementation, and achievement.
+Grew the organization from 2 to 94 in two years, raised $14.7MM of venture capital, PriceWaterhouseCoopers' Georgia's Top 25 Venture
+Capital Deals of 1999 and 2001.
+The MO system completed the first fully electronic end-to-end transaction in the industry.
+Negotiated $30MM merger of Donovan Data Systems' independent rep business.
+Engineering Manager , 01/1999 
+Company Name 
+Consultant , 01/1998 
+Company Name 
+Product Manager , 01/1997 
+Company Name 
+Systems Engineer , 01/1996 
+Company Name 
+Technical Team Lead , 01/1995 
+Company Name 
+Manager , 01/1992 
+Company Name 
+Systems Operator , 01/1990 
+Company Name 
+Accomplishments
+HONORS Chairman's Club.
+Xcellenet.
+1997 ATDC Graduate.
+MediaOcean.
+2002 Winner MSMOT Business Plan Competition.
+Georgia Tech.
+2006 Winner Startup Weekend.
+TripLingo.
+2012 Winner Startup Riot.
+TripLingo.
+2012 STUDIES Coursera / John's Hopkins Data Science Data Scientist's Toolbox.
+March 2015.
+Distinction R Programming.
+May 2015.
+Distinction Getting and Cleaning Data.
+May 2015.
+Distinction Exploratory Data Analysis.
+August 2015.
+Distinction.
+Education
+Master of Science : Management of Technology , 2006 
+Georgia Institute of Technology - City 
+Bachelor of Science : Computer Science , 1992 
+Rutgers University - City 
+Summary
+Recognized innovator who drives change by engineering new processes and technologies, resulting in streamlined operations and company growth
+Demonstrated expertise in all aspects of product management and software development, from conception through implementation Skilled leader
+supervising in-house and offshore teams as small as 3 and as large as 78 Strong background in implementing solutions that meet the needs of
+rapidly expanding operations Excellent communication, presentation, public speaking, and motivational skills Broad experience in marketing,
+operations, finance, quality, IT, and sourcing Proficiency in entrepreneurial, business unit, and large corporate environments SKILLS Infrastructure
+Design Strategic Planning Vendor Selection/RFPs Product/Project Mgt Agile Teams Design & Architecture Change Management Presentations
+Mergers & Acquisitions Process Improvement Budgets and P&L International Experience
+Highlights
+Agile,
+Presenting
+Pricing
+Procurement
+Product development
+Budgets
+Product management
+Product marketing
+Program management
+Quality assurance
+Sales
+E-commerce
+Strategy
+Supply chain
+Venture capital
+Project Scheduling
+Team Structure Management
+Client relationship management
+Project Planning Oversight
+Skills
+Net, photo, agile, analyst, Apple, automation, banking, budgets, business plan, closing, com, consulting, content, contracts, credit, encryption,
+client, customer satisfaction, data migration, database administration, driving, e-commerce, features, financial, hiring, imaging, information
+technology, insurance, interpretation, inventory, managing, market planning, marketing, market, marketing and sales, messaging, office, new
+product development, developer, order management, camera, policies, presenting, pricing, procurement, product development, Product manager,
+product management, product marketing, program management, quality, quality assurance, QA, radio, real-time, receiving, retail, sales, sales
+management, shipping, software development, stories, strategy, supply chain, technical support, television, upgrades, UI design, utilities, venture
+capital, vision, workflow, year-end

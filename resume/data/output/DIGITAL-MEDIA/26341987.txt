@@ -1,0 +1,169 @@
+DIRECTOR IT CLIENT SERVICES FILMS & OPERATIONS AND TECHNICAL SERVICES WEST COAST
+Executive Profile
+I have over 20 years of experience in Information Technology spanning from Entertainment, Internet, Healthcare, Automotive, and Banking
+Industries. I managed staff in each of these industries doing everything from budgeting, staffing, planning, and installations and managing day-to-day
+operations. I coordinated and setup infrastructure in house and remote events. I have done M&A of major companies such as ESPN, ABC
+Family, Touchstone Television and most recently DreamWorks Animations. Good with analytic and financial skill. I have a Master of Science in
+Computer Information Systems and I am ITIL certified.
+Core Competencies
+Highly motivated visionary with excellent organizational
+leadership skill.
+Highly analytical and detail-oriented.
+Team oriented and ability to work well under pressure.
+Strong interpersonal and communication (written and
+verbal) skill.
+Ability to establish priorities, developed timelines, and
+determine accountabilities. 
+Self-motivated, flexible, hands-on approach and able to work in a fast paced
+environment.
+Exceptional knowledge of service and application delivery, as well as
+successful service level agreements
+Able to work independently with little or no supervision.
+Demonstrated ability to collaborate and problem solve with executives and
+department managers.
+Strong presentation and communication skill
+Core Accomplishments
+Director of IT Services (Operation CIO) and first ever head of NFL Network IT department since its inception and national launch in late
+2003.Â  I reported directly President and CEO Steve Bornstein.
+Built NFL Network from the ground up which included the creation and execution of: architecture of the data center, Voice over IP (VoIP)
+company telephony system, Video Conference systems, key architect of NFL Network IT infrastructure, in charge of vendor contract
+negotiation and management, established OEM procurement agreements for hardware and software assets.
+I oversaw and managed all aspects of NFL Network's studio and remote shows technical operations, managed IT staff in charge of
+production and infrastructure support.Â  This level of 24/7 support was essential for NFL Network's more than 2500 hours of live studio
+programming that includes NFL Total Access, NFL GameDay Morning, NFL GameDay Final, Around the League Live and Path to the
+Draft.
+Of the original 100 million dollars investment by NFL Network, 1 million dollars was used in the creation of the IT infrastructures, asset
+procurement, and establishment of a data center.Â  I was a key architect in the creation of the NFL Network, which is now producing over
+1 billion dollar in annual subscription revenue.
+I created and oversaw deployment of a new company-wide inventory asset tracking system for TV Production.Â  Led to a $2 million cost
+avoidance per year.
+I initiated and implemented new TV Pilot desktop and laptop deployment process that saved the company $78,000 annually.
+Â·Â Â Â Â Â Â  Spearheaded and implemented employee performance metrics system, which were used to create monthly, quarterly and
+annual reports for the CIO, CFO and management.
+Built out Post Production, Edit bays, media asset management at NFL as well as NBCUniversal.
+Implemented video encoding process for on demand delivery Â·Â Â Â Â Â Â  Completed RFPs and ERP, Vendor Management.
+Coordinated and installed Infrastructure and Operations for 12 consecutive Super Bowls. 
+Professional Experience
+10/2015 to 11/2016
+Director IT Client Services Films & Operations and Technical Services West Coast Company Name ï¼​ City , State
+Responsible for overseeing the team that provides technical support for West Coast Operations & Technical Services as well as Universal
+Pictures clients both domestically and abroad.Â  This included communications and support for end users, their applications, and their
+computing devices.Â  As Director of client services I manage and oversee 1 director, 3 team managers, 6 team leads, 4 team coordinators
+and 27 technical supports analysts across the country and Canada.Â  Worked to integrate DreamWorks desktop and laptops equipment as
+part of a 3.8 billion dollar acquisition.Â  Oversaw Broadcast team as well as postproduction.Â  Worked with digital rights and content
+distributions. 
+04/2014 to 10/2015
+Director IT Client Services NBC Entertainment and TV Production Company Name ï¼​ City , State
+Responsible for overseeing the team that provides technical support for NBC Entertainments, NBC Distribution, Universal Cable
+Productions and Universal TV Productions clients domestically and abroad, as well as communications with, end users for their computing
+devices and the applications that run on those devices.
+I created an inventory control system to better track our assets as well as global naming convention for company assets.
+Manage business-aligned client services team, which included technical lead, team coordinator, and data analysts.
+Maintain solid business relationships with vendors, and original equipment manufacturers (OEMs), and internal chain of command.
+Communicated and provided bi-weekly update and monthly reports regarding overall health of client services support along with status of
+planned infrastructure changes, which would affect our end user experience.
+Identified, documented, and maintained list of department leaders & key business contacts with the application and infrastructure leaders of
+the company.
+Maintain solid application, infrastructure, client services, and corporate relationships.
+Attended application staff meetings and function as a dotted-line report for all responsibilities.
+Provided application leader with updates regarding key issues and workplace changes.
+Coordinated business communication with application and infrastructure projects and corporate initiatives with leadership and chain of
+command.
+Coordinated project responsibilities with infrastructure liaison and made decisions of project assignment and of ownership of each project.
+Investigated and communicated any adverse impacts to our infrastructure and systems due to upgrades or implementation of system
+changes.
+Coordinated and managed infrastructure and system-wide changes through workplace technology team (HW/SW upgrades), security team
+(PC patches), enterprise services team (email/identity management), and core computer team (mostly network/file related).
+Communicated on a frequent basis system health and any system maintenance down time to client services team, business users, application
+leader and infrastructures leader.
+Managed high priority issues and escalations with multiple user impact until problem ticket were closed and resolution communicated to
+stakeholders.
+Manage overall health of the queue by re-shuffling resources where/when needed and intervened/reassigned tickets missing SLA's to
+technical lead.
+Oversaw and initiated workplace related projects with CS team including PC/Mac refreshes, upgrades, and maintenance.
+Microsoft office migrations, upgrades to Windows 10, etc.
+Provided technical training plan and coordinated on-site courses for all CS Analysts and technical leads.
+Monitored metrics including ticket service levels and customer satisfaction surveys.
+Created inventory control program for the company assets.
+Over saw workplace technology for TV Production Director IT Services
+10/2003 to 05/2014
+Director IT Services (Operation CIO) Company Name ï¼​ City , State
+I was brought in from Disney as the first IT person for NFL Network when we started this company from the ground up.
+I reported directly to the CEO.
+I built and ran the company as department head for over 10 years.
+Built IT infrastructure and continued making improvements and technological advancements to what NFL Network is today.
+Built out TV studio, which consisted of multiple control rooms and sound stages.
+Setup Post Production facility and workflow.
+Managed and operate within departmental Capital (CAPEX) and Operational (OPEX) budget parameters.
+Implemented encoding process and infrastructure.
+Implemented media management I supported all facets of the 24/7 operations for NFL Network and NFL Digital Media, which included
+nfl.com, all 32 team sites, and NFL Fantasy football.
+Operations were located in Culver City with multiple remote sites across the country, which included LAN/WAN, computer servers,
+telecommunications systems (Cisco VoIP Telephone), desktop computers, laptop computers, disaster recovery systems, productions and
+remote operations system and infrastructure.
+We were responsible for creating identification (ID) badges for staff and vetted personnel, security access to restricted areas and facilities,
+set up digital video recording (DVR) Security Camera systems throughout the facilities.
+I worked on IT budget, procurement, and contracts for both production facilities in Culver City and all remote facilities across the country.
+We were the first major media production facility to use virtual private network (VPN) Devices and voice over internet protocol (VoIP)
+over our various devices.
+I was key and integral part of building from the ground up and in charge of the information and data systems infrastructure of the NFL
+Network and NFL.com.
+We built infrastructure that can support engineering as well as business needs.
+I co-chaired Business Continuity and Resilience Services (BCRS) project for NFL as a whole.
+03/1997 to 09/2003
+Senior Technical Advisor Executive Support System Implementation Company Name ï¼​ City , State
+I reported directly to the CIO.
+I started out as temporary helpdesk analyst; I was hired on full time and was promoted from Helpdesk Analyst to Analyst to Lead Analyst
+to Supervisor to Manager.
+When ABC moved from Century City to Burbank, I was promoted to Manager of Executives Support for Disney/ABC and eventually
+became Senior Technical Advisor for ABC TV.
+As a Manager of Executive Support I oversaw 13 systems support analysts plus independent contractor for both East and West Coast to
+support executives of Disney, ABC Television, ESPN and Touchstone as well as productions on a 24x7 schedule.
+Coordinate the over all system support process to ensure that all executives and productions computers function properly, and personally
+provide services to top key executives of the corporation.
+Proactively researched, implemented and supported leading edge solutions to ensure that Disney/ABC executives are on the cutting edge of
+technologies.
+I was involved in procuring and providing Personal Digital Assistants (PDs) and Blackberries cell phones to Disney executives with login
+scripts.
+Lead efforts in diagnosing, resolving, and maintaining hardware, software, operating system, network, and backup recovery services for the
+enterprise.
+I established standard operating procedures (SOP) and corporate policies for use throughout the company.
+Interacted with clients and provided client surveys to ensure system support team provided quality services.
+I had open communication with other departments such as Local Area Networks (LAN) services, telecommunications department, and
+emails support group to resolve any system support issues our personnel may be experiencing.
+I communicated directly to CIO on all operations and implementation personnel.
+I oversaw corporate purchasing and asset management, which included software, hardware and computer equipment rentals.
+Prepare monthly system support activity and progress report for both East and West Coast.
+Prepare departmental budget as well as long range planning.
+When Disney acquired Touchstone, I was there to facilitate the integration between the two companies and transition Touchstone personnel
+to Century City facility.
+I spearheaded the migration of Touchstone's Macintosh ("Mac") systems with PCs systems for business reasons.
+Touchstone had 43 concurrent pilot Mac systems running and 1,000 rental computers being used in studio prior to the migration effort.
+We supported all the various Mac systems during migration effort until end user was fully migrated to PC based machines.
+I was an integral part in planning, preparing, and designing the information systems infrastructure for the ABC building when Disney
+relocated 400 ABC network employees from New York and Century City site to Burbank.
+I also was key integrator of ESPN, BVTV, and BVTV International into our corporate network.
+The ABC Building housed 1,000 employees.
+I was on the committee when Disney Consolidated 160,000 employees and hundreds of domains globally into 7 corporate domains in
+Active Directory.
+I was also present acquisition of ABC Family by Disney.
+I was an active member and technical consultant in the planning, integration, and migration of ABC Family TV from Saban building in
+Westwood to the ABC Building in Burbank.
+Education
+2005
+Master of Science : Computer Information Systems University of Phoenix ï¼​ City , State , USA Computer Information Systems
+1989
+Bachelor of Science : Electrical and Electronics Engineer California State Polytechnic University ï¼​ City , State , USA Electrical and Electronics
+Engineer
+Information Technology Infrastructure Library (ITIL) Foundation Certified Implementing Cisco Unified Communications Manager, Part 1 8.0
+Supporting Windows Exchange Server 2000 Enterprise Edition CommVault Backup Corporate Management Training: *Operational Management
+*Conflict Management *Preventing Workplace Violence *Diversity and Inclusion *Code of Conduct *Preventing Workplace Harassment
+*Protecting Creative Content *Protecting Company Information
+Skills
+Apple, Dell, IBM, HP, Lenovo, Microsoft, AirWatch Network Management, TCP/IP, LAN/WAN, DNS, DAS, Remote Network, Multi-Site
+Infrastructure, Architecture, IPSEC VPN, Site-to-Site, WiFi Network, IPTV Active Directory, Microsoft Exchange, Unified Communications,
+Group Policies Disaster Recovery (DR), Business Continuity, Data Centers Built and Operations 24x7 Helpdesk, Desktop Support, Operations,
+Telecom Software Development Life Cycle (SDLC), MS SQL, My SQL, MS Access, Share Point Internet, Intranet Strong analytical skills, Key
+Performance Indicator (KPI), Metrics, SLA Vendor Management, Vendor Contracts negotiations, Procurement, Software licensing Capital and
+Operating Budget, ROI, Fiscal, Long Range Planning IT Compliance, IT Security, Cyber Security Recruitment, Retention, People Management,
+Leadership, Team development, Training

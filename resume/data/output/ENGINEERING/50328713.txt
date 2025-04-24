@@ -1,0 +1,96 @@
+ENGINEERING INTERN
+Skills
+C++, Python, MATLAB, Git, Bash, R, SQL (basic). Experienced in Linux/Unix and using high performance computing clusters.
+Machine Learning Tools and Libraries: Scikit-learn, Pandas, Seaborn, matplotlib, TensorFlow (basic). (I built a XGBoost
+model that has 77.5% accuracy in the Kaggle Titanic challenge.)
+Computational Fluid Dynamics and Discrete Element Method Codes
+CFD-DEM, OpenFOAM, CFD-ACE+Â®, FluentÂ®, COMSOLÂ®, LAMMPS, and LIGGGHTS.
+Reservoir and Fracture Modeling Tools
+CMGÂ® for reservoir simulation; FracProÂ® for fracture simulation and analysis; Saphir for pressure transient analysis.
+Experimental and Statistical Methods
+SEM, AFM, Confocal Microscopy, Regression analysis, Statistical process control, Design of experiments.
+Experience
+ENGINEERING INTERN 08/2016 ï¼​ 12/2016 Company Name State
+Project: Develop a cavings transport model for optimizing hole-cleaning operations.
+Developed a solids transport model for predicting cuttings/cavings bed height during a hole-cleaning operation.
+In contrast to conventional CFD models that typically take several hours to run, this novel numerical model can obtain results within a few
+minutes, enabling timely optimization of the well circulation schedule.
+Investigated the competitive landscape and designed the commercialization plan for the numerical model.
+Leveraged the experiences from internal drilling experts and aligned with all stakeholders throughout the development process.
+ENGINEERING INTERN 05/2016 ï¼​ 08/2016 City , State
+Project: Optimize diverter pumping schedule for better production performance after well re-stimulation.
+Built a simulator to model proppant, diverter, and slurry distribution in a plug-and-perf hydraulic fracturing operation.
+Derived a simple proxy model to substitute time-consuming CFD-DEM simulations for predicting diverter transport through perforation
+clusters.
+Simulation time drops from 48+ hours to less than 1 sec.
+Provided recommendations for pumping schedule design in a fracturing treatment.
+PROCESS ENGINEER 04/2012 ï¼​ 05/2013 Company Name City
+Improve display yield through statistical modeling, process control, and tool modifications.
+Won Qualstar award in Nov.
+2012 by completing two specific yield improvement tasks in merely two months, first time for QMT-TW to award its engineers after
+establishment.
+Optimized sealing process of interferometric modulator (iMoD) display that led to 52% pre-functional yield increase.
+Increased the up time of panel encapsulation station from 73% to 92% by leading two tool-modification projects involving a group of 5
+equipment engineers and 2 external support engineers from Japan.
+PROPPANT/DIVERTER TRANSPORT in HORIZONTAL WELLS, UT Austin Aug.
+2014-present.
+Evaluate the efficiency of proppant/diverter transport in perforated horizontal wells under different slurry flow conditions using a combined
+CFD-DEM approach.
+Developed a multivariate statistical model to substitute traditional CFD model for predicting proppant transport through perforations at
+various flow conditions.
+The computational cost dropped 5 orders of magnitude.
+Accurately predicted DAS-measured proppant distribution in a field case with less than 10% error.
+Chu-Hsiang Wu Page 2 DESIGN and SELECTION of GRAVEL PACK and SAND CONTROL SCREENS, UT Austin Jun.
+2013-present.
+Develop analytical, DEM, and Monte Carlo models for predicting sand production through gravel packs and sand control screens.
+Accurately predicted 6 sand production lab-test results obtained from operators with less than 15% error using the developed model.
+Invented a DEM-based approach for extracting pore throat size distribution of complex packings.
+Results show that the pore throat sizes within gravel packs are usually between 1/5 to 1/9 of the effective gravel size.
+The findings correspond remarkably well with previous field observations and enable further optimization of gravel pack designs.
+06/2010 Company Name
+Designed highly mixing-efficient serpentine channels for biomedical detection.
+Devised mixing index to quantify mixing efficiency of two heterogeneous fluids flowing in microfluidic channels.
+Interests
+SPE translator, Nepal medical assistance group, cofounder of Taiwan Bio-Nano Youth Initiative. SELECTED PUBLICATIONS Â· Wu, C.-H.,
+Sharma, M. M. 2017. A DEM-based approach for evaluating the pore throat size distribution of a filter medium, Powder Technology, ISSN
+0032-5910, https://doi.org/10.1016/j.powtec.2017.09.018. Â· Wu, C.-H., Sharma, M. M., Chanpura, R. et al. 2017. Factors Governing the
+Predicted Performance of Multilayered Metal-Mesh Screens. SPE Drilling & Completion. SPE-178955-PA. https://doi.org/10.2118/178955-PA.
+Â· Wu, C.-H., Sharma, M. M. 2016. Effect of Perforation Geometry and Orientation on Proppant Placement in Perforation Clusters in a
+Horizontal Well. Paper SPE-179117-MS was presented at the SPE Hydraulic Fracturing Technology Conference, The Woodlands, TX, USA, 9-
+11 February 2016. Wu, C.-H., Yi, S., Sharma, M. M. 2017. Proppant Distribution Among Multiple Perforation Clusters in a Horizontal
+Wellbore. Paper SPE-184861-MS was presented at the SPE Hydraulic Fracturing Technology Conference, The Woodlands, TX, USA, 24-26
+January 2017. Â· Mondal, S., Wu, C.-H., Sharma, M. M. et al. 2016. Characterizing, Designing, and Selecting Metal Mesh Screens for
+Standalone-Screen Applications. SPE Drill & Compl 31 (2): 85-94. SPE-170935-PA. http://dx.doi.org/10.2118/170935-PA. Â· Mondal, S.,
+Wu, C.-H., Sharma, M. M. 2016. Coupled CFD-DEM Simulation of Hydrodynamic Bridging at Constrictions. Int. J. Multiph. Flow, Vol. 84, pp.
+245-263, ISSN 0301-9322, http://dx.doi.org/10.1016/j.ijmultiphaseflow.2016.05.001. Â· Zhang, K., Chanpura, R. A., Mondal, S., Wu, C.-H.,
+Sharma, M. M., Ayoub, J. A., & Parlar, M. 2015. Particle Size
+Education and Training
+May 2018 Ph.D : UT Austin - PETROLEUM ENGINEERING Scientific Computation City , State PETROLEUM ENGINEERING Scientific
+Computation Dissertation: Modeling Particulate Flows in Conduits and Porous Media; Supervisor: Mukul M. Sharma 3.9/4.0 Recipient of
+ConocoPhillips Fellowship (2013), and Jack L. Thurber Memorial Endowed Presidential Scholarship
+Jun. 2010 M.S : National Taiwan University - MECHANICAL ENGINEERING City , Taiwan MECHANICAL ENGINEERING Design of a
+mixing-efficient microfluidic device for bio-medical applications 3.9/4.0
+Jun. 2008 B.S : National Tsing Hua University - POWER MECHANICAL ENGINEERING City , Taiwan POWER MECHANICAL
+ENGINEERING Presidential Award and Scholarship (2006, 2007)
+Skills
+approach, Bash, basic, C++, competitive, DAS, Design of experiments, functional, lab-test, Linux, Machine Learning, MATLAB, Modeling,
+novel, optimization, process control, Programming, proxy, Python, Simulation, SQL, Statistical process control, Supervisor, Unix
+Additional Information
+LEADERSHIP and VOLUNTEER Â· Served as a Second Lieutenant in an artillery company in the Taiwan Army during 2010-2011. Â·
+Qualstar Award, Qualcomm, 2012 and 2013 Â· Qualcomm Know-how Incentive Award, Qualcomm, 2013 Â· Technical Editor of SPE
+Journal, SPE Drilling and Completion, SPE Production and Operations, 2017-present Â· Volunteer experience: SPE translator, Nepal
+medical assistance group, cofounder of Taiwan Bio-Nano Youth Initiative. SELECTED PUBLICATIONS Â· Wu, C.-H., Sharma, M. M.
+2017. A DEM-based approach for evaluating the pore throat size distribution of a filter medium, Powder Technology, ISSN 0032-5910,
+https://doi.org/10.1016/j.powtec.2017.09.018. Â· Wu, C.-H., Sharma, M. M., Chanpura, R. et al. 2017. Factors Governing the Predicted
+Performance of Multilayered Metal-Mesh Screens. SPE Drilling & Completion. SPE-178955-PA. https://doi.org/10.2118/178955-PA. Â·
+Wu, C.-H., Sharma, M. M. 2016. Effect of Perforation Geometry and Orientation on Proppant Placement in Perforation Clusters in a
+Horizontal Well. Paper SPE-179117-MS was presented at the SPE Hydraulic Fracturing Technology Conference, The Woodlands, TX,
+USA, 9-11 February 2016. Wu, C.-H., Yi, S., Sharma, M. M. 2017. Proppant Distribution Among Multiple Perforation Clusters in a
+Horizontal Wellbore. Paper SPE-184861-MS was presented at the SPE Hydraulic Fracturing Technology Conference, The Woodlands,
+TX, USA, 24-26 January 2017. Â· Mondal, S., Wu, C.-H., Sharma, M. M. et al. 2016. Characterizing, Designing, and Selecting Metal
+Mesh Screens for Standalone-Screen Applications. SPE Drill & Compl 31 (2): 85-94. SPE-170935-PA.
+http://dx.doi.org/10.2118/170935-PA. Â· Mondal, S., Wu, C.-H., Sharma, M. M. 2016. Coupled CFD-DEM Simulation of
+Hydrodynamic Bridging at Constrictions. Int. J. Multiph. Flow, Vol. 84, pp. 245-263, ISSN 0301-9322,
+http://dx.doi.org/10.1016/j.ijmultiphaseflow.2016.05.001. Â· Zhang, K., Chanpura, R. A., Mondal, S., Wu, C.-H., Sharma, M. M.,
+Ayoub, J. A., & Parlar, M. 2015. Particle Size Distribution Measurement Techniques and Their Relevance or Irrelevance to Sand Control
+Design. SPE Drill & Compl 30 (2): 164-174. SPE-168152-PA. http://dx.doi.org/10.2118/168152-PA.

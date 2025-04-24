@@ -1,0 +1,176 @@
+SENIOR DIRECTOR, INFORMATION TECHNOLOGY
+Executive Profile
+A distinguish Director of Information technology with expertise in diverse range of industries within multiple industries settings globally.
+Demonstrated success in Network design and management, Enterprise Resource Planning implementation and management, Cloud Technologies
+and Internet Technologies. Well Organized, results oriented individual with proven ability to implement standards, processes and procedures the
+improve business functionality. Solid management skills, capable of building, leading and motivating individuals to maximize productivity while
+forming cohesive team environments. Exceptional communicator focused on building strong client relationships.
+Skill Highlights
+Small business development
+Project management
+Leadership/communication skills
+Business operations organization
+Client account management
+Negotiations expert
+Budgeting expertise
+Employee relations
+Self-motivated
+Collaborative
+DecisiveÂ 
+Enterprise platforms
+Forecasting specialist
+Knowledge of Product Lifecycle Management (PLM)
+Hardware and software upgrade planning
+Product requirements documentation
+Self-directed
+Scrum methodology
+Performance criteria tracking
+Core Accomplishments
+Saved more than $ 10 million amortized over 3 years by using cloud technologies instead of buying new infrastructure hardware to upgrade
+infrastructureÂ for Weston Educational Group.
+â€‹
+DirectedÂ the implementationÂ of a newÂ Student Information System and Customer Relations Management system for 2 colleges. Both projects
+were completed on-time and under budget.
+Increased core system availability to 99.999 % by developing standards and architectural governance and implementing best practices.
+Led a successful implementation and integration of an acquired college into theÂ Weston Educational Group.Â Project was completed a month
+ahead of schedule and under budget.
+Reduced the incidence of IT issues by 50 % globally by using visualization tools such as Tableau and DOMOÂ to identify trends in support tickets
+which resulted in more training to address root causes.
+Operations Management:
+Managed all technologies at 10 campuses spread from Florida to California for Weston Educational Group . These technologies were used
+by students, faculty, campus administration and corporate office staff and executives.Â 
+I oversaw allÂ  day to day operations of the Information Technology department of Weston Educational Group.
+Staff Development:
+At Weston, restructured the team to a smaller more flexible team andÂ used outsourced resources for more specialized functions. This
+resulted in aÂ 60% reduction in payroll expenseÂ Â 
+At American Career College and West Coast University,Â I mentored and coached employees resulting in no staff turnover and also been
+recognized as one of the best Business Analyst team in Campus Management Corporation implemented sites globally.
+At BatchMaster Software, I launched a new consultant groupÂ to implement a manufacturing based ERP system using the rapid
+implementation moduleÂ I devised. This increased successful implementation by 80% and reduced implementation time to 4 weeks.
+At BatchMaster Software, I also implemented a support team in India that provided post implementation support based on new policies and
+procedures I created. Customer satisfaction increased by 75%.
+I was voted theÂ employee of the year in 2010 out of over a thousand employees for outstanding contributions and going above and beyond.
+Presented at industry conferences every year starting from 2012 on integrated solutions and automations tools to help improve efficiency and data
+integrity.
+Professional Experience
+02/2015 to 11/2016
+Senior Director, Information Technology Company Name ï¼​ City , State
+Weston Educational Group Inc, is a private post-secondary institution focused on the Allied Health and Personal Wellness sector. It has 3 major
+brands with campuses spread from Florida through to California. As the Senior Director, I oversaw the day to day operations of all aspects of
+technology. This included a student and faculty portal that needed to be support 24/7, a Student Information System (SIS) that was used to
+manage all aspects of the student matriculation from a lead, through financial aid to academics, student services and career services.
+â€‹
+Spearheaded phone system migration to the cloud , resulting in a 99.999 % uptime in the phone system. It also reduced the maintenance cost that
+comes with an outdated system toÂ $0Â and allowed us to manage the system remotely.
+Accountable forÂ  Information Technology Â (IT) including overall customer satisfaction.
+Managed team ofÂ  6 IT Â professionals. I restructured the department and reduced the team to 6 generalized IT personal and outsourced
+functions that required specialized functions. This reduced payroll expense by 60%.
+Spearheaded cross-functional initiative to achieve a smooth integration of Missouri College after it was acquired into the Weston Education Group
+.
+Strengthened company's business by leading implementation of industry leading SIS for the management of the campuses and CRM for
+admissions.
+Negotiated a new contracts with vendors to reduce prices by as much as 28%.
+Developed and launched regular training sessions to help associates with most common reported issues. Used DOMO to visualize trends in
+support cases and then developed training materials on the most common reported issues.
+Instituted a new web based support ticketing system which allowed students, faculty and staff members to generate tickets requesting for help.
+Prior to this system only staff members could generate support tickets on an internal system. The new system had rules incorporated which auto
+routed tickets based on the characteristics selected.
+Recommended and implemented all of the enterprise applications onto the cloud. This saved the organization $10 million amortized over 3 years if
+we were to have upgraded the infrastructure in-house to accommodate the new enterprise applications.
+Launched the migration of the staff and faculty to Office 365 (Microsoft's cloud version of office) after migrating the students. This enabled every
+user to have access to the latest version of the complete Office suite and Â One-drive for individual file storage. From a system point of view, the
+enterprise has access to the latest versions of systems from Microsoft plus an infinite access to Microsoft resources to support the infrastructure.
+07/2009 to 02/2015
+Senior Manager, Student Information System Company Name ï¼​ City , State
+American Career College and West Coast University is a private post-secondary institution that trains students in the Allied Health sector with
+annual revenue of over $300 million. Oversaw the Student Information System for both brandsÂ which had a student portal, faculty portal and
+several integrations into other systems such as a CRM system and internal applications developed on SharePoint platform.
+â€‹
+â€‹Hired and managed aÂ team of Business Analysts and support engineers to support the Student Information System (SIS).Â 
+â€‹
+Developed business processes and Service Level Agreements used by the business analysts and support engineers.
+â€‹
+Oversaw an off-shore development team in India to developÂ innovative solutionsÂ on SharePoint platform integrated into the SIS as a means of
+adding automation to enhance productivity and data validation.
+â€‹
+Managed the relationships with vendors associated with the student information system.
+â€‹
+Started with the organization as an IT Manager and led the team to stabilize the environment.
+â€‹
+Collaborated with the HR department to develop on-board training on systems. This increased the ROI on new associated from day 1Â and
+reduced the number of support tickets from new associates.
+â€‹
+I was a key member in the process of planning and moving from a small server room to AT&T collocated datacenter.
+â€‹
+I advised in the development and relocation of two of the West Coast campuses.
+01/2005 to 08/2009
+President Company Name ï¼​ City , State
+Aldreteem Inc was created to support small to mid-sized organizations that wanted to implement Enterprise Resource Planning systems but did not
+have the resources to manage the system in-house.
+Accountable forÂ  the entire business Â including overall customer satisfaction and profitability.
+Created new revenue streams through by partnering with other ERP vendors that did not have our expertise to deploy solutions on Sage, SAP,
+Great PlainsÂ and Epicor.
+Generated new businessÂ by signing a national agreement with a leading national hospitality company to manage their ERP system and provide
+auxiliary IT services.
+Strengthened company's business by leading implementation of all projects.
+03/2001 to 12/2004
+Director, Client Services Company Name ï¼​ City , State
+BatchMaster Software Inc develops an Enterprise Resource Planning system for the process manufacturing industries integrated into Sage
+Platinum, SAP Business One and Microsoft Great Plains. Prior to joining eWorkPlace, their solution was deployed through a network of resellers
+who did the implementation and primary support. I created new revenue streams for both parties by creating the Client Services group where the
+resellers focused on client relationships and sales. They could resell our services.
+â€‹
+IncreasedÂ revenue by 60% throughÂ the creation of the client services department. The department performed implementations and support.
+Created the Rapid implementation process where we reduced the implementation from months to 4 weeks.
+Strengthened company's business by initiating and leading the development of the relationship with SAP.
+Spearheaded the implementation of an off-shore support team to support customers post implementation. Customers found the team helpful with
+upgrades and update and well as phone support software maintenance renewal increased by 80%.
+Created and spearheaded the customer satisfaction survey , resulting in a 45 % increase inÂ customer satisfaction which resulted in customers
+renewing their yearly software maintenance which increased revenue.
+Education
+2010
+Business Administration Walden University ï¼​ City , State , USA
+3.85 Â GPA
+Minor inÂ  Leadership 
+Bachelor of Science : Information and Business Systems Technology University of Essex ï¼​ City , State , UK
+Member ofÂ  the world famous Essex UniversityÂ Afro-Carib Â Club
+Played soccer for the University
+Skills
+Enterprise Resource Planning Systems
+Education Software: Campus Nexus Student, Student and Faculty portal
+Accounting Systems: Sage Platinum, Microsoft Great Plains, AccountMate, SAP Business OneÂ 
+Learning Management Systems: Dialoge EDU; eCollege; Moodle Rooms
+Manufacturing Systems: BatchMaster
+Customer Relationship Management Systems: Microsoft Great Plains CRM, Campus Nexus CRM,
+Enterprise BackOffice Systems
+Microsoft Server
+Microsoft SQL server
+Microsoft Exchange
+Microsoft SharePoint
+Linux
+Storage Area Network
+Active Directory
+Microsoft Terminal Services
+Microsoft Remote desktop Services
+CitrixÂ 
+Network Devices and Monitoring Tools
+Juniper switches, routersÂ and firewalls
+Netgear switches, routers and firewalls
+CISCO switches, routers and firewalls
+Solarwinds network monitoring tools
+Sophos Unified Threat Management
+IDERA SQL Management
+WebSense
+Virtual System
+VMWare
+HyperV
+Cloud based phone systems
+Cloud based storage and backup
+Cloud Technologies
+Amazon Web Services
+Microsoft Azure and O365
+Miscellaneous Applications and Desktop Applications
+Microsoft Office suite
+Sophos Anti-Virus
+Sophos Mobile Device Management
+DeepFreeze Desktop management

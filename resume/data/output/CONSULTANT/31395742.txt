@@ -1,0 +1,67 @@
+CONSULTANT
+Summary
+PC Technician, Security Analyst, and Security Services - Identity Management
+Solutions-oriented with notable success in a broad range of corporate IT initiatives, while participating in planning and the implementation of policy
+and procedures, set standards for reference and training.Â 
+Create and maintain procedures for end users and support staff to increase productivity and support for the end user.Â 
+A track record of increasing responsibility in network security, systems analysis and IT development.Â 
+Works with IT department staff and management to inform of processes and procedures and training as needed.Â 
+Clearly understands the importance of SLA agreements and standards for all incidents and cases. 
+Skills
+Microsoft WindowsÂ® operating systems Windows NT, 2000, XP, Vista, and Win7.
+iSeries IFS, iSeries Navigator, IBM Tivoli
+Administration tools for Windows Server 2003-2008
+Networking: TCP/IP, SMS, WSUS, Ethernet, VPN, SecureID
+Active Directory Users and Computers
+Hyena v.7.3, 
+Lotus Notes, LAN Manager, Sophos Virus Protection Utilities, WebSense, Norton
+Lawson
+Surveillix Central Station RSA
+Authentication Manager, Citrix, Remedy, GWI Help Desk
+Solutions, Unix Reflection Manager, Putty, Kana IQ Resource Manager, PC
+Anywhere, NetOp, Telnet.
+Experience
+Consultant , 06/2012 to 07/2013 Company Name ï¼​ City , State
+Responsible for upgrading and replacing Windows XP PC's to Win7 OS for a +3000 employee company.
+Creating and updating asset management for new and to be disposed of equipment.
+Working with network team to ensure port closure and security.
+Contacting and working with vendors and Project Management for best practices on upgrading machines and hospital equipment.
+Senior contact person for Service Desk personnel on procedures and training Inventory and audits of clinics surrounding and hospital for
+hardware and software and machines to be replaced Creating new procedures for company Service Desk employees and end users to
+follow after upgrading software installations Installing and configuring new hardware and software for new OS platform Training end users
+on software hardware changes Creating and editing user accounts in Active Directory Working with network group to ensure port closure
+for security Contact/support person for Service Desk employees.
+Field Services Technician II , 01/2011 to 11/2011 Company Name ï¼​ City , State
+Front line support for 10,000 Wal-mart Stores and Sam's Clubs worldwide.
+Provide technical support for usability and critical site issues.
+Front line support for down store situations working with development and specialty teams to restore connectivity to down ISP and
+networking equipment.
+Front line support for software-hardware related that stores or clubs may encounter.
+PC Technician III/Security Analyst , 08/1998 to 01/2010 Company Name ï¼​ City , State
+Front line phone support for US and Mexico terminals, connecting remotely to correct PC software issues, installation of software.
+Support and monitor the security log management environment and user account administration.
+Monitor records and control changes in order to maintain network security.
+Collaborate with system engineers and infrastructure team on solutions to mitigate risks and enhance system security.
+Develop procedures and facilitate awareness training for management and employees.
+Participate defining and implementing overall security strategy, policies and procedures.
+Documenting security projects, task planning, research, testing and implementation.
+Create and maintain company wide iSeries IFS authorization lists on files and or directories.
+Create and maintain user accounts within the company including iSeries IFS authorization lists on files and directories.
+Key member of creation and maintenance of 800 Active Directory accounts; iSeries profiles.
+Help Desk and PC Technician , 08/1990 to 03/1998 Company Name ï¼​ City , State
+Involved in the setup and delivery of leased PC's in the Commodity area.
+Provided consultation to users, by solving problems over the telephone or by generating Help Requests.
+Provided customer support for Win95 and WinNT 4.0.
+Ability to identify and troubleshoot hardware and software.
+Install and support hardware and software, including Lotus products, Microsoft products, Client Access and NetSoft , Internet, and
+AutoCadLT.
+Certified with Dell Optiplex, Dell Latitude and Micron Certification.
+Education and Training
+Associate of Applied Science : Computer Systems and Network Technology , October 2000 Vatterott College ï¼​ City , State Computer Systems
+and Network Technology
+Skills
+a +, Active Directory, asset management, Citrix, hardware, consultation, Client, customer support, delivery, Dell, editing, Ethernet, phone support,
+Help Desk, IBM, ISP, Inventory, IQ, Lawson, Lotus, Lotus Notes, Micron, Microsoft products, Access, LAN Manager, Win7, 2000, Win95,
+WinNT 4.0, Windows NT, Windows XP, Navigator, network security, network, Networking, Norton Ghost, operating systems, OS, PC's, PC
+Anywhere, PC software, personnel, policies, Project Management, research, SMS, Sophos, strategy, TCP/IP, technical support, telephone,
+Telnet, Tivoli, troubleshoot, Unix, upgrading, Utilities, VPN, Vista, Windows Server

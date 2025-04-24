@@ -1,0 +1,70 @@
+CONSULTANT
+Professional Profile
+Consultant/System Engineer with 6 years in HealthCare IT. Primary focus has been on Linux with a recent emphasis on Regulatory Consulting and
+Transition of Care. Experienced in training and development of associates along with development of documentation.
+Qualifications
+Working independently
+Training program implementation
+Quality control
+Process improvement
+System testing
+Gap analysis
+System administration
+UNIX system performance monitoring
+Technical writing
+Unix/Linux environments
+Relevant Experience
+Created build guides that ultimately led to the automation of many elements of the build process for several teams. Â This automation saved my
+team as well as others, weeks of build time and has allowed for a more standardized process.
+Experience
+Consultant 08/2015 to Current Company Name City , State
+Provides leadership and oversight to engagements so that results are met on time as well as to ensure value is being provided to the client.
+Ensures appropriate resources are allocated and maintained to facilitate successful completion of projects, which includes working with
+Project Managers from all across the Consulting Organization to ensure project alignment.
+Multi-tasks the delivery of several project initiatives designed to enhance the services and level of support provided to the client.
+Plans and arranges the project deliverables in alignment with the expectations of the client and the business need to ensure that the client will
+successfully be able to meet Meaningful Use measures.
+Conduct on-site client workshops and client summits as needed and determined by the hospital systems.
+Manage Provider and hospital data through various tools including DiscernVisualDeveloper, HNAuser, and Bedrock Build hundreds of
+rules and pools for Direct and Transition of Care for clients.
+Create and maintain build guides and team collateral to use for future client and new hire training.
+Build guides and workflows were also used to partner with an internal automation team to streamline our processes.
+Works with the hospital systems and designated HIM staff on how to maintain systems once we begin to disengage from the product.
+SYSTEM ENGINEER - Health Sentry 02/2013 to 08/2015 Company Name City , State
+Backend support on production servers of extracted data on Linux systems including investigation of corrupt data, creating SSH keys,
+extracting data from client database, managing disk space and troubleshooting.
+Front end work on production servers by maintaining OpsJobs and troubleshooting any operation failures.
+Often working with the client to teach the ongoing maintenance of the OpsJob.
+Effectively communicate project status reports both internally as well as to the client through weekly meetings and calls.
+Create various macros and spreadsheets for quality assurance checking Create and run numerous SQL queries.
+Manage and monitor the FTP, PHINMS and VPN connections on a daily basis to provide a proactive approach to catching any issues.
+Use custom CCL scripts to modify the format of HL7 messages.
+Create and provide appropriate workflow documentation for clients to support the system and setup during the testing processes.
+Adhere to applicable client access, client notification, and change management policies and procedures.
+Work with other Engineers to alleviate problems with data extracts.
+SYSTEM ENGINEER 06/2012 to 02/2013 Company Name City , State
+Assist HR teams with designing and implementing solutions Rebuilt a custom tool for Events Planning team using Microsoft Access.
+Put together documentation for implemented changes Assist with PeopleSoft, Data Archive Manager, and Taleo resume parsing project
+Conduct "fact finding" meetings with various team members to better understand how the solution would be used.
+Held regular meetings to provide updates on the current status of work and to give a timeline of completion.
+SYSTEM ENGINEER - Project Implementation 05/2010 to 06/2012 Company Name City , State
+CernerWorks Project Implementation Backend support of servers operating on Linux, AIX, HP-UX, and occasional VMS systems.
+Support service pack installation and continued maintenance of solutions, and infrastructure.
+Identify where applications are having performance/reliability issues; analyzes and formulate a proposed method to correct issues.
+Perform domain replicate/refreshes from a production environment to a non-production environment.
+Work through a queue of Service Requests to resolve issues the client reported or that other internal teams encountered.
+Worked with other internal architects to resolve more complicated issues.
+Manage end user access and privileges including group 0 access, creation of user profiles, and custom lists.
+Support the maintenance of specific clients and their servers/application needs including after-hours work.
+Build various servers including Websphere, RRD, Chart and Citrix Servers.
+Coordinate with client for the testing of environment functionality as well as service pack installs and the subsequent downtimes.
+Completed numerous service package installs for non-production clients and for testing partners.
+Maintain long-term support and management; troubleshoot and resolve issues daily.
+Education
+MBA : Information Systems 2015 Park University City , State Information Systems
+Bachelors of Science : Business Administration/Management 2015 Park University City , State Business Administration/Management
+Associates of Applied Science : Computer Networking 2010 ITT-Technical Institute City , State Computer Networking
+Skills
+AIX, automation, change management, Citrix, Consulting, client, clients, database, delivery, designing, documentation, FTP, HP-UX, HR,
+leadership, Linux, macros, managing, meetings, access, Microsoft Access, Works, PeopleSoft, policies, processes, quality assurance, SSH,
+Servers, scripts, spreadsheets, SQL, troubleshooting, VPN, VMS, Websphere, workflow, workshops

@@ -1,0 +1,90 @@
+SPRINT ISP MANAGEMENT TO THE VENDOR
+Qualifications
+Windows 95-XP-Windows 7/8.8,1/10
+Windows NT/2000/2003/2008/2012
+Red Hat (limited)
+Ubuntu (limited) VIRTUALIZATION TECHNOLOGY:
+ESX/ESXi 3.5-5.5
+MS Hyperv 2005-2008 SECURITY SYSTEMS/LOAD BALANCERS:
+Brocade SSL Load Balancer
+F5 BigIP AFT/LTM Load Balancer
+SSL Cert Management - 230 Sites
+Watchguard
+Work Experience
+Sprint ISP Management to the vendor 
+May 2014 to Current Company Name
+Performed System Administration for clients in KCMO/KS - worked on project to move critical Servers to Data Center without
+interruption. Worked with team to resolve issues and moved over a weekend.
+Started training and project on Azure and AWS project to move production servers and services to cloud services. Worked on cost
+analysis to procure a complete change over from physical to cloud environment.
+Moved complete office infrastructure to new office. Designed network infrastructure. Worked with major ISPs (ATT/TWC) to provide
+internet and managed services. Setup wireless infrastructure. Put in PBX Grandstream system and worked with providers to move from
+Analog to Fiber with DID's for PBX installation.
+Restructured backup process to include Dell Appassure - configured to backup 22 VM Windows server, including 2 SQL and 2 Microsoft
+Exchange Servers
+Completed P2V project using ESXi 5.5 with Essentials licensing. Converted 22 servers
+Configured Orion Solar Winds to monitor and report on all network devices utilizing several monitoring processes.
+Worked with vendor to cut over all remote locations from ATT/Sprint ISP Management to the vendor. This took the work load off of IT
+and allowed an outsourced company to monitor and manage 21 remote offices.
+Technologies: SonicWall/Cisco ASA Firewall, Windows Server 03-12/Pertino Networks
+ESXi 4.1-5.5, Exchange 2007/2013, IIS Servers, Dell Switches, Dell Servers, AppAssure, Azure/AWS
+Implemented Pertino, EMC VNX 5300, VNXe 3200
+Systems Engineer 
+January 2013 to May 2014 Company Name ï¼​ City , State
+Moved to contract role after company sold
+Relocated company production network from MainMark DataCenter to Layered Tech ATC.
+Built new infrastructure - Cisco UCS B200 5 Blade Server/VMWARE ESXi 5.1 Enterprise, EMC VNX 5300 SAN/Fibre Channel
+technology-10gb/Fabric Connectors/Cisco 4500 Switches
+Moved all SSL Certs from outdated Brokade Load Balancers to F5 BigIP LTM
+Configured Orion Solar Winds to monitor and report on all network devices utilizing several monitoring processes.
+Redesigned new ESXi 5.1 installation to utilize HA/DFS/Vmotion - configured access via Fibre Channel protocol for 10gb connection to
+SAN.
+Technologies: F5, Cisco ASA Firewall, Cisco UCS Blade Server, EMC San, Windows Server 03-12
+ESXi 4.1-5.5, SolarWinds, Exchange 2003/2010/2013, IIS Servers, Dell Switches, Dell Servers, Trilead VMX, VEEAM, Unitrends
+IT Director 
+September 2007 to January 2013 Company Name ï¼​ City , State
+Performs hardware, software and network upgrades for company - Installed Server MS Windows 2003 Enterprise Edition based network
+- Upgraded to 2008 R2.
+Responsible for implementing and maintaining system security and configurations of 32 company servers while providing IT support, to
+include planning, software and hardware configuration to a staff of 90 end-users.
+Implements overall worksite infrastructure using ESXi Virtualization - Went from a 4 server shop to 32 - all but 3 are VM's.
+Analyzes information to determine, recommend, and plan layout for type of computers and peripheral equipment modifications to existing
+systems.
+Technologies: Watchguard Firewall, Cisco Switches, Dell Switches, HP Switches, HP Servers, Windows Server 2003/2008, ESX 3.5 -
+ESXi 5.1, Exchange 2003/2010 DAG, IIS Servers, Trilead VMX, VEEAM, Unitrends
+Kansas State Government contractor 
+January 2001 to January 2007 Company Name ï¼​ City , State 66062 913.710.7339
+Education and Training
+BS : Business Management Ottawa University ï¼​ City , State , US Ottawa University ~ Overland Park, KS Campus Currently pursuing a BS in
+IT, Minor in Business Management
+Certifications
+CCNA CCDA
+MSCE
+VMWARE ESXi technologies
+Watchguard Firewall Technologies
+Exchange 5.5-2010
+OS/2/Netware/DOS Lan Manager (Many years of exposure to networks)
+Windows Server NT, 2000, 2003, 2008
+Office 95, 97, 2000, 2003, 2007, 2010
+F5 BigIP AFM/LTM Installation/Administration
+EMC VNX SAN Technologies - Training/Experience on new 5300/Unisphere/VNXe 3100 Unisphere/AX4-5i/Navisphere
+Experience with iSCSI, SMB
+Cisco UCS Blade Server technologies
+Supporting 10gb Fabric Connect technologies for UCS/SAN/VMWARE deployment
+Backup/DR Applications and Business Continuity programs TECHNOLOGY
+Cisco Router - Cisco Catalyst Switch - Switching Technologies (Layer 2,3) - Ethernet, FastEthernet, GigEthernet,
+HP/Dell/Cisco Managed Switches - Cisco Switching (latest is 4500)
+Watchguard XSeries
+F5 BigIP LTM/ASM
+DHCP
+TCP/IP
+DNS
+SSL Cert Mgmt
+Wireless B/G/AC Gb
+Skills
+Cisco, Exchange, Firewall, Iis, Internet Information Services, It Support, Layout For, Microsoft Windows, R2, Sap, Security, System Security,
+Virtualization, Windows 2003, Windows Server 2003, Cisco Asa, Emc, Emc Vnx, Orion, Vnx, Access, Atc, Dfs, Engineer, Fibre Channel,
+Marketing, San, Solarwinds, Ssl, Storage Area Network, Systems Engineer, Vmware, Analog, Aws, Clients, Cost Analysis, Data Center, Emc
+Vnxe, Isp, Microsoft Exchange, Pbx, Sql, System Administration, Systems Administration, Training, Virtual Machine, Vm, Vnxe, Wireless, Ac,
+Brocade, Business Continuity, Catalyst, Ccna, Deployment, Dhcp, Dns, Dos, Emc Navisphere, Ethernet, Iscsi, Lan, Lan Manager, Layer 2,
+Navisphere, Netware, Os/2, Red Hat, Router, Switching, Tcp, Tcp/ip, Windows 7, Windows 95, Business Management

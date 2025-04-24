@@ -1,0 +1,74 @@
+INFORMATION TECHNOLOGY SPECIALIST III (DRUPAL DEV)
+Summary
+Drupal developer with five years of experience in site building, and frontend and backend development. Skills in theming, as well. Driven to
+provide excellent service and high-quality coding to create secure and functional sites for clients. Expert in Drupal and up to date on the latest
+developments and versions. Managed several projects for the NYSED Redesign Project using both Drupal 7 and Drupal 8, including full Drupal
+deployment services. Earned the respect and the trust from both the NYSED ITS and Program Office Managements.
+Core Qualifications
+â€¢ Superior proficiency in high-level Drupal 7 and Drupal 8 Development
+â€¢ Excellent proficiency in using Drupal Ajax and jQuery in web development
+â€¢ Exceptional knowledge of Drupal prior versions and upgrades
+â€¢ Extensive expertise with versioning management systems
+â€¢ Strong ability to manage multiple concurrent projects
+â€¢ High problem solving and analytical skills
+Technical Skills
+Programming and Scripting Languages: C++, Java, JavaScript, PHP, Python, AJAX
+Data-Oriented Languages and Databases: SQL, PL/SQL, Oracle Database, DMS II, PL/SQL, JDBC
+Markup and Stylesheet Languages: HTML, HTML5, XHTML, CSS, and CSS3
+Methodologies: UML, Design Patterns
+IDE: Oracle JDeveloper, Eclipse, BlueJ, jGRASP, Microsoft Visual Studio
+Framework & Middleware: Drupal, Apache Struts, Apache, Tomcat
+Software Applications: MS Office, Oracle Database Server
+Operating Systems: Windows, OS X, and UNIX
+Automated Testing Tools: Selenium, Behat
+Experience
+Information Technology Specialist III (Drupal Dev) / Company Name - City , State 08/2015 - Current
+â€¢ Lead Drupal Developer for the NYSED.GOV redesign project.
+â€¢ Completely re-architecting the NYSED.GOV's website and content strategy.
+â€¢ Migrating all data, building and configuring the new site, and creating the custom Responsive Drupal theme.
+â€¢ Streamlining the authoring experience for content creators and auditors.
+â€¢ Designing, coding, architecting and testing various themes, modules and processes to extend Drupal to meet the Department needs.
+â€¢ Developing the NYSED's Drupal-based websites using HTML5 and CSS3.
+â€¢ Supervising the H-BITS Consultant and providing guidance according to the project plan.
+â€¢ Analyzing client request to develop, test, and deploy functional software requirements.
+â€¢ Providing support and assistance to webmasters to publish and update content to the NYSED's websites.
+â€¢ Coordinating activities with ITS infrastructure support units related to the configuration of the NYSED's websites, as well as the establishing
+and maintaining file access rights.
+â€¢ Executing tasks associated with generating website analytics.
+â€¢ Managing installation and ongoing support of search technologies used on the NYSED websites.
+â€¢ Providing expert guidance to the NYSED program offices and the webmasters related to the website accessibility standards and compliance.
+â€¢ Maintaining the NYSED's existing websites using the Dreamweaver and the Contribute software.
+â€¢ Managing the unit in the absence of my unit supervisor.
+â€¢ Providing weekly status reports, statistics and recommendation to the upper management as needed.
+â€¢ Communicating clearly both verbally and in writing with management and customers.
+â€¢ Documenting Drupal architecture solutions.
+Information Technology Specialist II / Company Name - City , State 09/2013 - 08/2015
+â€¢ Developed and maintained IT (systems) written in LINC, COBOL, Java, Struts, PL/SQL, and XML.
+â€¢ Analyzed and developed complex business intelligence reports to meet the needs of internal and external stakeholders.
+â€¢ Collaborated with program office members to identify their business process requirements.
+â€¢ Worked as a member of the application development team to build IT solutions that address the program office needs.
+â€¢ Developed and executed test plans, troubleshoot and debug system application code.
+â€¢ Assured systems and procedures are appropriately documented, meeting department standards, and following generally accepted IT
+practices.
+Intern Application Developer / Company Name - City , State 01/2013 - 06/2013
+â€¢ Maintained the support system to provide services to the clients.
+â€¢ Developed program logic for new applications, analyzed and modified logic in existing applications
+â€¢ Provided technical solutions for any applications issues. 
+â€¢ Developed software system testing and validation procedures, programming and documentation.
+â€¢ Tested EDI and other application systems; performed Data validation by executing complex SQL queries.
+Intern iOS Developer / Company Name - City , State 08/2012 - 12/2012
+â€¢ Designed and built applications for the iOS platform.
+â€¢ Ensured the performance, quality, and responsiveness of applications.
+â€¢ Collaborated with a team to define, design, and ship new features.
+â€¢ Identified and corrected bottlenecks and fixed bugs; maintained code quality, organization, and atomization.
+Assistant Store Supervisor / Company Name - City , State 02/2010 - 09/2013
+Supervisor of Footwear Department / Company Name - City , State 02/2008 - 12/2009
+PROFESSIONAL DEVELOPMENT
+City College of New York of the City University of New York, The - - City , State , United States 2013 Bachelor of Science : Computer Science
+VOLUNTEER EXPERIENCE
+Employees Association Â Â Â  Â Â Â Â  Â Â Â Â Â Â Â 05/2016 â€“ Present
+IT Chair of the IT Committee Board
+â€¢ Create and maintain the website along with the other committee members.
+â€¢ Train and educate about latest technology tools to the fellow team members.
+â€¢ Organize the weekly meetings and engage in different task-oriented activities.
+â€¢ Encourage the other board members to collaborate and share their expertise.

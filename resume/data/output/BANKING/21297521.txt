@@ -1,0 +1,216 @@
+MANAGER
+Experience
+Manager , 11/2013 to Current 
+Company Name â€“ City , State 
+Manage a large global team of up to 50 Managers, Technical Leads and Software Developers across a portfolio of 25 LOB applications.
+My responsibilities include:.
+Vendor management, RFPs, vendor selection, scope based contractual obligations, and negotiations on Fixed Bid, Fixed Scope, T&M
+SOWs and 3rd Party Software licensing.
+LRPs, short and long-term strategic Road Maps, Project Planning & Monitoring and Software Delivery.
+Operational Excellence using Application Performance Monitoring (APM), Log aggregation, etc.
+Solution Architecture & design of complex projects and enhancements to existing products.
+All aspects of IT Management - Hiring, Up/Out, developing trust based on highly advanced technical knowledge, motivating actively, Key
+Contributions:.
+Reshaped the SDLC within the first 90 days from an everything-goes to an Agile (SCRUM) based process, substantially improving on-time
+and on-budget deliveries.
+Introduced Jira as part of the transformation which snowballed into centralization of fractured implementations and adoption by thousands of
+people across the company.
+Stabilized a key VOD Rights and Windows management application with many technical challenges including performance and data
+corruption.
+Improved the resiliency of the platform, and reduced the technical debt enabling faster features development.
+Substantially improved MTTR and RCA by adopting Splunk and AppDynamics, and by establishing proactive alerts to detect problems
+earlier than the users.
+Strongly Influenced the UI/UX of a touch-enabled web and iOS application used by top executives.
+Established and delivered very stringent performance, quality and reliability requirements.
+Established a cloud-native, 12-factor architecture of an application deployed on AWS using Elastic Bean Stalk, RDS, SNS, and other
+related AWS services.
+Nominated on NBC-wide Cloud-first strategic committees.
+Key role & contributions to Identity Management (IdM) and REST based API reference architectures Technologies included - Java, .NET,
+iOS (Objective-c / Swift) HTML, JavaScript, PHP/Drupal OnPrem & Cloud-native architectures at all levels of abstraction (IaaS, PaaS,
+12-factor, Containerized & Serverless.
+Senior Director , 01/2011 to 05/2013 
+Company Name â€“ City , State 
+Headed the Solution Architecture and Project Management Office responsible for designing and delivering marquee consumer facing digital
+streaming on Web, iOS, Android, ROKU, XBOX and other platforms.
+My Responsibilities included:.
+Architectural SME for pre-sales and business development executives on key accounts such as Target, STARZ, Barnes & Noble, Dish
+Network, etc.
+Product Strategy and roadmaps for critical components of the Video Streaming platform including devices, Catalog,
+Apple/Google/Microsoft DRM and Digital lockers.
+Project management, scope management, problem resolution, delivery and launch of the client-company's products to its customers.
+Relationship management with internal and external strategic partners Key Contributions.
+Helped win a $9 million-dollar account with Barnes & Noble based on establishing trust and relationship with the head of Nook device
+development by answering and proposing solutions to tough technical problems.
+Even wrote Java code for video playback of DRM content such as Movies & TV Shows on Nook's highly customized Android platform.
+A unique Public Key Infrastructure (PKI) based shared-responsibility security model to authenticate and authorize issuing of DRM keys for
+video playback of encrypted content, which garnered interest from Charter Communications.
+Recognized and promoted to Senior Director within 6 months of joining the company Other past experience includes.
+Media & Entertainment: Turning around a troubled project and relationships to complete and launch Disney's EST video streaming
+platform-Disney Movies Anywhere, As a gesture of recognition, I was presented with a framed plaque by Disney employees.
+Regulated Payment Processing: Managing a team of Business Analysts, Architects & Web Developers at Green Dot (Mar 2010-July2010)
+to build multiple consumer facing web sites, including Walmart MoneyCard.
+Company Name 
+for processing 12-million home-loans every day for Federal HARP compliance requirements.
+Regulated Finance & Lending: First Vice President at Countrywide managing a team of 15 onshore and offshore Architects, Developers,
+and QA to deliver a $1.7 million lead management project with an ROI of $29.3 million.
+Regulated Finance & Lending: Technical Lead and Development Manager at IndyMac for automated underwriting and pricing systems.
+As a member of a team, built the first such web ecommerce solution in the US mortgage market.
+Proposed, brought consensus by demonstrating a POC, and built a C++ engine improving performance by 75% Detailed Technical Skills
+Cloud: Amazon EC2, RDS and other IaaS, Elastic Beanstalk (PaaS), Lambdas (Serverless), API gateway, Alexa, Fargate etc.
+Similar & corresponding experience on Microsoft's Azure, Heroku and Cloud foundry including containers such as Docker and Rkt,
+orchestration with Docker Swarm & Kubernetes, Envoy, etc.
+Keen interest in Cloud Native Computing Foundation's (CNCF) OCI standardization Software Engineering and Delivery: Scrum, Kanban
+and eXtreme Programming, Waterfall in a highly regulated environment.
+DevOps using Agile methodologies, Git based development workflows, continuous delivery (CD) using Jenkins, Artifactory & Nexus.
+Automated unit testing and end-to-end (e2e) testing, code quality, code coverage, test coverage, and other metrics using SonarQube.
+DevSecOps by incorporating Veracode, Snyk, etc.
+Canary releases, A/B testing, and feature-activated coding methods.
+Operations and disaster recovery with defined RTO & RPO Technology Platforms: Linux, Windows, Java, .NET, C, C++, C#, NodeJS,
+JavaScript/ES6, Typescript, Databases such as SQL Server, Oracle, MySQL, Postgres, SQLite, Realm, Swift & Objective-C for iOS
+applications.
+Experience with Social Analytics (close-knit Networks & Decision Trees) and some experience on supervised learning, Architecture &
+Design patterns and anti-patterns.
+Work History
+Manager , 11/2013 to Current 
+Company Name â€“ City , State 
+Manage a large global team of up to 50 Managers, Technical Leads and Software Developers across a portfolio of 25 LOB applications.
+My responsibilities include:.
+Vendor management, RFPs, vendor selection, scope based contractual obligations, and negotiations on Fixed Bid, Fixed Scope, T&M
+SOWs and 3rd Party Software licensing.
+LRPs, short and long-term strategic Road Maps, Project Planning & Monitoring and Software Delivery.
+Operational Excellence using Application Performance Monitoring (APM), Log aggregation, etc.
+Solution Architecture & design of complex projects and enhancements to existing products.
+All aspects of IT Management - Hiring, Up/Out, developing trust based on highly advanced technical knowledge, motivating actively, Key
+Contributions:.
+Reshaped the SDLC within the first 90 days from an everything-goes to an Agile (SCRUM) based process, substantially improving on-time
+and on-budget deliveries.
+Introduced Jira as part of the transformation which snowballed into centralization of fractured implementations and adoption by thousands of
+people across the company.
+Stabilized a key VOD Rights and Windows management application with many technical challenges including performance and data
+corruption.
+Improved the resiliency of the platform, and reduced the technical debt enabling faster features development.
+Substantially improved MTTR and RCA by adopting Splunk and AppDynamics, and by establishing proactive alerts to detect problems
+earlier than the users.
+Strongly Influenced the UI/UX of a touch-enabled web and iOS application used by top executives.
+Established and delivered very stringent performance, quality and reliability requirements.
+Established a cloud-native, 12-factor architecture of an application deployed on AWS using Elastic Bean Stalk, RDS, SNS, and other
+related AWS services.
+Nominated on NBC-wide Cloud-first strategic committees.
+Key role & contributions to Identity Management (IdM) and REST based API reference architectures Technologies included - Java, .NET,
+iOS (Objective-c / Swift) HTML, JavaScript, PHP/Drupal OnPrem & Cloud-native architectures at all levels of abstraction (IaaS, PaaS,
+12-factor, Containerized & Serverless.
+Senior Director , 01/2011 to 05/2013 
+07/2010 to 12/2010 
+Company Name â€“ City , State 
+Headed the Solution Architecture and Project Management Office responsible for designing and delivering marquee consumer facing digital
+streaming on Web, iOS, Android, ROKU, XBOX and other platforms.
+My Responsibilities included:.
+Architectural SME for pre-sales and business development executives on key accounts such as Target, STARZ, Barnes & Noble, Dish
+Network, etc.
+Product Strategy and roadmaps for critical components of the Video Streaming platform including devices, Catalog,
+Apple/Google/Microsoft DRM and Digital lockers.
+Project management, scope management, problem resolution, delivery and launch of the client-company's products to its customers.
+Relationship management with internal and external strategic partners Key Contributions.
+Helped win a $9 million-dollar account with Barnes & Noble based on establishing trust and relationship with the head of Nook device
+development by answering and proposing solutions to tough technical problems.
+Even wrote Java code for video playback of DRM content such as Movies & TV Shows on Nook's highly customized Android platform.
+A unique Public Key Infrastructure (PKI) based shared-responsibility security model to authenticate and authorize issuing of DRM keys for
+video playback of encrypted content, which garnered interest from Charter Communications.
+Recognized and promoted to Senior Director within 6 months of joining the company Other past experience includes.
+Media & Entertainment: Turning around a troubled project and relationships to complete and launch Disney's EST video streaming
+platform-Disney Movies Anywhere, As a gesture of recognition, I was presented with a framed plaque by Disney employees.
+Regulated Payment Processing: Managing a team of Business Analysts, Architects & Web Developers at Green Dot (Mar 2010-July2010)
+to build multiple consumer facing web sites, including Walmart MoneyCard.
+10/2009 to 02/2010 
+Company Name 
+for processing 12-million home-loans every day for Federal HARP compliance requirements.
+Regulated Finance & Lending: First Vice President at Countrywide managing a team of 15 onshore and offshore Architects, Developers,
+and QA to deliver a $1.7 million lead management project with an ROI of $29.3 million.
+Regulated Finance & Lending: Technical Lead and Development Manager at IndyMac for automated underwriting and pricing systems.
+As a member of a team, built the first such web ecommerce solution in the US mortgage market.
+Proposed, brought consensus by demonstrating a POC, and built a C++ engine improving performance by 75% Detailed Technical Skills
+Cloud: Amazon EC2, RDS and other IaaS, Elastic Beanstalk (PaaS), Lambdas (Serverless), API gateway, Alexa, Fargate etc.
+Similar & corresponding experience on Microsoft's Azure, Heroku and Cloud foundry including containers such as Docker and Rkt,
+orchestration with Docker Swarm & Kubernetes, Envoy, etc.
+Keen interest in Cloud Native Computing Foundation's (CNCF) OCI standardization Software Engineering and Delivery: Scrum, Kanban
+and eXtreme Programming, Waterfall in a highly regulated environment.
+DevOps using Agile methodologies, Git based development workflows, continuous delivery (CD) using Jenkins, Artifactory & Nexus.
+Automated unit testing and end-to-end (e2e) testing, code quality, code coverage, test coverage, and other metrics using SonarQube.
+DevSecOps by incorporating Veracode, Snyk, etc.
+Canary releases, A/B testing, and feature-activated coding methods.
+Operations and disaster recovery with defined RTO & RPO Technology Platforms: Linux, Windows, Java, .NET, C, C++, C#, NodeJS,
+JavaScript/ES6, Typescript, Databases such as SQL Server, Oracle, MySQL, Postgres, SQLite, Realm, Swift & Objective-C for iOS
+applications.
+Experience with Social Analytics (close-knit Networks & Decision Trees) and some experience on supervised learning, Architecture &
+Design patterns and anti-patterns.
+Education
+2016 
+Massachusetts Institute of Technology 
+M.B.A : 2002 
+UCLA Anderson School of Management - City , State 
+Bachelor's : engineering , 1993 
+Thapar University 
+Summary
+18+ yrs. of experience in Information Technology Management with a proven record as a servant leader for large distributed teams in diverse
+technical environments. Proven record of managing budgets, LRPs, product & portfolio roadmaps, business cases, software architecture,
+development and operations. Extensive track record of nurturing deep relationships within the company, vendors, strategic partners and standards
+bodies to achieve business goals. Strengths
+Cloud native architectures to drive reliability, performance and cost optimizations - IaaS, DBaaS, PaaS, Containerized, SaaS and Serverless
+Strategic Digital Transformations using traditional software development best practices and bleeding edge, emerging technologies in corpus/intent
+based digital assistants, bots, RPAs, computer vision, NLP, deep learning and Blockchain
+Program and Project management with Agile/SCRUM/Kanban, and DevOps/DevSecOps
+Metrics, KPIs and SLA driven IT Governance and Controls including 24/7/365 operational excellence, disaster recovery, & continuous
+improvement of software development processes
+Excellent analytical, problem solving and verbal & written communication skills; self-motivated fast learner, adaptable and fast decision maker
+even in ambiguous situations
+Management skills include hiring/firing, motivating, retention, performance reviews, SMART goals, conflict resolution, career development,
+executive reporting, mentoring
+Highlights
+NET, Networks
+APM, Objective-C
+Agile, Oracle
+API, Payment Processing
+Apple, Postgres
+Budget, Pricing
+Business development, Problem resolution
+C, Coding
+C++, Programming
+Catalog, Project Management
+CD, Project Planning
+Content, Quality
+Client, QA
+Databases, Relationship management
+Delivery, Sales
+Designing, SCRUM
+Disaster recovery, SDLC
+Drupal, Software Developers
+Gateway, Strategic
+Hiring, Swift
+UX, TV
+HTML, Underwriting
+PHP, Unique
+IT Management, Vendor management
+Java, Video
+JavaScript, Web sites
+Linux
+Director
+Managing
+Market
+C#
+Office
+Win
+Windows
+MySQL
+Ecommerce, Software Engineering
+Features, SQL Server
+Finance, Strategy
+Negotiations
+Network
+Strategic planning
+Skills
+NET, APM, Agile, API, Apple, budget, business development, C, C++, Catalog, CD, content, client, Databases, Delivery, designing, disaster
+recovery, Drupal, ecommerce, features, Finance, gateway, Hiring, UX, HTML, PHP, IT Management, Java, JavaScript, Linux, Director,
+Managing, market, C#, Office, win, Windows, MySQL, negotiations, Network, Networks, Objective-C, Oracle, Payment Processing, Postgres,
+pricing, problem resolution, coding, Programming, Project Management, Project Planning, quality, QA, Relationship management, sales, SCRUM,
+SDLC, Software Developers, Software Engineering, SQL Server, Strategy, strategic, Swift, TV, underwriting, unique, Vendor management,
+Video, web sites

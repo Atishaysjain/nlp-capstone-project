@@ -1,0 +1,145 @@
+IT CONSULTANT
+Summary
+Over Seven years of Software Application Development, Application Support, Testing and Implementation experience with Web based
+and N-tier Architectures involving all stages of Software Development Life Cycle (SDLC).
+Experience in developing Web applications in . SDLC) including requirements, logical and physical architecture modeling, design,
+development, implementation, and support.
+Ability to work in a fast paced, collaborative environment and handle multiple concurrent projects.
+Collaborate with partners to understand high-level conceptual flow and develop prototypes to review with business partners.
+Functional Domain experience involves HealthCare, Life Sciences and Transportation.
+Moved to Application Support team and leading an offshore team in Triaging production related issues since six months
+Experience in using Fiddler in Post Production Release Validation for monitoring Web Traffic
+Hands on experience in decompiling the code from the DLL's by using dot peek tool
+Achieved "Masters degree in Computer Sciences" from University of IL, Springfield
+Highlights
+NET framework ASP.NET, C# .NET, XML, HTML, HTTP, MS SQL Server, Web Services, ADO.NET, Entity Framework and
+LINQ
+Expertise skills in CSS, Java Script, Themes & Skins, User controls, Custom Controls and intrinsic state management functionality in
+ASP.Net.
+Experience in Object Oriented Analysis & Design (OOAD) concepts including Inheritance, Polymorphism & Abstraction.
+Expert skills in ASP.NET Web Forms, State Management, Caching features, and Securing ASP.NET Web applications. Technologies
+ASP.NET 2.0/3.5/4.0/4.5, Web Services, WCF, MVC 4.0, .NET MVC
+Languages C#.NET, XML, HTML, JavaScript, Core Java, T-SQL
+Database Access Methods ADO.Net, ODBC
+Databases MS SQL Server 2000/2005/2008/2014, Oracle 9i/10g/11g
+Servers IIS 7 & 7.5
+Web Programming ASP.NET, Java Script, HTML, CSS, AJAX, JQuery
+Version Control Tools Team Foundation Server , IBM Rational Team Concert, GitHub
+Reporting Tools SSRS, Crystal Reports and Business Objects
+IDE Visual Studio 2005, 2008, 2010, 2012, 2013, 2015
+Operating Systems Windows 98/2000/XP/Vista/7.0/8.0/8.1, MS DOS
+Domain Skills HealthCare, Life Sciences, Transportation
+Third Party Tools Telerik, Bootstrap, JQuery, Kendo UI, Postman Interceptor, Fiddler, dot peek, Remote Desktop Manager
+Experience
+IT CONSULTANT 
+July 2014 to May 2016 Company Name ï¼​ City , State
+Project: Document Generation Services Description: eviCore Healthcare provides evidence-based healthcare solutions in the areas of
+Radiology, Radiation Therapy, Cardiology, Lab Management, Oncology, Pain Management and Sleep Management.
+Document Generation Services is a platform comprised of over 30 products that range from UI, Web Services, Windows Services, and
+Database Systems.
+The day to day maintenance for this platforms entrails building new database scripts, creating new web services, implementing new
+customers onto the platform, and enhancing existing products.
+The platform is currently utilized by 50+ customers and generated over 12 million documents per year Responsibilities: Develops core line of
+business application software Works directly with internal consumers to identify requirements for software development Works as a .NET
+developer to develop updated code for core internal services Works as a SQL developer to update internal business logic Developed grade
+level reading enhancements to internal web portals (using Flesch-Kincaid Algorithm) Developed plugins for core applications using
+WCF/MVC Web API Implemented Client Side scripting using JQuery.
+Primary developer for internal implementations and enhancements Maintains production stability Monitors production services & servers
+Works on high priority Bug fixes in Production Participates in production software releases Actively involved in projects to migrate business
+logic away from database to a web service layer Participated in daily Sprint meetings with Scrum Master.
+Recently moved to Application Support Team which is responsible in dealing all kinds of Production issues from all applications in the
+organization and performing Root cause Analysis & fixing the bugs as per priority Environment: NET3.5, VS.NET2010, LINQ, C#, JSON,
+ASP.NET, MVC, TFS, SQL Server 2008/2012, IIS6, Restful services, JavaScript, Windows 7, Angular JS, Fiddler, dot Peek, Postman
+Interceptor.
+IT Consultant 
+January 2010 to April 2013 Company Name ï¼​ City , State
+Project: COMET Description: Landauer Inc.
+is the world leader in personnel radiation monitoring with a third generation proprietary state-of-the-art technology, optically stimulated
+luminescence (OSL).
+Landauer is the leading provider of analytical services to determine personnel exposure to occupational and environmental radiation hazards
+in the workplace and home.
+Comet is an Agresso (ERP) application which is been developed to automate the manual process of Order Entry, Customer Service, Sales,
+Finance and Laboratory.
+Responsibilities: Developed and support above applications in AJAX, C#, JQuery and ASP.net.
+Developed web applications Oracle and SQL Server as Data servers.
+Developed the web application and all of its components using N-Tier architecture.
+Separated logic for Presentation, Business and Data access tiers to accomplish n-tier.
+Created complicated web interfaces to facilitate creation of reports.
+Created a RESTFUL WCF Service to communicate from .NET front end application to .net service deployed in IIS.
+Proficient in Configuration Management, setting up company version policies, build schedules using Team Foundation Server (TFS) 2010,
+Visual Source Safe (VSS) and IBM Rational Team Concert.
+Implemented Data access layer using Entity Framework Database First Technology.
+Implemented Client Side scripting using JQuery.
+Created and consumed WCF Services for Business Logic.
+Wrote C# classes to generate excel and PDF reports.
+Heavily used Ajax and Ajax controls in several projects.
+Used Generics in C# to accomplish complicated business logic.
+Used both Client and Server side session management as a part of the project.
+Used Caching to display huge data on the web user interface.
+Created classes and core modules in C# for implementing business layer.
+Created Database Schema and Objects in SQL Server 2008 R2.
+Created SSIS packages for data transformation for data staging.
+Used CSS/Themes and Master pages to maintain styling throughout the application.
+Environment: C#, ASP.NET, CSS, SQL Server 2012, Oracle 10g, IIS 7.0, JQuery, Kendo UI, ADO.NET, Net Framework, Visual
+studio 2010/2012, JavaScript, Restful services, TFS, LINQ, Entity Framework.
+Software Engineer 
+August 2008 to November 2010 Company Name ï¼​ City , State
+CSX Corporation, together with its subsidiaries based in Jacksonville, Fla., is one of the nation's leading transportation suppliers.
+The company's rail and intermodal businesses provide rail-based transportation services including traditional rail service and the transport of
+intermodal containers and trailers.
+Overall, the CSX Transportation network encompasses about 21,000 route miles of track in 23 states, the District of Columbia and the
+Canadian provinces of Ontario and Quebec.
+Our transportation network serves some of the largest population centers in the nation.
+Nearly two-thirds of Americans live within CSX's service territory.
+Responsibilities: Actively participated in gathering requirements, design, and implementation.
+Designed and developed web forms using ASP.NET and C#.NET.
+Worked on Visual Source Safe for Version controls.
+Extensively worked on HTML, DHTML, CSS and Java Script for web forms designing and validations.
+Worked on Validation Controls, User Controls, Custom Controls for code reusability, and Web Server controls.
+Used AJAX, XAML for providing rich UI.
+Designed and developed the database using SQL Server 2005 and wrote SQL Queries, Stored Procedures, Indexes, Triggers and
+Cursors.
+Used ADO.NET and its Objects to communicate the SQL Server 2005 database and to access data and worked with SSIS.
+SSIS was used for creating packages and automating them using SQL scheduler.
+These packages are used to move data from and into SQL Server from various sources (like Excel & MS Access database) on a
+scheduled basis.
+Wrote Web Services using SOAP in the appropriate scenarios to communicate with other applications.
+Created program to Export and Import Datasets to XML file.
+Implemented Web Applications like Caching Services to boost performance and Security Services to identify users and prevent
+unauthorized access.
+Used Global.
+Sax files to handle Global Events which are fired for different reasons.
+Performed Unit Testing for ensuring the reliability of the application development.
+Involved in generating management reports on overall status of module using SSRS.
+Deployment of the project and the reports are done on the Testing and production servers.
+Environment: Visual Studio .NET 2005/2008, C#.NET, ADO.NET, Code Dom, SQL Server 2005, Multithreading, XML, AJAX,
+XAML, Java script, SQL Server 2005, Excel, SSIS, Web Services, SOAP, VSS, Crystal Reports and SSRS.
+Education
+Master of Science : Computer Science , 2014 University of Illinois ï¼​ City , State , USA Computer Science
+Bachelor of Science : Computer Science and Engineering , 2008 Jawaharlal Nehru Technological University ï¼​ City , State , India Computer
+Science and Engineering
+Accomplishments
+Experience in .NET security features such as Windows-based & Web-based Authentication, Authorizing users and roles.
+Coded and designed User Controls and Custom Controls and implemented input validation using .NET input Validation Controls.
+Designed and documented REST APIs, including JSON data formats and API versioning strategy Experience using Source Code Control
+Systems like Microsoft Team Foundation Server (TFS), IBM Rational Team Concert (RTC) & Microsoft GitHub Worked extensively on
+various ADO.NET objects to interact with databases such as SQL Connection Object, SQL Command Object, Data Reader, Dataset and
+Data Adapter.
+Expert skills in database design and development, for creating complex database queries, writing Constraints, Indexes, Views, Stored
+Procedures and Functions using T-SQL in SQL Server 2005/2008/2014 & Oracle.
+Successfully followed Test Driven Development (TDD)/ Agile Methodologies.
+Source Code Management, Code & Application Documentation, User Guide and Training manuals preparation experience.
+Developed system that automates posting of clearing firm financial data to general ledger using Angular JS, SQL Server, HTML Experience
+in configuration and setup of IIS Application Servers.
+Involvement in all stages of System development lifecycle (.
+Skills
+.NET3.5, .NET, ASP.Net, C#.NET, C# .NET, ASP.NET 2.0, third generation, ADO, Agresso, AJAX, API, application development, art,
+automate, Business Objects, Cardiology, Client and Server, Configuration Management, Crystal Reports, CSS, Client, Customer Service, Version
+Control, Databases, Database, designing, Dom, DHTML, ERP, XML, features, Finance, Forms, HTML, HTTP, IBM, IDE, IIS, IIS6, IIS 7, IIS
+7.0, Java, JavaScript, Java Script, JQuery, JSON, Logic, meetings, Access, MS Access, C#, Excel, Windows 7, Windows, 2000, Windows 98,
+Works, Monitors, MS DOS, MVC 4.0, MVC, network, Object Oriented Analysis & Design, OOAD, ODBC, Oncology, Operating Systems,
+Oracle 9, Oracle, developer, Oracle and SQL, Order Entry, Pain Management, PDF, personnel, policies, Radiology, reading, Reporting, Sales,
+Scrum, Servers, scripting, scripts, SOAP, software development, Visual Source Safe, MS SQL Server, SQL, SQL Server, Therapy, T-SQL,
+Transportation, user interface, Validation, Vista, Visual Studio, Web Applications, Web Programming, Web Server
+Additional Information
+Visa Status: Having a stamped H-1B Visa

@@ -1,0 +1,118 @@
+NOC ENGINEER
+Summary
+To work for professional organization that gives an opportunity for growth and to contribute value based management talent along with the seeking
+guidance from proficient seniors to help me sharpen my skills. To be a part of the team that works in dynamically challenging environment for
+growth of the organization and helping in achieving goal congruency. Working as a NOC (Network Operation Center) Engineer in Encore Capital
+Group. That is a leading BPO in call center technology. Having Eight plus years of professional experience, I bring forth a unique set of knowledge
+and skills which include an in-depth understanding of Business Processes and Structured Methodologies, experience in the Customer Service
+industry, excellent understanding of Offshore Client requirements, professional education and valuable experience gained mostly while working in
+last couple of organisation.
+Highlights
+Service Now, Microsoft Lync, MSN. *VPN: Cisco client, Cisco SSL, Check point Secure client. *Operating System: XP, Windows 7. *Office
+Tools: MS Office 2007 & 2010
+Experience
+NOC Engineer Apr 2011 to Apr 2016 
+Company Name
+Encore capital Group is one of the leading BPO in call centre industry with headquarters located in San Diego, USA.
+They were originally a part of Midland credit management which deals in collection of credit card and house tax loan Payments & also have
+overseas operations in Costa Rica, Warren, ST Cloud, San Antonio, Dallas, Phoenix and so on.
+Key Responsibilities and Technical Skill Set: Project:-EOS/NOC NOC is a part of Enterprise operations support that deals with the
+Infrastructure within USA, UK & India.
+Key Responsibilities and Technical Skill Set: Event Management-interpret alerts received via monitoring tools troubleshoot and take
+necessary remedial actions.
+Incident Management- Handling P1 Outage/Interruption.
+Taking care of incident management L2 and L3 bridges and drive them to resolution using incident management techniques under ITIL
+guidelines.
+Training new hires in NOC team.
+Alert configuration of server and network devices according to their threshold value specified by the concern team.
+Monitoring infrastructure devices with the help of various tools like Application Manager, Netflow Analyzer and Solarwinds Orion.
+Performing day to day activity which is specific to MCM environment with the help of tools like AS/400, SQL server management Studio
+and Idera Updating Dashboard, maintaining inventory for all NOC activities.
+Keep tracking of all Service Now tickets and their SLA's.
+Making shift Roster for all NOC engineers.
+Working and updating all the existing and new process documents and NOC day to day activities in Service now Knowledge Management
+which help the new joiners to understand the job responsibilities of NOC team.
+Working on Solarwinds Orion for configuring alarms, Nodes and other network devices.
+ServiceDesk Engineer Engineer Level 1 Analyst Dec 2008 to Mar 2011 
+Company Name
+supported technical troubleshooting for Desktops and Laptops for customers in both the US and China.
+Troubleshooting included all kinds of hardware and software based queries for Win XP, Pro, and Vista.
+After 11 months i was promoted to L2 Engineer.
+As a Level 2 Support, was responsible to coach Level 1 analysts by taking up technical sessions, making shift roster, engineer's attendance
+& also making pending call reports on daily basis.
+Key Responsibilities and Technical Skill Set: Giving first level support to end users and coordinating with other team for second level
+support (if required).
+Training new hires in the team as per the process and technical documentation furnished during the transition period.
+Handling all client escalations for the team in an effective manner.
+Critical Documentation, Training and Process Setup/Improvements as well as Customer Interaction.
+Creative bent of mind to track and learn new technologies quickly.
+Managing VC equipment's for connecting video conference across the domestic sites and also booked VC to connect automatically in
+Tandberg application.
+ServiceDesk Engineer and Floor Engineer Jul 2008 to Nov 2008 
+Company Name
+As a member of the ServiceDesk Team Working on Global Helpdesk & Del-IT Mailbox.
+Taking care of outages and interruptions-following up with NOC, Server and operations to minimize the outage impact on production.
+Deal with all Win 7, XP Pro machines on Network.
+Troubleshooting Client Based Applications (like Prolaw, Qlaw, Noble and GUI etc.) Troubleshoot issues related to VPN connectivity.
+Providing first level support to end user through remote support (RDP, Microsoft Lync, and teamviewer).
+Also working and helping other team members by providing 2nd level support on escalated issues.
+Creating and disabling LAN, I series and noble ids for new hires and NLE's.
+Create and modify Distribution Lists and Generic mailbox on Microsoft exchange mail server.
+Monitoring server performance for latency issues and providing support to end users for resolving latency issues.
+Working on internal and US Intranet for uploading and publish the company documents Working on I series application and noble
+application for group access, ID creation and password resetting.
+Working remotely on file server to provide access of specific path or department folder.
+As a part of SME team (Tier 2) assisting Level 1 analyst by taking up technical sessions and updating them with current update, new
+technology and process changed.
+As a member of the Floor Support Team Participate in Floor activities in weekend.
+Taking care of LAN ports with the help of network team and coordinating with the vendor Managing VC equipment's for connecting video
+conference.
+Daily routine activity while working in morning shift like printer check, VC room check and internet cafÃ© systems working fine and after
+end of the shift send the checklist of all activities on global mail id.
+Worked as an IT helpdesk at client site Aricent Software Services wherein handled online technical queries of international customers
+support in all the skills PC (includes win 95, 98, ME, XP) and NT (includes win 2000 and NT.
+Key Responsibilities and Technical Skill Set: Logging call related to IT query through Phone or Emails and coordinate with engineers for
+resolving the same with in the S.L.A.
+Giving online support to china & U.S users over MSN through "Team Viewer" software.
+Also taking care of compliance issue by filing incident and marked the mail to concerned person or department and follow the proper
+procedure from ticket opening to closing Manage IT inventory (Hardware and Software) and follow up with vendor calls also.
+Jan 2007 to Jul 2008 
+Company Name
+Worked as a Sr.
+C.S.A as well as Allocator in an inbound process Xerox.
+Where in handled online query of Xerox customers related to their Xerox machine not working and toner booking.
+Following up with field engineer to get the update or status of call for any part change and punching the part detail in ORACLE (if required).
+Key Responsibilities and Technical Skill Set: Logging call related product query & for toner booking in oracle.
+Assigning call to engineer or warehouse and coordinate with engineer for the same.
+Punching install report and inventory also handled sales call.
+Education
+Bachelors of Arts(BA) Delhi University
+Arts 12th Grade PSM Public School Delhi Arts 10th Grade PSM Public School Delhi
+Certifications
+Diploma (ADCHNP) in Computer Hardware and networking from JETKING, New Delhi. *CCNA trained from NET-TECH Institute
+(Janakpuri). *LEADERSHIP ESSENTIALS CERTIFICATE: A Certification for learning and understanding the various ways and techniques how
+to manage a team and work in pressure situations at PC Solution. *ITIL v3 certified. Having good knowledge of incident management.
+Personal Information
+Father's Name : Mr. Vikram Singh Dogra Mother's Name : Mrs. Soma Devi Date of Birth : January 26, 1985 Gender : Male Marital Status :
+Married
+Professional Affiliations
+Sanjay Dogra PROFESSIONAL SUMMARY OF Sanjay Dogra Name Sanjay Dogra Address H No 203, Karan Vihar, Kirari extn-II, Nangloi,
+New Delhi-110086
+Interests
+Permanent address : H No. 203, Karan Vihar, Kirari Extn- II, Nangloi, New Delhi-110086. RECREATIONAL ACTIVITIES 1. Watching
+Science fiction movies & Action Movies. 2. Interests in Various Sports activities - Cricket & Volley ball. I hereby declare that the statements
+made in this document are true to the best of my knowledge and belief. Date: Place: (Sanjay Dogra)
+Languages
+English, Hindi and Punjabi
+Skills
+a Level 2, analyst, Arts, AS/400, bridges, C, call centre, CCNA, Cisco, closing, coach, Computer Hardware, Hardware, credit, Client,
+Desktops, Documentation, Engineer, English, Event Management, filing, GUI, Hindi, ids, maintaining inventory, inventory, ITIL, ITIL v,
+Knowledge Management, LAN, Laptops, LEADERSHIP, Logging, Managing, access, Microsoft exchange, mail, MS Office, Office, Windows 7,
+Win, Win 7, win 2000, win 95, 98, NT, MSN, Enterprise, Network, networking, Operating System, ORACLE, printer, Punjabi, sales, San,
+SLA, SQL server, SSL, tax, technical documentation, Phone, Troubleshoot, Troubleshooting, video, VPN, Vista, VC, Xerox machine
+Additional Information
+PERSONAL INFORMATION Father's Name : Mr. Vikram Singh Dogra Mother's Name : Mrs. Soma Devi Date of Birth : January 26,
+1985 Gender : Male Marital Status : Married
+Permanent address : H No. 203, Karan Vihar, Kirari Extn- II, Nangloi, New Delhi-110086. RECREATIONAL ACTIVITIES 1.
+Watching Science fiction movies & Action Movies. 2. Interests in Various Sports activities - Cricket & Volley ball. I hereby declare that the
+statements made in this document are true to the best of my knowledge and belief. Date: Place: (Sanjay Dogra)

@@ -1,0 +1,70 @@
+ENGINEERING SUPERVISOR
+Skills
+PLC: IEC 61131 (Ladder Logic, Functional Block Diagram, Structured Text, Instruction List. ), Java, C, Visual Basic, VHDL, PSpice,
+Assembly (Intel, Motorola, TI), Labview. Software Packages: AutoCAD, Inventor, Matlab, Microsoft Office, PSIM, Easy Power, Xilinx ISE,
+Printed Circuit Board CAD (Protel), Siemens Step 7, Wago CoDeSys, Allen Bradley RSLogix, ERP (Alliance, Global Shop, XA, SAP).
+Professional Experience
+Engineering Supervisor 
+December 2014 to Current Company Name - City , State
+Leading and supervising engineering staff members as they perform their tasks and participating in budgeting, scheduling, and staff
+management.
+Establishing design standards, specifications, criteria, scheduling and resource-management for products and projects.
+Working closely with product line management to serve clients' aftermarket needs.
+Recommending and implementing improvements to engineering processes, methods and controls; conferring with management, production
+and other departments regarding manufacturing capabilities, production schedules, and other considerations to maximize efficiencies.
+Electrical Design Engineer 
+May 2011 to December 2014 Company Name - City , State
+Identifying products within line of variable frequency drives, switchboards, generator control cabinets and PLC based control consoles
+having potential for improvement.
+Developing new products used in power systems product-line.
+Composing documents outlining the projects design, verification and validation process in accordance with API standards.
+Modeling the new/improved products using computer simulation tools in order to confirm specified performance.
+New/improved products comprehensive hardware design and complete software integration.
+Creating bill of materials, one-line drawings, schematics, layouts and instruction to manufacture prototypes.
+Developing test procedures to verify prototypes performance.
+Specific Projects: Custom pre-charge circuit for VFD systems with multiple inverters and common rectifier.
+24VDC overvoltage relay for protection of 24VDC control devices against overvoltage.
+Standalone VFD house for raising derrick mast, test Topdrives and other applications IECEx/ATEX certification of low voltage motors
+(600V, 1800HP).
+Design of new motor testing facility using common DC link VFDs to replace Active Front End Drives.
+Commissioning of Siemens VFD lineup.
+Project Engineer 
+October 2008 to May 2011 Company Name - City , State
+Designing generator control systems, variable frequency drives, dynamic braking cabinets, switchboards, panel boards, jacking switchgears,
+PLC based control consoles and remote IO boxes for land and offshore rigs.
+Developing bill of materials, block diagrams, electrical one-lines, detailed schematics and interconnection cabling diagrams.* Supervising
+production process of designed systems.
+Composing factory acceptance test procedures for manufactured products and supervising the procedures.
+Performing detailed troubleshooting of drilling equipment using computer simulations and by testing equipment on site and in the field.
+Traveling to customer site to meet with client, test, troubleshoot and commission the product.
+As the project manager, leading the team of onsite manufacturing staff, vendors and subcontractors.
+Performing technical studies including center of gravity calculation, motor model, short circuit, breaker coordination, harmonic calculation
+(IEEE 519), arc flash, fault analysis, voltage drop and power flow study to obtain certifications for designed equipment.
+Compiling technical and non-technical reports to describe products.
+Specific Projects: Kencana KM-1 tender drilling unit, Kencana Shipyard, Malaysia: VFDs, MCCs, generator controls, panel boards (480V
+and above) and control consoles.
+Friede and Goldman: VFD based jacking switchgears and control console.
+Remedial Offshore: VFD lineup, control and IO consoles.
+Xtreme Drilling and Coil: standalone VFD lineup, control and IO consoles.
+Shengli: Jacking switchgear.
+Facility Engineer 
+August 2006 to October 2008 Company Name - City , State
+Power distribution General Responsibilities: Composing proposals, estimates and construction drawings for lighting, low and medium voltage
+power distribution, grounding and alternative power generation systems.
+Responsible for the campus renovations, environmental safety, automation, controls and HVAC needs.
+Specific Projects: New testing facilities for several engineering departments.
+Renovation of buildings HVAC system.
+Conversion of 2.4kV power distribution to 12.5kV.
+Golf cart charging station with solar panel roof.
+Automation engineer, Intern 
+January 2005 to August 2006 Company Name - City , State
+Design and implementation of microprocessor based monitoring systems for laser spectrometers.
+Education and Training
+Bachelor of Science : Electrical and Computer Engineering , Aug 2006 University of Oklahoma - City , State GPA: GPA: 3.73 GPA: 3.78
+Electrical and Computer Engineering GPA: 3.73 GPA: 3.78
+Skills
+API, AutoCAD, automation, budgeting, C, cabling, CAD, Conversion, client, clients, DC, Designing, ERP, flash, Functional, hardware design,
+HP, HVAC, instruction, Intel, Java, Labview, laser, lighting, Logic, materials, Matlab, microprocessor, Microsoft Office, Modeling, Motorola,
+PLC, Power distribution, power generation, processes, Programming, proposals, Protel, PSpice, Renovation, renovations, safety, SAP,
+scheduling, schematics, Siemens, simulation, staff management, Step 7, Structured, Supervising, switchgear, tender, troubleshoot, troubleshooting,
+validation, VHDL, Visual Basic, XA

@@ -1,0 +1,95 @@
+INFORMATION TECHNOLOGY SPECIALIST (WEB), GS-11
+Career Overview
+Objective Â 
+IT Specialist, GS-2210-9 (CUSTSPT)
+NOC Merit-2016-0031
+Experienced Systems Analyst with diverse industry experience in government, maritime, forestry, research and development. Professional expertise
+includes systems applications, disaster recovery planning, customer services, including remote, phone and local one on one.
+Qualifications
+Excellent communicator
+Adopts technology to business needs
+Stays current with technology
+Excellent interpersonal skills
+MS SharePoint, MS Access
+MS Office, Adobe Suite
+OS(s) Windows, Linux, Mac
+Skype, WebEx, Adobe Connect, MS Lync
+Technical Skills
+Skills
+Experience
+Total Years
+Last Used
+Level I, II and III customer Support
+Regional System Manager 5
+September 2014
+System installs and upgrades of agency software System Admin
+5
+September 2015
+Accomplishments
+Awarded by the Forest Service, Pacific Northwest Research Station, for developing publishing innovations, multiple website support, and
+championing SharePoint. Also, awarded for superior performance during 2013.
+Awarded by the Forest Service, Pacific Northwest Research Station, for delivering superb computer assistance to the Communication Application
+Program, and demonstrated outstanding support to the maintenance of the stations' websites, and demonstrating extra effort in updating research
+related databases, and for researching new media sources such as e-pubs for the station's publications.
+Key developer and supporter for a new Regional Examination Center(REC) Merchant Mariner database, which was widely adopted by several
+REC's across the United States, for the U.S. Coast Guard.
+Work Experience
+Company Name City , State Information Technology Specialist (Web), GS-11 08/2013 to 02/2016
+Over two years of planning, coordinating, and identifying business and research functions, resources and services working with the Forest
+Services' Climate Change Resource Center (CCRC).
+Coordinated testing and improvement of Chief of Information Office (CIO) Virtual Machine Primer training guide, for use by the Forest
+Service IT specialist, to transform web services to a Content Management System, using Drupal with Linux platform.
+Established a prototype site for training web team members, in preparations for migration to a new content management system.
+Instrumental in researching, planning and collaborating with teams in the Forest Service to increase the knowledge base of Drupal,
+SharePoint and eBooks for PNWRS, R&D and members CIO/WO levels.
+Apply federal, department, and agency web regulations and policies.
+Trained program departments to use MS SharePoint to collect files, data, publications, and agency policies into one central hub.
+Ensure that all material presented is in compliance with copyright requirements and section 508 of the Rehabilitation Act.
+Company Name City , State Computer Assistant, GS-5 03/2010 to 08/2013
+Managed internet and intranet sites.
+Created and modified publication database entries within the Forest Services' Research Information Tracking System (RITS).
+Administered SharePoint sites.
+Provide group and one-on-one training to staff and new site owners.
+Converted print publications to eBook format for eReaders, including: embedding video and audio media clips.
+Company Name City , State Computer Department Intern 09/2008 to 06/2009
+Designed and proto-typed a web-based, IT assets inventory tracking system, using Linux, Apache, MySQL, PHP, HTML, and CSS.
+Assisted all levels of school districts technical staff, with projects and day to day operations.
+Planned and deploying technology for teachers and students in the Camas School District, including software migration, computer and
+server upgrades.
+Establish a fleet of Linux OS laptops, that saved the school district over $250,000, by repurposing old laptops marked to be recycled.
+Assist with Citrix software, MS Office, Adobe Suite, Linux based Ubuntu and applications.
+Installed, maintained and repaired network hardware/software on multiple-campuses.
+Setup over 80 media presentations carts with sound systems for classes, working after normal work hours and weekends to minimize
+downtime for classrooms.
+Company Name City , State Database Intern 06/2008 to 08/2009
+Create a patient tracking system using MS Access relationship database to help market a naturopathic clinic.
+Company Name City , State Office/Building Manager 01/2005 to 10/2005
+32-hour work week
+Managed a church office, created correspondence and newsletters
+Scheduled and setup satellite seminars and media presentations.
+Coordinated building use for Homelink River charter school, to provide a safe and functional classrooms and facilities.
+Scheduled and supervised events for church and school.
+Company Name City , State Geek Squad Tech 10/2004 to 12/2004
+Geek Squad Tech
+Assist customers with troubleshooting their computer problems, and technical questions.
+Upgrade hardware and software, removed viruses-spyware, sold computers and accessories, setup new computers to BestBuy
+specifications for quick sales.
+Company Name City , State Marine Science Technician, E-6 11/1984 to 05/2004
+Provided level I, II, and III IT support as a Regional System Manager for other 400 workstations, across multiple Coast Guard campus, at
+remote field stations, and for facilities on ships.
+Provided training a assistance to system operators at units in problem solving, daily operations, including system backups, user profile
+setups, and user support.
+Displayed courtesy and strong interpersonal skills with all customer interactions.
+Built and maintained successful relationships with service providers, dealers and consumers.
+Assisted customers with technical issues via email, live chat and telephone.
+Created and supported multiple MS Access databases to track business needs.
+Education and Training
+Master of Science : Management and Organizational Leadership 08/2015 Warner Pacific University , City , State , USA
+Management and Organizational Leadership
+Certification : ITIL Foundation 2016 New Horizons , City , State , USA
+Bachelor of Science : Technology 06/2009 Eastern Washington University , City , State , USA
+Technology
+Site Builder and Theming : Drupal, Content Management 08/2012 OpenSourcery , City , State , USA
+Additional Skills
+Web, Content Management Systems, team collaborator/facilitator, innovator inspection, audits, presentations, researcher, self-starter,T1, problem
+solver

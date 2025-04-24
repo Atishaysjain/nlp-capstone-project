@@ -1,0 +1,181 @@
+LEAD INTERACTION DESIGNER
+Summary
+Senior UX/UI Designer Profile: Tim has been involved in user centered design for over 20 years, with a focus on human factors and usability. He
+has worked on a wide variety of projects focusing on improvement of functionality and performance. He is an expert with Heuristic evaluation,
+usability, developing and evaluating user interfaces (GUI design), iterative design methodology and human computer interaction (HCI). Areas of
+experience: Usability & Interaction Design Usability engineering, Standards and guideline review, User interface design standards, Usability
+testing/Focus groups, Cognitive walkthroughs, Heuristic evaluation, Pluralistic walkthroughs, Website design, Interaction design, Personas, Use
+cases, Scenarios, Contextual Inquiries, Affinity Diagrams, Contextual Design, Ethnography, wireframes, user flows Development Software
+development standards, Software testing, HTML authoring, 3D modeling and programming, Advanced image manipulation and analysis, 3D
+interfaces, Interactive digital prototyping, Artificial Intelligence, touch input, SQL, Agile Development Other Secret military clearance, Military/
+SPA WAR/DOD/ONR contracts, CDC/ NHSN, SaaS, Training and instructional design, Technical writing and editing, Project management,
+Healthcare, Medical Diagnostic Imaging systems, Electronic Medical Records, HIPAA, Fitness Equipment.
+Highlights
+User Centered Design
+Human Computer Interaction (HCI)
+Innovation
+Agile Development
+Contextual Inquiries
+Wireframes
+User Flows
+Prototyping
+Skills
+User Centered Design:
+Accomplishments
+Innovation Tournament award winner 2014 - Leveraging Real-time Algorithmic Dashboards (RAD's) to Improve Patient Care
+Innovation Tournament award winner 2013 - MARS: Medical Augmented Reality System
+2009 IDEA Award - T7xe Treadmill
+2009 Taiwan's Excellence Silver Award - T7xe Treadmill
+Patent 8,113,990 - Method of controlling an exercise apparatus Issued February 14, 2012
+Patent 8,360,934 - Method of controlling an exercise apparatus Issued January 29, 2013
+Patent 8,840,526 - Method of controlling an exercise apparatus Issued September 23, 2014
+Experience
+Lead Interaction Designer 05/2012 to Current Company Name City , State
+Tim is the lead interaction designer on a nine person Agile software development team creating software for use in healthcare facilities.
+His role as one of three BAs on the team has him conducting user testing and interviews, data gathering, persona development, wire-
+framing, story writing, interface analysis, and being the general usability evangelist.
+He acts as the NHSN point of contact, keeping the software compliant with evolving CDC requirements.
+His team produces incremental updates to the code base on a two week sprint cycle and the velocity of his team has increased steadily over
+the last six months.
+Tim also serves on the Wellness committee and the Safety Committee as a floor warden and first responder.
+VP of Engineering / Product Development Director 09/2009 to 04/2012 Company Name City , State
+Tim worked as the VP of Engineering and product development.
+His responsibilities included managing the current suite of virtual reality software, designing the future software and hardware offerings,
+vendor relations, client support, systems design, sensor design, quality control and quality assurance, technology specialist, and usability
+evangelist.
+Other responsibilities included bringing new technology and opportunities to the company, driving the new vision for the company, and
+developing an on-line community around the new products.
+Innovation Engineer 09/2009 to 04/2012 Company Name City , State
+Tim worked as an innovation engineer, bridging the gap between need and technology.
+He utilized his skills as an engineer to create unique solutions for client needs.
+Projects included:.
+Intoxiclock: Took third generation product and migrated it from simple input device to multimedia application on a netbook.
+Upgraded poster sized input panel to USB HID device.
+Created custom dynamic printouts of user data.
+GermBot: Designed a UV-C retrofit to a vacuum robot for use in sterilization of floors without chemicals.
+Sr. Usability Engineer 02/2007 to 09/2009 Company Name City , State
+Tim acted as the resident usability expert in the development and production of a multitude of commercial and consumer fitness equipment.
+He was the primary innovator in the migration of the platform consoles from primitive LED displays to award winning advanced GUIs
+utilizing LCD displays.
+These innovative advances have allowed Matrix Fitness to expand into their markets, taking market share away from their competitors and
+positioning Matrix as the new market innovator and the product to beat.
+Tim produced interactive prototypes of all the interfaces and conducted user testing to validate his designs.
+He developed many tools and applications to aid in the production and testing of the new GUIs.
+He created a multi-screen interactive Kiosk that was used at numerous tradeshows as a selling tool for the new technologies that he helped
+develop.
+Tim was also very active in developing relationships with clients, vendors and possible business partners for Johnson.
+Among the people and companies that he brought in were: Best Buy, iTech Fitness, Lance Armstrong, PopCap software, Konami,
+Softkinetics, Big Rooster, NEC, LG, Dewar, Sharp, AMTouch, Immersion, RA Sports, and DataModule.
+Tim also served as the lead POC for partners such as iTech Fitness, FitLinxx, Polar, Virtual Active, Avnet and Eurotech.
+He also engendered relationships with Asian counter parts in both China and Taiwan with semi-annual trips overseas.
+Tim is also listed on several pending and awarded patents applied for by Johnson.
+Sr. Usability Specialist 04/2006 to 02/2007 Company Name City , State
+Tim worked as the sole User Centered Design person on a small team developing a product in an emerging medical field market.
+He was responsible for all aspects of the UCD process and monitored adherence to the IEC 60601-1-6 usability requirements.
+He interacted with marketing, the engineering team and clinical contacts to develop personas, workflows, task lists, use cases as well as
+requirements for the engineering team.
+He used Macromedia Director to create a high fidelity prototype of the product and assisted the engineering team in porting that to FLEX.
+He gathered data and prepared for the third phase of the project which involved observational research, affinity diagramming, task analysis,
+and more UI design.
+Human Factors and Usability Engineer 10/2003 to 03/2005 Company Name City , State
+Tim worked as a human factors and usability design specialist as well as a systems engineer, taking into account workflow, perception,
+usability, feedback, and aesthetics for an electronic oral feedback device.
+He was responsible for design and implementation of clinical testing and analysis software.
+Tim interacted with senior members of his team to define and then develop data visualization software.
+By following predefined standards and requirements, he proposed and designed a patient-tracking database to allow cross-referencing of
+multiple factors while adhering to security and privacy regulations.
+Designing and creating software for dynamically mapping the sensitivity of the tongue.
+GUI design, workflow, interlocks to eliminate user error, strict adhesion to standardized data collection procedures.
+Designing and creating software for visualization of collected data.
+Sitting in on design sessions and acting as resident Human Factors advocate GUI design, workflow, dynamic data analysis, 2D and 3D
+visualization, spacial and temporal visualization, interviewed users to determine usage, linking to multiple data sources.
+Designing and creating image projection software GUI design, workflow, image processing, 3D interpolation and projection Designing and
+creating software for dynamically stimulating the tongue with an electrostatic tactor array GUI design for human computer interaction (HCI),
+safety interlocks to control correct data input, dynamic stimuli manipulation.
+Developed and evaluated user Interface design and user interface compliance using iterative design methodology with user feedback.
+Designing and developing a subject database to track subjects and allow for analysis of subject data across multiple factors.
+GUI design, subject confidentiality, data integrity, robust system recovery.
+Project Manager and Human Factors / Usability Engineer consultant 08/2001 to 09/2002 Company Name City , State
+Tim worked as a human factors specialist by defining GUI standards, look and feel, and conforming to existing software specifications.
+Responsible for all aspects of the software development cycle from inception to delivery.
+Defined the user interface for Palm and Windows CE devices.
+Detailed requirements gathering.
+Review of client's needs and application functionality.
+Product Manager / Sr. Engineer 09/2000 to 08/2001 Company Name City , State
+Tim was responsible for all aspects of the development cycle of the Video Pics and Paparazzi Pics products.
+These included defining the products by means of prototypes and concepts and then generating product specifications.
+He also acted as the Human Factors advocate to aid in the design process.
+Tim served on the following project areas: Used human factors and usability design principles including heuristic evaluation when designing
+and prototyping the next generation VideoPics product in Macromedia Director.
+Defined and executed the QA/QC process.
+This involved setting up a QA bugs database, running compatibility testing, establishing version control, and heading up customer service and
+FAQs.
+Evaluated and allocated resources including hardware, media, off-site web hosting and programming staff.
+Established milestones to meet promised deadlines for product delivery.
+Interfaced with the marketing group to define products that were viable in the market place.
+Created all of the demos and helped with the collateral materials for the shows.
+Set up an online store that allowed users to purchase the product.
+Once the purchase was made, the information was entered into our customer database and the product was shipped through our shipping
+department.
+Managed many 3rd party relations such as OEM bundling, back-end print services, and strategic partners.
+Scientist 11/1997 to 09/2000 Company Name City , State
+Tim worked as a human factors and usability engineer on many projects.
+He designed and programmed a tactical graphics application (TacGraph) for the Global 2000 wargames.
+Tim also designed and implemented stimuli and experiments for research being conducted on 2D and 3D interfaces.
+These experiments ranged from basic 3D shape recognition to determining routes in a 3D terrain.
+Tim also developed a GUI based version of a text based nurses' orders system for the VA hospital that was to replace a very dated
+command line system.
+Designed and prototyped user interfaces for the tactical situation awareness tool (TacSAT).
+Conducted interviews with 5th Marines at Camp Pendleton and integrated new design ideas into the TacSAT.
+Design and implementation of an experiment based on the TacSAT that simulated a real engagement to determine how experience affected
+the decision making process.
+Worked with a team of Human Factors PhDs to determine the benefits of 3D interfaces.
+These experiments tested object recognition, spatial relationships, occlusion, depth of field, perspective, depth cues, and other factors.
+Worked with a team of Human Factors PhDs to develop experiments in shared awareness, data integrity, reliability, and multimodal
+perception.
+Worked closely with Principal Investigators from SPAWAR, DOD, NIMA, and DNR under a SECRET military clearance.
+Designed and implemented a GUI for a text-based nurses' orders system to gather performance and behavioral data.
+The new system increased efficiency and reduced error by over 80%.
+Software Engineer and Human Factors / Usability Engineer 11/1993 to 03/1998 Company Name City , State
+Tim worked with a 5-person team to rework a graphical user interface (GUI) for an Internet TV set top box under extreme time constraints.
+His role was primarily prototyping and user centered design of the GUI.
+He also served as the lead prototype engineer and project manager for the graphical adventure game Timelapse.
+He worked with a team of talented designers, engineers, and artists on 9 cross-platform interactive edutainment titles.
+Acted as the usability and human factors evangelist in every project with which he was involved.
+Ran focus groups.
+Rolled out field trial in Austin, TX.
+Collected and analyzed data of online usage in an attempt to better understand the users.
+Assembled numerous conceptual prototypes for presentation to GTE VPs.
+Assisted in the game design for 9 titles produced and distributed by GTEIM.
+Established processing methods for converting rendered images created in Alias, and animations created in PhotoShop and Director, into
+usable assets.
+Designed, prototyped, and coded product demos used for retail and trade shows.
+Acted as the lead puzzle prototyper for "TIMELAPSE." Worked as the chief technologist for "TIMELAPSE." Responsibilities included
+investigating current and emergent technologies and determining if they were applicable to the game.
+Traveled to Knoxville, TN to manage the engineering team at Cyberflix for 3 weeks and establish game requirements.
+Duties also included training on the use of production tools, establishing a minimum system requirement, testing of new game engines,
+establishing asset needs, communicating with GTE Entertainment in Carlsbad, CA as to the status of our engineering efforts.
+Worked as a liaison for the marketing department for the production team.
+Designed and developed a 3D chat area using Onlive!'s Traveler and 3D Studio Max.
+Education
+B.S. Degree : Cognitive Science June 1993 University of California City , State , USA
+Cognitive Science
+Affiliations
+CHI UX Community
+Human Factors and Ergonomics Society (HFES)
+IxDA Madison
+User Experience Group
+Publications
+Holste, S., Kobus, D., Proctor, S., Bank, T., & Liebhaber, M. (1999). Decision making in a dynamic but uncertain environment. San
+Diego, CA: Pacific Science & Engineering Group, Inc. Manuscript in preparation.
+Kobus, D.A., Proctor, S., Bank, T.E., & Holste, S. (2000). Effects of experience and uncertainty during dynamic decision-making. In
+Proceedings of the 44th Annual Meeting of the Human Factors and Ergonomics Society. Santa Monica, CA: Human Factors and
+Ergonomics Society.
+Proctor, S., Bank, T.E., Holste, S., & Kobus, D.A. (1999). TacSAT demonstration user's manual. San Diego, CA: Pacific Science &
+Engineering Group.
+St. John, M., Proctor, S., Callan, J., & Bank, T. (1998). The command post situation awareness tool (CPSA): An evaluation. Presented at
+the APA, Division 21 and Human Factors and Ergonomics Society Midyear Symposium, San Diego, CA.
+Smallman, H.S., St. John, M., Bank, T., and Cowen, M.B. (2000). The effects of motion parallax, drop lines, and object size in localizing
+tracks displayed in perspective view. SPAWAR Systems Center San Diego, CA. Technical Report, in preparation.
+St. John, M., Smallman, H.S., Bank, T., and Cowen, M.B. Tactical Route Planning Using Two-Dimensional and Three-Dimensional Views
+of Terrain. SPAWAR Systems Center San Diego, CA. Technical Report, in press.

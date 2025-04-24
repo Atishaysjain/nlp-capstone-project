@@ -1,0 +1,258 @@
+SENIOR ARCHITECT - MDM
+Professional Profile
+Seasoned MDM Architect with more than 11+ years in the IT industry. Creative thinker who creates visually appealing, exciting and inspiring
+designs. Extensive experience in software development, leading, MDM solutions architecture and managing projects in the field of Master Data
+Management in wide span of industry domains. Strong working experience in MDM development project, operational support management, end
+to end project execution using TIBCO MDM, TIBCO EMS, Business Works, Business Events, Smart Mapper , Core Java on Windows an
+UNIX platform. Working as Senior Architect: managed and executed from architecture to final go-live of the projects with size varying from 2 to
+35 Analysts, developers and leads. Strong analytical skills and aptitude for trouble shooting. Possess excellent communication skills with a pleasing
+personality. Executed end to end architecture/design/implementation of MDM projects at Knology Atlanta GA, Wachovia Corp (AKA Wells
+Fargo), Charlotte NC, Merck Inc. Whitehouse Station NJ, Nielsen Schaumburg IL and Oldsmar FL, UHG Singapore, RAC WA Perth Austral
+Kohl's Milwaukee WI, M&T Bank Buffalo NY, JetBlue Long Island NY, Covance Princeton NJ, SunGard Dallas TX, Whataburger San Anton
+TX, SunGard Financial, Dallas TX. Past hands on experience in J2EE, Struts framework, XML, JMS. Wide and extensive hands on experience 
+data model designs for MDM solutions in the following industry domains: Financial and Banking, Market Research, Insurance, Pharmaceuticals,
+Retail Business. 10+ Years of experience in managing/mentoring and leading team along with Technical Architecture for MDM solutions.
+Â 
+Â 
+Skill Highlights
+Architecture Design Tool: MS Vizio professional, Magic Draw.
+MDM Tools: TIBCO MDM
+Data De-Duping: TIBCO Patterns
+Operating systems: Windows XP Professional/ NT 4.0 / 95 , UNIX 3.01
+Database: Oracle 11.x (PL/SQL SQL Loader), SQL Server
+Web/App servers: Apache Tomcat, Web Logic, JBOSS
+Languages & Tools: TIBCO EMS 7.x/8.x,TIBCO Business Events, TIBCO Business Studio, J2EE, JavaScript, HTML/XML, XSL,
+XSLT, CSS, DTD, ANT, Remedy, TOAD, SQL Navigator.
+Development Environments (IDEs): TIBCO Active Matrix, Rational XDE 2003, Eclipse
+Employment History
+December 2009 to Till Date: Senior Architect - TIBCO Software
+Oct 2004 to November 2009: Associate - Senior Architect Cognizant Technology Solutions US Corp
+Oct 2003 to September 2009: Software Engineer - UshaComm India Pvt Limited
+Professional Experience
+Senior Architect - MDM 
+May 2014 to Current Company Name ï¼​ City , State 
+SunGard is one of the world's leading software and technology services companies, with annual revenue of about $2.8 billion. SunGard provides
+software and processing solutions for financial services, education and the public sector. SunGard serves approximately 16,000 customers in more
+than 100 countries and has more than 13,000 employees.
+Activities Performed: Â 
+MDM Implementation Landscape
+Technical/Functional Design for MDM implementation along with Data Quality/de-duplication
+Architecture to integrate TIBCO MDM with System for inbound data stream to MDM and outbound synchronization to downstream
+systems.
+MDM Infrastructure Landscape planning and architecture
+Complete Architecture for Vendor and Customer MDM
+Manage the Resource Planning for Complete MDM implementation for Customer and Vendor
+End-to-End MDM development/delivery management.
+Daily status/scrum with team members on project progress
+Managing Clients expectations from MDM point of view.
+------------------------------------------------------------------------------------------------------------------------------------------------
+Senior Architect - MDM 
+November 2013 Company Name ï¼​ City , State 
+JetBlue Airways Corporation (NASDAQ: JBLU), often stylized as JetBlue, is an American low-cost airline. The company is headquartered in the
+Long Island City neighborhood of the New York City borough of Queens. Its main base is John F. Kennedy International Airport, also in Queens,
+and maintains a corporate office in Cottonwood Heights, Utah.The airline mainly serves destinations in the United States, along with flights to the
+Caribbean, The Bahamas, Bermuda, Barbados, Colombia, Costa Rica, the Dominican Republic, Jamaica, Mexico, Peru, and Puerto Rico. As of
+October 2013, JetBlue serves 84 destinations in 24 states and 12 countries in the Caribbean, South America, and Latin America.
+Activities Performed: Â 
+MDM Architecture Overview
+Design workflows for MDM along with Data Quality
+TIBCO MDM installation overview
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Senior Architect - MDM 
+July 2013 to March 2014 Company Name ï¼​ City , State 
+The M&T Bank Corporation is an American commercial bank that was founded in 1856 in western New York State, and today remains
+headquartered in Buffalo at One M&T Plaza. The parent company, M&T Bank Corporation, had $81 billion in assets as of June 30, 2012, and is
+one of the twenty largest commercial bank holding companies in the U.S., with over 750 branches located in New York, Maryland, Pennsylvania,
+Virginia, Washington, D.C., West Virginia, Delaware, New Jersey, and Central Florida.
+Activities Performed:
+Manage/Lead the MDM team of 10 members to achieve the goals of the project and help them implement MDM workflows and rulebases
+in efficient way.
+Architect and Engineer the complex workflows in MDM achieve the complex requirements for Party and Accounts data in AML.
+Designed the workflows and business rules to achieve the business requirements for AML.
+MDM Infrastructure sizing, installation planning and implementation.
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Senior Architect - MDM 
+December 2013 to January 2014 Company Name ï¼​ City , State 
+Covance Inc. with headquarters in Princeton, New Jersey, is a contract research organization (CRO) providing drug development and animal
+testing services. According to its website, it is one of the largest companies of its kind in the world, with annual revenues of over $2 billion, and
+over 11,000 employees in more than 60 countries. It claims to provide the world's largest central laboratory network. It became a publicly traded
+company after being spun off by Corning Incorporated in 1996.In 2011 it was listed as one of the top 100 employers by the Diversity Employers
+Magazine.
+Activities Performed: Â 
+MDM Architecture Overview
+Design and Showcase MDM workflow for Parameterized Data Quality
+Design parameterized weighted Data Quality workflows in TIBCO MDM
+-----------------------------------------------------------------------------------------------------------------------------------------------
+MDM Architect 
+April 2012 to May 2013 Company Name ï¼​ City , State 
+Kohl's Corporation (NYSE: KSS) is an American department store chain headquartered in the Milwaukee suburb of Menomonee Falls,
+Wisconsin, operating as of September 2011, 1,089 stores in 49 states. In 1998, it entered the S&P 500 list, and is also listed in the Fortune 500
+(#135 in 2010). The chain was the 20th-largest retailer in the United States in 2011 in terms of revenue. Here at Kohl's, we are implementing
+MDM extensively. Currently Product MDM is being implemented. I Architecture/led/developed the MDM efforts at Kohl's.
+Activities Performed: Â 
+Manage/Lead the MDM team to achieve the goals of the project and help them implement MDM workflows and rulebases in efficient way.
+Architect and Engineer the complex workflows in MDM achieve the goal of Product MDM.
+Worked on complex workflows and rulebases in MDM to achieve the requirements in best possible way.
+TIBCO MDM installation planning and implementation.
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Senior Architect 
+August 2011 to March 2012 Company Name ï¼​ City , State 
+RAC offers a wide range of motoring and allied services including vehicle breakdown and towing assistance, general insurance products, technical
+advice, touring and travel services, personal loans, finance and investment products, and driver training. RAC is also an important advocate for
+Western Australian motorists, representing them on such issues as road and vehicle safety, fuel pricing, road funding, transport planning, energy
+and the environment. Single View Of membership is a project initiated with a goal to provide a single view of all the members of RAC Western
+Australia. It is a master data management project which will persist and manage the golden copy of members data currently stored in multiple
+legacy systems.
+Activities Performed: Â 
+Analyze the data (with huge volume) and perform an effective data migration from legacy systems to SVoM repositories.
+Perform effective data matching and come up with de-duplication of data using TIBCO Matching Engine.
+Merging the data by fragmenting data into three categories: Auto Merge, Manual Merge and Unique Records based on the matching results
+from TIBCO Matching Engine.
+Data prepared after de-duplication will have to be loaded in TIBCO CIM MDM repositories with relationships.
+Lead the TIBCO CIM MDM team to achieve the goals of the project.
+Architect and Engineer the complex workflows in CIM achieve the goal of Single View of membership Project.
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Architect - MDM 
+December 2009 to July 2011 Company Name ï¼​ City , State 
+As a global leader in measurement and information, Nielsen believe providing their clients a precise understanding of the consumer is the key to
+making the right decisions -- decisions that can lead to profitable growth. Nielsen is always innovating to keep pace with emerging market trends
+and the increasingly diverse, demanding and connected consumer. After nearly a century, Nielsen is more focused and skilled than ever at
+providing the complete view of what consumers watch and buy through powerful insights that clarify the relationship between content and
+commerce. Whether their clients are in media, consumer packaged goods, telecom or advertising, their expansive data and measurement
+capabilities provide market context and confidence through their long history of innovation and integrity.
+Activities Performed: Â 
+Worked with Business Analyst and Users to create Mapping documents and Specification documents
+Architecture and design of TIBCO MDM Integration with TIBCO BW.
+Performance tuning and optimization of TIBCO MDM in Production environments
+Designed TIBCO MDM rule bases and workflows to implement the Business requirements.
+TIBCO MDM solutions architecture design for NSOS
+Design for TIBCO EMS usage with MDM for seamless synchronization.
+TIBCO MDM and TIBCO EMS Administration.
+Designed common interface template, global error handling and auditing processes for all the TIBCO application interfaces.
+Designed Output maps for the different system to access the data from MDM.
+TIBCO MDM Integration with outlook and other applications running in conjunction with NSOS program to synchronize Master Data.
+Helped teams to come up with test cases for integration testing with various systems across the organization.
+Configured Oracle 11G that supports TIBCO MDM in back end
+Documentation and Knowledge transfer to CIM users
+Worked on TIBCO MDM installations in DEV, QA, UAT and Production.
+Monitor and fix issues ongoing in batches running on Informatica Power Center.
+Operation Support Design
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Operations Engineer and Lead 
+April 2008 to November 2009 Company Name ï¼​ City , State 
+Merck has data in SAP and legacy system, TIBCO CIM is a key component of the solution to manage SAP and legacy system data translation.
+TIBCO CIM is the master data management tool that will be the central repository and utility to manage the data mappings that will now have the
+latest and most correct version of the information. Each system can have the Custom Output that allow them the flexibility to define which attribute
+they want to add what names to use for those attributes. Informatica PowerCenter is being used for publication and subscription of data. TIBCO
+BW suite (BW, Designer, EMS, and Adaptor) is being used for enterprise application integration.
+Activities Performed: Â 
+Worked with Business Analyst and Users to create Mapping documents and Specification documents
+Integrated Smart Mapper with TIBCO CIM
+Performance tuning and optimization of TIBCO CIM application in Production environment
+Designed and implemented TIBCO CIM rule bases and workflows to implement the Business requirements.
+TIBCO EMS configuration and administration
+TIBCO CIM Administration.
+Designed Output Maps, Synchronization Profiles in TIBCO MDM to synchronize data with external systems.
+TIBCO CIM integration with other applications including email notifications.
+Developed integration and Unit Test Cases
+Configured Oracle to supports TIBCO CIM in back end
+Documented Operational usage of TIBCO CIM implementation and Educated business users
+Installed TIBCO CIM 6.2 in DEV,UAT and Production
+Design and Architecture of the TIBCO CIM Implementation
+Upgraded TIBCO CIM 6.2 to CIM 7.0
+Monitor and fix issues coming in batches running on Informatica PowerCenter.
+Support TIBCO Middleware issues related to TIBCO MDM
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Senior System Analyst 
+August 2006 to March 2008 Company Name ï¼​ City , State 
+Wachovia Corporate Investment Banking (CIB) Wing implemented CIM to create of golden copy of client data. CIM will be integrated with data
+feeds from various sources such as D&B (ER&C, Worldbase), CrossWalk and DeaLogic. Data from these multiple sources will be consolidated
+into one repository within CIM that will now have the latest and the most correct version of the information.
+Activities Performed: Â 
+Analysis and Design of TIBCO CIM workflows for data feeds from ER&C, Worldbase, Alacra
+Tested all workflows and rulebases implemented
+Analysis of defects and fixed critical bugs in firefighting mode.
+Implemented top-down architecture for importing the client data from the market vendor data to Wachovia data stores.
+Assisted development team and TIBCO engineering to customize TIBCO CIM components to achieve the business requirements for the
+Financial Sector.
+Design/develop/maintain Ant scripts to build and deploy the TIBCO CIM environment with JBOSS and TICBO EMS.
+Developed the shell scripts to backup the daily data after being loaded into TIBCO CIM and send out email confirmations after the jobs
+were run.
+Developed workflow and rulebases documentation to transfer the process to Wachovia Production support group.
+Shadow support with the Production support team and trained on the Autosys batch.
+Worked on Enterprise Application Integration using TIBCO BW Suite to integrate different applications running on different platforms and
+supported the business using TIBCO BW.
+-----------------------------------------------------------------------------------------------------------------------------------------------
+System Analyst 
+January 2006 to July 2006 Company Name ï¼​ City , State 
+The Owner Hub & Notes phases of the TiGR project will provide a centralized location for storing and viewing the Owner information and
+notations on the Owner and accounts information. The application will provide abilities to capture, update, view and de-activate Owner's Identity,
+Contact, Preferences, Owner-Owner relationship, Owner-Account relationship, Owner-Account Portfolio and notes information. We will perform
+the analysis, design, development and testing of the Owner Hub application and provide support for user acceptance testing and deployment of the
+application. Ability to allow field representatives to send requests to add or update existing Professionals in the system.
+Activities Performed:
+Co-ordination with Onsite â€“ offshore teams.
+Based on Design specifications, developed Struts framework based application to achieve business requirements.
+Configured Weblogic App Server for design time and run time application.
+Implemented Classification Module in Development region.
+Implemented standard Error handling and reporting functions.
+Implementation of development artifacts and deployment in QA region.
+Developed test cases for String testing and unit testing
+-----------------------------------------------------------------------------------------------------------------------------------------------
+System Analyst 
+October 2005 to December 2005 Company Name ï¼​ City , State 
+The project aims to develop a solution for maintaining Customer data in a single repository. Targeted at the Healthcare segment, Customer Master
+& IDB - Millennium is the system that will be used to enhance and maintain the quality of the Professionals data. The primary areas of focus of this
+data surround HCP master data, address and specialty. The solution will also have features for sales team to customer alignment
+Activities Performed:
+Analysis and Design of the Requirement to fit into multitier architecture.
+Development of classification modules using Struts Framework
+Unit testing and Integration testing
+UAT Support
+Performed Onsite-Offshore Co-ordination
+-----------------------------------------------------------------------------------------------------------------------------------------------
+System Analyst 
+April 2005 to October 2005 Company Name ï¼​ City , State 
+Enterprise Customer Master is a demo for prospective client. The task is to develop a Ready-to-Use solution for maintaining Customer data in a
+single repository. Targeted at the Healthcare segment, ECM is the system that will be used to enhance and maintain the quality of the Professionals
+data. The primary areas of focus of this data surround HCP master data, address and specialty. The solution will also have features for sales team
+to customer alignment, analysis, development, data administration and maintenance.
+Activities Performed: Â 
+Involved in design and documentation of various process flows for services
+Used Apache Tomcat as server for developing the web based application.
+Involved in configuration of different environments like development, testing and production
+Involved in setting up development servers and test server for configuration management.
+Worked with team to setup Configuration Management Plan.
+Developed maintenance guides for the ECM application.
+Developed Test Plans for the ECM application.
+-----------------------------------------------------------------------------------------------------------------------------------------------
+System Analyst 
+November 2004 to March 2005 Company Name ï¼​ City , State 
+The WEX-ONLINE system was designed to control the expenditure of the drivers belonging to an account by issuing charge cards. This system
+has various workflows for managing the driver and card creation and maintenance processes. It was integrated with Siebel, which acted as the
+CRM repository.
+Activities Performed: Â 
+Transformed business process specifications into technical specifications through analysis
+Design the Web application flow based on MVC architecture using Jakarta-Struts Framework
+Develop Model and Action classes for the application developing in Struts framework.
+Used JSP and servlets to develop front end for the Web tools
+Developed EJBs (Session beans)
+Developed various processes for processing HTTP and FTP activities.
+Xpath Configurations for various requirement in application.
+Developed JDBC based connectivity in the applications.
+Education
+Masters : Computer Applications Visva Bharati University ï¼​ City , State , India
+Bachelor of Science : Physics, Chemistry, Maths Ranchi University ï¼​ City , State , India 
+Skills
+Skills Used :
+IDE/Tools: TIBCO MDM 8.3.2, CIM 7.2.1, CIM, CIM 7.0, CIM6.2, TIBCO DQ, TIBCO Patterns, TIBCO Business Events 5.1, TIBCO
+EMS 8.3, TIBCO Business Studio 3.5, TIBCO MDM Studio 4.0, Eclipse,Rational Rose, Magic Draw, MS Vizio. SQL Navigator, TOAD
+Framework/Concepts: Master Data Management , MDM Solutions Architecture , Project Management, Configuration Management,
+System Integration , J2EE , Struts
+Application/Web Server: JBoss, Weblogic, Apache Tomcat
+Languages/Tools: Core Java, JavaScript, JDBC , PL/SQL, Shell Script,SQL Loader, XSL/XSLT
+OS: Windows NT, NT 4.0, Windows XP, Unix
+Database: Oracle, SQL Server
+Hands on experience in data De-duping with Data Matching and Merging using TIBCO Patterns and Data Analysis/Data Cleansing/Standardizing
+with TIBCO Data Quality Tools,TIBCO trained proffessional in TIBCO Business Events 5.1, TIBCO EMS 8.2 administration, Solutions
+Architecture by TIBCO Educations.

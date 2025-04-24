@@ -1,0 +1,108 @@
+ENGINEERING MANAGER
+Career Overview
+A practiced, professional Test Manager with over 20 years of success managing test and validation of next-generation software / hardware
+technologies across multiple concurrent projects and releases. Delivered effectively to time and budget on a variety of complex, large-scale, multi-
+platform projects including: complex network framework, IoT (Internet of Things), telecommunication and hosted services, business process tools,
+automation frameworks. Managed, trained and mentored multi-disciplinary, geographically dispersed teams including, software development, test
+and validation, planning, QA, configuration management, agile scrum master and product owner.
+Qualifications
+Product, system and software testing across multiple OS
+platforms (Windows, Windows Store, Android, iOS,
+Arduino & Linux) over full product life cycle, including
+Agile, V-model and Waterfall development methods
+Managing multiple on-going projects with geographically
+dispersed teams, establishing and using sub-contract
+resources with on and off-shore models
+Developing clear test strategies, proven ability to translate
+functional, non-functional and use case requirements into
+test plan, scripts and automation with full traceability to
+requirements
+Leading continuous improvement of development, testing
+and organization processes
+Proficient MS Office, Visual Studio, Eclipse and C
+â€¢Scrum master for multiple concurrent scrum teams. Facilitate and
+organize all scrum ceremonies including the daily stand-up, retrospectives,
+demos, release planning and backlog grooming meetings. Support the
+scrum team member to mitigate impediments, resolve conflict.
+Tool administration and usage including, Jira, Rally, Clear Quest, Quality
+Center, ProtexIP, Sub-version, GIT, RTC, Bugzilla, Quality Center,
+Jenkins, Gerrit and others
+Experience in testing software as a service (SaaS) applications
+Design performance and stress testing of peer-to-peer / device-to-device
+network application and cloud XMPP server
+Work Experience
+Company Name September 2011 to Current Engineering Manager 
+City , State
+Managing and overseeing highly technical, multidisciplinary team of 15+ testers and developers, which were responsible for developing
+device to device and IoT automation framework, developing 10 different SDKs test tools across 5 different OS platforms (Windows,
+Windows store, Android, iOS and Linux) and simultaneously testing and validating multiple independent software products for Intel WPRD
+Wireless Software Services (WSS).
+Cultivate partnerships with globally cross companies and teams in managing on-time, successful product (including open source) releases.
+Establish and manage fully functional outsourced validation operation in Bangalore, India, leading to significant cost reduction and enabled
+follow-the-sun testing to reduce the product development cycle and freeing full time employees for higher-value work.
+Collaborate with executive management, product owner, sales and marking to provide validation and test estimated for feature or product
+release Formulate and implement software testing strategies for multiple concurrent projects Designed and supervised the development of
+cross OS platforms peer-to-peer/device-to- device test automation framework Designed and supervised the development of 10 different
+SDK test tools using C/C++, C#, Java, and Objective C Defined OIC/IoTivity compliance and certification test cases for open source
+community Chair bug weekly bug scrub review and prioritization Instrumental in reducing traditional project integration phases from a two
+weeks to one day by implementing continues integration (CI) automated build and test systems that enabled 100% build acceptance test
+automation.
+Instrumental in setting up Gerrit web based code review, as results the code quality has significantly improved and reduced regression test
+cycle by 50% Tool administration Rally, Clear quest, Jira and others Volunteered to be the scrum master for multiple scrum teams in
+additional to fulfilling my job responsibilities Managed and put process in place to ensure the off shore development center become seamless
+extension of our development team.
+Delivered incremental automated feature level testing on multiple projects across different OS platforms for wired and wireless technologies.
+Company Name July 2009 to September 2011 Director of Quality Assurance 
+City , State
+Responsible for testing Qwarq transport agnostic wireless connectivity framework, the goal was to create new user experience leveraging
+multiple wireless technologies to make device-to-device connection easy.
+Developing clear test strategies, proven ability to translate functional, non-functional and use case requirements into test plan, scripts and
+automation with full traceability to requirements Establish the quality assurance department for the company Managed, hired and trained test
+engineers Planning all resources and schedule test activities within and cross companies Worked closely with development, and support to
+implement and promote quality policies and processes throughout the company Worked closely with multiple PC OEMs simultaneously to
+understand their quality criteria and ensure the product quality meet or exceed their quality requirements.
+Procure Hardware and software for test and development Instrumental in conducted usability tests.
+Company Name November 2006 to July 2009 Director of Quality Assurance 
+City , State
+Establish the quality assurance department for the company
+Planed all resources and schedule test activities while working closely with clients
+Worked closely with development, support, marketing and sales directors to implement and promote quality policies and systems
+throughout the company
+Tested Ultra wide band (Wireless USB) PHY, MAC, drivers and applications for both windows and embedded platforms
+Tested Bluetopia Bluetooth stack and profiles on different PC and embedded OS platforms
+Testing WIFI (802.11a/b/g/N) application including standard, Intel and cisco security supplements
+Microsoft WHQL drivers certification for Stonestreet One Ultra wide band, and Bluetooth drivers
+Company Name May 2004 to November 2006 Quality Assurance Manager 
+City , State
+Manage, mentored and train test engineers who were responsible for testing (SaaS) time and attendance Product
+Developed and worked with development team to implement quality process and procedures for the company to improve code quality and
+stability, as results reduce internal and customer reported defects by over 50%
+Manage defect tracking system
+Manage test case development and execution following Ceridian CUSP process
+Perform defect postmortem on all field reported defects and implement the necessary change to prevent future incidents
+Manage testing lab.
+Company Name August 2001 to February 2003 lead test Engineer 
+City , State
+Create manual and automated test cases, setting up and maintaining test environment for the department, execute functional, regression,
+stress, and load testing.
+Company Name July 1995 to December 1999 Lead Test Engineer 
+City , State
+Lead group of quality assurance engineers testing and validating ITU H26X standard based video codecs namely H263 Plus, H263, I263,
+H261, Indeo 5.x, Automatic Echo Cancellation (AEC) audio codec for Intel videophone.
+Scheduling regular bug scrubs sessions with the development team.
+During the bug scrubs assigning owners to the new defects, priorities defects to be included in future phase of development.
+Scheduling code inspection and design review to find the bug in early stage of software development cycle.
+Company Name Owner / President 
+City , State
+Installed the requested software and tested the compatibility of the new multimedia software and hardware Test and debug multimedia
+products, such as sound cards, video recorders, video capture cards, CD-ROMs and others Developed functional tests for stress, volume
+and continuity testing of software and hardware Configured system with various peripheral (scanners, printers, video digitizers) Reproducing
+bugs the were found during the test and compile all results Write reports and results that were found during the tests.
+Education and Training
+Webster University 2004 Master of Science : Computer Resource Information Management City , State
+Kabul University 1992 Bachelor of Science : Computer Science
+Skills
+audio, automation, C, C++, CD-ROMs, Ceridian, cisco, Hardware, cost reduction, clients, drivers, executive management, Functional, inspection,
+Intel, Java, Linux, MAC, Managing, marketing and sales, C#, Windows, Windows XP, multimedia, Objective C, OS, policies, printers,
+processes, product development, quality, quality assurance, quest, sales, scanners, Scheduling, scrum, scripts, software development, software
+testing, sound cards, sun, test tools, USB, validation, video, Vista

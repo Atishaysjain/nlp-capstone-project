@@ -1,0 +1,83 @@
+SR. CONSULTANT
+Professional Summary
+A dedicated, versatile, and results-driven professional with 20+ years of IT experience. A proven track record with ability to work well with
+others to achieve common goals, resolve conflicts, and manage external relationships. Demonstrates leadership skills by a track record of
+achievements and contributing to a positive work environment while motivating others to accomplish goals themselves. Highly self-motivated, self-
+directed, and attentive to detail. Ability to effectively prioritize and execute tasks in a high-pressure environment. Extensive experience working in a
+team-oriented and collaborative environment. Ability to solve problems with the available information, prioritizing, and making timely decisions.
+Outstanding project and program leader; able to coordinate and oversee all phases of project-based efforts. Strong analytical and decision making
+skills.
+Core Qualifications
+Software/Application: MVS Sysplex Environment, TSO, ISPF, JCL, JES2, SDSF, IMS, DB2, Ops/MVS,
+REXX, Thruput Manager, Workload Manager, Automate, SYSVIEW, Omegamon, Remedy, Omegaview,
+CICS, Strobe, RMF, SMS, Unix, Java Scripts, Windows 9x/NT, Microsoft Office Suite (Outlook, Word, Excel,
+OneNote, Powerpoint, and Project), Unix, SUN, Solaris, SNMP, IBM/AIX, Tivoli, TSM, CA-1, CA-7,
+Autosys, ESP, CA-DE, Control-M, Control-EM, Zeke, Zebb, Zack, Jobtrac, Scheduler, Candle Monitor
+Workstation, Robot Scheduler, Netview, XPTR, Java Scripting, TCP/IP
+Hardware: BM Rxx &
+Zxx Processors, SUN
+Processor, IBM
+RS/6000, STK
+Automated Tape Silos,
+Hitachi 7700, EMC
+DASD, AS/400,
+OS/390, VSM
+Experience
+Sr. Consultant 
+June 2015 to November 2015 Company Name - City , State
+Part of a team specializing and applying solutions for Workload Automation needs.
+Proactively recognized and assessed problematic areas and applied 'best practices' solutions when needed
+Created and modified application schedules in the Workload Automation product for the Application Development Team Setup and
+executed quality testing for all environments
+Provided training and documentation to development teams Acted as a liaison between business units
+Consultant/Sr. Consultant 
+September 2004 to April 2015 Company Name - City , State
+Part of the Professional Services team both for M/F and Open Systems.
+Created, debugged and modified complex job schedules using CA Workload Automation in different platforms.
+Focused on meeting deadlines while practicing customer service.
+Communicated effectively with all levels of management while providing the progression with the implementation.
+Strong analytical background to determine and make the right decision in quick and timely manner.
+Experience included a range of initiatives in pre-sales, sales, post-sales, planning, analysis, and implementation of solutions.
+Promoted effective coordination as a liaison between with all business units
+Effectively instructed training sessions for the customers
+Demonstrated documentation skills in processes, test and implementation plans, and training outlines
+Utilized CA Services Best Practices to accurately and efficiently implement products within the client environment
+Serve as a Subject Matter Expert in the products to help resolve complex and technical issues that came from product implementation
+and/or product functionality
+Data Center Team Lead 
+April 2000 to September 2004 Company Name - City , State
+Managed, coached, mentored, and led a team of direct reports which oversaw the data center operations from the daily batch processing
+and scheduling, tape librarians, change management, incident ticketing, networking, monitoring and availability of all functional equipment for
+the Office Depot stores worldwide.
+Verified all escalation was handled properly if crisis arose.
+Made sure the team was focused on customer satisfaction.
+Able to spot trends and applied preventative policies and procedures.
+Oversaw the batch cycles which included fulfilling a role to implement projects and enhancing processes
+Demonstrated ability to apply IT in solving business problems
+Defined and communicated project milestones, service level agreements, and resources
+Wrote and issued employee appraisals, setup work schedules, developed daily and weekly reporting, and involved in empowering
+employees
+Accounted for overall system performance (mainframe and AS/400), maximizing resources to enhance batch workload and CPU resources
+Accountable for all the networking and POS systems at the Office Depot retail stores
+Data Center - Professional/Team Lead 
+November 1990 to April 2000 Company Name - City , State
+Part of the data center operations team which oversaw the daily batch processing and had numerous responsibilities over the years of
+employment ranging from tape librarian to a successful team lead.
+Coordinated a test system to develop a better scheduling and Business Resumption process to eliminate redundant workload Applied the
+daily Change Management tickets
+Acted as a liaison for Allstate International companies to setup daily workload schedules.
+In 1997, acted as a consultant with local management, Allstate home office personnel, and Motorclub personnel to migrate all functionality
+to Illinois Served as a SME (subject matter expert) in DB2, IMS, and other Allstate accountabilities Supported and performed
+responsibilities for the weekend of IMS and DB2 database backup utilities.
+Performed recoveries, image copies, pointer checkers, stacked utilities, timestamp recoveries, etc.
+Part of the Business Resumption (BR) team which managed system resources and batch schedules during catastrophic disasters.
+Education
+Bachelor of Science : Computer Information Systems Wingate University - City , State Computer Information Systems
+Actively pursuing PMP and Scrum Master certifications
+Skills
+IBM/AIX, Application Development, AS/400, Automate, Automation, backup, CA-1, CA-7, Change Management, CICS, CA, Hardware,
+consultant, CPU, client, customer satisfaction, customer service, DASD, database, documentation, senior management, financial, functional, home
+office, IBM, DB2, MVS, image, IMS, ISPF, Java Scripts, Java Scripting, JCL, JES2, team lead, letters, librarian, mainframe, managing, meetings,
+mentor, Excel, Microsoft Office Suite, Office, Outlook, Powerpoint, Windows 9, NT, Word, Netview, networking, Omegamon, OS/390,
+personnel, policies, POS, processes, Processors, project management, quality, quick, reporting, retail, REXX, IBM RS/6000, sales, scheduling,
+Scrum, service level agreements, SMS, SNMP, Solaris, SUN, TCP/IP, telecommunication, time management, Tivoli, TSM, TSO, Unix, utilities

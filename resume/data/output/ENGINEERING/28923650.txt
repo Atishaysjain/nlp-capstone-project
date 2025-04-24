@@ -1,0 +1,70 @@
+THERMAL ENGINEERING INTERN
+Summary
+Graduating Ph.D. candidate with a research focus on developing large-scale computational models using statistics and machine learning
+approach. Interested in a career as a computational scientist or quantitative software developer.
+Accomplishments
+FEM Analysis of 1-D Aluminum Bar with Sinusoidal Body Force Conducted meshing and force analysis on MATLAB.
+Correlated the results with ABAQUS.
+FEM Heat Transfer Analysis of 2-D Plate with Hole with Thermal Load and Boundary Conditions Conducted meshing and force analysis
+on MATLAB.
+Correlated the results with ABAQUS Finite Element Analysis of 2D beam with Central Hole Conducted meshing and force analysis on
+MATLAB.
+Correlated the results with ABAQUS On the Anthropomorphic Control of Redundant Robot Arms Focused on the design and control of
+robotic devices that will help and collaborate with humans in every-day life.
+Defined anthropomorphism in robot motion and controlling a robot in an anthropomorphic way.
+Design and Development of a Two-Wheeled Autonomous Parallel Parking Robot Designed a two-wheeled robot that is coded to run
+autonomously with the ability to parallel park using Solidworks.
+The IR sensor and MCU were used to simulate the "eyes" and the "brain" of the driver.
+Tested in a simple built course to simulate a scenario in which there is an open space for the robot to park inside.
+Reusable Delta II Launch Vehicle Conducted design feasibility and alternatives analysis of a completely reusable Delta-II rocket.
+Analyzed a variety of different re-entry technologies and engines to accomplish this task.
+The business sense of the final designs was analyzed along with the near-term feasibility.
+Senior Design Project: High Speed Human Powered Vehicle Designed a high performance human powered vehicle using Solidworks.
+Provided the framework technology to help increase the effectiveness of the common bicycle to the point of being more competitive with
+other forms of ground transportation.
+Metalworking Practice Learned the operation of various types of manufacturing machines, including computer numerical control CNC)
+lathe, milling machine, drilling machine, grinding machine.
+Programmed the CNC machine using G code to machine and fabricate some mechanical parts.
+Experienced welding, casting, forging, heat treatment, and automotive engine disassembly Electrical Engineering Practice Learned soldering
+electronic components on circuit boards.
+Made a radio and a speaker PUBLICATIONS 1.
+Wang, Y., Artemiadis, P., "Closed-Form Inverse Kinematic Solution for Anthropomorphic Motion in Redundant Robot Arms," 2013
+Advances in Robotics & Automation.
+2.
+Wang, Y.,Mignolet, M., "Reduced Order Modeling for the Dynamic Response Prediction and Design of a Part of a Complex Structure,"
+IMAC-XXXIV Conference & Exposition on Structural Dynamics.
+Experience
+01/2013 to Current Company Name City , State
+Research and development of linear and nonlinear models for hypersonic vehicles that takes into account full.
+aero/structural/thermal couplings, and predicts fatigue life/damage & health monitoring for specific mission.
+profiles.
+Thermal Engineering Intern 07/2011 to 08/2011 Company Name City
+Hands-on training at large-scale industrial plants.
+Learned about designing and manufacturing of large power generating equipment, including axial compressor, energy recovery turbo-
+expander, centrifugal compressor, centrifugal blower, large fan, steam turbine, etc.
+Studied management mode of enterprise, production and marketing process.
+AFRL-University Collaborative Center in Structure Sciences Cooperated with the Air Force Center focusing on the development of
+affordable and reusable hypersonic vehicles.
+Varied research tasks throughout including: developing methodologies to efficiently predict dy- namic response of a "representative" panel
+with nonlinear geometric deformations; modifying structural and thermal models to reflect: (i) the multidisciplinary interactions (ii) the
+evolution of material properties (iii) the occurrence and evolution of material nonlinearity.
+Researcher 01/2011 to 01/2013 City , State
+Worked alongside ASU faculty in the research and design of assistive robotic devices which needed efficient.
+control strategies.
+Varied research tasks throughout including: fabricating an infrared position sensor suit,.
+machining mounting plates for a position sensor camera, and MATLAB utilization for data and signal.
+processing.
+Teacher's Assistant Company Name City , State
+Assisted instructor in running experimentation laboratory for Internal Combustion Engine (ICE) course.
+Oversaw over 90 students and compiled each lab document along with lesson planning and teaching.
+Hands.
+on experience with assembling, disassembling and testing ICEs.
+Education
+Doctor of Philosophy : Mechanical Engineering Dec 2016 Arizona State University City , State GPA: GPA: 3.9/4.0 Mechanical Engineering GPA:
+3.9/4.0
+Master of Science : Mechanical Engineering December 2013 Arizona State University City , State GPA: GPA: 4.0/4.0 Mechanical Engineering
+GPA: 4.0/4.0
+Skills
+Air Force, ANSYS, approach, C, CAD, decision-making, designing, experimentation, Experiments, features, FORTRAN, instructor, lesson
+planning, machining, marketing, Materials, MATLAB, Mechanical Design, Microsoft Office, Modeling, NASTRAN, enterprise, OS, optimization,
+PATRAN, camera, physics, predict, Process Control, Research, research and design, robotic, Solidworks, Statistical Process Control, teaching

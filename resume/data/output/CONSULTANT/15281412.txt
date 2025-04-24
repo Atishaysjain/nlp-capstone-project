@@ -1,0 +1,73 @@
+CONSULTANT
+Summary
+Transition from an Application Developer and secure a position as a Business Analyst or Technical liaison with a company that can fully utilize my
+education and experience, while offering upward growth and opportunity.
+Skills
+Microsoft .Net Visual Basic and C#
+Blaze Advisor .net Rules Engine
+HTML, JavaScript
+Visual Basic 5.0 and C++ programming - Introduction and advanced concepts.
+Experience
+Consultant 06/2012 to Current Company Name City , State
+Managed/Designed/Developed Market Segment determination rules. Rules Service provided account and policy a market segment values
+of either Mid-Market or Small-Market areas of underwriting. Determining market segments streamlined Underwriting workflows and
+allowed processing center to efficiently handle insured accounts.
+Managed/Designed/Developed Underwriting rules question service. Real-time access of questions, per entry screen from online quoting
+system.Â Service provided agent or support users immediate access to underwriter questions in regards to the specific entry screen user
+was working with. Rules provided on-line questions and answers for analysis through Nationwide's underwriting binding authority rules.
+Managed/Designed/Developed Underwriting Rules based Protocol system which provided underwriter guidance with little or no agent
+intervention when assessing a policy's insurance risks.
+Managed outside consultant's work assignments while providing technical leadership in designing process flows, business object model, .net
+web service changes and rules engine updates.
+Developed rules decision tables, internal methods, functions and .net field translation for rules engine.
+Managed/Designed/Developed Single entry System Determination entry rules. Technical lead on the project, single sign on directed user
+entry into the commercial lines real time quoting system. With less sign on screens, project provided agents and internal users a streamlined
+process for ease of doing business when initiating a quote.
+Practiced Lean AM (Application Maintenance), developing IT maintenance efficiencies within our department. Creating huddle cards with
+work details, "Swim Lanes" for project delivery, and huddle board meetings, allowed our development team to concentrate on quality while
+removing overhead processing costs.
+Managed/Designed/Developed Light Touch Underwriting Account renewal rules.Â Technical lead on the project.Â Managed renewal rule
+code deployments into requested test and production environments. Designed Blaze code for renewal rules by routing certain accounts to
+underwriting and other processing units. Developed decision tables, SRL code functionality to process account authority rules. Project
+increased policy renewal flow rates by having less underwriter intervention and routing accounts directly into specific processing units.
+Application Staff Specialist 04/1986 to 06/2012 Company Name City , State
+Managed/ Developed FICO rule applications using Templates, Decision tables, Rule Sets, Patterns, while integrating SRL code to provide
+viable business solutions in developing work flow authority levels to processing units, and pertinent policy information to Underwriters.
+Responsible for developing System, Product rule sets which directed system entry and product availability to both internal users and outside
+insurance agencies. System successfully routed small market agents to use selected products and lines of business for quicker issuance of
+Harleysville policies. Small Market rule processes created less call center interaction with agents and generated over $300K in small market
+premiums in one quarter.
+Developed/Maintained Web Services for Underwriting Rules Engine. By integrating Commercial lines and Agent Portal data with Blaze
+(Fair Isaac), rules engine output enhancing Underwriters ability to analyze data in English terms and establish profitable decisions for each
+policy submitted. Applications consisted of Insurance System/ Product Determination and Underwriting Binding Authority interfaces.
+Services developed with Visual Studio 2010, C# .Net wrappers integrated XML business objects with Blaze rules software.
+Developed windows console application for unit testing FICO rules. Testing Framework allowed user to enter test cases through Excel and
+create XML file input invoking specific Insurance rules. Application increased Business Analyst productivity by allowing more time for
+writing business rules and less time correcting defects within integration test phase. Software developed with C#, Visual Studio .Net and
+Microsoft programmability InterOp.
+Researched/Developed Insurance New Business and Endorsement object models for Policy Binding Authority. Arranged planning sessions
+with Data Modelers, and Business Analyst to develop schemas using Visual Studio XSD and XML structures.
+Managed Team Foundation Server deployments for .Net and SQL Database changes. Experienced with Visual Studio TFS source control
+and Data Backlog Items.
+Coordinated group meetings, multiple project production implementations with developers concerning deployment strategies and project
+implementation dates.
+Designed object models, and system determination process flows.
+Designed SDLC documentation and deployment procedures for production implementations.
+Coded .net web services unit testing and analyzing rules requests with proper rules response validating specific rules processes.
+Managed SQL Server Database valid values table, updating and inserting data rows. Table provided data translation from outside vendor to
+internal values used by Underwriting Rules Engine.
+Utilized SQL Server 2008 management system.
+Developed Legacy mainframe IT specifications for system enhancements related to Agent Portal initiatives.
+Provided IT technical leadership for legacy mainframe, Quality Assurance using SDLC methodology, Architecture design and
+implementation of CICS web based applications with DB2 relational database interfaces.
+Education and Training
+Bachelor's Business Administration degree : Computer Science Ursinus College Computer Science
+A.A.S DP : Computer/Applied Science Montgomery County Community College Computer/Applied Science
+Certificate in Computer Programming. Maxwell Institute, Computer Learning Center
+Interests
+Exercise and weight training.
+Gardening and Recreational Fishing.
+Skills
+Blaze Advisor .net 6.10.1, Microsoft C# .net 4.5 framework, Developed Technical Specifications, Business object Models in XML, TFS Source
+Control,Â HTML, JavaScript, Technical Leadership, Excel, Quality Assurance, Real-time processing, SDLC, SQL Server Management 2014,
+Visual Basic 5.0, Microsoft Visual Studio 2013 and 2015.

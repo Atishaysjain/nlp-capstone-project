@@ -1,0 +1,165 @@
+CONSULTANT
+Summary
+I am an experienced Program Manager, delivering enterprise-grade on-premises and SaaS products at Microsoft while being customer obsessed.
+I was previously an Enterprise Desktop Architect at multiple large companies, both as an employee and in a consulting capacity. I have a proven
+track record of positive impact in enterprise desktop management, infrastructure, systems administration, programming and automation, enterprise
+architecture, and project management.
+Highlights
+Windows OS
+VMware Server/View
+IIS
+Leadership
+System Center Configuration Manager
+Enterprise Imaging/OSD/MDT
+App-V
+Consulting
+MSI/Windows Installer
+BitLocker Full Disk Encryption
+Server 2K8/2k12
+Project management
+InstallShield AdminStudio
+VDI
+ASP.NET/VB.NET/C#/VBScript
+Microsoft BitLocker Administration and Monitoring
+MS SQL Server
+App Compat
+Spanish
+UE-V
+Accomplishments
+MCTS: Windows 7, Configuration and MCTS: Windows 7 MCTS: Office 2010, Deployment.
+Experience
+Consultant Jul 2011 to Current 
+Company Name ï¼​ City , State
+responsible for architecting and implementing client solutions for large enterprises.
+Won four awards for efforts with enterprises and well as internal work done to promote knowledge sharing (Great People/Great
+Performance, Knowledge Management Sharing, Community Star, and a Key Talent award) and received the top ranking available.
+Drove not only Windows 7 adoption at an 85,000 seat Fortune 100 international financial institution, but the purchase of the Enterprise
+edition with MDOP and continued to fight for Microsoft share with Bitlocker, ConfigMgr 2012, and App-V.
+Founded the Americas Client Solutions Birds of a Feather community initiative, a biweekly call with 40+ consultants providing an open
+forum for knowledge sharing, instant support, and networking opportunities.
+Expanded community to include new college hires and other international communities.
+Won multiple awards for knowledge sharing.
+Effort included a separate call for Windows 8 First Wave consultants resulting in many successful engagements and a living lessons learned
+document to be used for overall Windows 8 consultant readiness.
+Expanded to include Readiness Groups, a unique and effective way to prepare 90+ consultants internationally for a large new wave of
+technology, increasing billable utilization amongst all client solutions focused consultants.
+Architected and led Windows 7 deployment at a large international financial institution for 85,000 machines.
+Programmed a website in VB.NET to aid rapid application rationalization.
+Created three global Windows 7 images, including an x86 and x64 version, with multiple languages in MDT 2010/2012 and building a ZTI
+image using MDT and Configuration Manager 2007 to allow rapid OS uplift.
+Packaged 20+ applications as part of image engineering.
+Drove application packaging efforts utilizing App-V and MSI (where appropriate), moving towards zero touch.
+Developed and managed a virtual UAT test environment to allow remote access for testers to validate their applications which was utilized
+for thousands of applications.
+Architected and implemented MBAM and began migrating from PGP to Bitlocker.
+Assisted with image requirements and partnered with other teams to define hardware standards, better define licensing management,
+improve application and workstation self-service systems and processes.
+Drove a security settings review and implementation on both XP and Windows 7 to set security baselines for machines to decrease attack
+vectors on both platforms.
+Created a 3 year Workstation Transformation Roadmap for a large client to streamline processes, improve end to end user experiences,
+implement Windows 8/Windows to Go/ConfigMgr 2012/App-V/profile management/data backup, and cut costs.
+The effort is projected to save over $3 million year over year.
+Built a solution that integrates with MDT 2012 to allow direct transfers of user data from machine to machine using USMT, removing the
+need for intermediary storage.
+Solution works for home users needing replacement machines as well and can be done remotely, cutting the time needed to get end users up
+and running.
+Solution in use at many major companies, speeding up OS migrations while cutting costs.
+Extended a 5 month engagement with a client to over 2 Â½ years.
+Sold over $400,000 of additional services business to the client to drive forward the Windows 7 and Workstation Transformation efforts
+utilizing additional Microsoft resources.
+Enterprise Desktop Architect Jun 2006 to Jun 2011 
+Company Name ï¼​ City , State
+Senior member of the Enterprise Client Systems team responsible for Client Architecture.
+Architected, implemented, and maintained SMS 2003/SCCM 2007 infrastructure for over 30,000 machines in 22 different hospitals and
+hundreds of clinics.
+Designed the application lifecycle process, including application packaging best practices for MSI repackaging.
+Managed the application packaging effort for all of Intermountain Healthcare.
+Performed QC on over 400 applications.
+Packaged hundreds of applications using InstallShield AdminStudio into MSI format.
+Utilized App-V and ThinApp to virtualize applications to prevent application conflicts.
+Integrated App-V into SCCM and set up a streaming infrastructure to support VDI efforts in VMware View.
+Involved with image creation (custom solution and OSD), patch management (WSUS), inventory, and encryption
+(EFS/Bitlocker/Safeboot).
+Tier 3 support for all hospitals and clinics.
+Architected and led the packaging effort for over 250 applications in one year with 5 packagers (2 of which were packaging part time)
+meeting an aggressive deadline for the opening of Intermountain's largest hospital.
+Designed VDI client infrastructure on top of VMware View, including imaging, software delivery, profile management, and group policy for
+100+ virtual machines that were being piloted, resulting in a dynamic, efficient, stable, and cost effective computing environment.
+Programmed a utility in VB.NET to assist desktop technicians in automatically adding machines to AD groups and SCCM collections for
+deployment of MSI/App-V based installations, significantly reducing the amount of time needed to deploy applications to groups of
+machines.
+Currently used in over 3 million deployments, saving thousands of man hours and cutting application delivery time to machines from 24 hours
+down to 10 minutes per deployment.
+Created a utility in VB.NET to automate the updating of distribution points, creation of new collections (with appropriate rights), creation of
+AD groups, and advertisement creation, allowing the Enterprise Client Systems team to quickly respond to new deployment requests.
+Packaged hundreds of applications on top of other Enterprise responsibilities.
+QC'd 400+ applications, certifying them on 2K, XP, and Win7 in restricted user environments and then deploying them via SCCM to over
+30,000 managed machines.
+Implemented a virtual test lab in VMware View for sponsor testing and Windows 7 compatibility testing, decreasing application issues in
+production by 30%.
+Architected a Certificate Authority with an offline root, as well as logon scripts and GPO's to encrypt mobile devices using Microsoft EFS
+to assist in aligning Intermountain with HIPPA and other regulations.
+Played a major role in defining IT direction on the Enterprise Desktop Subcommittee (responsible for desktop design), Hardware
+Subcommittee (responsible for defining hardware standards), and the CMDB Subcommittee (responsible for moving the company more
+towards ITIL standards).
+Programmed a website to track applications, Win7 compatibility, and audit deployments for license compliance.
+Assisted in the design, testing, and implementation of the Windows 7 image for Intermountain Healthcare, migrating from a custom imaging
+solution to OSD in SCCM.
+Created custom WMI class in SCCM's MOF file and a script to populate the class on each client for centralized BitLocker reporting via
+SCCM for compliance purposes.
+Utilized USMT and a custom XML file to migrate user settings and data during migration and to new machines during replacement
+scenarios.
+Sep 2005 to Jun 2006 
+Company Name ï¼​ City , State
+Analyzed customers' systems and designed implementation strategies to seamlessly integrate the Fresh Market Manager solution into
+existing systems.
+Managed the work of two other employees.
+Provided 24 hour tech support for over 15 customers worldwide.
+Created scripts to automate testing and installation of Park City Group's products.
+Shouldered responsibilities of the Systems Administrator role managing Exchange, Windows 2000/2003 Server, Networking, VPN, and
+Active Directory.
+Automated a time-consuming, complicated, error-prone installation process resulting in faster and more problem free installations,
+supporting an influx of new customers.
+Identified a lack of company knowledge surrounding scalability strategies with Fresh Market Manager and wrote a load testing script to
+simulate a variable amount of supermarkets simultaneously hitting an Oracle database.
+Faced with a short deadline to provide training for a customer in Thailand, developed a five-day course including a hands-on demo using
+VMware Workstation which resulted in a successful knowledge transfer.
+Led technical team in providing pre-sales support, systems analysis, planning, and implementation of Park City Group's products for multiple
+new customers which resulted in successful execution.
+Undertook the role of Systems Administrator for the company on top of other duties after the departure of an employee.
+Quickly gained an understanding of various complex systems, documented them, and spent time after hours studying systems where I
+previously didn't have experience to be able to provide support for them.
+ExxonMobil - Senior Systems Technical Analyst Sep 2002 to Sep 2005 
+City , State
+Responsible for technical application delivery and infrastructure for over 100,000 desktops worldwide.
+Provided Level 3 technical support for engineers and geoscientists around the world.
+Supplied task-driven scripts for User Support Engineers and Data Management staff.
+Worked with end users to identify application requirements and created and deployed solutions to them.
+Managed 3 different teams on the largest IT project at ExxonMobil, repackaging over 5000 applications into MSI format and rolling out XP
+to 100,000 desktops.
+Developed a program to automate SMS deployment which resulted in over $200,000 in annual savings and increased customer satisfaction
+due to faster application delivery.
+Managed the Conflict Resolution team and reduced manpower on team from 5 to 1 through strict process and best practice design, saving
+over $300,000 in contractor costs during the XP rollout project.
+Led a team of 5 employees on the Application Deployment team.
+Implemented a Recycle Coordinator Queue to perform root-cause analysis which cut costly application failures in production from 80% to
+20% in a matter of 2 months resulting in savings of over $280,000.
+Learned Active Directory in 2 weeks and subsequently trained over 75 people on its use.
+Repackaged over 60 applications in a year, was assigned the most difficult apps and quickly completed them.
+Trained new employees who became solid performers.
+Built the Application Stewardship team from the ground up utilizing 10 contractors and 1 employee.
+Documented and developed all processes and best practices.
+Team exceeded initial goal of completing 1 app every 2 days by completing more than 1 application per day.
+Promoted to a new level in just 2 years.
+Leveraged existing programming skills to learn Perl.
+Produced an SMS script to assist supervisors in recovering license costs when personnel transfers occurred saving thousands of dollars in
+unused licenses.
+Education
+BS , Business/MIS Brigham Young University ï¼​ City , State Business/MIS 3.77
+Skills
+VB.NET, ASP.NET, Active Directory, adding machines, streamline, AD, application packaging, automate, backup, Hardware, Conflict
+Resolution, consultant, Consulting, Encryption, Client, customer satisfaction, Data Management, delivery, desktops, direction, XML, financial, IIS,
+image, Imaging, InstallShield, inventory, ITIL, Knowledge Management, Leadership, managing, Market, access, C#, Exchange, Windows OS,
+Windows 7, Windows 8, Windows, Win7, Windows 2000, 2K, works, migration, MSI, Enterprise, Networking, OS, Oracle database,
+packaging, Perl, personnel, processes, programming, Project management, reporting, sales support, scripts, script, SMS, Spanish, MS SQL
+Server, systems analysis, technical support, User Support, tech support, unique, VBScript, View, VPN, website, x86

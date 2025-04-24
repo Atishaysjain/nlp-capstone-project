@@ -1,0 +1,129 @@
+SENIOR DIRECTOR, PRODUCT MANAGEMENT
+Career Overview
+For twenty years, I've done product management, product marketing, and business development in organizations from early stage start-up to large,
+publicly traded companies. Common in every role at every company is finding success through a laser-like focus on the business needs of
+customers. With over a decade of online media experience, I remain fascinated by the intersection of media creation, distribution, consumption,
+and monetization. The revolution is still in the early stages, and increasing consumer control over what they watch and listen to will have broad-
+ranging impact over who makes money in this ecosystem, and how. Planning and building the enabling technologies is what I love.
+Qualifications
+Strong analytical skills
+Excellent problem solvingÂ skills
+Knowledge of streaming video platforms
+Customer Needs and Requirements Management
+Shipping quality software on time
+Work Experience
+Senior Director, Product Management Aug 2013 to Current 
+Company Name ï¼​ City , State
+ReverbNation is the leading online platform for independent musicians, where emergingÂ  Artists build their careers through online marketing tools
+and industry opportunities.
+Led team of product managers, designers, and QA testers Â 
+Managed, designed, and released first-ever mobile responsive version of the productÂ 
+Conducted extensive user testing on multiple iterationsÂ 
+Analyzed key performance indicators to drive new opportunities and identify product problems
+VP, Digital Media Solutions Jul 2012 to Jul 2013 
+Company Name ï¼​ City , State
+Brightcove (NASDAQ: BCOV) makes the leading Online Video Platform, powering the internet video efforts of major media companies,
+marketers, enterprises, and institutions.
+Delivering over a billion videos a month, Brightcove's mission is to publish and distribute the world's professional media.
+As VP of Media Solutions, I developed and executed upon a strategic vision aimed specifically at delivering solutions for media companies
+across all verticals: cable and broadcast networks, TV operators, film studios, music labels, newspapers, magazines, and pure digital
+properties.
+Developed media segmentation and marketing map to define target market, buyer personas, prospect needs, and core messaging.
+Created industry-specific solutions combining partner technologies, Brightcove services, and core product to address requirements as varied
+as mobile advertising, live ad insertion, and connected TV apps.
+Worked closely with CTO and VP of Product to research and prioritize product and partner features.
+Collaborated with senior sales to develop winning pitches and proposals.
+Consulted with customers to evaluate current practices and advise on areas of technical and business improvement.
+Designed and executed industry event presence including solution messaging, product demos, and presentations.
+Authored white papers, blog posts, contributed articles, and industry presentations.
+Crafted media strategy track for the company's annual user conference, Brightcove PLAY, including presenting and moderating relevant
+sessions.
+Director, Technology Partnerships Jan 2009 to Jun 2012 
+Company Name ï¼​ City , State
+As creator of the dominant Online Video Platform, Brightcove's value to customers is intertwined with the ability for other technologies to
+build on top of it.
+Working with various internal stakeholders and a small team, I created and implemented Brightcove's Technology Partner program, which
+currently boasts over 200 participants across more than a dozen categories.
+Designed, built, and implemented Brightcove's Technology Partner program.
+Recruited more than 60 partners across eight categories for program launch.
+Developed legal, business, and technical framework for managing partnerships.
+Negotiated strategic partner deals to drive customer value, partner value, and revenue to Brightcove.
+Implemented processes for partner onboarding, management, and prioritization.
+Introduced key partners into customer accounts to solve specific business needs.
+Director, Ad Products Oct 2006 to Dec 2008 
+Company Name ï¼​ City , State
+I joined Brightcove to bring discipline to the product development and release process and to run all aspects of Brightcove's video
+advertising ecosystem, from product features to industry partnerships to our nascent video ad network.
+Designed, specified, and prioritized all advertising-related features for development team to build.
+Conducted customer visits, interviews, and usability studies for feature development and prioritization.
+Introduced Scrum as a development framework, leading to a more reliable and repeatable software release schedule.
+Collaborated with sales, account management, customer support, and other stakeholders to establish product priorities and communicate
+product status.
+Developed technical partnerships and business relationships with more than a dozen leading companies in the online ad industry.
+Co-authored the IAB's Digital Video Overview and VAST specification documents; Digital Video committee member.
+Built and managed a network of several hundred long-tail video publishers.
+Managed all ad inventory and ad buys from agencies and networks; built and executed a publisher payment process.
+Vice President, Product Apr 2006 to Oct 2006 
+Company Name ï¼​ City , State
+eDataSource is an email analytics firm, providing competitive intelligence for brand marketers, ad agencies, email service providers, and
+affiliate marketers.
+I joined the company as part of an angel investment round to run the product team and develop market presence.
+Developed a brand identity for the company, used in web marketing, email marketing, trade shows, and conferences.
+Conducted dozens of research interviews with customers and prospects to identify and prioritize new features.
+Worked closely with the small development team to turn customer needs into deliverable products.
+Investigated, identified, and implemented process changes to improve manual labor efficiency by more than 300%.
+Director of Products Mar 2003 to Apr 2006 
+Company Name ï¼​ City , State
+Viewpoint created digital marketing technologies, including a rich media ad server used advertisers and agencies worldwide. The company was
+acquired by DG Fast Channel in 2008.
+As Product Director, I was responsible for defining product direction and positioning, writing specifications, setting development priorities, and
+leading the development teams.Â  Also under my purview were training, support, and documentation.
+Brought to market Viewpoint's first commercial software product, a SaaS platform for rich media advertising development and deployment.
+Created standard ad format templates and operationalized building, testing, and deploying ads.
+Managed a team of more than 20 product managers, designers, developers, QA engineers, and technical writers.
+Successfully integrated the Unicast team and products, delivering a new combined product within months of the acquisition.
+Evaluated and selected third party vendors for ad serving redundancy and scalability.
+Migrated development from a Ã’waterfallÃ“ process that delivered one release every nine months to an agile process using Scrum, releasing
+three significant updates within the first five months.
+Built a support escalation process to address internal support needs in addition to client SLAs.
+Maintained technical and business relationships with key partners, including AOL, Adobe, and DoubleClick.
+Director, Product Marketing Jan 2000 to Feb 2003 
+Company Name ï¼​ City , State
+As Marketing Director, responsibilities spanned all aspects of product success, including product and market definition, value proposition, pricing,
+lead generation and tracking, event management, communications, and press/public relations.
+Required working closely with every functional division, including Sales, Engineering, Production, Legal, Finance, and the Executive team.
+Managed a staff of seven and a budget of approximately $5 million.
+Developed Viewpoint's first suite of advertising products, formats, and specifications.
+Successfully deployed first online advertising campaigns using Viewpoint technology.
+Managed technical, marketing, and sales relationships with Viewpoint's largest client, AOL, to develop new advertising products, implement
+promotional programs, and present solutions to AOL sales teams and clients.
+Built solutions for high-profile clients and agencies, including AOL, Coca Cola, American Express, NBC, Kellogg's, Norelco, Digitas,
+StarcomIP, BBDO, and Tribal DDB.
+Product Manager Sep 1997 to Jan 2000 
+Company Name ï¼​ City , State
+Softimage, acquired by Microsoft in 1994 and then sold to Avid in 1998, created award- winning professional 3D animation software for the film,
+broadcast, and games industries.
+Designed and implemented a strategy for a mature product facing many new competitors, including price restructuring, strategic third party
+relationships, direct mail campaigns, and redefined product position.
+Crafted product demonstrations in conjunction with field sales and demo artists.
+Wrote and edited copy for brochures, press releases, web content, reseller sales guides, trade shows, and all internal and external product-
+oriented communications.
+Worked closely with R&D to prioritize features and drive the development schedule to many successful, on-time releases.
+Coordinated cross-departmental efforts for two major product releases, including engineering, quality assurance, documentation, packaging
+and manufacturing, order administration, marketing communications, and public relations.
+Director, 3D Products Jan 1991 to Jun 1997 
+Company Name ï¼​ City , State
+Specular created one of the first professional Mac-and Windows-based 3D modeling, animation, and rendering systems used by broadcasters,
+special effects houses, and graphic artists worldwide.
+Specular grew to about 40 people and $12 million in annual revenue before being acquired by a larger competitor.
+As the seventh employee of this cutting-edge startup, I was involved with developing nearly every aspect of the company, including building
+teams and processes for technical support and customer service, quality assurance, product management, product marketing, and marketing
+communications.
+Education and Training
+International Affairs New School University ï¼​ City , State Course work toward a degree in International Affairs
+Bachelor of Arts , Behavioral Sciences 2003 Concordia College ï¼​ City , State GPA: Summa Cum Laude GPA: 4.0 Behavioral Sciences, Summa
+Cum Laude, GPA: 4.0
+Computer Science and Computer Graphics and Animation Hampshire College ï¼​ City , State Concentration in Computer Science and Computer
+Graphics and Animation
+Skills
+Digital Video, Online Advertising, Â 

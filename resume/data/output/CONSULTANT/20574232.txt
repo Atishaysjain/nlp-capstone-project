@@ -1,0 +1,81 @@
+IT CONSULTANT
+Professional Summary
+Self-motivated, detail oriented Senior Computer/Network Technician with 20 years experience in Oil and Gas corporate network and service
+environments. Windows Server 2000, 2003, 2008 R2, Cisco, Active directory Administrator and network Administrator with proven
+troubleshooting and problem resolution skills. Independent worker and valued team contributor with excellent communication, interpersonal and
+customer service skills. Willing to relocate.
+Core Qualifications
+GIS, Kingdom, Petra, MS Office 97-2013 Citrix, Market Data. Mitel 3000 & 5000, Cisco CME, Exchange 2010 Networking: Active
+Directory,Cisco LAN/WAN, DHCP, TCP/IP, ODBC, VPN, Isilon
+Accomplishments
+NEW HORIZONS COMPUTER LEARNING CENTER, Houston, Texas.
+Implementing Microsoft Windows 2000 Professional Server.
+Implementing Microsoft Windows 2000 Network Infrastructure.
+Administering Microsoft SQL 2000 Server Database.
+Experience
+January 2014 to February 2016 Company Name
+Technical Anaylst Network Anaylst for T1 and VSAT network.
+Support of applications for pipeline technicians.
+Cisco Unified Communicator Manage Cisco VOIP phones.
+Work with Datto, Acronis and Symantec backup applications.
+Managed licensing and FlexLM for Petra.
+Supported user installation and maintenance of Petra database.
+Restoration of corrupted projects from SQL database.
+Managed all Installation and configuration for network, workstations and laptops.
+Gas Control and application management.
+Managing applications on 2008R2 server for Accounting and Gas flow.
+Active Directory management creation of users and groups and permissions for all corporate users.
+Creating solutions for measurement applications for gas pipeline.
+Office 365 Administrator to create user mailboxes and distribution groups.
+Desktop support for all users in corporation.
+Support for SCADA platforms insuring data connection.
+IT Consultant 
+June 2013 to December 2013 Company Name
+for acquisition of Apache shelf properties.
+Cordinated network and application replication with Apache Oil & Gas.
+Worked with Apache and other 3rd part vendors and contractors to replicate Apache infrastructure for transition to FieldWood Energy.
+This was replicating all Apache network, databases applications and voice for offices and Gulf Platforms for a seemless transition.
+Worked to replace Cisco phone system.
+Wored with vendors to replace application and software license.
+SPN Rescources/Dynamic Offshore LLC/SandRidge Energy 4-2007 &ndash; 5-2013 Network Administrator Managed all Installation and
+configuration of hardware and software for all workstations and laptops on shore and handled all equipment and communications for
+offshore platforms.
+Terminal server administrator.
+Worked with Citrix applications for corporate and external users.
+Managed Ision server for G&G applications users for Kingdom software.
+Administrator of Dell and HP Servers.
+Managed and maintained Osilon server nodes for Geophysical engineers.
+Managed AD and created accounts for all users and groups needed for corporation access, email and all network drives.
+Managed and was administrator for Mitel 3000 VOIP phones for company.
+Managed all 2003 and 2008r2 servers for corporation.
+Managed the installation of P&A and Workover jobs and communications offshore.
+Built configured and was Administrator for Exchange 2010 on Windows 2008r2 server.
+Managed all network communication for offshore platforms with microwave and VSAT connectivity.Managed licensing of all prioritary
+software and applications for company.
+Managed and supported Bez server and Blackberry&rsquo;s and smartphone, IPhone, Samsung.
+Support of VPN cisco client.
+Superior Energy, HoustonTexas 12-2005 &ndash; 4-2007 System Support Specialist Install and configure hardware and software for XP
+workstations and laptops and server 2003 on network.
+Management of active directory on Server 2003 and remote desktop to support all users throughout region.
+Built and managed servers for corporation.
+Administrator of Exchange creating users and troubleshooting server issues Administror AD for corporation.
+Support of Bez server and Blackberry&rsquo;s.
+Support of VPN cisco client.
+Sold to Dynamic Offshore got promotion to network administrator of company.
+Senior Workstation Technician 
+January 1997 to January 2005 Company Name ï¼​ City , State
+Citrix Administrator Managed AD for accounts.
+Install and configure hardware and software for workstations and laptops with Windows NT, 2000 or XP on network for energy trading
+floor with live market feeds, Reuters and Bloomberg market data.
+Used Active directory for support of users and groups.
+Support network and client/server applications, shared data storage, proprietary software, and Internet applications and troubleshoot
+hardware and software issues for end-users throughout corporation.
+Education
+Associate : Computer Science Technology , 1993 MICROCOMPUTER TECHNOLOGY INSTITUTE ï¼​ City , State Computer Science
+Technology
+Skills
+Accounting, Active Directory, AD, Apache, backup, Bloomberg, cisco, Citrix, client/server, hardware, client, databases, database, Dell, DHCP,
+email, energy trading, GIS, HP Servers, Internet applications, LAN, laptops, Managing, Market, access, Exchange, Office, MS Office 97,
+Windows, 2000, Windows NT, microwave, Communicator, Network Administrator, Network, Networking, ODBC, Oil, phone system,
+promotion, Reuters, SCADA, servers, SQL, Symantec, T1, TCP/IP, Desktop support, phones, Terminal server, troubleshoot, troubleshooting,
+VPN, VOIP, WAN

@@ -1,0 +1,99 @@
+SOFTWARE ENGINEER
+Summary
+Accomplished development professional with over ten years of experience in integrating IT Operations processes with sustainable customized
+applications to promote team performance and efficiency gains. An apt student in programming and markup languages matching multiple
+technologies together to best enhance and complement IT Service Management and Project Management best practices and deliver consistent,
+quality solutions in the fast-paced, evolving environment of technology.
+Highlights
+Languages: HTML, JavaScript, CSS, Perl, XML,
+XSLT, JSON, PHP, mySQL, VBScript
+Frameworks: AngularJS, Bootstrap
+Certifications: ITIL Foundation, Service-Now
+Application Developer
+Applications/Platforms: Service-Now, Salesforce, Confluence, JIRA, Rally,
+Gomez, SiteScope, Keynote, Omniture, Urchin, Request Tracker
+Accomplishments
+Launched Incident Management, Problem Management and Change Management tied to a centralized Configuration Management
+Database, leveraging Service-Now and Web Services integrations to synchronize and orchestrate information across multiple tools (e.g.
+Confluence and a proprietary, custom .NET application)
+Leveraged Web Services to implement a dashboard framework for data mashups that compares ITSM metrics with business key
+performance indicators (KPIs) from several tools, such as Service-Now, Omniture, Gomez, and an internal data warehouse, to inform
+incident root cause
+Successfully integrated IT Procurement workflows in the Service-Now Service Catalog module including integration points with Excel
+reports, data exports for Oracle Ebiz, and complex approval email notifications and workflows
+Coded and implemented a custom interim Web-based CRM tool to share and track customer information and trouble tickets while
+researching and reviewing full-featured third-party CRM rivals
+Experience
+Software Engineer 
+September 2012 to Current Company Name ï¼​ City , State
+Digital Media Solutions (VDMS) is a branch of Verizon concentrating on new products primarily focused on the Internet video lifecycle from
+content perparation to display on all current and emerging platforms. It acquired Edgecast Networks, a content delivery network, in 2014.
+Customize the Service-Now platform using server-side and client-side JavaScript to complement the release of Incident, Problem, and
+Change management processes and policies
+Utilize Jelly scripting, and the AngularJS and Bootstrap framework to produce automated management reports with custom UI and
+navigational features.
+Architect the Configuration Management Database (CMDB) to complement Service Operations processes, identifying known errors and
+driving down Incident resolution times.
+Integrate Confluence, JIRA, Service-Now, Active Directory, Bitbucket, and Git to synchronize data between both development and
+operations, utilizing both native configurations and extended capabilities via web services.
+Technical Project Manager 
+January 2010 to September 2012 Company Name ï¼​ City , State
+Edmunds.com is a premier online resource for automotive information for consumers, leveraging cutting-edge technology and tools to deliver just-
+in-time, relevant content for car shoppers and enthusiasts.
+Lead a team building out Continuous Integration and Continuous Delivery efforts utilizing Maven, Jenkins, Chef, Cloudstack, an Selenium to
+build, deploy, and test in an automated fashion.
+Apply best practices in Agile SCRUM software development, lean manufacturing concepts, and lean startup principles to the IT Operations
+group to ensure support and maintenance projects are completed in a consistent and predictable manner.
+Foster a DevOps community within the organization by creating and promoting a framework that encourages early and frequent
+communication between development and operations in launching services, from resource provisioning through service architecture and
+Service Level Agreement (SLA) definitions
+Automation and Integration Engineer 
+January 2008 to January 2010 Company Name ï¼​ City , State
+Extend the capabilities of the Service-Now application, including the development and implementation of the Service Catalog module in
+Service-Now, adding a corporate training calendar and tracking module, and improving Service Support workflows through business rules.
+Develop and maintain a data visualization (LAMP) application to inform management decisions and technical decisions through event
+correlation from multiple tools, such as Service-Now, Gomez, and Omniture.
+Reports Engineer 
+January 2005 to January 2008 Company Name ï¼​ City , State
+Program reports in the Request Tracker application and later in Service-Now, including automated data imports to other applications such
+as Excel, Confluence and MySQL databases.
+Client Manager 
+January 2003 to January 2005 Company Name ï¼​ City , State
+IVT is a provider of enterprise-scale software for rich media applications, including live webcasting for corporate communications and on-demand
+streaming video learning tools to Fortune 500 companies.
+Assess client business objectives and recommend suitable solutions within the allotted budget and time considerations, leveraging the power
+of video synchronized to animations, slides, text transcripts with interactive chat and polling components to the ideal level.
+Supervise and engage in the development, execution, and testing of client projects to ensure on time delivery within the client's demands and
+constraints.
+Manage client requests for enhancement (RFEs) to our products and generate functional specifications based on requirements, analysis and
+system design.
+Senior Production Associate 
+August 2000 to January 2003 Company Name ï¼​ City , State
+Employ programming knowledge (JavaScript, XML, XSL) to extend the power of IVT's proprietary software solution to meet client
+business objectives and needs.
+Responsible for the development, testing and deployment of a custom CRM web application to track client history, sales development, and
+trouble tickets.
+Assist the production staff in generating client assets and optimizing assets for web delivery.
+Design and develop webcast interfaces that are consistent with client color palettes.
+Graphics Production Intern 
+December 1999 to April 2000 Company Name ï¼​ City , State
+The online division of a major motion picture production house, Centropolis Interactive developed a loyal following for their online magazines
+aimed at science fiction and independent movie enthusiasts.
+Develop and implement procedures for automated bulk image processing and optimization, including batch functions in Photoshop for image
+watermarking for high-traffic, content rich websites.
+Market Research Intern 
+May 1999 to September 1999 Company Name ï¼​ City , State
+A leading firm for real estate services, since acquired by Fidelity National Financial to become the nation's largest title insurance company.
+Utilized Visual Basic for Applications to create sophisticated macros, formatting and sorting raw data from several different sources to
+streamline leads research practices.
+Education
+B.A. : Economics, American Literature , 2000 University of California ï¼​ City , State , US B.A., Economics, Minor: American Literature, 2000
+University of California, Los Angeles (UCLA) GPA: 3.5
+Skills
+Architecture, Automotive, Best Practices, Lean Manufacturing, Maintenance, Operations, Premier, Project Manager, Provisioning, Service Level
+Agreement, Software Development, Structured Software, Engineer, Testing, Training, Databases, Excel, Mysql, Solutions, Associate, Data
+Visualization, Integration, Integrator, Visualization, Budget, Corporate Communications, Streaming, Crm, Customer Relationship Management,
+Deployment, Javascript, Sales, Trouble Tickets, Xml, Xsl, Marketing, Image Processing, Optimization, Photoshop, Leads, Market Research, Real
+Estate, Sorting, Title Insurance, Visual Basic, Visual Basic For Applications, Data Warehouse, Html, Information Technology Infrastructure
+Library, It Procurement, Itil, Metrics, Oracle, Perl, Php, Procurement, Project Management, Technology Infrastructure, Vbscript, Web Based,
+Web Services, Web-based, Xslt

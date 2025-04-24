@@ -1,0 +1,107 @@
+TEST ENGINEERING
+Profile
+I am seeking the challenging position with a technology company that will allow me to apply and enhance my skills of being Test Engineer to their
+fullest potential. Possessing over 10 years of experience in the electronics manufacturing and test engineering environment can bring high level of
+responsibility and technical role in your company. In addition, I am eager to contribute my creativity and hard work towards the success of your
+company and to the growth of the fast developing field.
+Areas of Expertise
+Digital/Analog and RF Circuits Design Techniques and Troubleshooting, used Agilent E5061B-3L5 LF-RF Network Analyzer for
+troubleshooting
+Proficient with circuit board and microscope soldering skills and rework
+Interpret in reading schematic diagram for AC/DC circuits
+View Expert CAD Design software operating experience
+TEXMAC Flying probe 9000 series program experience
+Agilent 83480A Digital Communication Analyzer operating experience
+Employment Hands on Computer Skills
+Python Scripting for test automation
+Solaris 10 OS, Linux Mandrake and Red Hat OS Configuration
+SQL Server Configuration
+UNIX Script & Shell Programming
+Networking Essentials
+Networking Cabling Cat5e, Cat6 and Fiber Optic
+TCP/IP and OSI Layers Knowledge
+Windows XP Pro-Win 7 Mac OS X Leopard
+PC Hardware Installation PC Troubleshooting
+PC Software Installation Routers and Switches
+Cable Modems Experience
+Network Subnetting, routing and addressing
+Professional Experience
+Test Engineering Feb 2006 to Current 
+Company Name ï¼​ City , State
+Perform component debugging on the complex android mobile technology products with Android Debug commands.
+Bring up ongoing reliability lab for the android device compliance testing that includes tumble test, drop test, button cycling test, thermal
+testing and humidity environment testing.
+Troubleshoot and perform final root cause failure analysis on the component level for Riverbed Steelhead, Sturgeons, and Interceptors
+WAN optimization hardware appliances.
+Responsible to perform functional test and system level validation, Report directly to the customer's quality engineering department with final
+failure analysis data results on RMA/FA systems.
+Manage RMA returns and process orders.
+Perform incoming quality check on the RMA systems.
+Upgrade firmware or software if required.
+Use test equipment tools Digital/Analog meters, Signal Generators, Oscilloscope Tektronix TDS 3052, Fluke 26III True RMS MM meter
+to find root cause on the electrical circuits.
+TestExpert CAD for signal view.
+Directly work with customer's engineers to resolve all test related issues and act as primary technical customer interface.
+Prepare and develop test process procedures and disseminate test-engineering standards for developed test systems.
+Measure and control test debug WIP.
+Stay abreast of technology trends.
+Design, develop, maintain test procedures, and tester software for electronic circuit board production.
+Support junior technicians with failure analysis, tester debugging, reduction of intermittent failures.
+Review test equipment designs, data and RMA issues with customers regularly.
+Support backend production floor with BOM breakdown for Intel X-86 server platform, Created Visual Aids.
+work instructions for assemblies from frontend to backend.
+Properly implement ECO, ECN, Deviations, SPIs and ETN rework on the production floor.
+Design barcode labels with loftware design software for assemblies and subassemblies.
+Create MES routes for the assemblies and controlled process verification in the MES system.
+Bronze Six Sigma certified.
+Participate in Lean manufacturing eg.
+The 5S's, Kaizen Blitz or Events, QRQC, Workflow Analysis, Layouts & workcell design, Kanban, Simulated continuous flow, De-
+bottlenecking, Takt Time and other process related improvements, FPY reports for test matrix, Test Debug WIP reports.
+Applied Lean Six Sigma methodologies to improve production process.
+Work with Test and Manufacturing engineering departments for DFT and developed test programs.
+Extensive experience in NPI environment and NPI process improvements, customer's NPI projects portfolio includes McAfee, Riverbed,
+HP, Silverspring networks, NEC, Cisco, Pocketfinder, Sunpower & Sable networks.
+Traveled domestic and overseas to coach diagnostic technicians for new customers and existing customer product lines.
+Integration System Engineer Jul 2005 to Feb 2006 
+Company Name ï¼​ City , State
+Responsible to create proposals, design Security Access Control, CCTV Surveillance System and Alarm Systems for Government,
+Commercial, and Residential customers.
+Provided Technical Support to Field Technicians and customers.
+Install GPS tracking devices on fleet vehicles.
+Lab Technician Apr 2003 to Jul 2005 
+Company Name ï¼​ City , State
+Work directly with the company's Vice President of engineering on the development of alarm verification VIT system.
+Support development of new production and R&D engineering department overseas with BOM breakdown, Visual Aids, Schematics
+improvements and US FCC compliance requirements.
+Daily job duties included test and Troubleshoot CCTV Security products.
+Performed electrical conformance testing with Agilent 83480A Digital Communication Analyzer.
+Introduce new product lines to the customer and marketing department.
+Provided Technical Support on all company products on phone and via email.
+Test Technician III Jan 2002 to Mar 2003 
+Company Name ï¼​ City , State
+Test and troubleshoot flat touch screens and report daily test reports to engineering department.
+Trained new employees to perform task on assembly lines.
+Production Test Technician II Oct 2000 to Nov 2001 
+Company Name ï¼​ City , State
+Certified WWOPS Final Analysis Manufactured Training.
+Ability to Test and Debugged all SUNFIRE mid and high series servers.
+Generate daily work report on failed CPU boards and other components.
+Experience in Assembly line, Kitting and pack out.
+Assisted Manufacturing Engineers to installed and tested new features on a servers.
+Interpret and very familiar with SUN Microsystems technical docs on Netscape interanet.
+Test Technician I Mar 1999 to Sep 2000 
+Company Name ï¼​ City , State
+Directly work with Engineers on new customer products for Telecommunication Servers.
+Performed test and repaired bad main boards, worked on SMT machines on a production.
+Education
+BSEE 2016 Northwestern Polyphonic University ï¼​ City , State
+Associate Degree , Physics, Chemistry and Mathematics 2001 D.A.V. College Jalandhar City GPA: GPA: 4.0 GPA: 4.0
+AAS Degree , Electronics Technology Heald College School of Technology ï¼​ City , State Electronics Technology
+Skills
+Assembly, automation, Cable Modems, Cabling, CAD, Cat5, Cisco, coach, hardware, CPU, DC, debugging, DFT, Design software, electronics,
+email, features, functional, Government, GPS, HP, Intel, Linux, Logic Analyzer, Mac OS, marketing, McAfee, MES, Access, Win 7, Windows
+XP, NEC, Netscape, Network, Networking, Networking Essentials, networks, OS, optimization, Oscilloscope, OSI, PC Hardware Installation,
+PC Software, PC Troubleshooting, proposals, Python, quality, reading, Red Hat, RMS, Routers, routing, Schematics, Servers, Shell
+Programming, Script, Scripting, Signal Generators, Six Sigma, Solaris, soldering, SQL Server, SUN Microsystems, Switches, TCP/IP, TDS,
+Technical Support, Telecommunication, phone, test equipment, Troubleshoot, Troubleshooting, UNIX, Upgrade, validation, View, WAN,
+Workflow Analysis, X-86

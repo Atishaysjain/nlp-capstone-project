@@ -1,0 +1,76 @@
+Pavithra Shetty
+Summary
+Customer-oriented Principal Consultant knowledgeable about developing and implementing successful business solutions that drive productivity
+and growth. Offering expertise in SQL, Data Visualization, Scripting language and more than 6 years of experience in the software industry.
+Experience
+Principal Consultant Company Name | City , State | June 2018 - Current
+Design, Develop, Test and Document Business Intelligence reports:
+Gather Business needs to develop interactive dashboards and BI reports.
+Work with Data warehouse and other data sources to get data for Data Visualization Using Business Intelligence Tool.
+Write SQL Queries and Stored procedures to pull data to Visualization Tool.
+Modeling the data to efficiently pull the data for visualization
+Design Dashboard and Provide insights to management and departments to make Data driven decisions.
+Embed BI reports to Customer Application using .NET Framework, JavaScript. Which uses Web APIs to access BI reports.
+Create and Peer review SQL queries for ad hoc data reporting.
+Managed junior developer by delivering consistent coaching and constructive feedback.
+Design, Develop, Test and Document SQL Queries, Stored Procedures, .NET Codes in order to maintain and add features to Student
+Information System.
+Communicate with clients to gather requirement for new data collection or for change request.
+Design a data model and web interface for collecting new data and improve existing system.
+Peer review codes to validate correctness and integrity of the system.
+Perform Unit test, Integration test and Regression test in Development and QA environment for Build Release.
+Follow Agile Methodology for software development using Azure DevOps for better utilization of time and resources.
+Create SQL queries for ad hoc data reporting.
+Support end users resolving technical issues.
+Business Intelligence Developer Company Name | City , State | September 2015 - May 2018
+Designing, developing, validating, and documenting SQL queries, graphical reports, dashboards, and data warehouse applications that support the
+strategic initiatives.
+Reviewed project requirements to identify customer expectations and resources needed to meet goals.
+Conceived, developed and implemented wide range of BI solutions.
+Optimized data gathering processes, analysis procedures and visualization strategies.
+Created and oversaw dashboards with QlikView.
+Create and maintain SSIS packages using Microsoft Visual Studio. Extract the data from files received through SFTP and upload the data-
+to-data warehouse in a required form.
+Using given technical specs create flat files and send data files to clients using SSIS package. Also, automate maintenance of SQL Server
+databases and updates.
+Analyzed code and corrected errors to optimize output.
+Resolved customer issues by establishing workarounds and solutions to debug and create defect fixes.
+Wrote user manuals and other documentation for roll-out in customer training sessions.
+Established and maintained key relationships with business stakeholders to promote future opportunities.
+Managed 2 junior developers by delivering consistent coaching and constructive feedback.
+College Student Company Name | City , State | January 2015 - May 2016
+Most accomplished College Projects:
+Predicting Breast Cancer:
+Create machine learning model to predict malignant tumors.
+Used Python - "Random Forest Classifier" to predict malignant tumors in breast tissue.
+Here, main idea is building multiple models with different sample and different initial variables from train data set.
+Goal is to determine what attributes provide the most information that can be used to predict malignancy.
+My model was tested against â€œtest data setâ€​ for accuracy and it is 96% successful in predicting whether the tumor is malignant or
+benign.
+Data Mining- Image Classification:
+It is the process to categorize images into one of several categories. Classification requires training for each image category.
+Constructed Training and Test data for given image data using Java programming.
+Constructed the five different classifier models using each training data file.
+Tested these classifiers using test data and compared the prediction accuracies among five different classifiers. Achieved 95% accuracy.
+Software Engineer Company Name | City , State | October 2013 - January 2014
+Develop code in java and document artifacts including unit test plans and ensure that the output is as per the specifications:
+Execute tasks with both procedural and OOP development techniques.
+Best practices for efficient and easier to maintain code.
+Best practices for securing web applications.
+Inserting, querying and managing data stored in databases or files.
+Skills
+SQL Server/MySQL
+Data Analysis and Visualization
+C#/.NET framework
+Python
+JavaScript
+Azure DevOps
+Education
+Master of Science Computer Science University of Illinois At Springfield , City , State
+Completed coursework in Data Science, C# Programming and .NET and Data Mining.
+3.95/4.0 GPA
+May 2016
+Bachelor of Engineering Information Science P.A College of Engineering (VTU) , City
+"Best Outgoing Student" Recipient
+Honor Roll 2010-2011
+May 2013

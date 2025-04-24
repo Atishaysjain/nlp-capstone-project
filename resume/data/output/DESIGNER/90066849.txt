@@ -1,0 +1,116 @@
+INSTRUCTIONAL DESIGNER
+Summary
+Tamantha Uebele is a Home Health Clinical Analyst and Instructional Designer with over 28 years' experience in home health and hospice and the
+Epic Home Health application for 5 years. During an enterprise install for ProHealth Care, Tamantha served as Business Analyst, Principal Trainer,
+and Application Coordinator during an end-to-end implementation and system updates post go-live. She was into the build phase of a system
+upgrade when she went into consulting. As analyst consultant for Providence Health & Services, she led a Community Connect Home Health
+implementation project involving discovery, validation, workflow design, build, and testing. At Northwest Community Hospital, she served as build
+analyst on the Home Health team where her experience involved validation, workflow design, build, testing, and clinical break-out sessions. At
+Lahey Health, Tamantha was Instructional Designer leading their Home Health agency's training environment build, materials build, and classroom
+instruction for an integrated implementation. She continued with go-live support, Nova review and testing with system updates.
+Tamantha possesses expertise in designing, building, implementing, and supporting the Home Health and Hospice application as well as other
+applications used for Home Health's module to run successfully (ADT & Cadence.) She has experience in an array of Epic functionality, including
+Facility, Profile, & Department Settings, Contact & Visit Types, Reporting Workbench, Print Groups, Custom Form Build, InBasket, User &
+Provider build, security templates and settings, Cadence Templates, Smart Tools, Care Plan build, and the technical needs of Remote Client.
+Qualifications
+Epic Home Health Clinical Certification (2009, NVT 2010, NVT 2012, NVT 2014, NVT 2015) (includes Hospice)
+Epic Principal Trainer/Instructional Designer for Home Health Clinical (TED 2010)
+Highlights
+Consultant experience: Lead in Home Health Implementation with
+responsibilities including: workflow analysis, recommendations, redesign,
+presentations, and team member duties
+Formal sessions include: data gathering/discovery, workflow validation,
+integrated workflows, building & testing, and training
+28 years of experience in the Home Health and Hospice
+Full project experience: planning, validation, build,
+testing, go-live, maintenance, and optimization
+Knowledge & Experience with every version of
+Home Health since 2009 including 2015 releases
+Knowledge of Home Care and Hospice regulations
+including OASIS, Physicians' Orders, Care Plans,
+and Plans of Care
+Equally qualified as Analyst & Instructional Designer
+Epic Specific Experience and Expertise
+Application Coordinator/Analyst Specifics
+System analysis, build, testing, and system optimization with all versions: 2009, 2010, 2012, 2014, and new releases for 2015
+Workflow analysis, development, redesign, and validation
+Build, maintenance of, and other experience: (but not limited to):
+Facility settings (EAF), Profile settings (LPR), Department settings (DEP)
+Contact & Visit Types (LCT & PRC)
+Reporting Workbench Reports (LRP)
+Build and layout of forms and form groups including Custom Form Build (LFG)
+InBasket Classes, Pools, messages, and routing
+Verbal Order build (LVO)
+User & Provider build (EMP & SER)
+Linked Templates, Sub-Templates, security points, and security classes (ECL)
+Cadence Templates: editing, patterns, exceptions, defaults, & blocks
+Documentation build (reports, Flow-Sheets, Care Planning, problems, and Interventions)
+Management & maintenance of the Home Health Databases
+Integrated workflows between Home Care, Home Hospice, & Inpatient Hospice Facility
+Integrated workflows between intake, scheduling, clinical documentation, HIM, quality, and billing
+Security Team Application Lead
+Data Courier/Migration Team Application Lead
+Change control and communications Application Lead
+Business Continuity Access (BCA)/Downtime Application Lead
+Provided end-user support for all clinical and office users
+Understanding of Epic's Community Lead structure involving several regions/instances
+Epic Training & Curriculum Development
+Development of all Epic Home Health training materials including Lesson Plan Matrix, Course Companions, Training Manuals, and
+Competency checklists.
+Train-the-Trainers: Credentialed Trainer and Super-users
+Classroom instruction for end-users for all non-clinical courses
+Development of Quick Start Guides and Tip Sheets
+Training Environment build and Master Patient build for all Home Health courses
+Maintenance of the Home Health databases
+Learning Homes Dashboard
+Work Experience
+Instructional Designer Feb 2015 to Current 
+Company Name - City , State
+Clinical Instructional Designer for Home Health during a Wave 2 implementation
+User, provider, and patient build for the MST training environment
+Created and update training materials: PowerPoint presentations, Quick Start Guides, exercise books, and Tip Sheets
+Classroom instruction for various types of classes: clinical, intake, scheduling, quality, and orders
+Classroom planning including course content, course structure, and class scheduling
+Build and maintenance of Learning Homes Dashboard
+Contract Analyst Mar 2014 to May 2014 
+Company Name - City , State
+*Contract ended early due to customer's decision to postpone Home Health implementation
+Analysis, re-engineering, and mapping of current and future workflows with Epic 2014 Version
+Discovery and validation with analyst team and Subject Matter Experts (SME)
+New record build and edits for: security, SER's and EMP's, facility structure settings, visit types, contact types, Smart Forms, and other
+Epic records.
+Project tracking on multiple tracking tools
+Led several Care Plan break-out build sessions with clinical SME's
+Member of several integrated workgroup sessions: Clinical Content, InBasket, scanning, lab, Data Courier
+Database manipulation and management for Home Health databases
+Assisted Instructional Designer with 2014 training tools.
+Consultant Analyst Jan 2013 to Dec 2013 
+Company Name - City , State
+Lead analyst for new Community Connect Home Health implementation
+Data Validation/Workflow analysis of both existing agency and implementing agency
+Redesign of several workflows and build recommendations needed for agency differences
+Analysis, build, design, testing, and change control
+Led several presentations and data gathering sessions involving multi-state regulations and workflows.
+Led Nursing Care Plan break-out multi-state build sessions
+Application Coordinator/Analyst & Principal Trainer Jul 2010 to Jan 2013 
+Company Name - City , State
+Implementing Home Health, Home Hospice, and a Hospice facility through a successful EMR implementation
+Analysis, build, documentation, testing, migrating, and updating databases
+Clinical readiness lead: analysis of current workflows and processes to post go-live modification
+Managed system upgrades and maintenance of Home Health as well as the Home Health laptop databases required for the Remote Client
+software (Epic's Home Health module)
+Initial prep work and build for 2012 version upgrade
+Principal Trainer for Home Health Implementation: Environment build, Training materials build, management of tools & databases,
+classroom training
+Administrative Assistant Jul 2009 to Jul 2010 
+Company Name - City , State
+Designed a reporting tool to display clinician productivity to management; proving to lead to increased productivity
+Created and maintained a department Website linking communication, training, and materials
+Revised the department's orientation process, including organization, processes, work-flows, materials, and presentation
+Orientation to new staff members on Meditech & PtCT software
+Scheduler/Home Health Aide Apr 1991 to Jul 2009 
+Company Name - City , State
+Assisted with three scheduling conversions from paper to electronic, and two additional conversions as software changed
+Patient Care
+Education
+Associate of Arts , Information Technology 2010 University of Phoenix

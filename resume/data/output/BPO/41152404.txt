@@ -1,0 +1,95 @@
+TEST ANALYST-INTERN/CONTRACTOR
+Profile
+3+ years of professional experience in Software Testing. Experience in working with Agile Software Development. Strong scripting skills with
+good expereince in test automation. Expertise in Manual and Automation testing of various web and mobile- based applications. Good
+programming skills accompanied by excellent analytical and problem solving skills. Hands on experience in preparing Test Plans, Test Cases,
+Automated Tests and executing the same. Proven experience in testing GIS applications. Experience in working with E-commerce, Banking and
+Insurance domains. Experience in User Acceptance Testing, System Integration Testing, Performance Testing, Decision Table Testing and
+Regression Testing. Good experience with developing and maintaining the test documentation. Self motivated with strong passion for delivering
+quality software. Strong Project Management skills with flexibility and willingness to work on a variety of projects while demonstrating ability to
+multi-task and prioritize effectively. Excellent verbal and communication skills. Excellent Risk Mangagement skills with proven ability to meet the
+tight deadlines. ISTQB certified tester. To pursue a challenging career in the field of Software Testing and Quality Assurance and providing the
+need of the company in the best possible way and enhance my technical, logical and problem solving skills.
+Skills
+TECHNICAL PROFILE:
+Programming Languages: C, C++, C#, Java
+Scripting Languages: JavaScript, Windows PowerShell.
+Mark Up Language: HTML, XML
+Automation tool: Selenium IDE & Web driver, GoogleUIAutomator
+Bug Tracking tools: Jira, Buganizer
+Office Suite: Microsoft office, Microsoft Project, Open Office
+Database: My SQL and SQL server
+Operating System: Windows 8,8.1, Linux and OS X
+Mobile Operating system: iOS, Android
+Professional Experience
+August 2014 to February 2015
+Company Name Test Analyst-Intern/Contractor
+Responsibilities:
+System testing and functional testing on E-commerce websites. This involves testing it against the functional specification and integration
+testing the system in case of website is integrated.
+Conducting cross browser and cross platform testing on different desktop browsers, Mobile phones and various Tablets.
+Analyzing the Requirements provided by client in Functional and Technical requirements specification and Communicating with BA,
+Developers and Project coordinators.
+Writing functional and non-functional requirement test cases based of functional specification.
+Performing integration testing in co-ordination with client for the site, which is integrated with external system.
+Experience working on both Responsive and Non-responsive websites.
+Testing the complicated promotions under support and also testing assess the support issues received from client.
+Participating in the daily stand up meeting and also involving in the company meeting towards process improvement. List of Retail Domain
+Projects:
+www.maxshop.com
+www.smithandcaugheys.co.nz
+www.walkerandhall.co.nz
+www.numberoneshoes.co.nz
+www.overlandfootware.co.nz
+October 2011 to February 2014
+Company Name Quality Analyst
+Project Description: Google Play is a digital distribution platform operated by Google. It serves as the official app store for the Android
+operating system, allowing users to browse and download application developed with the Android SDK and published through Google.
+Google Maps is a Google service offering powerful, user-friendly mapping technology and local business information including business
+locations, contact information and so on. Responsibilities:
+Responsible for testing Google Play Store and Google Maps Mobile and Desktop application.
+Functional Testing and Integration Testing of various mobile apps on Google Play Store.Install and performed a wide variety of Android-
+based app reviews on Play Store.
+Design test plans and write test cases for new product features to be launched in Play Store and Google Maps.
+Report generation after manual execution of the test cases.
+Developed Automation test cases using GoogleUIAutomator testing framework.
+Performed Google Maps testing on various browsers(Chrome, Firefox, IE and Safari) and Mobile (Andriod and IOS) Devices.
+Reviewing the data added by internal team or by external users before going live on to the Google Maps by conducting proper research.
+Performed ad-hoc testing and did sanity check on the application once the date is live.
+Identified, reported and tracked bugs using Buganizer tool(Google internal tool).
+Managed and mentored team of 20 people and documented all the team- member's statistics and everyday performance and provided it to
+my lead; guided the team in the absence of my lead.
+Participated in meetings with development teams to discuss and suggest improvements for the software testing process.
+September 2010 to July 2011
+Company Name Test Engineer
+Responsibilities:
+Understanding of the Business requirement specifications and System requirement specifications.
+Clear understanding of the user requirements.
+Responsible for preparation of test data and writing Test Cases and executing them.
+Responsible for developing the QTP scripts in Expert View for assigned test cases.
+Writing functional and non-functional requirement test cases based of functional specification.
+Participating in weekly team meetings and suggest improvements in testing process.
+Preparation of daily and weekly status reports. USA Environment: Windows XP 2, SQL Server 2005, C# Testing Type: Automation
+Duration: Feb 2011 to Jun 2011 Description: The purpose of this project is to automate the activities of Insurance Management System i.e.,
+a person or a customer without going to the insurance office manually he is able to see the policy details, policy amounts, policy premium
+dates, bonus details through online. This system is developed to maintain the database about the entire Insurance Organization details. The
+main advantage of this system is that customers can access it globally with an authorized User Id and Password and make the payments at
+any branch and also know their details at any branch. Banking Domain: Project Name: E-Banking System Testing Type: Manual Duration:
+Sep 2010- Feb 2011 Description: This Banking Software is developed for the wide range of banking spectrum, especially for savings
+account type customers. As this is a web application, the customers can access the system from anywhere with an authorized User-Id and
+password. Through this mode of operation the customers can save a lot of time and avoid risks. The user can perform different operations
+online like applying for checkbook, transfer funds, and view the details of the account.
+Education and Training
+University of Auckland 
+Software Engineering Master of Engineering University of Auckland Master of Engineering Studies -Software Engineering Key papers include:
+High Performance Computing, System Security, Project Management and Risk Management.
+Jawaharlal Nehru Technological University 
+Information Technology Bachelor of Engineering Jawaharlal Nehru Technological University Bachelor of Engineering-Information Technology
+Skills
+Testing, Cases, Test Cases, Functional Testing, Integration, Integration Testing, Integrator, Android, Android Sdk, Ios, Mapping, Safari, Software
+Testing, Statistics, Test Plans, Topo, Writing Functional, Engineer, Test Engineer, Writing Test, Writing Test Cases, Access, C#, Ms Sql Server,
+Sql, Sql Server, Sql Server 2005, Windows Xp, Process Improvement, Retail, Retail Marketing, System Testing, Acceptance Testing, C++,
+Documentation, Gis, Html, Java, Javascript, Linux, Microsoft Office, Microsoft Project, Ms Office, Performance Testing, Regression Testing,
+Scripting, Self Motivated, Software Development, Structured Software, System Integration, User Acceptance, User Acceptance Testing,
+Windows 8, Xml, Operations, Database, Insurance Management, Payments, B2b Software, High Performance Computing, Project Management,
+Risk Management, Security, Software Engineering, System Security, Trading

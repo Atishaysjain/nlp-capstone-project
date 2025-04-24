@@ -1,0 +1,79 @@
+REGIONAL ENGINEERING MANAGER
+Engineering Director
+Innovative, solution-driven engineering director with over 25 years' experience deliveringÂ  high-profile ITS/SCADA projects for the
+Transportation and Water/Waste Water industries. Â Expertise includes; technical solution architecting and cost estimating, mission critical
+ITS/SCADA system design and delivery, disaster recovery planning, technical program management, and cross-team leadership.
+â€‹
+â€‹ Execution and results oriented individual with a passion for solving business problems with innovative, cutting edge technology solutions that
+enable clients to achieve and exceed desired business outcomes.Â 
+Accomplishments
+Technical manager with 90%+ success rate delivering projects on time and under budget.Â 
+Proposed innovative solution that would allow client to consolidate mutliple operations centers and provide for seamless migration without
+service interruption, which resulted in the company being designation as the â€˜highly preferred supplier'.
+Maximized efficiency and ability to scale by industrializing sales and engineering delivery methodology and deliverables.Â 
+Originated and spear-headed product innovation ideas, enabling the company to differentiate itself in the ITS/SCADA market.
+Expertise
+Architecting best practice technical solutions
+Technical program management
+QA/QM
+Client management
+Vendor management
+Testing and commissioning planning and execution
+Team leadership / c ross-team collaboration
+Engineering cost estimating 
+Engineering resource management and forecastingÂ 
+Process improvement
+â€‹â€‹
+Professional Experience
+Regional Engineering Manager 01/2014 to Current Company Name City , State
+Currently directing ITS solution deliveries in Texas, Australia, New Zealand, and Chile. â€‹
+Lead systems solution architect responsible for technical proposal write-ups, presentations, and engineering cost estimates, which have resulted in
+winning bids on projects ranging from $1M to $25M in the Western NA, SA, and Oceania regions. â€‹
+Improved engineering resource coordination between project managers and the engineering department, resulting in more proactive resource
+planning and increased visibility. â€‹ â€‹
+Implemented targeted, JIT training sessions, which drastically improved work efficiency by minimizing the technical learning curve for new staff
+deployed on Projects. Â 
+â€‹â€‹
+â€‹
+Recent Projects:
+Santiago Chile ITS - Value: $1M
+Currently directing the in-house development of an advanced traffic incident detection algorithm, which will tie-in with a GIS map based incident
+response system to give the client early warning indication of traffic incidents and congestion spikes.
+â€‹
+CityLink OMCS Upgrade - Value: $4.5M
+Directed an ITS/SCADA system upgrade for a mission critical tunnel/toll-road in Melbourne, Australia. Designed an interactive, smart Motorway
+GIS map to serve as the primary roadway monitoring and traffic incident response GUI.
+â€‹
+LBJ/NTE Managed Lanes Project - Value: $25M
+Technical manager for an ITS system delivery to monitor and control 40 miles of managed lanes for a greenfield civil works Project in the
+Dallas/Fort Worth area. Â  The project deployedÂ the first dynamic tolling roadway in the state of Texas. Â The state-of-the-art central command
+and control center interfaces with several field device sub-systems (electronic information and toll rate signage, traffic detectors, cctv cameras,
+weather and gas monitoring systems), the Drive-On-Dallas website, and TxDOT's LoneStar & DalTrans systems.
+â€‹
+Engineering Supervisor 01/2011 to 12/2013 Company Name City , State
+Improved engineering department productivity by re-organizing engineering staff activity reporting methods andÂ project resource planning. â€‹
+Beat out the â€˜preferred supplier' in a major civil project bid, by proposing a more efficient, single integrated technology platform that reduced the
+overall cost and deployment timeline.
+Effective engineering team leadership and QA/QC oversight resulted in delivery of several high profile, challenging ITS/SCADA projects on time
+and under budget. â€‹
+Responsible for engineering estimates and technical write-ups for bid proposals, and providedÂ  product demos to prospective clients during sales
+presentations.
+â€‹
+Major Projects: 
+Caltrans Devil's Slide Tunnel Â - Value: $7M
+Delivered a greenfield PLC/SCADA/ITS system for the monitoring/control of a mile long tunnel north of Half Moon Bay, CA. Â Developed an
+incident response CONOPS, followed by the design and deployment of a life-safety, emergency incident response management GUI. Â This IRM
+GUI allows tunnel Operators to quickly react to a whole range of emergency scenarios that require evacuation of the tunnel and immediate
+deployment of emergency first responders.
+Eastern Distributor Tunnel - Value: $3.5M. Â  Â Managed Â the upgrade of a life-safety ITS/SCADA system for a major tunnel servicing
+downtown Sydney. Â Commissioning included the hot-cutover of existing tunnel/traffic control systems, which was achieved with minimal
+downtime.
+â€‹
+Senior Engineer 07/2003 to 12/2010 Company Name City , State
+Systems Engineer II 07/1999 to 06/2003 Company Name City , State
+Control Systems Engineer I / II 07/1992 to 06/1999 Company Name City , State
+Associate Systems Engineer 06/1991 to 06/1992 Company Name City , State
+â€‹
+Education
+Bachelor of Science : Electrical and Computer Engineering 1990 University of California at Santa Barbara City , State
+â€‹Various Project Management/Leadership Courses

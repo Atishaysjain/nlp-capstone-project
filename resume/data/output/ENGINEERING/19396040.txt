@@ -1,0 +1,66 @@
+INDUSTRIAL ENGINEERING INTERN
+Summary
+Seeking for full time position where I can apply my technical knowledge & skills for continuous improvement. I have 26 months of experience in
+Lean Manufacturing, Production Planning and Supply Chain Management. Excellent computer and analytical skills.
+Highlights
+Application Software: MS Office, Minitab, PowerPoint, Excel, Solid works, AutoCAD, Pro E
+Database: MS Access, SAP
+Programming: Java, C, C++, Visual Basic, R, Python
+Accomplishments
+Quality Control: Implementing of PDCA cycle for improving image quality of smartphone camera, implementing DMAIC cycle for
+improving quality issues related to cosmetic damages (scratches, bent, dent, etc.) using control charts and z transformation.
+Metrics & Measurements: Time study, Process Mapping, JIT, &Work Sampling of Activities.
+Intro to Statistics: Data analysis using normal & exponential distribution, simple & multi linear Regression.
+Project Management: Project planning, analysis, scheduling using CPM and PERT analysis.
+Production & Inventory Control: Develop assembly chart, process flow layout for subway with JIT.
+Facility Planning: Designing and planning picking process, rack arrangement, Shipping and receiving locations.
+Planning all warehouse process by analyzing previous order quantity records.
+Developing new process in warehouse for maximum utilization of assets and meet required shipping demand during peek session.
+Underwater Robot: Worked at IIT-Bombay workshop to make an underwater robot.
+The robot was assembled using sensors, switches and motors for maneuvering the robot.
+Technical Papers Inventory Management and Risk Pooling: Presented how centralized and decentralized distribution system affects safety
+stock, service level, overhead cost, customer lead time and transportation cost.
+Single Minute Exchange of Die concept: Explained how changeovers are not bad and how change over times could be reduced if the
+changeover process is mapped.
+Experience
+Industrial Engineering Intern 
+May 2015 to January 2016 Company Name ï¼​ City , State
+Conduct Time Study & perform analysis on data to determine hourly production scheduling, non value adding activities, reduce cycle time
+by 32% & lead time by 48%.
+Line balancing to achieve required takt time and reduce work in process (WIP) inventory.
+Implement Lean manufacturing such as Kaizen, 5S, documentation of Kanban card process & Continues Improvement to reduce waste,
+inventory, non-value adding activity to improve productivity.
+Developed material picking charts which determines the exact quantity of items to be picked, thereby, enhancing material picking
+operations.
+Scheduling material required for production and manage inventory of raw material.
+Writing standard operating procedure (SOP) for various process in entire plant.
+Ergonomic designing of work cell to improve efficiency of workers.
+Junior Engineer 
+July 2013 to June 2014 Company Name ï¼​ City
+Managed assembly line for traction and induction motors at Siemens.
+Responsible for supervising 4 Inspectors and 24 team members in the assembly department.
+Responsible for generating a production schedule and Process Planning for necessary changes based on customer priority and orders.
+Responsible for safety of everyone in the plant and Forecasting risk from data analysis and provide Strategy/planning for Lean
+Manufacturing Practices within the plant.
+Participate in monthly cost team projects, process improvement projects and assign cross-training projects and Kaizen projects to team
+members.
+Manage quality, day to day production, labor efficiency.
+Intern 
+November 2012 to May 2013 Company Name ï¼​ City
+Developed the inspection process for motor accessories.
+Designed tools, gauges and fixture in AutoCAD and /or ProE as required.
+Managed the outsourced manufacturing of necessary tools, gauges or fixtures.
+Maintain Gauge Calibration database.
+Managed the calibration schedule with outside vendors or in-house calibration group.
+Worked in PM and QM modules of SAP R/3 to enter or retrieve data.
+Awareness of ISO 9001:2008 and ISO 14001(EMS), Integrated Management system (IMS) & Hazard identification and risk awareness
+(HIRA) documents on shop floor.
+Education
+Masters of Science : Industrial Engineering Production & Inventory management , May 2016 University of Texas ï¼​ City , United States GPA:
+GPA: 3.5 Industrial Engineering GPA: 3.5 Production & Inventory management
+Bachelor of Engineering : Production Engineering Manufacturing, Planning and Supply Chain , July 2013 Mumbai University India GPA: GPA: 3.5
+Production Engineering GPA: 3.5 Manufacturing, Planning and Supply Chain
+Skills
+AutoCAD, C, C++, Calibration, charts, data analysis, Database, designing, documentation, Forecasting, IMS, inspection, inventory, ISO, ISO
+9001, Java, Lean Manufacturing, MS Access, Excel, MS Office, PowerPoint, Minitab, process improvement, Programming, Python, quality,
+safety, SAP, SAP R/3, Scheduling, Siemens, Solid works, SOP, Strategy/planning, supervising 4, Visual Basic, reduce waste

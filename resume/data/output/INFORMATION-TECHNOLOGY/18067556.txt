@@ -1,0 +1,258 @@
+MASTER DATA MANAGER
+Experience
+Master Data Manager , 01/2019 to Current 
+Company Name â€“ City , State 
+Aligning 100+ supply chain-related master data attributes to ensure the following guidelines are met:.
+Data Stewardship - Appropriate business units and ownership established to validate appropriate values, definitions and impact
+documentation for all master data fields.
+Data Quality - Applicable controls are set in conjecture with IT to ensure that a proactive approach is taken to new master data.
+Additionally, RPA process planned for Phase 2 to automate structured data entry and maintenance.
+Data Integrity/Data Warehousing - Structure business logic to ensure BOMs and other data relationships are both accessible and built as an
+asset for the business.
+Additionally, a Data Sync SOP was established for GS1 standardization.
+Reporting - Automate data quality reporting for executive staff to ensure 99.8% compliance is adhered to throughout the organization.
+Additionally, provide ad-hoc tools for the business to leverage clean data cubes.
+Data Governance Committee - Oversee executive strategy in institutional master data to commit to trusted, accurate, structured and
+meaningful master data.
+Engaging applicable stakeholders to promote data governance, data architect, data stewardship and data security the data governance
+committee oversees the framework for complex supply chain manufacturing operations.
+Director of Information Technology , 01/2017 to 01/2019 
+Company Name â€“ City , State 
+Supply Chain Management - Warehouse, 3PL, Food Services, Served as the corporate Project Manager, overseeing all implementations
+(WMS, ERP, QMS, CMMS, infrastructure).
+Responsibilities included progress reporting, budget control, task delegation, plan creation, vendor coordination, etc.
+Developed a range of documents and performed project selection tasks such as workflow process maps, system integration documents,
+infrastructure topology, organizational policies, GDPR, UAT, gap analysis, best fit models and user training manuals.
+Deployed and managed BI products to leverage company-wide data for decisionmakers, proactive analysis, and real-time resource
+planning.
+Utilizing SSRS/PowerBI to analyze sets of data across multiple databases, automate value-add reporting to 3PL clients, visualize KPIs thru
+the organization, create workflows for document automation and create alerts for various business units.
+Launched a high-performance data warehouses and virtual machines to store, integrate, analyze, and report on enterprise data.
+An array of SSAS cubes were deployed to allow for end-user ad-hoc tabular reports.
+Additionally, a complex network of interfaces between 6+ enterprise systems, 4 SQL databases, 1 Oracle database, and other enterprise
+systems (file server, exchange, EDI, etc) was implemented to support the ETL process.
+Executing infrastructure refresh for a 200,000 sqft industrial/production facility.
+The deployment includes an array of 15 switches, 1,000 cable runs, racking, 100 AP, 300 cameras, NVRs, controllers, and creating floor
+plans and topology documents.
+Controlled a $2MM IT budget, short-term and long-term strategies, and CapEx justification across the business.
+Including selecting and negotiating with vendors, promoting operational process improvement, instituting best practices, and developing IT
+roadmaps and strategic plans.
+On track to reduce IT spend by $250K by renegotiating vendor contracts, consolidating cloud services, implementing automation tools and
+upgrading legacy systems.
+Responsible for a team of IT professionals and vendors assigned to all corporate and local office systems, including ERP, WMS, logistics
+systems, data centers, servers and storage, PCs, mobile devices, BDR, telecom, and help desk.
+Reduced IT service desk's response time and resolution time while increasing knowledge base and reducing reoccurring tickets by over
+50%.
+Information Technology Governance & Steering Committee (ITGSC) - Reporting directly to the board of directors, the ITGSC provided
+strategic direction in aligning IT projects to shareholder interest and long-term targets.
+While overseeing the committee the cross-functional team guided 12 business units across operations, sales, and manufacturing.
+Additionally, the ITGSC aided in risk management, business continuity, and organizational SOPs.
+NatJan Solutions (Facility Management - Retail, Medical, Grocery Sectors.
+Information Technology and Analytics Manager , 01/2014 to 01/2017 
+Implemented process within external ERP portal to monetize 1000's of vendors to generate lean revenue based on financial and operational
+data analysis.
+This program is estimated to bring in $325,000 in its first year, an 8% increase in margin.
+Created ad-hoc and scheduled BI (PowerBI/SSRS) reports to visualize critical client metrics and reports, internal performance KPIs,
+operational resource planning, asset and revenue forecasting, P/L summaries, expense budgets, etc.
+Spearheaded national RFP bids of multi-million-dollar procurement deals with several Fortune 500 retail, medical, and education
+companies.
+Tasks included sales analysis, margin analysis, multivariable pricing structures, vendor acquisition, developing process flow and establishing
+KPI reporting for clientele and internal use.
+Designed ad-hoc SQL views, stored proceduresand reports to address company-wide data analysis and modeling.
+Utilized advanced VBA programming and automation software to manage two billing systems, saving an estimated $75,000 in Salary
+Expenses in 2015, translating to a 40% reduction in departmental spending.
+Reported on a wide array of KPIs on operations, sales, accounting, and vendors via dashboard-style (BI/SSRS) reports for COO, CFO,
+Vice President of Sales and Account Manager use.
+Overhauled all company technology from on-premise systems to an array of cloud solutions, including replacing hardware and migrating
+servers and databases, this renovation saves ~$108,000 per year and provides long-term scalability.
+01/2015 to 01/2017 
+Company Name â€“ City , State 
+Co-Founded indoor, hydroponic farming company in South Jersey.
+Bringing a hyper-local product to the Camden and Philadelphia region HGF generated $100K in its first year via a strategic relationship with
+the premier food management service in Philadelphia, local restaurants, farmer's markets, and Whole Foods retail chain.
+Sales & Operations Planning (S&OP) - The S&OP team managed bi-directional interactions between sales, marketing, production, and
+finance.
+S&OP committee oversaw finished goods inventory controls, marketing vs financial targets, raw material and supplier management, logistics
+and human capital planning.
+Additionally, benchmarks for product mix, SKU management, and forecast vs demand vs actual alignment.
+Operations - Oversaw the general operations of the farm, including assigning day-to-day jobs, tracking yield results, establishing daily work
+schedules, and tracking transplanting/harvesting schedules.
+Automation Systems - Implemented an array of sensors to control environmental and nutrient levels.
+Utilizing this data and automation systems we drove automated pH balancing, nutrient leveling, temperature control, ventilation systems, and
+established a strong exception-based manufacturing operation.
+Finance - Oversaw all aspects of the financial responsibilities including establishing a point of sales systems, P/L reports, budgeting for OpEx
+and CapEx schedules, coordinating with lenders, insurance institutions and annual tax reports.
+SOPs - Instituted standard operating procedures to ensure quality standards are maintained and product consistency is maintained.
+Work History
+Master Data Manager , 01/2019 to Current 
+Company Name â€“ City , State 
+Aligning 100+ supply chain-related master data attributes to ensure the following guidelines are met:.
+Data Stewardship - Appropriate business units and ownership established to validate appropriate values, definitions and impact
+documentation for all master data fields.
+Data Quality - Applicable controls are set in conjecture with IT to ensure that a proactive approach is taken to new master data.
+Additionally, RPA process planned for Phase 2 to automate structured data entry and maintenance.
+Data Integrity/Data Warehousing - Structure business logic to ensure BOMs and other data relationships are both accessible and built as an
+asset for the business.
+Additionally, a Data Sync SOP was established for GS1 standardization.
+Reporting - Automate data quality reporting for executive staff to ensure 99.8% compliance is adhered to throughout the organization.
+Additionally, provide ad-hoc tools for the business to leverage clean data cubes.
+Data Governance Committee - Oversee executive strategy in institutional master data to commit to trusted, accurate, structured and
+meaningful master data.
+Engaging applicable stakeholders to promote data governance, data architect, data stewardship and data security the data governance
+committee oversees the framework for complex supply chain manufacturing operations.
+Director of Information Technology , 01/2017 to 01/2019 
+Company Name â€“ City , State 
+Supply Chain Management - Warehouse, 3PL, Food Services, Served as the corporate Project Manager, overseeing all implementations
+(WMS, ERP, QMS, CMMS, infrastructure).
+Responsibilities included progress reporting, budget control, task delegation, plan creation, vendor coordination, etc.
+Developed a range of documents and performed project selection tasks such as workflow process maps, system integration documents,
+infrastructure topology, organizational policies, GDPR, UAT, gap analysis, best fit models and user training manuals.
+Deployed and managed BI products to leverage company-wide data for decisionmakers, proactive analysis, and real-time resource
+planning.
+Utilizing SSRS/PowerBI to analyze sets of data across multiple databases, automate value-add reporting to 3PL clients, visualize KPIs thru
+the organization, create workflows for document automation and create alerts for various business units.
+Launched a high-performance data warehouses and virtual machines to store, integrate, analyze, and report on enterprise data.
+An array of SSAS cubes were deployed to allow for end-user ad-hoc tabular reports.
+Additionally, a complex network of interfaces between 6+ enterprise systems, 4 SQL databases, 1 Oracle database, and other enterprise
+systems (file server, exchange, EDI, etc) was implemented to support the ETL process.
+Executing infrastructure refresh for a 200,000 sqft industrial/production facility.
+The deployment includes an array of 15 switches, 1,000 cable runs, racking, 100 AP, 300 cameras, NVRs, controllers, and creating floor
+plans and topology documents.
+Controlled a $2MM IT budget, short-term and long-term strategies, and CapEx justification across the business.
+Including selecting and negotiating with vendors, promoting operational process improvement, instituting best practices, and developing IT
+roadmaps and strategic plans.
+On track to reduce IT spend by $250K by renegotiating vendor contracts, consolidating cloud services, implementing automation tools and
+upgrading legacy systems.
+Responsible for a team of IT professionals and vendors assigned to all corporate and local office systems, including ERP, WMS, logistics
+systems, data centers, servers and storage, PCs, mobile devices, BDR, telecom, and help desk.
+Reduced IT service desk's response time and resolution time while increasing knowledge base and reducing reoccurring tickets by over
+50%.
+Information Technology Governance & Steering Committee (ITGSC) - Reporting directly to the board of directors, the ITGSC provided
+strategic direction in aligning IT projects to shareholder interest and long-term targets.
+While overseeing the committee the cross-functional team guided 12 business units across operations, sales, and manufacturing.
+Additionally, the ITGSC aided in risk management, business continuity, and organizational SOPs.
+NatJan Solutions (Facility Management - Retail, Medical, Grocery Sectors.
+Information Technology and Analytics Manager , 01/2014 to 01/2017 
+Implemented process within external ERP portal to monetize 1000's of vendors to generate lean revenue based on financial and operational
+data analysis.
+This program is estimated to bring in $325,000 in its first year, an 8% increase in margin.
+Created ad-hoc and scheduled BI (PowerBI/SSRS) reports to visualize critical client metrics and reports, internal performance KPIs,
+operational resource planning, asset and revenue forecasting, P/L summaries, expense budgets, etc.
+Spearheaded national RFP bids of multi-million-dollar procurement deals with several Fortune 500 retail, medical, and education
+companies.
+Tasks included sales analysis, margin analysis, multivariable pricing structures, vendor acquisition, developing process flow and establishing
+KPI reporting for clientele and internal use.
+Designed ad-hoc SQL views, stored procedures and reports to address company-wide data analysis and modeling.
+Utilized advanced VBA programming and automation software to manage two billing systems, saving an estimated $75,000 in Salary
+Expenses in 2015, translating to a 40% reduction in departmental spending.
+Reported on a wide array of KPIs on operations, sales, accounting, and vendors via dashboard-style (BI/SSRS) reports for COO, CFO,
+Vice President of Sales and Account Manager use.
+Overhauled all company technology from on-premise systems to an array of cloud solutions, including replacing hardware and migrating
+servers and databases, this renovation saves ~$108,000 per year and provides long-term scalability.
+01/2015 to 01/2017 
+Company Name â€“ City , State 
+Co-Founded indoor, hydroponic farming company in South Jersey.
+Bringing a hyper-local product to the Camden and Philadelphia region HGF generated $100K in its first year via a strategic relationship with
+the premier food management service in Philadelphia, local restaurants, farmer's markets, and Whole Foods retail chain.
+Sales & Operations Planning (S&OP) - The S&OP team managed bi-directional interactions between sales, marketing, production, and
+finance.
+S&OP committee oversaw finished goods inventory controls, marketing vs financial targets, raw material and supplier management, logistics
+and human capital planning.
+Additionally, benchmarks for product mix, SKU management, and forecast vs demand vs actual alignment.
+Operations - Oversaw the general operations of the farm, including assigning day-to-day jobs, tracking yield results, establishing daily work
+schedules, and tracking transplanting/harvesting schedules.
+Automation Systems - Implemented an array of sensors to control environmental and nutrient levels.
+Utilizing this data and automation systems we drove automated pH balancing, nutrient leveling, temperature control, ventilation systems, and
+established a strong exception-based manufacturing operation.
+Finance - Oversawall aspects of the financial responsibilities including establishing a point of sales systems, P/L reports, budgeting for OpEx
+and CapEx schedules, coordinating with lenders, insurance institutions and annual tax reports.
+SOPs - Instituted standard operating procedures to ensure quality standards are maintained and product consistency is maintained.
+Education
+Bachelor of Science : Management of Information Systems , 2017 
+Associates of Science : Accounting , 2015 
+Rowan College 
+Pursuing Project Management Professional (PMP) certification Rowan University 
+Summary
+Zeel Patel is an Information Technology Manager with a focus on IT transformation and process improvement currently looking for opportunities in
+the greater Miami, FL metropolitan area. Zeel has experience working with corporate data in the areas of data presentation, structured and
+unsecured datasets, data mining, statistical analysis, UI creation, data warehouse management, and assessing data quality. Additionally, Zeel's
+diverse background has allowed him to succeed in a project management and IT management role. In this role, Zeel has engaged in holistic
+business analysis, process improvement, strategic planning, budgeting, contract negotiations, vendor relations, resource management, instituting
+best practices, and overseeing/implementing multiple enterprise systems (ERP, WMS, CRM, WOM, QMS, SCP).
+Highlights
+A t
+ti
+t
+l HTML R t il
+Microsoft Office Suite with deep Office 365, Dynamics 365, Project, PowerApps, PowerBI,
+Flow,
+Sharepoint, Excel, Access, Intune, Visio, EMS, and Azure proficiency
+Programming/Databases: SQL (SSRS, SSIS, SSAS), VBA, DAX, HTML, CSS, VBA,
+VB.NET, R, Powershell, Python, Oracle
+Business Intelligence Packages: PowerBI, Qlik (QlikView/QlikSense), SiSense, Tableau,
+Datorama, Yellowfin, Crystal, SSRS
+Strong knowledge of AWS, Azure, Cisco Switch Management, VMWare, Hyper-V, RDP,
+Automation Anywhere, Active Directory,
+And hardware and software administration for iOS, Android, Windows, Red Hat Linux, RF
+devices
+VB.NET, EDI, Procurement, Ventilation
+Accounting, ERP, Programming, Visio
+Active Directory, ETL, Progress, VBA
+Premier, Facility Management, Project Management, Workflow
+Ad, Finance, Python
+AP, Financial, Quality
+Approach, Floor plans, Real-time
+Architect, Forecasting, Red Hat Linux
+Automate, Functional, Renovation
+Automation, Help desk, Reporting
+Automation tools, HTML, Retail
+Billing systems, Information
+Technology, RFP
+Budgeting, Insurance, Risk
+management
+Budgets, Inventory, Sales
+Budget, Logic, Sales analysis
+BI, Logistics, Servers
+Business Intelligence, Marketing,
+SOP
+Cable, Access, SQL
+Cisco, Excel, Strategy
+Hardware, Exchange, Strategic
+Contracts, Microsoft Office Suite,
+Strategic plans
+Crystal, Office, Structured
+CSS, Sharepoint, Supplier
+management
+Clientele, Windows, Supply chain
+Client, Negotiating, Supply Chain
+Management
+Clients, Enterprise, Switches
+Data analysis, Network, Switch
+Data entry, Oracle, System
+integration
+Data analysis and modeling, Oracle
+database, Tableau
+Data warehouses, Organizational,
+Tax
+Databases, Cameras, User training
+Data Warehousing, Policies,
+Telecom
+Direction, Pricing, Translating
+Documentation, Process
+improvement, Upgrading
+Skills
+Microsoft Office Suite with deep Office 365, Dynamics 365, Project, PowerApps, PowerBI, Flow,
+SSharepoint, Excel, Access, Intune, Visio, EMS, and Azure proficiency
+PProgramming/Databases: SQL (SSRS, SSIS, SSAS), VBA, DAX, HTML, CSS, VBA, VB.NET, R, Powershell, Python, Oracle
+BBusiness Intelligence Packages: PowerBI, Qlik (QlikView/QlikSense), SiSense, Tableau, Datorama, Yellowfin, Crystal, SSRS
+SStrong knowledge of AWS, Azure, Cisco Switch Management, VMWare, Hyper-V, RDP, Automation Anywhere, Active Directory,
+Aand hardware and software administration for iOS, Android, Windows, Red Hat Linux, RF devices,
+VB.NET, accounting, Active Directory, premier, ad, AP, approach, architect, Automate, Automation, automation tools, billing systems,
+budgeting, budgets, budget, BI, Business Intelligence, cable, Cisco, hardware, contracts, Crystal, CSS, clientele, client, clients, data analysis, data
+entry, data analysis and modeling, data warehouses, Databases, Data Warehousing, direction, documentation, EDI, ERP, ETL, Facility
+Management, Finance, financial, floor plans, forecasting, functional, help desk, HTML, Information Technology, insurance, inventory, logic,
+logistics, marketing, Access, Excel, exchange, Microsoft Office Suite, Office, Sharepoint, Windows, negotiating, enterprise, network, Oracle,
+Oracle database, organizational, cameras, policies, pricing, process improvement, procurement, Programming, progress, Project Management,
+Python, Quality, real-time, Red Hat Linux, renovation, reporting, Retail, RFP, risk management, Sales, sales analysis, servers, SOP, SQL,
+strategy, strategic, strategic plans, structured, supplier management, supply chain, Supply Chain Management, switches, Switch, system integration,
+Tableau, tax, user training, telecom, translating, upgrading, ventilation, Visio, VBA, workflow

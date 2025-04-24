@@ -1,0 +1,45 @@
+DATA ANALYST
+Professional Summary
+Industrial and Systems Engineering graduate, certified Base SAS Programmer and a Lean Six Sigma Green Belt with strong background in
+statistics, mathematics and logical problem solving looking for a dynamic opportunity in data driven fields of analytics and statistical modeling.
+Core Qualifications
+Data Science Tools: R, Base SAS, Python (Numpy, Pandas, Matplotlib, Scikit- learn), SPSS, Minitab, MATLAB, Apache Spark, SQL, MS
+Excel, MS Visio, Tableau MySQL, Oracle Database, Microsoft Access Key Competencies: Data Extraction, Data Wrangling, Data Analysis,
+Data Visualization, Regression Analysis (Linear, Logistic and Multinomial), Time Series Analysis, Association Rule Mining, Monte Carlo
+Simulation, Optimization, Random Forests
+Experience
+07/2016 to Current
+Data Analyst Company Name ï¼​ State
+09/2015 to 05/2016
+Student Manager Company Name ï¼​ State
+Undertook a leadership and advisory role in training newcomers to hone their culinary and behavioral skills.
+PROJECTS Classification of Customers for Credit Card Company Jan 2016 Â​ May 2016 Performed a logistic regression on a credit card
+company dataset to classify clients as credible and non-credible.
+Extracted crucial factors to simplify the classification model using exploratory factor analysis.
+Developed and validated a model to classify the future customers and aid decision-making.
+Simulation Analysis of Adding a Second Parking Ticket Booth at a Mall Aug 2015 Â​ Dec 2015 Assessed distribution and trends of
+incoming customer patterns performing statistical analysis on MATLAB and ExpertFit.
+Additional booth modeled using Arena reduced average waiting time per customer from 6.2 minutes to 1.8 minutes.
+Statistical Analysis of Defects in Clutch Plate Manufacturing - A Six Sigma Study Jan 2015 Â​ May 2015 The DMAIC methodology
+(Define, Measure, Analyze, Improve and Control) was implemented to understand the cause of the defects and data was statistically
+analyzed with the help of control charts using Minitab.
+06/2013 to 07/2013
+Intern Company Name
+Identified the areas in the assembly line of a light commercial vehicle where more operations could be housed.
+Developed a detailed model of improved layout to accommodate more operations using AutoCAD to improve the space utilization by
+300%.
+consultant
+a self-storage company to classify the customers as 'worthy' and 'not worthy' based on their activity on the company website using the
+Random Forest algorithm.
+Built the model in R and model deployment using Python.
+Currently building a reservation model for Public Storage to forecast if the customer would reserve the storage or not.
+Education
+Aug 2016
+Masters of Science : Industrial and Systems Engineering Binghamton University, State University of New York Industrial and Systems Engineering
+3.51/4.00
+May 2014
+Bachelors of Engineering : Mechanical Engineering Osmania University Mechanical Engineering 3.33/4.00
+Skills
+Apache, AutoCAD, charts, Credit, clients, Data Analysis, Data Visualization, Databases, Dec, decision-making, layout, leadership, MATLAB,
+Microsoft Access, MS Excel, Minitab, MySQL, Optimization, Oracle Database, Python, SAS, Simulation, Six Sigma, SPSS, SQL, Statistical
+Analysis, Tableau, Visio, website

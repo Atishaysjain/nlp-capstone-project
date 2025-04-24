@@ -1,0 +1,99 @@
+CONSULTANT
+Core Qualifications
+Ganesh Seetharaman is a senior IT infrastructure specialist and Ganesh has just finished an international project for a client and is looking
+for a role specializing in the Solutions management. He has a Masters in Computer Applications (MCA) and is a seasoned technical
+specialist providing business infrastructure solutions, services and support, according to defined processes.
+His expertise includes,
+Project Management
+Implementation Specialist *WebLogic Server Administration
+Incident Management
+Database administration *Oracle Cloud operations
+People Management
+ITIL Service Management
+Oracle Enterprise Manager
+Operations Management
+Change Management *AWS
+Process capability
+Technical support for 24X7 systems
+Database Administration: Exadata X5-2, X4-2, X3-2, Oracle Database 10g/11g
+Middleware Administration: Oracle WebLogic Server 10.3.6, 10.3.5, Oracle Application server, Oracle Management Server, Primavera
+Operating System: Linux, HP-Unix, Solaris, Windows
+Database Tools: EM, RAC, RMAN, Data Guard, AWR/ADDM, TKPROF, SQLDeveloper
+Other tools: Excel, MS Project, Visio, F5 Bigip, Global Traffic Manager
+Testing tools: Win runner, Quick test pro
+Professional Experience
+07/2016
+Company Name Consultant
+Collaborate with Clients, customers to ensure successful implementations which includes.
+Implement OEM 12c setup, Apply BP, Plugins, performance monitoring, notification set up.
+Install/upgrade/patch Oracle Database, performance tuning.
+Install/upgrade/patch Oracle WebLogic servers, deploy applications.
+12/2014 - 06/2016
+Company Name ï¼​ City Project Manager
+Led teams across broad technical, financial and business disciplines.
+Focused teams on business objectives and tracked progress to ensure project milestones were completed on time, on budget and with the
+desired results.
+Mitigated risk factors through careful analysis of financial and statistical data.
+Anticipated and managed change effectively in rapidly evolving global business environments.
+Defined processes and tools best suited to each project.
+Moved between agile and waterfall approaches depending on project specifics and client goals, creating detailed project road maps, plans,
+schedules and work breakdown structures.
+Executed and implemented and managed multiple projects including, Upgrade database from 10g to 11203/11204 Upgrade database/Grid
+from 11204 to 12c Migrate database from Oracle Virtual Machines to Oracle Exadata Machines Move database from normal filesystem to
+ASM disk groups Apply database PSU patches, and one off patches to the environment for multiple customers.
+Building OEM from scratch to go live Upgrade Oracle WebLogic from 10.3.5 to 10.3.6 Upgrade Oracle Web Tier from 11.1.1.3 to
+11.1.1.6 Apart from managing projects other daily tasks include Managed a team for Enterprise manager cloud control(Cloudem12c) for
+Oracle Public Cloud that supports and facilitates end to end monitoring solutions for Oracle cloud services.
+Manage a global team for Cloudem administration (OEM 11g,12c) Deploy/implement OEM 12c sites from end to end Deploy agents
+1000's of agents thru mass deploy Deploy/configure management plugins Troubleshoot Oracle Management server issues Troubleshoot
+Agent issues and make sure they are healthy and uploading all the time Create IP reports to monitor the health of targets
+Notification/Alerting setup for target availability issues Upgrade OMS and Agents for every new release Follow up with development on
+bugs and apply fixes as appropriate Maintain a test bed for testing all fixes Administration of access for users thru roles, privileges Automate
+EM administration thru command line interface "EMCLI" Create plans, work with team to execute the project plan in building new EM sites
+for Cloudem customers and administer them.
+Recruit, work with new team members to bring them on board in quick time Writing technical documents to help team members in executing
+new projects Provide technical guidance throughout the project life cycle Process development in a continual manner and provide trouble
+shooting assistance.
+02/2005 - 11/2014
+Principal systems Consultant
+Part of Oracle Public Cloud's Monitoring Solution team - CloudEM Operation's team.
+Monitoring included 20000 Database + double the number of Fusion Middleware targets + ZFS targets and making Enterprise Manager
+the source of truth for any monitoring and inventory storage solution in Oracle Public Cloud.
+The CLOUDEM Operations team supports multiple EM sites across all of the oracle fleet.
+This is an ever growing portfolio as Oracle is constantly adding new data centers.
+When a new site is added it is the job of our team to build out the new EM environments.
+Operations team provides the physically installed servers both exadata and exalogic and we go on to build out the Enterprise Manager site.
+This includes building grid and database, installing OMS & agents, configuring EM for SSL and SSO and working to set up TAS and SDI
+provisioning services.
+Each of our sites monitor SAAS (Software as a Service) and/or PAAS (Platform as a Service) environments.
+Projects varying from building new environments in different data centers, building disaster recovery environments, Oracle management
+server upgrades (new Releases), database upgrades applying critical bundle patches and updates, ensuring high availability for the customers
+Installation of Oracle software/databases Upgrade grid, database from 10g to 11203/11204 & 11g to 12c Apply database PSU patches,
+and one off patches to the environment for every possible database bugs Responsible for Tuning the Oracle Applications Database that run
+on the UNIX server to achieve optimal performance.
+Proficient Knowledge of RAC, Configuration Implemented building 20 different OEM sites in various Oracle Cloud Data Centers Deploy
+OMS, Upgrade OMS plugins, Applying BP on top of OMS infrastructure Implement backup and recovery procedures using RMAN for
+Oracle databases and test regularly in conjunction with Operations.
+Administer/upgrade/patch Oracle WebLogic servers.
+04/2004 - 02/2005
+Company Name Associate Consultant
+Installation of Oracle software on Linux boxes Creating tablespaces and database files based on the OFA model.
+Managing database security and creating and assigning appropriate roles and privileges as required by the application Administration of
+Oracle 10g Application Server.
+Performance tuning of using Explain Plan, SQL Trace, TKPROF, RDA, and STATSPACK.
+Applying Patches for backend Changes Monitoring Backup Schedules.
+Provided 24x7 on call production support Database Reorganizations to reduce fragmentations.
+Monitoring alert logs, trace files to check Database health and corruption.
+Education
+MCA, Madurai Kamaraj University University of Madras - RKM Vivekananda College TRAININGS AND CERTIFICTAIONS Six Sigma
+Green Belt - certified ITIL V3 Foundation certified Oracle DBA 10g/11g Admin Workshop I and II (OCP) Oracle WebLogic Server/Application
+Server 11g Administration Oracle 10g/11g RAC DBA Training Exadata and Database Machine Administration Workshop PMP - Project
+Management Professional Training Pursuing AWS Solution Architect - Associate certification : BSc Math BSc Math
+Skills
+go live, agile, Architect, ASM, Automate, Backup, budget, c, Change Management, Strong interpersonal skills, excellent communication,
+Computer Applications, client, Clients, Database Administration, DBA, databases, Database, disaster recovery, financial, inventory, IP, ITIL,
+Linux, People Management, Managing, access, Excel, MS Project, Windows, Middleware, Enterprise, Operating System, Operations
+Management, Oracle Applications, Oracle Application server, Oracle Enterprise Manager, Oracle, Oracle DBA, Oracle Database, organizational
+skills, People skills, Excellent presentation skills, Primavera, Process development, processes, progress, Project Management, Quick, servers, Six
+Sigma, Solaris, SQL, SSL, Technical support, Troubleshoot, trouble shooting, troubleshooting, HP-Unix, UNIX, upgrades, Upgrade, Visio,
+WebLogic, Win runner

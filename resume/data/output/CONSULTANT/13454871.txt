@@ -1,0 +1,75 @@
+CONSULTANT
+Career Overview
+More than 6 years of experience in Manufacturing & Distributions environments, including 4 years in Oracle manufacturing and Distributions
+applications.
+Implemented 5 full cycle oracle implementation projects, Experienced in customizing, developing and configuring Oracle Applications in the
+modules of Supply Chain and Manufacturing.
+Implemented Oracle EDI for the Sales Order entry and Warehouse Operations for the customer and Designed custom interfaces for PLM
+tools to communicate with oracle Item master.
+Experience in requirements gathering, gap analysis, business process redesign and mapping, testing and user training, documentation of
+activities, processes, test scripts and client interaction.
+Sound communication skills, result oriented, open to learning new technologies, experience in working under pressure and in fast pace as a
+team leader and as a team player.
+Well - traveled and posses a clear and definitive understanding of the regional business ethics, culture and decorum so as to maintain a
+harmonious balance.
+Skills
+Applications : R12 and 11i
+Modules : Inventory (INV), Bill of Materials (BOM), Work in Process (WIP), Engineering (ENG), Order Management (OM), Purchasing
+(PO), Oracle EDI Gateway, Shipping Execution, System Administration, Material Requirement Planning (MRP), iProcurement,
+Quality(QA), Approval Management (AME), Oracle Endeca.
+Tools/Language : Toad, Data Load, Visio, SQL, SQL Developer, MS Office Suite.
+Work Experience
+Consultant , 02/2016 ï¼​ Current Company Name ï¼​ City , State
+Worked on solution design and setup of Inventory, Work in Process, QA, Purchasing & Order Management as per the client requirements
+and suggested business process changes.
+Implemented Oracle EDI for Sales Order entry,Â bookingÂ and acknowledgment for customer orders received through third party
+systems.Â 
+Implemented Oracle E-Signatures and E-records to maintain Quality data books of every manufactured assembly, reducing gaps and saving
+costs.
+Designed, documented and executed all SCM modules for 3 implementations in North American region.
+Resolved functional issues related to Oracle Manufacturing and distribution during implementation.
+Prepared training documents and assisted in user training in WIP, OM & PO modules.
+Worked on data conversion strategy from legacy systems to Oracle E-business suite R12.
+Consultant , 08/2013 ï¼​ 01/2016 Company Name ï¼​ City , State
+Implemented oracle supply chain modules for a major Oil & Gas manufacturing company in Australia, Canada,Â China, Romania and UK
+as part of their global roll out to Oracle.
+Simplified their overhaul and repair process by implementing a custom solution that reduces user's time on the system as well as resulting a
+more organized shop floor.
+Implemented Oracle EDI for Sales Order Pick release and shipping transactions based on information received from third party systems in
+Warehouse.
+Worked on data conversion issues from Legacy systems to Oracle.
+Developed custom reports for customer facing documents as well as internal documentation.
+Enhanced a custom interface between a PLM tool(ePIMS) and oracle.
+Documented setups, customizations and training manuals.
+Trained users in different regions of the world on all supply chain modules and cMRO.
+Implemented Oracle Endeca and worked on client demos for various customers.
+Developed best business process blueprint that suits the client's multi industry business by studying their business process in each vertical.
+Student Partner , 08/2010 ï¼​ 07/2013 Company Name ï¼​ City , State
+Brought awareness on latest Microsoft's technologies to more than 5000 students and faculty.
+Increased the number of developers on Microsoft store by collaborating with various universities and developer groups.
+Designed Lazy chef- A windows store app during the launch of Windows 8.
+Pitched a windows app idea that got me to meet and present it to Steve Balmer, CEO of Microsoft then.
+Manager , 03/2011 ï¼​ 08/2013 Company Name ï¼​ City , State
+Built the startup from the scratch to making a revenue of 2 Million rupees an year.
+Trained more than 10000 participants in the streams of Robotics, embedded systems and application development.
+Worked with Orient Blackswan in making a textbook for students of various universities on presentation skills.
+Accomplishments
+Leadership
+Served as manager for a robotics startup, training more than 10000 participants.
+Represented India as a youth ambassador at Seoul, South Korea.
+Operational Management
+Implemented one of a kind E-Signature process for quality documentation in large scale manufacturing, reducing costs and gaps in process.
+Generating MM$ business impact.
+Transitioned a large group of developers and consumers to Microsoft's products and platform as a microsoft student partner for 3 years.
+Education and Training
+2013 Andhra University College of Engineering ï¼​ City , State , India Bachelor of Technology Instrumentation Engineering
+3.4 Â GPA
+Started National Service Scheme and was an active member.
+Personal Information
+Place of Birth: Vijayanagaram, India
+Date of Birth: 14th of May, 1992
+Present Residence: Houston, Texas
+Sex: Male
+Status: Single
+Hobbies: International Travel, Hiking, Mountaineering.
+Languages: English, Telugu and Hindi

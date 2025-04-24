@@ -1,0 +1,115 @@
+VP, PRINCIPAL
+Summary
+I am highly skilled,growth mindset IT professional having more than 20 years experience mostly in financial industry related with providing
+advanced data solutions using innovative database technology. Very innovative,creative, great problem solver and have achieved the highest ratings
+consistently for more than 10 years. Continuously learning,adapting and evolving by overcoming challenges faced during professional career. I am
+fortunate to be a part of team who has delivered cutting edge products over the years to help our firm and clients. My career philosophy is
+4LT(Listen,Learn,Love,Lead and earn Trust).
+Skills
+Deep expertise in designing,developing,
+implementing and running mission critical systems
+involving OLTP,OLAP and HTAP workloads
+Extensive experience in building and deploying large
+scale applications in cloud environment(AWS)
+Deep expertise in advanced data modeling, data
+management and data governance
+Passionate IT leader to build and lead a very strong
+team to build,deliver and support world-class
+product(IBOR) using innovative technology
+Hands-on development/business manager and
+principal solution architect
+Deep expertise in front office, middle office and
+back office related business workflows in the
+financial industry.
+Deep expertise in financial instruments modeling
+including complex derivative products
+Portfolio and investment management
+Deep expertise in Oracle Exadata, Amazon Redshift,
+SQL,Python,Java,Apache Ignite, AWS and related technologies.
+Basic Experience in Data Science related technologies e.g. Pandas, Matplotlib
+etc.
+Agile development methodologies e.g. JIRA
+Quick leaner and ability to solve complex business problems
+An active member in multiple working groups to establish data strategy, data
+governance, data quality and enterprise data architecture (e.g. Business
+Architecture ,Data Architecture, Data Quality working groups)
+Financial instruments valuation and exposure experience
+IT Thought leader and key note speaker at in-memory compute summit in 2017
+and 2018
+Experience
+01/2003 to Current
+VP, Principal Company Name ï¼​ City , State
+Architected and developed an innovative product called "IBOR 1.0" to provide real-time market values,exposures and related analytics
+using operational data store(ODS). This product has capability to show look-through exposure to complex instruments(e.g.
+pools,funds,ETF) and exotic derivative products(e.g. total return swap,index future). A game changing product being used very broadly at
+Wellington by our investors and clients since 2007.
+Designed and developed a data quality reconciliation process to detect,respond and prevent data quality issues in a production environment
+for a mission critical product.
+Delivered many quality products to production well in time and under budget with very limited number of resources and proactively took
+ownership to resolve complex problems faced by the team. As a result, I have achieved highest ratings ever possible by my manager for
+more than 10 years in a row.
+Built a very strong and resilient team(from 4 team members to over 50) to support huge demand for the products developed by my team. I
+was responsible to develop,deliver and support multiple mission critical applications in production and I positioned my team well to innovate
+new quality products as well as support existing products in production.
+Led a team to design and develop a product to provide investment performance returns across all financial instruments using innovative in-
+memory design. This product also provided a unique capability to provide look-through performance for the complex financial instruments at
+Wellington. The new product improved system performance by huge margin over legacy product and running successfully in production
+since 2013.
+Led a team to successfully build and deliver a transaction processing system(known as unified transaction system) to represent transactions
+in a unified format to provide rolled up positions,exposure and performance data to meet emerging business requirements.
+Due to continued success and huge demand of products built by my team, my team was asked to build a next generation IBOR platform.
+IBOR is a single source of truth for all investment holdings information, providing consistent, timely, and accurate position and exposure
+information that helps the front office make investment decisions. The IBOR provides both current and historical operational investment data
+and is used by many financial firms both in middle office and front office. IBOR is a perfect use case which combines both operational and
+analytical workloads (aka hybrid transaction/analytical processing (HTAP)). IBOR 2.0 is in production since Sep,2019 in AWS cloud
+environment using GridGain Ignite in-memory computing platform.
+My team is now working on to build IBOR+ using proprietary technology and database using HTAP architecture. As a principal architect
+on IBOR+, I designed data model, instrument and transaction meta-models and other key foundational components to build a highly
+available,reliable and optimized IBOR architecture. IBOR+ is a transaction based system to provide real-time positions,exposures and
+investment performance data using one unified platform. IBOR+ provides both current and historical(as-of,as-at) data in lighting speed due
+to very innovative and cutting edge technology. IBOR+ is a foundational data platform to enable tier1 applications to migrate from
+monolithic architecture to service based architecture.
+Designed,developed,implemented and supporting operational historical data store (ODS) application(>60TB) using Oracle Exadata. The
+ODS maintains historical positions,exposure and performance data. My team also migrated data and built a data pipeline from Oracle to
+Amazon Redshift to provide faster performance for OLAP and time series analysis.
+Designed, developed,implemented fixed income portfolio management tool(FIPMT 4.0) to enable investors to make best investment
+decisions to return positive alpha for our clients. As a lead database developer, I contributed to solve database slowness problems by tuning
+complex database queries and improve data modeling to improve overall system performance of the system.
+Designed and developed meta-data using yaml to represent complex business rules and application logic. Developed an automated process
+to update meta-data in yaml format using Python to improve efficiency and time to market. Integrate metadata with Collibra to show data
+lineage, data dependency and other related information across multiple applications
+12/2001 to 01/2003
+Senior Software Engineer Company Name ï¼​ City , State
+As a senior developer, successfully developed and deployed a Commodity Trading System in production. Proactively took ownership and help
+team resolve a deadlock situation due to a very creative and innovative solution. My primary role was to develop a system using Oracle for the
+business team to process and manage commodity related orders and transactions.
+03/2001 to 12/2001
+Database Developer Company Name ï¼​ City , State
+As a core developer, I contributed to successfully build and deploy a system to maintain various agriculture products using Oracle.
+01/1998 to 03/2001
+Oracle Developer Company Name ï¼​ City , State
+As a junior developer, contributed significantly to develop many products at Fuji Foundation Islamabad, Pakistan. My primary role was to gather
+business requirements and then work with senior members in the development team to build products using Oracle. I actively contributed in
+successfully delivery of following products.
+Hospital Management System
+Shares Management System
+Asset Management System
+Payroll and Personnel Information System
+Accounting Management System
+Vehicle Management System
+Inventory Management System (IMS)
+Education and Training
+09/1998
+Master of Science : Computer Science And Programming QAU ï¼​ City
+01/2008
+CFA Level 1 CFA Institute ï¼​ City
+Some College (No Degree) : Python For Finance Udemy Courses
+Certifications
+Certified AWS Certified Cloud Practitioner - 2020
+RLF(Leadership for Life) graduate, Babson College 2018
+Oracle Certified Professional 2001
+Additional Information
+I was a key note speaker at in-memory computing platform in 2017 and 2018 to share my experience about IBOR at Wellington. Slides
+and my talk is available at following links.
+Https://www.imcsummit.org/2018/us/session/optimized-memory-ibor-architecture-cloud-environment-using-apache-ignite
+Https://www.imcsummit.org/2017/us/sessions/implementation-investment-book-record-ibor-using-apache-ignitegridgain

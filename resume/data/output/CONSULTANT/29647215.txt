@@ -1,0 +1,101 @@
+CONSULTANT
+Career Overview
+Ten years of experience with Cerner implementations as a Consultant and Employee. Experience with all phases of implementation from Current
+State Workflows to Conversion for inpatient and outpatient hospitals/clinics. Skilled in initiating and leading implementations involving rollout of
+multiple ambulatory clinics within a 1-2 month timeframe. Skilled in implementations for inpatient hospitals. Experience in designing and building
+multiple components of Powerchart/PowerChart Office/Enhanced View applications to include Inbox/Message Center, Schedule Viewer,
+Powerorders, Powerplans, Zynx Auto space, Caresets, Charges, Task Lists, Easyscript, MAR, all profiles, Powerforms, Clinical Notes,
+Powernotes, Dynamic Documentation, Bedrock, Data Collection Worksheet, Change Control process, Workflow process, ePrescribe, and set-
+up of all reference and privileges. Determine estimate cost for various projects.
+Qualifications
+COMPUTER SKILLS:
+Cerner Applications: PowerChart (Enhanced View), PowerChart Office, CareNet, Clinical Documentation, Surginet Documentation,
+PowerNote (Document Viewing), Production Support of all Cerner Millennium Applications
+Cerner Applications Tools: HNA User, DCPtools, SCD Editor Tool, PowerPlans, PowerOrders, CVNET Tool, Order Management
+Tools, Announcement Tool, Reference Text Tool, Content Manager Tool, CMT Nomenclature Tool, Charge Viewer, CS Pricing Tool,
+CEM 500 Tool, Core Code Builder Tool, Explore Menu, Bedrock, Message Center, ePrescribe, Data Collection Spreadsheets, Ops
+View Scheduler, Pref Main Tool, Priv Tool, PM Launch Tool, Citrix, Reflections
+Other Applications/Software: Windows 7, Windows 8, Microsoft Office Applications, Novell, SQL, TCP/IP Protocols, UNIX/AIX,
+Groupwise
+Work Experience
+Consultant 
+November 2006 to Current Company Name ï¼​ City , State
+Consultant
+Lead a team of analysts for several clients through implementations of Powerchart, Powerchart Office and Enhanced View from current
+state to conversion that involves 48 ambulatory clinics.
+Lead implementation of nursing documentation for inpatient hospitals and outpatient clinics (Powerforms, Powernote, and Clinical Notes
+(templates), ect).
+Lead implementation of Physician documentation for inpatient hospitals and outpatient clinics (Powerforms, Powernote, and Clinical Notes
+(templates)).
+Lead and facilitate meetings with physician's, nurses, and management teams.
+Worked on design/build process for CPOE Projects (PowerPlans, Ordersets, Zynex Autospace, etc.)
+Worked on design/build for Message Center and ePrescribe
+Determine estimated costs for various projects.
+Define systems specifications and conduct business specifications walk-thru for Powerchart Office and Enhanced View applications.
+Manage and coordinate demonstration sessions for providers and clinical staff on various components within Powerchart, Powerchart
+Office, and Enhanced View.
+Trained hospital IS staff on different functionality within PowerChart
+Train end-users on functionality of Powerchart, Powerchart Office, and Enhanced View.
+Support end-users in Powerchart, Powerchart Office, and Enhanced View.
+Create requirements and functional design documentation for testing (writing test scripts) for code upgrades.
+Worked with trainers updating training documentation for end-users.
+Analyze, research, and troubleshoot outstanding issues with the application (Production Support).
+Completed Change Control process
+Worked with Quickbase application
+Recommend suggestions to improve process workflows
+Assisted client to resolve open production issue with Cerner
+Covered on-call for client
+Conducted testing (system, regression, & integration) and documenting for upgrades to a higher code level
+Consultant 
+November 2004 to November 2006 Company Name ï¼​ City , State
+As a consultant I worked with clients who were implementing PowerChart or PowerChart Office as well as other components within total
+Cerner package or ones that were upgrading to a higher code level. In this role I assisted the clients with all aspects of the design, build,
+testing, and conversions. Additional responsibilities:
+Assisted client to resolve open production issue with Cerner
+Performed design and build within PowerChart and PowerChart Office
+Conducted testing (system, regression, & integration) and documenting for upgrades to a higher code level.
+Completed additional build for nursing and physician documentation.
+Systems Analyst 
+October 2002 to November 2004 Company Name ï¼​ City , State
+Responsibilities were implementation of the Cerner Millennium PowerChart Office software application using CIM (Cerner Implementation
+Methodology) on client sites. Assisted the client in all aspects of the design, build and testing for PowerChart Office, and PowerChart
+applications. This included building and demonstrating the Proof of Concept (10% build), guiding clients thru very specific design
+consideration with regards to the Electronic Health Record system as well as helping the client to prepare for testing, training, and updating
+policies and procedures. Additional responsibilities:
+Performed clients with analyzing current state of department workflow; developed future state design of department workflow; developed
+appropriate policies and procedures and managed departmental practices and operations changes.
+Preformed database querying and updates using Cerner Command language (based on SQL).
+Uploaded/downloaded CSV, XML via pre-build tools.
+Troubleshooting PowerChart Office/PowerChart Orders build through various front and back-end tools, as well as working with corporate
+headquarters to resolve technical issues.
+Cycled servers for specific modifications and troubleshooting purposes.
+Helped to develop and execute comprehensive test scripts for System unit, integration, and regression testing.
+Conducted various training and validation workshops for the client.
+Conducted software solution demonstrations. Venena Hutcherson's Resume
+Financial/Data Analyst 
+September 2000 to October 2002 Company Name ï¼​ City , State
+Lead finance department in performing monthly statistical analyses and provided summary of techniques used. Assisted with monthly QA
+testing within the Production domain. Trained new hires on various computer software used by the Health Plan.
+Assisted data warehouse team on special projects such as: redesigns; reconfiguration; business architect (define rules).
+Performed monthly statistical analyses; provided summary of techniques used
+Performed QA testing on production data; production loads; monthly loads.
+Instrumental in quality testing and validating accuracy of production data
+Analyzed claims expense to determine trends and provide key information to senior management, account managers and provider network
+specialists
+Created requirements and functional design documentation, tested cases and scripts, executed test plans
+Monitored Health Plan operating performance against benchmarks and world-class standards
+Recognized basic financial issues; researched issues; properly weighed theoretical and practical considerations in addressing issues
+Responsible for financial reporting; month-end closing and financial analysis
+Trainer for educating Health Plan employees on various computer software in a classroom setting
+Education and Training
+MBA : Business Point Park University ï¼​ City , State , US
+Minor in Information Technology
+Bachelor of Arts : Business Point Park University ï¼​ City , State , US
+Minor in Information Technology
+Skills
+Testing, Cerner, Clients, Documentation, Integration, Integrator, Design Documentation, Test Scripts, Training, Documenting, Change Control,
+Design/build, Outpatient, Training Documentation, Writing Test, Cim, Database, Millennium, Operations, Regression Testing, Sql, Systems
+Analyst, Workflow, Xml, Cases, Claims, Class, Closing, Comprehensive Large Array Data Stewardship System, Data Analyst, Data Warehouse,
+Educating, Finance, Financial Analysis, Financial Reporting, New Hires, Qa, Qa Testing, Test Plans, Aix, Cem, Citrix, Clinical Documentation,
+Collection, Data Collection, Groupwise, Healthcare, Microsoft Office, Ms Office, Novell, Order Management, Pricing, Rollout, Tcp, Tcp/ip,
+Unix, Unix/aix, Windows 7, Windows 8

@@ -1,0 +1,123 @@
+CONSULTANT
+Profile
+Results driven and team oriented reservoir engineer with extensive experience in reservoir management, enhanced oil recovery, reserve evaluation,
+integrated reservoir modeling, compositional simulation, economic analysis, geomechanics, and project management, looking to utilize his diverse
+analytical and research skills in a challenging role. Fluent in English and French. Has experience working with professionals of different technical
+and cultural backgrounds.
+Skills
+Pressure and rate transient analyses
+Decline curve analysis (Fekete Harmony)
+Volumetrics and material balance
+Economic analysis (ARIES)
+Knowledge in SEC reserves estimation
+concepts
+Project management
+Reservoir management
+History-matching and production forecast
+Compositional and black oil simulation
+Enhance oil recovery (Waterflooding, CO2 injection, WAG, and polymer flood).
+Knowledgeable in unconventional resourse evaluation and modeling of fractured
+systems.
+Good understanding of reservoir geology and depositional system fundamentals
+Geochemical modeling
+Reservoir geomechanics
+Good understanding of log and core analyses
+Accomplishments
+Strategic development
+Contributed in negotiations between operators and CO2 suppliers to evaluate the technical and economic viability of CO2 enhanced
+recovery in three Illinois Basin oil fields. This will result to potential increase in profit oil by about half a million barrels.
+Project Management
+By being the Principal investigator for a US Department of Energy project my employer gained an award of $1,000,900.
+Demonstrated technical and managerial leadership by putting together a team of geoscientists and engineers to complete projects on time
+and within budget thus saving client about $2 million in capital and operational cost.
+Directed and mentored interns who later landed permanent positions as a result of my efforts.
+Trained engineering staff on how to use and troubleshoot Landmark Nexus and Eclipse commercial simulators and so doing increased
+efficiency of the group by 15%.
+Project coordination and outreach
+Led a team of three researchers to three universities in Cameroon to donate computers and provide training in ArcGIS, MS Excel and MS
+Access to geoscience graduate students and staff, in March 2014.
+Appointments and awards
+Appointed by dean of Graduate School to serve as student representative of the graduate council at the University of South Florida from
+2007 to 2009, to advice the dean on general policies and procedures on matters related to graduate education and research.
+Received the European Union- Greenhouse-gas Removal Apprenticeship and Student Program (EU- GRASP) post-doctoral research
+scholarship from 2009 to 2010.
+Professional Experience
+Consultant 
+January 2009 Company Name ï¼​ City , State
+Feasibility study of CO2 storage and wastewater disposal i nto the Lawson Formation in Polk County, Florida
+Develop a semi-analytical equations to estimate CO2 storage efficiency and pressure changes at the wellbore.
+Conduct fluid flow and geochemical simulations of CO2 and municipal wastewater injection.
+Evaluate geomechanical effects of fluid injection into the Lawson formation.
+Reservoir Engineer 
+January 2011 to November 2014 Company Name ï¼​ City , State
+02/2011â€” 09/2012 Investigator
+Miscible and immiscible CO2 EOR pilots Fields: Mumford Hills (Clore sandstone) and Sugar Creek (Jackson sandstone). Operator: Gallagher
+Drilling Inc, Evansville Indiana
+Work diligently with geoscience and engineering staff to develop models that reflect geology and reservoir features.
+Collect and synthesize input data for compositional simulations.
+Calibrate reservoir models to field observations and data.
+Estimate reserves and forecast production using both analytical techniques and compositional simulation.
+Evaluate the viability of different field development scenarios and new drilling locations.
+04/2012â€”12/2013 Key personnel
+Development of dimensionless performance curves for three of the most prolific oil producing formations in the Illinois Basin (Aux Vases
+(sandstone), Cypress (sandstone), and Ste. Genevieve (carbonate))
+Fields: Clay City, Dale, Johnsonville, Iola, Lawrence, Mill Shoals, Olney, and Zeigler.
+Operators: Elysium Energy LLC, Sherman Oil, Farrar Oil Co. Inc., Rex Energy, Gallagher Drilling Inc., etc.
+History-match reservoir models to field observations and data.
+Design 5-spot patterns of different sizes (20, 40, and 80 acres) for the eight oil fields.
+Conduct miscible and immiscible compositional simulations of continuous CO2 and water-alternate-CO2 injection
+Generate dimensionless curves from simulation results to evaluate EOR performance for each oil field.
+10/2012â€”09/2014 Principal Investigator
+Depositional environment and storage efficiency Project
+Deopositional environments: shelf clastic, shelf carbonates, reef, deltaic, fluvial deltaic, fluvial & alluvial, turbidite, and strandplain.
+Define, plan, monitor, and modify project. Evaluate progress using MS Project. (www.CO2sinkefficiency.org)
+Work with a team of sedimentary geologists, geostatisticians, engineers, and field operators to develop rigorous geologic and geocellular
+models of formations having different depositional environments.
+Mentor and train reservoir modeling staffs develop skills to conduct compositional simulations.
+Develop simulation workflow and manage reservoir modeling tasks.
+Design and manage the development of an access database tool used to analyze and interpret simulation results.
+Other responsibilities
+Provide general reservoir engineering and characterization expertise to other projects
+Respond to request from field operators, agencies, and staff.
+Lead research tasks in other projects.
+Write reports, journal manuscripts and communicate results to management and clients.
+Post-Doctoral Research Engineer 
+November 2009 to October 2010 Company Name ï¼​ City
+Coupled CO2 EOR-geomechanics simulation study (Aneth Field, Paradox Basin, Utah, Operator: Resolute Natural Resources)
+Calculate equation of state using measured crude oil properties.
+Upscale reservoir static model using Petrel.
+Collect and generate input data for compositional simulations
+History-match reservoir model to field data and estimate hydrocarbon reserves.
+Conduct coupled flow-geomechanical reservoir simulation of CO2-EOR and storage using Visage.
+Analyze simulation results and evaluate changes in reservoir stress and strain
+Correlate predicted geomechanical stress changes with bserved microseismicity
+Conduct simulation studies to evaluate impact of inflow-control-devices on well injectivity.
+Geophysical survey assistant 
+November 2004 to July 2005 Company Name ï¼​ City , State
+Line-up cables and place geophones for geophysical surveys
+Assist in equipment and personnel transportation to field sites.
+Education and Training
+Training : 2014
+Landmark Aries training course, June 05, 2014, Houston, Texas.
+Practical aspects of CO2 flo0ding, April 13, 2014, SPE 19th Symposium on Improved Oil Recovery, Tulsa, OK.
+Reservoir characterization from laboratory to field, April 12, 2014, SPE 19th Symposium on Improved Oil Recovery, Tulsa, OK.
+Training : 2013
+Landmark Nexus Basic Reservoir Simulation Course, May 20-22, 2013, Houston Texas.
+Landmark Nexus Intermediate Reservoir Simulation Course
+Training : 2012
+Kepner-Tregoe Project Management Workshop, July 11-13, 2012, Champaign, Illinois.
+Training : 2011
+Evaluating Reservoir Quality, Seal Potential, and Net Pay Course, July 14-15, 2011, Champaign, Illinois.
+Ph.D : Civil Engineering , 2009 University of South Florida ï¼​ City , State , USA
+M.S : Petroleum Engineering , 2004 Technical University of Denmark ï¼​ City , State , Denmark
+B.S : Chemistry , 1997 University of Buea ï¼​ City , State , Cameroon
+Minor in Chemical Process Technology
+Training
+Schlumberger Eclipse, Petrel, VISAGE, and PVTi, on-the-job training, 2010
+Affiliations
+Society of Petroleum Engineers
+American Geophysical Union
+University of South Florida Alumni
+Computer Skills
+Aries, Nexus/VIP, Petrel, Eclipse, VISAGE, Petra, CO2 Prophet, Fekete Harmony, Kinder Morgan CO2 scoping model, Desktop-PVT,
+TOUGH2 and TOUGHREACT, ArcGis, Envi, C++, Fortran, and UNIX.

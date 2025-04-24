@@ -1,0 +1,60 @@
+ENGINEERING INTERN
+Professional Summary
+A Computer Science junior at Lynchburg College with the understanding and problem solving to work my way through any situation. Using the life
+skills I learned while I attained my Eagle Scout rank, the highest in boy scouts and only given to a very small percentage of scouts.
+Experience
+Company Name June 2015 to August 2015 Engineering Intern 
+Designed and worked with building information modeling (BIM) in AutoCAD MEP throughout the entire work-cycle under extreme time
+crunches.
+Creating functional ethernet, pneumatic, and electronic controls for a confidential client.
+Assisted with installation of a pneumatic controls system for a large and confidential development outside of Charlottesville, VA.
+Worked in the field at Indian Head Military Base, MD collecting outfall locations for later analysis and reduction.
+Company Name June 2014 to August 2014 Engineering Intern 
+Created and edited AutoCAD drawings for the US State Department, Arlington National Cemetery, and Jefferson Island, MD.
+Using Autodesk Inventor, recreated the company's patented Reverse Osmosis Multi Element Module (ROMEM) with a high level of detail,
+as well as rendering numerous images using Autodesk Showcase.
+Researched, Acquired, Built, and Configured an Enterprise Server to replace the firm's antiquated system.
+Specifications: Intel Xeon E5-2620 @ 2.0 GHz, Processor MSI X79A-GD45 Plus, Motherboard Windows Server 2012, OS 8x 8 Gb
+G.Skill Ripjaws Z series 240-pin DDR3, RAM 3x Seagate Barracuda 2 Tb SATA 6.0 Gb/s 3.5", Internal hard drive Seagate Barracuda 3
+Tb SATA 6.0 Gb/s 3.5", Internal hard drive Cooler Master V8 GTS, CPU cooler Wiring and testing for VAV (Variable Air Velocity)
+boxes and installation of Intelligent Room Sensors for Sprint, Reston Va.
+Researched and acquired numerous technical items to help improve the company's efficiency.
+Assisted in acquiring and connecting an Industrial Wireless Network Bridge to connect the company headquarters network to a new remote
+office building network.
+Company Name July 2012 to January 2014
+Insider responsible for taking customers for orders and resolving problems they had experienced with Papa Johns.
+Tossed and made pizzas to the customer's specifications.
+Helped manage a small number of employees to create a friendly and efficient working environment.
+Software C++ Autodesk Inventor, AutoCAD (2009,12,15,16), 3Ds Max, Python.
+Education
+Lynchburg College 2017 Data Structures & Analysis in C++ and Python *Mathematical Theory in Computer Science : Computer Science/ Minor
+Sports Management Micro and Macro Economics Computer Science/ Minor Sports Management Micro and Macro Economics
+Oakton High School 2013 Diploma : Engineering/STEM Award Engineering/STEM Award
+Interests
+Sports 2011- Present Lynchburg College Club Lacrosse 3x High School Varsity Lacrosse High School Varsity Football Community Service/
+Volunteer Virginia 10 mile Walk/Run October 2013 Manned Drink station and cheered on runners at half way point Eagle Scout project
+December 2012 This project was what I had planned, managed, and executed to receive my Eagle Scout rank. My project was a community food
+drive that involved setting up a collection center, sending out flyers, as well as placing them door-to-door. The collection of food came to be just
+around two tons of food for the Community of Faith United Methodist Church. Stop Hunger Now 2011 Made packaged meals to send to those in
+need, sent to Haiti Assistance League of Northern VirginiaÂ© 2008-2011 Assisted in volunteer work to aid local assault victims by transporting
+supplies and materials bought or made by the volunteers. Achievements BSA Eagle Scout (BSAs Highest Rank) March 2009-December 2013
+Personal Information
+Less than 2% of boys that enter Boy Scouting program achieve the rank of Eagle Scout. Requirements to obtain the rank include earning at least
+21 merit badges, each involving different skills where some may take months to complete. Also continually demonstrating Scout Spirit through the
+Boy Scout Oath and Law, service, and leadership. This includes an extensive service project that the Scout plans, organizes, leads, and manages.
+*I have received multiple honors and awards in sports. Ranging from being captain of my lacrosse teams to
+Additional Information
+HTML Java Programming Activities Sports 2011- Present Lynchburg College Club Lacrosse 3x High School Varsity Lacrosse High
+School Varsity Football Community Service/ Volunteer Virginia 10 mile Walk/Run October 2013 Manned Drink station and cheered on
+runners at half way point Eagle Scout project December 2012 This project was what I had planned, managed, and executed to receive my
+Eagle Scout rank. My project was a community food drive that involved setting up a collection center, sending out flyers, as well as placing
+them door-to-door. The collection of food came to be just around two tons of food for the Community of Faith United Methodist Church.
+Stop Hunger Now 2011 Made packaged meals to send to those in need, sent to Haiti Assistance League of Northern VirginiaÂ© 2008-
+2011 Assisted in volunteer work to aid local assault victims by transporting supplies and materials bought or made by the volunteers.
+Achievements BSA Eagle Scout (BSAs Highest Rank) March 2009-December 2013 Less than 2% of boys that enter Boy Scouting
+program achieve the rank of Eagle Scout. Requirements to obtain the rank include earning at least 21 merit badges, each involving different
+skills where some may take months to complete. Also continually demonstrating Scout Spirit through the Boy Scout Oath and Law, service,
+and leadership. This includes an extensive service project that the Scout plans, organizes, leads, and manages. I have received multiple
+honors and awards in sports. Ranging from being captain of my lacrosse teams to
+Skills
+Proficiency in C++, AutoCAD, AutoCAD Inventor, Python, Linux, Xcode, Visual Basic, MS Word, MS Powerpoint, Programming in MS Excel

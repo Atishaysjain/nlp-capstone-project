@@ -1,0 +1,114 @@
+IT CONSULTANT
+Career Overview
+Director of Information Technology More than two decades of sound IT leadership in areas including IT strategy and security; systems analysis,
+architecting, installation, integration and streamlining; software development and management; network design, administration and management;
+technical support and help desk management and telecommunications management. Proven business leadership skills in strategic planning,
+consulting, change management, policy development, team leadership and motivation, training and development, project management, process
+improvement and procedure development. Operationally astute with demonstrated abilities in new business development, needs assessments,
+proposal development, presentations, contract negotiations, post-sales support and client relationship management. Financially savvy with superior
+skills in budget planning and forecasting, business forecasting, financial reporting and traditional accounting functions including A/R, A/P, General
+Ledger and Payroll Management. Recent recipient of B.S. in Information Technology with a Concentration in Cyber Security Technology and
+completed case studies in Current Homeland Security Issues, Perimeter Defense Techniques, Systems Analysis and Development, System
+Modeling Theory and Project Management.
+Qualifications
+Workforce Planning & Scheduling
+Contractor Management
+Team Leadership & Motivation
+Training & Development Business
+Partnering
+Consulting
+Vendor Partnering & Management
+Budgeting
+Payroll Management Business Startup &
+Growth
+Technology Implementations &
+Upgrades
+Network Architect & Administration
+Network Security
+Website Creation & Management
+Router & Firewall Configuration & Optimization
+Custom Database design
+Custom Front-End Systems design
+Development Environment Software: C, Microsoft Visual Basic, Visual Studio
+Enterprise Resource Planning (ERP) Software: Oracle E-Business Suite, Microsoft
+Dynamics GP, Sage Pro, MAS90
+Object or Component Oriented Development Software: Borland Paradox, C++;
+Practical extraction and reporting language:Â  Perl, Python, PHPWeb
+Platform Development Software: Hypertext markup language HTML, JavaScript, CSS
+Work Experience
+IT Consultant 01/2013 to Current Company Name
+Provide IT consulting and support to clients including Intuit, Washington Home Mortgage, The Library of Virginia and NeighborWorks
+America Washington Home Mortgage: Recommend efficient use of resources.
+Support planning for Office 365 migration; facilitate Cisco UCS reinstall and conversion from T-1 to Verizon Digital Voice.
+Library of Virginia: Reviewed domain server installations and processes to improve performance.
+Documented systems.
+Installed and configured Citrix Provisioning Services.
+Configured and integrated Infoblox DNS appliances.
+Setup Hyper-V server for image maintenance.
+NeighborWorks America: Created network documentation.
+Identified areas of inefficiency in help desk processes.
+Firewall changes Â​ access and NAT rules and firmware upgrades.
+DC infrastructure (backbone, UCS/ blade servers, storage, switches, routers, vCenter, VOIP, etc.) optimization and maintenance.
+Active Directory maintenance (domain controllers, multiple forests) Â​ including resolving issues with replication of DNS and AD info;
+troubleshooting domain controller issues, DNS management, CISCO Â​ ASA, UCS, VOIP phone system / Unified Communications, Data
+Domain, EMC storage.
+Analyzed Cloud services, submitted recommendations for improvement, and identified areas of inefficiency.
+Created VMWare Server images and adjusted for performance and stability.
+Technical Director/Consultant 01/2010 to 01/2013 Company Name
+A firm providing comprehensive technology consulting, IT support and computer networking solutions.
+Served as a technical and professional expert across teams, clients, and the information technology spectrum.
+Led or served in engagements involving management of VMware ESXi; provision of cloud service support; server and workstation
+installation and maintenance, SAN installation and maintenance; switch, router, firewall and VoIP support; Windows server installation and
+upgrades; TCP/IP network design and installation and network security provisioning and management.
+Led or participated in System Projects that included: System PCI Compliance check and configuration.
+Exchange 2000-2010 upgrades and new installations.
+Campus wireless network design and installation.
+Cisco VoIP systems design and implementation.
+Server installation and consolidation using VMware ESXi and Hyper-V servers.
+Windows Terminal Server 2008 and Wyse terminal installations.
+Director of Managed Services / IT Manager / Professional Services Engineer 01/1993 to 01/2010
+A firm providing comprehensive technology consulting, IT support and computer networking solutions.
+Founded and grew the organization from a startup to a respected local consultancy.
+Drove all new business development while running all daily back office support functions including finance, accounting, human resource
+management, and staffing and workforce management.
+Took the lead in delivering IT consulting and professional services to Associations, Non-profits, and SMEs across the DC/Metro Area.
+Served in roles beyond project manager that included lead programmer and lead developer.
+Utilized technologies that included DirectX C++ simulator; MS-SQL 200-2012, MySQL and PHP on Linux and Windows 2003-2012
+server platforms, C programs, VB scripts, PowerShell and batch scripting.
+Functioned as Chief Architect providing onsite and remote network administration, at a peak of 300+ network nodes among 30 different
+businesses.
+Grew a home business with a handful of clients into a profitable $25,000/ month operation by effectively developing and managing all
+business development, client engagements and supporting operations.
+Established partnerships with major vendors, including HP, Dell, Microsoft (Solution Provider) and Novell (Gold Partner).
+Directly managed projects or engagements that included: eCommerce websites creation and installation.
+Hyper-V and ESX installations for Windows 2003 and 2008 servers Active Directory, LDAP and email installations across wide area
+networks.
+NetWare networks; integration and NDS conversions to Active Directory networks.
+Firewall installations and upgrades.
+Cisco routers and switches; VPN networks optimization including site-to-site and client/server.
+Voice over IP and PBX installations.
+Custom database and web-based front-end systems development for contact management, association membership, statistical analysis, and
+business management tools.
+Communications Specialist Company Name
+Specialist with Law Firm Gibson, Dunn & Crutcher and as IT Manager with CPA Firm Crutchley, Marginot and Tosi.
+Provided WAN, LAN and Server Management as well as OS and network installs, upgrades and migrations and systems.
+implementations.
+Education and Training
+Master of Science : Computer Science 2016 Georgia Institute of Technology City , State , USA
+Bachelor of Science : Information Technology 2014 Strayer University City , State GPA: Summa cum Laude
+Concentration in Security
+Graduated Summa Cum Laude 
+ITIL v3 Foundation Â· Security+ Â· Microsoft Certified Professional (MCP) Â· Master Certified Novell Engineer-Security Cisco Certified
+Network Associate Â· Cisco Certified Design Associate Member : Information Technology Project Management Institute Information Technology
+Skills
+accounting, Active Directory, AD, Architect, Borland, Budgeting, business development, business management, Business Startup, C, C++, Cisco
+Certified Network Associate, Certified Novell Engineer, CISCO, Cisco Certified, Cisco routers, Citrix, client/server, computer networking,
+Consulting, contact management, controller, conversion, CPA, CSS, client, clients, database, Database Design, DC, Dell, documentation, DNS,
+eCommerce, E-Business, email, ERP, Enterprise Resource Planning, finance, Firewall, help desk, HP, HTML, human resource management,
+Hypertext markup language, PHP, image, information technology, IT support, ITIL v, JavaScript, LAN, LDAP, Team Leadership, Law, Linux,
+managing, MAS90, access, Microsoft Certified Professional, MCP, Microsoft Dynamics, Exchange, Office, Windows, 2000, migration, MySQL,
+NDS, network administration, network design and installation, Network Security, Network, networks, new business development, Novell,
+NetWare, OS, Optimization, Oracle, developer, Paradox, Payroll, PBX, PCI, peak, Perl, phone system, processes, programmer, Python,
+reporting, Router, routers, Sage, SAN, Scheduling, servers, scripting, scripts, MS-SQL, staffing, statistical analysis, switches, switch, Systems
+Design, systems development, T-1, TCP/IP, Terminal Server, troubleshooting, Upgrades, VPN, Microsoft Visual Basic, VB, Visual Studio, Voice
+over IP, VOIP, Website, websites, WAN, Windows server

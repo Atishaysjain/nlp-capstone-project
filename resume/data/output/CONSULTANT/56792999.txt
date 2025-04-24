@@ -1,0 +1,77 @@
+MANAGING CONSULTANT
+Summary
+Highly accomplished Management Consultant / Senior Business Analyst with a verifiable track record of managing complex strategy projects and
+exceeding client expectations. Demonstrated skills in business process management and process redesign, specializing in the end-to-end business
+process management lifecycle. Extensive experience in the integration and implementation of organizational transformational efforts in both the
+Public and Financial Services Sectors, designing processes and system improvements to increase productivity and reduce cost. Strong
+interpersonal skills, highly adept at managing broad stakeholder communities and supporting the development of cohesive strategic visions across
+disparate groups.
+Skills
+Business Process Improvement & Redesign
+Agile/Scrum
+SDLC
+Business Transformation
+PMOÂ 
+Project management
+IBM BPM
+Blockchain
+Robotic Process Automation
+Strong analytical skills
+Experience
+Managing Consultant 11/2003 to Current Company Name City , State
+Currently a Managing Consultant in the Customer Engagement & Design practice of IBM Global Business Services, US Federal, with a focus on
+Cognitive Process Transfomation.
+â€‹
+Notable Projects include:
+â€‹
+Substance Abuse and Mental Health Services Administration (SAMHSA) - Application Development Support
+â€‹
+As the BPM Lead, responsible for the development, maintenance, and delivery of a portfolio of custom applications built on IBM's BPM
+Cloud platform
+These custom BPM applications replaced manual processes, improved efficiencies, and provided audit capabilities across SAMHSA. 
+Managed several Agile development teams, serving as Scrum Master, leading sprint planning sessions with client product owners, backlog
+grooming, and sprint reviews/demos, in addition to daily stand up meetings.
+â€‹
+â€‹ IBM CHQ Office of CIO - Next Generation Tooling Initiative
+â€‹
+Led the design, development, and implementation of a custom BPM 8.5.7 enabled, cloud based, automated solution to facilitate a single
+trusted source of application to server hosting information across the global IBM enterprise.
+Facilitated the documentation and analysis of as-is and to-be deployment processes across multiple IBM Geos.
+Solution was awarded best of breed by PwC during compliance review
+â€‹
+Federal Housing Finance Agency (FHFA) - Program Management Support
+Led a Project Management Maturity Assessment in order to define the strategy and operationalize project management disciplines required
+to establish a PMO.
+Led the requirements definition phase for the development of a custom program management application, incorporating project health,
+executive dashboards and reporting.
+Facilitated demonstrations of the application to key FHFA executives, including agency CIO and deputy director.
+â€‹
+United States Citizenship and Immigration Services (USCIS) - USCIS Transformation
+Served as IBM BPM SME and Requirements Update Team Lead as part of $500 million transformation engagement in which IBM was the
+solution architect responsible for the successful development and implementation of the Electronic Immigration System (ELIS).
+Utilized model driven development, established standards, developed best practices, and delivered processing modeling training across
+product teams in order to document and implement targeted "to-be" state.
+Led team responsible for tooling integration, configuration management, and management of multiple requirements baselines.
+Managed the integration between multiple IBM Rationale products including ensured integration with related IBM products (e.g. Rational
+Requisite Pro for requirements gathering and Rationale ClearCase for configuration management),
+â€‹
+United States Department of Agriculture (USDA) - Transformation Strategy
+â€‹
+Leveraged Component Business Modeling methodology to create an IT planning and management platform that is agile and business
+aligned.
+Delivered a target architecture blueprint and transformation roadmap to identify and prioritize specific initiatives and activities to enable CIO
+to deliver on mission.
+Program Manager 08/1998 to 08/2001 Company Name City , State
+Coordinated college recruiting efforts and staffing efforts within the Information Technology Resource Center (ITRC)
+Conducted analysis and managed the business unit's utilization across accounts.
+Account Manager 12/1996 to 07/1998 Company Name City , State
+Marketed IT software and services to major educational institutions and healthcare providers.
+Responsible for managing customer relationships, sales and related business development activities.
+Education and Training
+MBA : Information Technology 2003 University of Maryland, Smith School of Business City , State , USA
+Bachelor of Science : Marketing 1996 University of Arizona City , State , USA
+Certifications
+Certified IBM Process Analyst - BlueworksLive & IBM BPM 8.5
+Certified IBM Blockchain Consultant
+Certified IBM Agile Consultant
+Certified IBM SOA Associated

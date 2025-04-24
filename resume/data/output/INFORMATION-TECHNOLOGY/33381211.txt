@@ -1,0 +1,143 @@
+VICE PRESIDENT INFORMATION TECHNOLOGY - SOFTWARE ENGINEERING
+Professional Summary
+A results-driven and business minded technology leader with 20+ years of experience in technology and software development. Â A professional
+who is passionate about developing people and teams to reach their greatest potential. A thought leader that partners with business to drive
+strategy from conception to execution. A team player that places a priority on networking, relationship building and diversity to achieve the greatest
+possible outcome. A progressive technology leader with an innovative and growth mindset.
+Skills
+People Centered Leadership
+Strategic & Tactical Planning
+Software Engineering
+Designing & Architecting Systems
+Coaching and Talent Development
+Building a Culture of Innovation and Engagement
+Transformation and Change Advocate
+Work History
+Vice President Information Technology - Software Engineering , 03/2018 to Current 
+Company Name â€“ City , State 
+LeadingÂ all aspects of IT Application Development and Corporate Systems teams encompassing 100+ IT associates plus consultants, $20
+m budget, key capital trans-formative projects for the full life-cycle of delivering world classÂ business solutions.
+Supporting company-wide Fit for Growth initiative which focuses on improving customer and associate experience by transforming business
+processes and leveraging modern technology solutions replacing antiquated systems.
+Leading technology transformation focused on re-platforming legacy core systems to a cloud and microservices/containers-based
+architecture running on the AWS platform. Â This allows Safelite IT to deliver business value faster (improved speed to market by ~20%).
+Â Leading implementation of robotic process automation (RPA) by automating manual/repetitive business processes. Anticipated savings of
+$2-$3 MÂ per year.
+Assistant Vice President - Solutions Delivery , 07/2015 to 03/2018 
+Company Name â€“ City , State 
+Defined and executed product vision for Safelite's overall core systems architecture that drives business growth from 5 national contact
+centers, 600+ retail locations, 6000 mobile technicians, 90 warehouses, 2 distribution centers, multiple customer driven responsive web
+applications and customer app engagement tools.
+Drove adoption of agile methodologies across technology teams and business units.Â 
+Built high-performance and autonomous agile product teams that are highly engaged with Safelite's business teams to deliver product value
+for our customers.
+Extended Safelite's core systems to enable the overall OMNI channel vision for Safelite to be able to seamlessly service customers on
+central, unified platform that provides consistent service regardless of customer channel of choice.
+Managed successful delivery of customer engagement initiatives: "watch us on our way" app; Â service emails, 2-way text, text to chat, web
+chat, multi-modal self-service experience, chat bots pilot, IVR via AWS connect, Â personalized promo codes, email campaigns leveraging
+sales force marketing cloud etc.
+Launched "Road to Innovation" program to engage/motivate team members and promote innovation in leading the change and adopting
+emerging technologies to renovate systems and improve customer experience.
+Led architecture and delivery of first ever cloud based end-to-end claim solution to support all types of claims in 5 national contact
+centers.Â 
+Sunsetted legacy AS-400 by moving customer case management tool to sales force service cloud and sales data to BI platform.
+Oversaw the implementation of new enterprise integration platform Mulesoft.
+Director Of Technology , 04/2013 to 07/2015 
+Company Name â€“ City , State 
+Managed successful delivery of web responsive self-serviced digital portals for policyholders, agents, insurance claim/adjusters and cash
+customers.
+Led legacy safelite.com site upgrade to modern web responsive self-service site. Online conversion and self-service usage went up from
+15% to ~60% in 3-4 years.
+Managed the design & implementation of new services layer with restful APIsÂ to enable echo systems for other insurance carriers to
+integrate.Â 
+Led the implementation of end-to-end IVR solution for key insurance partner and API integrations from insurance partner's website for
+glass scheduling.
+Oversaw the implementation ofÂ new inventory management and forecasting systems to Oracle EBS and GAINS.
+Information Technology Manager , 02/2008 to 04/2013 
+Company Name â€“ City , State 
+Transformed Safelite's systems and IT teams for Safelite Solutions, Safelite AutoGlass and Service AutoGlass business units from legacy
+platforms and run-support teams to modern systems and smaller product teams capable of extending needed business functionality and
+supporting Safelite's growth.
+Managed the effort to re-platform legacy point of sale, pricing, scheduling, work order management, and inventory system. Lead technical
+efforts to move to a distributed service architecture using .NET to build applications and WCF services.Â 
+Managed the implementation of new glass claims management system and migrated 200+ insurance carriers glass claim processing from
+legacy mainframe system. Lead designs & architecture to move to a distributed architecture using .NET C#, and SQL server.Â 
+Team Lead , 06/2003 to 02/2008 
+Company Name â€“ City , State 
+Information Technology Consultant , 04/1998 to 06/2003 
+Company Name â€“ City , State 
+Education
+Mini MBA Boston University 
+BS : Electronics And Communications Engineering Anjuman Engineering College - City 
+www.linkedin.com/in/boppanarao
+Affiliations
+2018 Stevie Award Gold Winner - "Watch us on our way" App
+2017 Safelite Solutions Innovation Award - New claims management tool
+2016 Belron Exceptional Customer Service Award - Part Identification
+2015 Safelite Group Customer Driven Leadership AwardÂ 
+2013 Belron Exceptional Service Award - Allstate Integration
+2013 Belron Exceptional Service Award - Customer Self-Service Innovation
+2013 Safelite Group Wall of Fame Award
+2008 Safelite Group Wall of Fame Award
+Skills
+People Centered Leadership
+Strategic & Tactical Planning
+Software Engineering
+Designing & Architecting Systems
+Coaching and Talent Development
+Building a Culture of Innovation and Engagement
+Transformation and Change Advocate
+Work History
+Vice President Information Technology - Software Engineering , 03/2018 to Current 
+Company Name â€“ City , State 
+LeadingÂ all aspects of IT Application Development and Corporate Systems teams encompassing 100+ IT associates plus consultants, $20
+m budget, key capital trans-formative projects for the full life-cycle of delivering world classÂ business solutions.
+Supporting company-wide Fit for Growth initiative which focuses on improving customer and associate experience by transforming business
+processes and leveraging modern technology solutions replacing antiquated systems.
+Leading technology transformation focused on re-platforming legacy core systems to a cloud and microservices/containers-based
+architecture running on the AWS platform. Â This allows Safelite IT to deliver business value faster (improved speed to market by ~20%).
+Â Leading implementation of robotic process automation (RPA) by automating manual/repetitive business processes. Anticipated savings of
+$2-$3 MÂ per year.
+Assistant Vice President - Solutions Delivery , 07/2015 to 03/2018 
+Company Name â€“ City , State 
+Defined and executed product vision for Safelite's overall core systems architecture that drives business growth from 5 national contact
+centers, 600+ retail locations, 6000 mobile technicians, 90 warehouses, 2 distribution centers, multiple customer driven responsive web
+applications and customer app engagement tools.
+Drove adoption of agile methodologies across technology teams and business units.Â 
+Built high-performance and autonomous agile product teams that are highly engaged with Safelite's business teams to deliver product value
+for our customers.
+Extended Safelite's core systems to enable the overall OMNI channel vision for Safelite to be able to seamlessly service customers on
+central, unified platform that provides consistent service regardless of customer channel of choice.
+Managed successful delivery of customer engagement initiatives: "watch us on our way" app; Â service emails, 2-way text, text to chat, web
+chat, multi-modal self-service experience, chat bots pilot, IVR via AWS connect, Â personalized promo codes, email campaigns leveraging
+sales force marketing cloud etc.
+Launched "Road to Innovation" program to engage/motivate team members and promote innovation in leading the change and adopting
+emerging technologies to renovate systems and improve customer experience.
+Led architecture and delivery of first ever cloud based end-to-end claim solution to support all types of claims in 5 national contact
+centers.Â 
+Sunsetted legacy AS-400 by moving customer case management tool to sales force service cloud and sales data to BI platform.
+Oversaw the implementation of new enterprise integration platform Mulesoft.
+Director Of Technology , 04/2013 to 07/2015 
+Company Name â€“ City , State 
+Managed successful delivery of web responsive self-serviced digital portals for policyholders, agents, insurance claim/adjusters and cash
+customers.
+Led legacy safelite.com site upgrade to modern web responsive self-service site. Online conversion and self-service usage went up from
+15% to ~60% in 3-4 years.
+Managed the design & implementation of new services layer with restful APIsÂ to enable echo systems for other insurance carriers to
+integrate.Â 
+Led the implementation of end-to-end IVR solution for key insurance partner and API integrations from insurance partner's website for
+glass scheduling.
+Oversaw the implementation ofÂ new inventory management and forecasting systems to Oracle EBS and GAINS.
+Information Technology Manager , 02/2008 to 04/2013 
+Company Name â€“ City , State 
+Transformed Safelite's systems and IT teams for Safelite Solutions, Safelite AutoGlass and Service AutoGlass business units from legacy
+platforms and run-support teams to modern systems and smaller product teams capable of extending needed business functionality and
+supporting Safelite's growth.
+Managed the effort to re-platform legacy point of sale, pricing, scheduling, work order management, and inventory system. Lead technical
+efforts to move to a distributed service architecture using .NET to build applications and WCF services.Â 
+Managed the implementation of new glass claims management system and migrated 200+ insurance carriers glass claim processing from
+legacy mainframe system. Lead designs & architecture to move to a distributed architecture using .NET C#, and SQL server.Â 
+Team Lead , 06/2003 to 02/2008 
+Company Name â€“ City , State 
+Information Technology Consultant , 04/1998 to 06/2003 
+Company Name â€“ City , State 

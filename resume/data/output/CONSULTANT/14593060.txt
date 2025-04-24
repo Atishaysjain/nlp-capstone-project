@@ -1,0 +1,107 @@
+IT CONSULTANT
+Professional Profile
+Accomplished Senior IT Engineer with demonstrated ability to analyze business requirements and create effective technical solutions applicable to
+diverse industries. Serves as strategic partner to senior management, identifying business requirements, aligning IT assets with company goals and
+making key strategic contributions. An experienced Network Engineer with excellent troubleshooting skills.
+Highlights
+Over 15 year experience in Design, installation and management of data and voice network.
+Expertise includes: Design, build and maintain Microsoft Windows Servers including Domain
+controllers, Exchange, SQL Database and Web servers, Novell servers and Linux servers;
+setup and configure virtual servers using VMWARE/ESXi and Hyper-V.
+Academic background includes
+Bachelor's degree in Electrical
+Engineering and Master of
+Information Systems.
+Areas of Expertise
+Extensive knowledge of computer hardware and software, and networking appliance such as switches, routers and firewalls using Cisco,
+Meraki, Sonicwall, HP, Dell and Juniper
+Design, Install, configure, troubleshoot, and maintain routed LAN, routed WAN, Switched Network, Wireless Network, VPN and remote
+access thru Citrix or Terminal services.
+Design and maintain Microsoft Servers, including Windows NT Server, Windows 2000, Windows 2003 Server, Windows 2008 Server,
+Windows 2012 Server, Active Directory, WEB Server, Exchange 2000, 2003, 2007, 2010, 2013, Office 365 and SQL 2000, 2005,
+2008, 2012, 2014 server.
+Design and maintain Novell Network, including Netware 3.0 to 6.5, Border Manager and GroupWise server.
+Design and deploy backup systems, including BackupExec, Veeam, Acronis and online backup services such as Datto and Barracuda
+Extensive knowledge of computer applications such as Spreadsheets, Accounting and E-mails (Exchange and GroupWise), Office 365,
+Medical Programs (Practice Management, EHR/EMR, Medical Billing and Coding). Advanced knowledge of MS-Office 2003, 2007,
+2010, 2013 including Visio. Expert on endpoint protection such as Anti-Virus/Anti-Malware
+Advanced knowledge of regulatory and compliance obligations associated with HIM Operations including coding.
+Experience
+IT Consultant 
+November 2011 to Current Company Name ï¼​ City , State
+Provides hardware and software specifications to users based on application and business needs and anticipated growth, installs new
+servers, routers, firewall and maintains the entire infrastructure.
+Recommends changes to improve systems and network configurations, and determine hardware or software requirements related to
+proposed changes.
+Performs troubleshooting for complex hardware, software and network problems.
+Defines procedures for monitoring and evaluates, diagnoses, and establishes work plan to resolve system issues.
+Manages multiple projects and work as a project leader and as a project team member to help complete the jobs on time.
+Researches, evaluates and recommends new and more efficient software and hardware products.
+Maintains and administers computing environments including computer hardware, systems software, applications software, and all
+configurations.
+Manages major upgrades of systems and/or relocation offices and facilities including assessment of requirements through to implementation
+and testing of solutions.Â 
+Manages data backup, availability, and recommends data recovery solutions.Â 
+IT Consultant/Analysts/Network Engineer 
+November 2009 to October 2011 Company Name
+Install and manage Local Area Network, Servers, firewalls, routers, switches, VPN connection, Remote access and security components.
+Perform daily administration functions such as add/change users, check backups, virus detection, signature updates, intrusion prevention,
+monitoring, and performance tuning.
+Deploy, maintain, upgrade and update VMWare, Microsoft Hyper-V servers.
+Maintain and update company's websites, Server's firmware, patches and service packs
+Manage backup, image of servers and workstations and disaster recovery architecture.
+Modify user accounts, password, content filtering, rights and securities.
+Maintain SQL databases, create, modify and optimize as necessary to increase productivity.
+Organize and optimize network directory and file layout for ease of use and management.
+Serves as a technical resource to the HIMS function in other centers throughout the region if needed. Performs other duties & accepts
+responsibility as assigned.
+Provided annual savings through implementation of automated data system utilizing latest technologies
+Responsible for HIM operations involving continuous evaluation and re-engineering of applicable processes and organizational design based
+on current and new client needs.
+Ensures the efficient day-to-day operations of the HIMS departments within a cluster.Â  Establish procedures & practices within
+organizational policies & service standards & ensure the prompt resolution of internal customer & member concerns.
+Participates in the Research, development & implementation of HIMS policies & procedures, operations & automated systems providing
+medical information to client staff & providers.
+Ensure that company is fully compliant, following proper HIPAA policy, rules, regulations, guidelines and other standards. Â· Â  Â  Â  Â 
+Forecasts the hospital's future technical and information needs and various property improvement projects.Â  Develops and adheres to
+annual operating and capital budgets.
+IT Consultant/Network Administrator 
+December 1994 to September 2009 Company Name
+Served as Project Manager for GNC Operations Center and on several central offices build out projects in Los Angeles Counties.
+Acted as consultant to senior executives of GNC to accommodate Y2K network deployment.Responsible for effective establishment of
+strategic relationships that fueled adjacent market growth.
+Successfully established relationships with key customers that included Verizon Wireless and others.
+Managed functions that provided field engineering, logistics support and system assessment worldwide.
+Marketed support products that resulted in increased revenue while positioning organization for further growth.
+Effectively led delivery of support programs while increasing sales by17% and building strong customer relationships.Largest growth
+offshore.
+Designs, plans and implements Microsoft and Novell Networks.
+Setup and configures Microsoft, Novell and Linux, Citrix, Terminal, WEB and Blackberry Servers
+Setup, configure, administer and maintain CISCO, Juniper, Sonicwall and other manufacturer switches, routers and Firewalls.
+Implements new technology and network strategies
+Managed overall optimum performance of the WAN/LAN and security infrastructure
+Performs automation projects.
+Managed Healthcare clients, installing and maintaining medical application programs.
+Computer SERVICE Engineer 
+January 1991 to November 1994 Company Name ï¼​ City , State
+Designs and implements Local Area Network Systems (i.e.
+prepares servers, load application programs, configure switches, routers and firewalls).
+Setup and maintain multiple and mixed domain networks Troubleshoots network problems, LAN and WAN Handles all servers and
+networking Technical Support.
+Researches escalated problems and provide solutions as necessary.
+Setup and configures Backup and disaster recovery Evaluates new systems and checks product quality.
+Provides training to new employees.
+Education
+Master of Science : Master of Information Systems Master of Information Systems
+Bachelor of Science : Electrical Engineering Electrical Engineering
+Cisco Certified Network Associate (CCNA) Microsoft Certified professional (MCP) Certified Novell Engineer (CNE) Netware 6 Certified
+Professional Coder (CPC) Certified Professional Coder-Hospital (CPC-H)
+Technical Skills
+Accounting, Active Directory, Anti-Virus, automation, Backup, budgets, CCNA, Cisco Certified Network Associate, Certified Novell Engineer,
+CNE, CISCO, Citrix, computer hardware, Computer networking, computer applications, consultant, consulting, client management, content,
+client, clients, databases, Database, delivery, Dell, disaster recovery, Firewalls, GroupWise, HP, image, Local Area Network, LAN, layout,
+Linux, logistics, market, Medical Billing, access, Microsoft Certified professional, MCP, Exchange, Office, MS-Office, SQL 2000, Microsoft
+Windows, Windows, Windows 2000, 2000, Windows NT Server, Netware 6, network engineering, Network, networking, networks, Novell,
+Netware 3.0, Novell Networks, Novell Network, Novell servers, organizational design, organizational, policies, positioning, processes, Coding,
+quality, reengineering, Research, routers, sales, securities, Servers, Spreadsheets, SQL, strategic, switches, Technical Support,
+telecommunications, troubleshoot, upgrade, VPN, Visio, Web servers, WEB Server, websites, WAN, Y2K

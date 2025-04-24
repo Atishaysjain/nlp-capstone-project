@@ -1,0 +1,102 @@
+CONSULTANT
+Summary
+7 years of professional IT experience with Masters degree in computer applications; worked mainly with Java (JEE) programming languages.
+Passionate about Clean code programming skills and Emergent design techniques. Hands on experience with Test-driven development (TDD) and
+Behavior-driven development (BDD) with test automation scripts to deliver high quality product. Good java performance improvement and
+reliability experience. Good knowledge to achieve high-availability and Continuous Integration. Good understanding of Relational and NoSQL
+databases. Experienced with development processes using Agile, Scrum. Well versed with Deutsch culture and traditions, worked with Deutsch
+clients and colleagues for more than five years and stayed in client location (Berlin, Germany) around for two years. Passed German A1 language
+certification exam and currently pursuing A2.
+Highlights
+Java, JEE (Web Services, JSP, Servlet, Struts, JDBC, JMS, MDB, JMX) Spring Ioc, Spring MVC (REST), Spring Security, Spring
+Remoting, Spring AMQP.
+Hibernate,MyBatis, Maven, Mockito, WireMock. JMeter, Gatling, JUnit
+RabbitMQ, IBM MqSeries.
+Service Oriented Architecture (SOA)
+Enterprise Service Bus (OSB), Business Process Execution Language, SoapUI
+BPEL), Web services, XML, XSD, XSLT, XPATH, Xquery, SOAP.
+Spring MVC - RESTFul services with JSON and XML
+Web Servers/Tools
+Tomcat - Eclipse/Spring tool suite (STS), Maven Jetty Plugin
+Oracle Weblogic 11g - SOA Server - Jdevelopper 11.x
+Oracle Weblogic11g - Oracle Service Bus (OSB) (OEPE)
+Websphere Application Server -WAS 7.0/WAS 6.0 - RSA(IBM)
+Rational Application Developer RAD 6.0(IBM)
+Database:
+Oracle 11g, JAVADB - DERBY, HSQLDB, MySql
+Scripting language
+JavaScript, HTML
+Version control
+Git-Stash, Subversion (SVN)
+Other utilities
+UML - Enterprise Architect 7.5 (EA) LDAP - Jexplorer, MQExplorer, Atlassian stack- JIRA, Bamboo and Confluence, Puppet
+Development Platform /
+Operating Systems
+Mac OS, Windows 2000/XP/windows7, Linux
+Quality Assurance and Robustness
+Sonar, performance improvement using JProfiler and VisualVM.
+ELK stack and Java melody for API monitoring.
+Experience
+Company Name January 2013 to March 2015 Consultant 
+City
+Project - Identity and access management (IAM) ADP Dealer services provide services to Automotive dealers with the help of various web
+based application.
+Identity and access management provides Authentication, Authorization, user management,user provisioning, Single Sign On (SSO),
+Federation Services and OAuth to these applications.
+Designed & developed RESTFul APIs using Spring framework.
+Secured APIs with Oauth2.0 and Basic Authentication protocol.
+Implemented RabbitMQ for API Integration thru Spring AMQP and Spring Integration.
+Implemented pivotal GemFire (In-Memory database) to achieve high-performance and to handle high load on Authorization service.
+Implemented MyBatis as persistence framework for Identity service.
+Used Oracle RDBMS as user store, implemented Liquibase for identity and authorization.
+Improved meaningful unit test coverage till 90+ %.
+Organized QA and Wrote integration test cases and performance test cases using JMeter and Gatling (Scala) respectively.
+Used Mockito and WireMock as a mocking framework.
+Improved API performance by 200%.
+Worked metrics/monitoring tool like ELK (elasticsearch logstash kibana) stack for API Dashboard.
+Used CA Siteminder for Authentication and as SSO provider.
+Implemented several Java Utilities as a part of innovation which helped team.
+Many times Showcased working software to Product management and stack holders.
+Enthusiastic about learning new web technologies and train team on it.
+Company Name October 2010 to December 2012 Senior Associate Software developer 
+City
+T-System GmbH is a software arm of Deutsch Telekom (T.com), it provides vast variety of telecom solutions.
+Cognizant and T-Systems are strategic business partners.
+Sofia is a telecom provisioning system.
+It is developed to provide a management console to manage various element managers like CUCM, Novatec and Cisco Voice Gateway.
+Sofia provisioning system gets orders from various external system.
+According to order, Sofia provisioning system delegates those orders to respective modules.
+Implemented SOAP web services utilising Oracle SOA suite.
+Implemented MDS as repository for Schema and WSDL.
+Used Jdeveloper to implement Business process execution language (BPEL).
+Used Oracle Service Bus (OSB) for service integration.
+Implemented various services for IP phones like call waiting, Call Forwarding, Speed Dial and Change PIN.
+These services are exposed as XML RESTFul services using OSB.
+Worked on Spring MVC application for Sofia UI.
+Created Database adapters on top of database Objects in OSB.
+Implemented a utility for data synchronization to synch data between various external systems and Sofia database.
+Learned completely new technology like OSB and provided training and coaching to the team members.
+Project - Business logic Technique (BL-T).
+Company Name October 2007 to October 2010 Associate 
+City
+BL-T is an OSS system from T-Home to investigate and Reserve DSL connection at the any place in Europe on the basis of parameters
+like telephone number.
+It acts as an intelligent interface between the NorthBound systems and the SouthBound systems.
+Implemented services S1, S2, S3, S4 ...
+for NorthBound systems.
+Each of the above mentioned services are meant to carry out special process in the PreOrder.
+The end result of the entire process is a PreOrder to be updated in E2E.
+Implemented services integration using (JMS) and MDB in the form of XML messages over IBM MQ Series.
+Used XBEAN for message transformation.
+Implemented BL-T Admin console using HTML, JSP, JavaScript and Struts Framework.
+Education
+RGPV University June 2004 Masters of Computer Applications India
+Vikram University June 2001 Bachelor of Commerce India
+Languages
+Fluent in English and Hindi, Basic German(A1).
+Skills
+ADP, API, Architect 7.5, Automotive, Basic, Business Process, Cisco, coaching, com, CA, Version control, Database, DSL, Eclipse, Fluent in
+English, XML, Gateway, German, Hindi, HTML, IBM, IBM MQ Series, IBM MqSeries, innovation, IP, Java, JMS, JSP, JavaScript, JDBC,
+JSON, LDAP, Linux, logic, Mac OS, Memory, access, windows7, Windows 2000, MVC, MySql, Enterprise, Operating Systems, Oracle,
+Developer, OSS, Product management, QA, Quality Assurance, RAD 6.0, Oracle RDBMS, Servlet, Scripting, SOAP, strategic, Struts, telecom,
+telephone, phones, Tomcat, UML, Utilities, Web Servers, Weblogic, Websphere, XSLT

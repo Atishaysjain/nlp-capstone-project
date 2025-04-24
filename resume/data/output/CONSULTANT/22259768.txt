@@ -1,0 +1,114 @@
+CONSULTANT
+Profile
+Around 5 years of experience in Gathering Requirements, design, development, testing and implementing solutions in SAP and mobile. Worked as
+business analyst in telecom, Utility Industry. Good knowledge of Operations & Maintenance business process. Experienced in SAP EAM using
+Compatible units, Design and integration of Design with Work orders. Experience in end-to-end process using computable units for GAS and
+Electric line of business. Experienced in planning and executing scenarios for End-to-End Testing, Documentation and End User Training
+Performed Configuration for Plant Maintenance module for End to End process in integration with Material Management Module Knowledgeable
+in Sales and Distribution module. Extensive experience in documenting reporting requirements to development of the same in SAP ECC and BW.
+Possess the ability to grasp quickly new concepts and apply the same, the skill, which are typical requirements for working in large SAP R/3
+implementations. An excellent team player with a deep sense of commitment and strong desire to learn and grow. Strengths include Intellectual
+Ability, Ability to work under pressure. Excellent Communication, interpersonal, and presentation skills. Good understanding of Software
+Development Life Cycles and its different phases. Deans Excellence Scholarship and Distinguish Scholar Award at UT Dallas. EXPERTISE 5
+years of experience in Information Technology with specialization in Gathering Business Requirements and Quality Assurance and Testing.
+Configuration for Organizational Units and Master Data in Plant Maintenance. It includes Plants, Work Centers, Functional Locations, Equipment,
+Installation/Dismantling at Functional Locations, Equipment Hierarchy, Material, Serial Numbers and Serial Number Profile, Maintenance Plans,
+Measuring Points and Counters, Document Link, Maintenance Processing, Corrective and Preventive Maintenance Notification Types, Objects
+and Object Information, Catalogs and Catalog Profiles, Integration of Notification to Order, Order Types, Operation List and Activity Types,
+BOM's, Costing Sheets. Proficient in Testing and Change Management tools like HPQC, QTP, SMC. Planning and Development of Test cases,
+Test plans, Test scenarios to meet the products business requirements. Experience in ERP applications. Excellent Communication and
+Documentation skills and End User Training Testing including GUI Testing, Functional Testing, Performance Testing, Positive and Negative
+Testing, Security Testing, Integration Testing, System Testing, Load Testing, Interface Testing and Regression Testing. Design documents, As-Is &
+To-Be process and Function Specifications
+Skills
+Requirements Gathering
+Data Analysis
+Business Analysis
+Testing
+Documentation
+Configuration
+Design
+Functional specification
+Accomplishments
+Requirements Gatherire :
+rements and propose solution which align with cureness
+Te.sting, Evaluation and Analysis: Â 
+Mastered engineering scureare ess.equirements and propose solution which align with the businessprograms, including [Program Name] and
+[Program Name].sted equipment to ensure compliance.
+Analyzed data and provided recommendations which resulted in adoption of new cost-saving equipment.
+Received the "Deans Excellence Scholarship "â€œand "Distinguish Scholar Awardâ€​ at UT Dallas. Â 
+Professional Experience
+Consultant 07/2014 to 06/2015 Company Name City , State
+Projects: ETGIS, Leak Repair, Cathodic Protection.
+Requirements gathering and Data analysis.
+Perform Mapping of GIS to SAP.
+Working with Developers on creating Dashboard for Reporting and Asset Management Perform Interface Testing using SOAPGUI,
+Functional Testing and UAT.
+Data cleansing involving creating, dismantling and reconfiguring Equipment, Function Locations, Maintenance items in critical environment.
+Identifying data discrepancies comparing GIS and SAP Data by working with SME's Acting as a single point of contact between business
+users and testers.
+Identified and automated different processes to significantly bring down the time and resources.
+Providing technical and functional support in migration of GIS data to SAP.
+Working on Conversion requirements specifications and definition of data elements including clarification of the meaning and purpose of
+SAP fields.
+Working closely with Asset Strategists, Mappers, and GIS Engineers to identify the issues and resolving them.
+Using LSMW,IBIP to create and update the Equipment's, and Functional Locations.
+Responsible for preparing training manuals for End Users.
+Using the PAR (Problem Action Resolution), Quality Center tool for defect tracking.
+Responsible for preparing Requirements Document and Testing for Enhancements for GAS and Compliance Team.
+Configuration for Capacity Planning and Work clearance Management.
+Business Analyst 05/2012 to 06/2014 Company Name City , State
+Southern California Gas Involved in the requirement gathering and designed specifications for business process and Interacted with business
+users to model the requirements for Reporting Participated in JAD, Gap Analysis session.
+Configuring Asset Life Cycle Management (CP10, Gas Storage and Riser Inspection )end to end process using SAP PM module in
+integration with MM module Generated Maintenance Plans by Region for Preventive Maintenance.
+Design Bundling Program for generation of orders by Region, District, Street, Section, Segment and House no.
+Design Exception Report to capture certain conditions which requires different process.
+Integration of GIS with SAP for design to be sent to SAP.
+Good Understanding of Corrective and Preventive Maintenance.
+Creation of Data using QTP for training in different environments.
+Scheduling through Click schedule and Click Mobile Preparing Functional Specification Involved in planning and preparing Test Plan, Test
+Cases and Test Scripts based on business requirements in the areas like Notifications, Designs, Work Orders, Equipment's, Functional
+Locations, Material Reservation, Material Master, Customer Master, Purchase requisition and other financial transactions.
+Created test scripts for front end testing using (GUI and Functionality) QTP.
+Maintain Requirements matrix in HPQC Managed HP Quality Center for creating, linking and tracking Defects.
+Writing and running test scripts in HPQC for different scenarios.
+Providing Support after go-live including training users.
+Preparing Job Aids for End User Training.
+Involved in User Acceptance Testing of Reports and Debugging.
+Design and test reports using BEx Analyzer Define the reports for Compliance with Compliance group, Key Performance Indicator,
+develop data model and worked closely with development team Worked in translating business processes into technical design documents
+for M&I process.
+San Diego Gas Electric Projects: Construction , Planning and Design Facilitated JAD sessions for Electric Field Memo and Riser Inspection
+(DIMP) Process in SAP Plant Maintenance Module.
+Designed and implemented Electric Field Memo to improve Electric Gas and Transmission Field and Office Operations by automating the
+End to End process.
+Designed complex Compatibility Search for Electric field Memo Data Extraction from Legacy system to SAP for Riser Inspection Designed
+Process Flow and prepared FunctionalSpec Co-ordinated with Developers with Business requirements Define test scenarios for Mobile
+Application for Riser Inspection Performed End to End Testing of SAP to Mobile Application Provided training to end users Design
+process for PMLite and mapped custom table with Costing Sheet for Costing to generate letters in form of pdf to be sent to customers.
+Testing Adobe Forms for PMLite.
+Business Analyst 01/2014 to 06/2014 Company Name City , State
+Gathered requirements for implementing SAP Financial Supply Change Management process.
+Participated in Brain Storming sessions for Collections Management Business process.
+Defined Test Scenarios and documented Test scripts for End to End Testing Configure Company Segments, Company codes, Collection
+Groups, Collection Strategies Data Creation for Testing Preparing Job Aids for End User Training.
+Business Analyst 09/2010 to 02/2012 Company Name City , State
+Asset Management Life Cycle Responsible for gathering requirements, documentation and testing Worked in translating business processes
+into technical design documents Worked in creating query transforms of the ETL process Design and validated reports Co-ordinated with
+developer for the requirements.
+Managed the Change Management Process.
+Uploaded scripts into HP Quality Center from Excel Tested Enhancements, Reports, Functionality and Conversions Performed the
+Shakedown and Ad-hoc testing before UAT Performed the Smoke, White box, Black box testing before actual execution of test cases.
+Reported the bugs and communicated with the developers for tracking the defects.
+Tracked, reviewed, analyzed bugs using Quality Center.
+Consultant 01/2010 to 05/2010 Company Name City , State
+Conducted market research and prepared business plan for exploring new market opportunities.
+Involved in requirements gathering, current market trend evaluation, financial evaluation and comparative study.
+Education and Training
+Master of Science : Information Technology Management 2011 University of Texas City , State , United States GPA: GPA: 3.78/4.0
+GPA: 3.78/4.0
+Skills
+Asset Management, business plan, Business process, Capacity Planning, Change Management, Conversion, Costing, Data analysis, Debugging,
+documentation, ETL, Forms, Functional, GIS, GUI, HP, Excel, Office, migration, developer, pdf, Design process, processes, QTP, Quality,
+Reporting, requirement, Requirements gathering, SAP, Scheduling, Scripts, Specification, User Training, training manuals

@@ -1,0 +1,81 @@
+TECHNICAL DESIGNER
+Career Overview
+â—​Â  Having 8.5 years of IT experience as Software developer in Java/J2EE Technologies
+â—​Â  At present Technical Designer at Tata Consultancy Services
+â—​Â  Knowledge in working with Designing, Coding and Unit Testing, Coding : Spring 3, jQuery, Bootstrap, JPA, Struts, Core Java, JSP, EJB,
+XML, PL SQL
+â—​Â  Sun Certified Java Programmer 1.6
+â—​Â Â  Solid experience on Agile development
+â—​Â Â  Thorough understanding of Object Oriented Methodology and Design Patterns.
+â—​Â Â  Proficiency in developing web based applications using Java/J2EE
+â—​Â Â  Knowledge in working with WebServices.
+â—​Â Â  Exposure to Automation domain on Building Solution
+â—​Â Â  Looking ahead for great career in a fair working environment with opportunities to grow. 
+Qualifications
+Designing, Coding and Unit Testing, Coding : Spring 3, jQuery, Bootstrap, JPA, Struts, Core Java, JSP, EJB, XML, PLSQL *Tools: Eclipse 4,
+Confluence UML, Git, Rally
+Work Experience
+Technical Designer 
+February 2011 to Current Company Name ï¼​ City , State
+Software Engineer 
+January 2010 to January 2011 Company Name ï¼​ City
+FXO (FedEx Office) Client : FedEx Environment : Java 6.0, Web Services, Hibernate, EJB, XML.
+Team Size : 25 Tools : Subversion, Eclipse Database : MySQL Server Servers : JBOSS Description: The FedEx office project is a
+currently built upon the printing and shipping services of the logistics segment.
+This application mainly focused of the printing the different kind of printing services for the end customers like Print and send the documents
+with binging, folding, etc.
+And after the print done for the each document provided FXO also provides the flexibility to the user the ship the document and track it.
+Roles and Responsibilities Involved in the Analysis & Design discussion process for enhancement features.
+Involved in the developing the Struts code.
+Involved in Requirement gathering.
+Used PMD and Findbugs tools.
+Bug Fixing.
+Unit Testing.
+Software Engineer 
+October 2006 to January 2010 Company Name ï¼​ City
+Java 6.0, Hibernate, Struts, UML, Niagara AX, XML Team Size : 20 Tools : Subversion, Rhapsody, Eclipse, UDS Database : SQL
+express Description: The iCon3 tool is an integrated tool set spanning initial system estimate and quotation, through system engineering,
+controller programming, supervisor software configuration, commissioning and service; an 'end-to-end' BMS tool.
+In addition the iCon3 tool will interface to HBS's other business systems such as purchasing and project management.
+The vision of the iCon3 tool is to focus on reducing labor hours required to design, estimate, engineer, commission and service a building
+automation system.
+Labor hours are reduced by applying automation on various levels of the object model, which reduces the overall complexity especially in
+the project estimation, engineering and commissioning phases.
+The vision of the iCon3 tool is to focus on system configuration and minimize the need to engineer control applications.
+This will be accomplished by providing various configurable models, which covers almost any kind of application.
+The final goal of the iCon3 tool is to analyze the drawings provided during the estimation phase.
+The tool will suggest solutions, provide optimized cost calculation and generate bid specification.
+During the engineering phase, the solutions can be reused and configured according to customer specification.
+Only off-standard solutions will require engineering labor.
+During the commissioning phase, new innovative technology, based on the Tridium AX platform, will reduce labor and travel costs.
+Roles and Responsibilities Involved in the Analysis & Design discussion process.
+Involved in Requirement gathering.
+Involved in weekly Track meetings & MR Involved in developing prototypes Involved in integration of Axis with JBOSS and coding Unit
+Testing.
+Secondary CM Focal for the project.
+SEI 
+Environment : Spring, Java 6.0, EJB, XML, PLSQL Team Size : 20 Tools : Git, Eclipse, Rally, UML, Confluence Database : Oracle 11i
+Servers : Weblogic 10 Description: SEI (NASDAQ: SEIC) is a leading global provider of asset management, investment processing, and
+investment operations solutions for institutional and personal wealth management.
+SEI help private banks, investment advisors, investment managers, institutional investors and affluent individuals create and manage wealth.
+Roles and Responsibilities Involved in the Analysis & Design discussion process for enhancement features.
+Involved in the developing the Struts code.
+Involved in Requirement gathering.
+Used PMD and Findbugs tools.
+Bug Fixing.
+Unit Testing.
+Education and Training
+Bachelor of Engineering (B. E : Computer Science & Engg , June-2005 Computer Science & Engg with an aggregate of 68% from
+K.L.E's.C.E.T, Belgaum. April-2002 - Diploma (10+3), Computer Science & Engineering, with an aggregate of 63.2% from Govt. Polytechnic,
+Bijapur. March-1999 - S.S.L.C (10th Std), with an aggregate of 79.52% from P.D.J High School, Bijapur.
+Personal Information
+I have interest in reading the latest technology news
+Languages
+English Hindi Kannada
+Skills
+asset management, automation, business systems, C, controller, Client, Database, Designing, Eclipse, Eclipse 4, engineer, English, EJB, XML,
+features, focus, Hindi, Java, Java 6.0, JSP, JBOSS, jQuery, logistics, meetings, Office, MySQL, Oracle, PLSQL, Coding, programming, project
+management, purchasing, express, Requirement, Servers, shipping, specification, SQL, Struts, supervisor, system configuration, system
+engineering, UML, vision, wealth management, Weblogic
+Additional Information
+INTERESTS I have interest in reading the latest technology news

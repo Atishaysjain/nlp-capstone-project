@@ -1,0 +1,67 @@
+CONSULTANT
+Career Overview
+Vidya is a Graduate in Computer Science with over 9 years of professional experience in Customer Relationship Management in roles of Solution
+Architect, Functional Analyst, Process and Implementation Consultant for large customers in Pharmaceutical & Chemical, Consumer and Industry
+Product, Public Sector Industry in the United States. Excellent Networking and Communication skills, Client Relationship Management,
+Expectation Management and People Management are her core strengths along with Customer Relationship Management. Her understanding of
+industry and processes, ability to connect with different levels of the organizations with equal ease, combined with the integrity and passion, is what
+she brings to the work place. Vidya started her career at Adapt One Technologies in Business Consulting, working across different industry
+sectors. In September, 2010 she moved to Deloitte Consulting LLP in CRM Consultant role in the US, which provided her with a wealth of
+experience as well as exposure across the entire business application Proposals, consulting and project management disciplines.
+Qualifications
+Big Machines Configuration *Siebel Tools 8.1.1.10, Siebel Administration, eScript, VBScript and Java Script *VB, SQL, MS Excel, Word and
+Power Point, Access.
+Work Experience
+Company Name September 2010 to March 2015 Consultant 
+City , State
+Client-Healthcare Company who specializes in supplying health information technology solutions Led the development of Oracle CPQ
+Cloud solution prototype to provide the Sales and Marketing Team a high level understanding of the art-of-the-possible.
+Its quality was appreciated and helped us win the next Implementation Phase assignment with the client Reviewed and updated the quality of
+the functional design documents Increased system transparency by developing business process models and wireframes to aid in the
+business to technology translation Performed Fit Gap analysis on requirements and Oracle CPQ out-of-the box functionality Client- Large
+scale CRM Implementation project for a Public sector client located in Canada Developed test strategy and approach to test various
+module within the Siebel ICM solution Developed the test scripts and executed testing scenarios for Financial Management, Benefit Plans,
+Activities, Data Warehouse etc modules Supervized and managed the testing effort of 5 consultants and ensured the project was delivered
+before the deadline Gathered data and prepared daily status report for Project Leadership Client-Leading global Information Technology
+Company based in US Collaborated with business users in JAD sessions to understand their key business issues, and critical processes,
+business objective expected from program Documented user requirement pertaining to Approval and Document Output, developed process
+flows, design document and system workflows to highlight interactions between boundary system Researched and prepared Language and
+Currency matrix document highlihghting the languages supported by BigMachine application, the quality of which was highly appreciated by
+the client Client- North America's leading provider of Integrated Environmental solutions Played the role of Siebel SME to the training team,
+acting as an IT liaison between client's Change Management team and Technical team, providing them with expertise on Siebel Order to
+Cash solution Appreciated by client for my ability to communicate complex technical issues in a non-technical manner to business users
+Independently led the effort of setting up and maintaining Siebel Environment from scratch to enable 500 Customer Reps to perform hands
+on practice during Training Delivery.
+Worked closely with various boundary system leads to troubleshoot and find resoultion to technical issues on an ongoing basis Developed
+Conceptual, Functional Design and Siebel Integration Design documents Client- A volunteer led humanitarian organization that provides
+emergency assistance, disaster relief and education inside the United States.
+Implemented Siebel Marketing and Siebel eEvents application as part of a single DRMS platform enabling the business to fully realize the
+benefits of Donor Segmentation and Lifetime Value, Recruitment optimization and Donor and Sponsor Loyalty Programs Gathered
+reporting business requirement by conducting client meetings Prepared Functional and Technical and Design Document.
+Company Name October 2008 to September 2010 Siebel Configurator / Developer 
+City , State
+A Japanese pharmaceutical company having office located in Chicago area Worked on requirement analysis, design, coding, unit testing,
+documentation, maintenance and application support of Siebel 7.8.3 SFA application Managed the Global PC Refresh project ensuring
+Siebel works well with Windows 7 Deployed the customized Siebel application on new operating system to over 1000 Reps Client: A
+Japanese pharmaceutical company having office located in New Jersey Developed and configuring Siebel 7.8 ePharma applications.
+Worked on gathering requirements, created prototypes, met with various business users including business support, sales and marketing
+teams to capture business requirements Performed Unit testing, System testing and Performance testing.
+Company Name November 2004 to August 2007 Analyst 
+City
+Responsible for maintaining critical Client information pertaining to 7 cost centers Work extensively on Crystal Reports to retrieve any kind
+of information required by client.
+Suggest initiatives that can bring time/ hard dollar save.
+Analyze and send MIS reports to various teams and department heads across JP Morgan.
+Professional Achievements/Trainings Received "Applause Award" in 2011 and 2012 for outstanding value to client service in Deloitte.
+Have worked on multiple sales pursuits specifically contributing around technical feasibility and estimation.
+Salesforce.com Administration Essentials Salesforce.com Force.com Developer.
+Education and Training
+Welingkar Institute of Management Development and Research April 2005 Diploma : Finance Management Accounting and Finance India Finance
+Management Accounting and Finance
+University of Mumbai May 2004 IT : IT India IT
+Skills
+approach, art, benefits, developing business, Change Management, com, CRM, Crystal Reports, Client, Data Warehouse, documentation,
+Financial Management, Functional, health information technology, ICM, Information Technology, Japanese, Java Script, marketing, meetings,
+Access, MS Excel, office, Power Point, Windows 7, win, Word, works, MIS, next, operating system, optimization, Oracle, Developer,
+processes, coding, Project Leadership, quality, Recruitment, reporting, requirement, Sales, scripts, Siebel, Siebel 7.8.3, Siebel 7.8, SQL, strategy,
+Training Delivery, translation, troubleshoot, VBScript, VB

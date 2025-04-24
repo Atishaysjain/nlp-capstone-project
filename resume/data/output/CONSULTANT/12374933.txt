@@ -1,0 +1,150 @@
+IT CONSULTANT
+Professional Summary
+Support Engineer with Public Trust Clearance and 10 years of Information Technology experience in installing, maintaining, and repairing
+hardware, software, and networks. Work well independently, or in a group setting providing all facets of server, computer and network support.
+Fluent in Spanish.
+Core Qualifications
+Technical Hardware: Windows, Macintosh, IBM, Dell, Toshiba, Sony, HP, Cisco routers, switches, network printers Operating Systems and
+Networks: Windows 8.1, Windows 8, Windows 7, Vista, Windows XP, 2000, 98, Windows Server 2008, 2003, Linux, TCP/IP, DNS,
+DHCP, FTP, VPN; OS X Lion and Mavericks Applications /Software Tools: Microsoft Office 2010, 2007 & 2003, Visio, Adobe Acrobat,
+Photoshop, Lotus Notes, Symantec Ghost, Symantec PC Anywhere, Dameware, McAfee Antivirus, ImageX, Trend, Putty, WebEX, Westlaw,
+Parallels Desktop, Microsoft Virtual Server 2005, VM Infrastructure Client, Juniper & Cisco VPN Medical Applications: Casetrakker,
+eClinicalWorks Databases: Access and MySQL Ticketing Systems: Service Manager, Remedy, Heat, Altiris, Jira
+Experience
+September 2014
+to
+November 2014
+Company Name City , State IT Consultant
+Developed plan for network management platform for release software upgrades for SevOne customers, to include procedures and scripts
+for backup, high availability continuity of polling during upgrade, and data stitching upon completion.
+Backed up data, restored solutions and data migrations for hardware refresh, cluster migrations and cluster re-alignment projects with
+customers.
+Actively contributed to the consistent improvement in processes and scripts/automation in delivery of services.
+Troubleshoot issues on Linux servers, Apache Web Server, MySQL, PHP and automation scripts for SevOne clients.
+November 2011
+to
+September 2014
+Company Name City , State Systems/Test Engineer
+Contractor for U.S. Immigration and Customs Enforcement at Department of Homeland Security.
+Provided tier 1-3 technical and application support for 60 headquarters staff and 900 remote medical staff users. 2,000 website users with
+account creation, updating of accounts and issues with website.
+Administered and performed account creation, deletion, permissions and configuration for Medical Applications (Casetrakker and
+eClinicalWorks) and also related network accounts in Active Directory.
+Tested Casetrakker medical software to identify root causes, verify reported problems or validate and verify resolved issues.
+Setup user accounts, rights, security, systems and network groups with appropriate system and network privileges. Coordinated action with
+local ITFO's to resolve issues that required escalated issues.
+Performed peripheral and software installations and upgrades on Servers and Desktops including testing of peripheral integration with
+eClinicalWorks and testing of new eClinicalWorks builds.
+Traveled to field sites to as Lead Engineer for deployment, migration and desktop refreshes to new network.
+Maintained IT hardware and peripheral inventory storage.
+Developed and maintained test cases, create test data and gather results and/or statistics to allow for analysis of issues, leading to
+satisfactory resolutions.
+Run 3rd party tools such as CDS admin to test workstations and Mid-Tier Diagnostics.
+Tested and provided technical support to local and Field Case Managers users for medical-related applications; eClinicalWorks,
+appointment scheduling software, and various databases.
+Maintained configuration management, IT procurement and maintenance renewal documentation. Created and updated network diagrams
+using Microsoft Visio to provide for presentations.
+Installed, configured, and supported virtual machines in VMware Vcenter.
+August 2008
+to
+November 2011
+Company Name City , State Systems Administrator
+Provided tier 2 - 3 level support for 400 local end users and 150 remote users.
+Performed computer and user account creation, deletion, and configuration in Active Directory.
+Hardware installation and maintenance of workstations, servers, and networking equipment.
+Imaged computers and laptops using Ghost and ImageX.
+Administered Symantec VERITAS Backup Exec to make sure backups are successful and change tapes.
+Installed and configured Windows Server 2003 & 2008.
+Administer Blackberry Exchange Servers; Reset passwords, wipe blackberry data.
+Installed Blackberry software and setup Blackberry phones and IPADS for end users.
+Configured and troubleshoot network printers on a LAN. Performed LAN/WAN troubleshooting on any network.
+Coordinated new desktop equipment deployment and manage loaner hardware pool.
+Created and configured VMs (Virtual Machines) and allocate corresponding system resources as required.
+Installed, configured current and future versions of TCP/IP networking and remote access software:VPN, iPASS, Citrix.
+Lead and managed small projects locally such as Microsoft 2007 SCCM deployments in a small-scale global environment of 50 users.
+Deployed, evaluated and tested new software in production environment. Provided recommendation and if necessary implemented planning
+and assistance upon testing completion.
+January 2008
+to
+April 2008
+Company Name City , State Analyst (Contractor)
+Resolved application and technical issues for 3,000 customers needing assistance on HopOne Internet Services.
+Server hardware up/downgrades for 3,000 servers. Setup user accounts, rights, security, systems and network groups with appropriate
+system and network privileges.
+Server reboots and re/installs for Windows and different versions of Linux such as Fedora, Ubuntu, CentOS, and Red Hat.
+Setup cables, server racks, router and switches in the data center.
+Utilize a variety of monitoring tools and network element management systems to triage, troubleshoot and remotely repair problems.
+October 2007
+to
+January 2008
+Company Name City , State Helpdesk Analyst (Contractor)
+Responded to telephone calls, email and personnel requests for technical support for Department of Defense.
+Troubleshoot desktop, server, LAN/WAN, hardware and software for 2,000 remote users and 80 local users.
+Implemented file backups and configured systems and applications.
+Dispatched technicians and maintain track of tickets.
+Maintained network printers, laptop & desktop computers along with the associated peripherals.
+June 2007
+to
+October 2007
+Company Name City , State Project Team Lead (Contractor)
+Managed, lead, and served as Tier 2 escalation support for 11-15 technicians on a daily bases with hardware/software issues on Windows
+Server 2003.
+Provided Service Level Agreements and technician deliverables to make sure they were met.
+Created and posted reports to Access database with information on types on installations, dates, inn codes, technicians, and whether sites
+were completed or aborted.
+support of management initiatives to improve services, add value or reduce cost in line with the business goals.
+Resolved local IT support for hardware and software problems, including end user desktops, laptops and blackberry phones.
+Troubleshoot and configured network printers and replace maintenance kits.
+October 2006
+to
+June 2007
+Company Name City , State Data Analyst (Contractor)
+Participated in the development of configuration protocols, requirements/design documentation and definition of medicare test cases.
+Ensured that project data, data listings/transfer and reports were reviewed and corrected.
+Refined Access database reports to extract selected data that is useful for creating a monitoring plan.
+Analyzed state process and collaborated with hospital clinical staff to identify business and functional requirements.
+Responsible for Tier 1-2 hardware, software and network support to 100 medical staff.
+Use database tools (Microsoft Access), programming/scripting languages (SQL), spreadsheets (Excel) and word processing (Word) to run
+queries for data.
+June 2005
+to
+June 2006
+Company Name City , State Document Analyst
+Built and executed data queries via Access and SQL to identify trends and resolve data issues for Department of Transportation.
+Provided accurate and appropriate interpretation of data, applying knowledge to evaluation, analysis and interpretation of data.
+Transferred and manipulated existing data to edit current information or proof read new entries in Access database for accuracy.
+Deployment, configuration and technical support for desktops and laptops for 100 end users.
+Reviewed reports created by consultants as part as the QA process to maintain a 95% or better score.
+November 2004
+to
+May 2005
+Company Name City , State Contractor
+Provided Tier 1 technical support to 300 end users with hardware, software, and application problems.
+Installed, upgraded, and maintained desktop and portable computer hardware, software, printers, and peripherals.
+Updated and maintained the automated recall information system using Access database.
+Handled between 30-40 incoming calls on a daily basis, created tickets and gathered information to resolve or escalate technical issues.
+Education
+Stratford University City , State , US Associate of Applied Science : Network Management and Security Stratford University, Woodbridge, VA
+Associate of Applied Science in Network Management and Security, Graduated October 2014
+Stratford University City , State , US Bachelor of Science : Information Technology, Network Engineering Stratford University, Woodbridge, VA
+Pursuing Bachelor of Science in Information Technology with Concentration in Network Engineering 10/2014 - Present
+Presentations
+Maintained configuration management, IT procurement and maintenance renewal documentation. Created and updated network diagrams using
+Microsoft Visio to provide for presentations
+Certifications
+New Horizons Computer Learning Center, Atlanta, GA CompTia A+ and Network Sunset Learning Center Red Hat System Administration I
+(RH124)
+Languages
+Fluent in Spanish.
+Skills
+Deployment, Maintenance, Active Directory, Testing, Workstations, Access, Technical Support, Printers, Blackberry, Windows Server 2003,
+Cases, Documentation, Test Cases, Backups, Lan, Lan/wan, Integration, Integrator, Backup Exec, Citrix, Exchange, Ghost, Hardware
+Installation, Networking, Production Environment, Remote Access, Symantec, Tcp, Tcp/ip, Veritas, Veritas Backup Exec, Vms, Vpn, Wan
+Troubleshooting, Security, Accounts And, Accounts In, Application Support, Change Management, Configuration Management, Databases,
+Engineer, Immigration, Inventory, It Procurement, Lead Engineer, Microsoft Visio, Of Accounts, Procurement, Scheduling, Scheduling Software,
+Statistics, Test Engineer, Visio, Vmware, Database, Sql, Qa, Qa Process, Data Analyst, Design Documentation, Excel, Medicare, Microsoft
+Access, Ms Access, Scripting, Word, Basis, Incoming Calls, Systems Integration, Acrobat, Adobe Acrobat, Altiris, Cisco, Comptia, Dhcp, Dns,
+Facets, Ftp, Juniper, Learning Center, Learning Centers, Lotus Notes, Microsoft Office, Microsoft Office 2010, Ms Office, Office 2010, Pc
+Anywhere, Photoshop, Remedy, Symantec Pc Anywhere, System Administration, Systems Administration, Virtual Machine, Virtual Server, Vm,
+Westlaw, Windows 7, Windows 8, Windows Server 2008, Windows Xp, Wise, Linux, It Support, Service Level Agreements, Team Lead, Data
+Center, Red Hat, Router, File, Helpdesk, Telephone, Apache, Clients, Migrations, Mysql, Php, Solutions, Web Server, Associate

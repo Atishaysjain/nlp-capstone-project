@@ -1,0 +1,146 @@
+SOFTWARE DEVELOPER
+Professional Summary
+Enthusiastic computer engineer eager to contribute to team success through hard work, attention to detail and excellent organizational skills.
+Technical professional with complete understanding of entire software development life cycle. Respectful self-motivator gifted at finding reliable
+solutions for software issues. Experienced in c#, python, HTML, SQL, node.js/javascript and working knowledge of Restful API design &
+implementations. Fluent in English and Turkish and accustomed to working with cross-cultural, global teams.
+Skills
+C#, HTML, CSS, JavaScript, 5 years of experience
+SQL, 5 years of experience
+Python, MatLab, MongoDB, Tableau, Node JS
+Frameworks: .Net, Devexpress, TensorFlow, Keras, Scikit-learn, Pandas, NLTK.
+Search Engine Optimization
+Net
+API
+CSS
+Clients
+Database development
+Designing
+English
+HTML
+Image processing
+JavaScript
+Leadership
+Marketing
+MatLab
+C#
+Office
+Windows
+Project management
+Speaker
+Python
+Sales
+Search Engine Optimization
+Spanish
+SQL
+System architecture
+Turkish
+User Interface
+Web site
+Written
+Work History
+Software Developer , 12/2015 to Current 
+Company Name â€“ City , State 
+Project was tasked to design an Internal Marketing System using c#,SQL, HTML,.net, devexpress.
+Amazon,Walmart,eBay and Shopify.
+API's were integrated.
+The system records the end to end process.
+A scalable system architecture to support high-availability Internet site with various internal applicationswas key.
+My responsibilities were:.
+Integration of marketplace APIs.
+Coordinated with project management staff on database development timelines and project scope.
+Revised, modularized and updated old code bases to modern development standards.
+Authored code fixes and enhancements for inclusion in future code releases and patches.
+The successful launch of these applications enabled company growth of 30%.
+Computer Engineer Intern , 06/2013 to 09/2013 
+Company Name â€“ City 
+Tested the User Interface for Web site and provided feedback to increase user satisfaction, reduce reaction time and improve site
+mappings.
+Executed Performance testing on internal applications, documented results and maintained logs.
+Computer Engineer Intern , 06/2012 to 09/2012 
+Company Name â€“ City 
+Our team has created an application for Turkish Patent and Trademark Office using MatLab, C#, SQL and HTML.
+My responsibilities within that team was:.
+Developed the FAQ and Support part of the web site.
+Researched various studies and recommended alternate algorithms for Image processing to increase accuracy and speed.
+Tested and documented prototypes and standard products.
+Maintained positive work atmosphere by building relationships with co-workers, customers, clients and management.
+PROJECTS Question Answering System: As the sole resource on this project created a windows application with Phyton for COVID-19
+related questions using BERT and ELMO language models.
+The Frameworks were Pandas, Tensorflow, NLTK.
+Data Visualization Tool: The objective of this project was to analyze communication structures, employee relationships and suspicious
+transactions by designing and implementing a data visualization tool.
+The dataset included the VAST Challenge 2019 dataset with over 100,000+ data.
+The Frameworks were Flask, Pandas and the Language was Phyton.
+My responsibilities were data cleansing and data categorization.
+From the data visualization Leadership was able to get insight in the growth, sales, costs and make decisions towards better performance.
+Pre-Assess Melanoma: The objective of the project was to create a system that could pre-assess malignant melanoma using Matlab
+Language and image processing algorithms.
+The system was trained with the images of malignant and healthy images.
+My responsibilities included all development, testing and training.
+The User Interface was the responsibility of other team member.
+This system enabled the users to seek healthcare at earlier stages of melanoma.
+Education
+IN : Expected in 06/2021 
+Rowan University - City , State 
+Bachelor of Science : Computer Engineering , 06/2015 
+Selcuk University - City 
+Master of Science State 
+Work History
+Software Developer , 12/2015 to Current 
+Company Name â€“ City , State 
+Project was tasked to design an Internal Marketing System using c#,SQL, HTML,.net, devexpress.
+Amazon,Walmart,eBay and Shopify.
+API's were integrated.
+The system records the end to end process.
+A scalable system architecture to support high-availability Internet site with various internal applications was key.
+My responsibilities were:.
+Integration of marketplace APIs.
+Coordinated with project management staff on database development timelines and project scope.
+Revised, modularized and updated old code bases to modern development standards.
+Authored code fixes and enhancements for inclusion in future code releases and patches.
+The successful launch of these applications enabled company growth of 30%.
+Computer Engineer Intern , 06/2013 to 09/2013 
+Company Name â€“ City 
+Tested the User Interface for Web site and provided feedback to increase user satisfaction, reduce reaction time and improve site
+mappings.
+Executed Performance testing on internal applications, documented results and maintained logs.
+Computer Engineer Intern , 06/2012 to 09/2012 
+Company Name â€“ City 
+Our team has created an application for Turkish Patent and Trademark Office using MatLab, C#, SQL and HTML.
+My responsibilities within that team was:.
+Developed the FAQ and Support part of the web site.
+Researched various studies and recommended alternate algorithms for Image processing to increase accuracy and speed.
+Tested and documented prototypes and standard products.
+Maintained positive work atmosphere by building relationships with co-workers, customers, clients and management.
+PROJECTS Question Answering System: As the sole resource on this project created a windows application with Phyton for COVID-19
+related questions using BERT and ELMO language models.
+The Frameworks were Pandas, Tensorflow, NLTK.
+Data Visualization Tool: The objective of this project was to analyze communication structures, employee relationships and suspicious
+transactions by designing and implementing a data visualization tool.
+The dataset included the VAST Challenge 2019 dataset with over 100,000+ data.
+The Frameworks were Flask, Pandas and the Language was Phyton.
+My responsibilities were data cleansing and data categorization.
+From the data visualization Leadership was able to get insight in the growth, sales, costs and make decisions towards better performance.
+Pre-Assess Melanoma: The objective of the project was to create a system that could pre-assess malignant melanoma using Matlab
+Language and image processing algorithms.
+The system was trained with the images of malignant and healthy images.
+My responsibilities included all development, testing and training.
+The User Interface was the responsibility of other team member.
+This system enabled the users to seek healthcare at earlier stages of melanoma.
+Publications
+English for Science, Technology, Engineering, and Mathematics University of Virginia Darden School of Business Getting Started: Agile Meets
+Design Thinking University of Pennsylvania Biology Meets Programming: Bioinformatics for Beginners Coursera Course Certificates
+Languages
+Fluent in written and spoken English
+Spanish B1 level
+Native speaker of Turkish
+Skills
+C#, HTML, CSS, JavaScript, 5 years of experience
+SQL, 5 years of experience
+Python, MatLab, MongoDB, Tableau, Node JS
+Frameworks: .Net, Devexpress, TensorFlow, Keras, Scikit-learn, Pandas, NLTK.
+Search Engine Optimization,
+Net, API, CSS, clients, database development, designing, English, HTML, Image processing, JavaScript, Leadership, Marketing, MatLab, C#,
+Office, windows, project management, speaker, Python, sales, Search Engine Optimization, Spanish, SQL, system architecture, Turkish, User
+Interface, Web site, written

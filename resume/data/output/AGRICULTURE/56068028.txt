@@ -1,0 +1,81 @@
+LEAD SENIOR SAP AUDITOR
+Career Focus
+Insightful, results-driven IT professional and CISSP with 6 years of risk assurance advisory experience in information technology security. Notable
+success directing a broad range of IT security assessments and corporate initiatives while participating in planning, analysis, and implementation of
+solutions in support of business objectives. Hands-on experience leading all stages of system development efforts, including requirements definition,
+design, architecture, testing, and support.Â 
+Certificates & Awards
+Certified Public Accountant (CPA)
+Certified Information System Security Professional (CISSP)
+Certificate of Cloud Security Knowledge (CCSK)
+Certified Internal Audit (CIA)
+Certified Information System Auditor (CISA)
+Industry Proficiency certified in Oil & Gas and Public Sector at Deloitte
+Earned Applause awards 5 times for Excellent Engagement Performance at Deloitte
+Professional Experience
+Lead Senior SAP Auditor 
+February 2014 to Current Company Name - City , State
+Evaluated the effectiveness of corporate security policies and influence best practice change by utilizing root cause analysis of audit results
+across multiple units
+Developed and maintained standardized audit programs to assess the policies and procedures governing corporate security, email and
+Internet usage, access control, and incident response
+Planned, supervised and coached IT auditors assigned on audits; develop and managed security awareness and training initiatives to
+promote the success of company-wide IT complianceÂ Â Â Â Â Â Â Â 
+Developed and enhanced the corporate information security management framework based on COBIT
+Prepared and delivered recommendations enforcing cyber security best practices alongside executive management including CIO and CFO;
+presented security concepts, technologies, and risk mitigations to the business groups
+Identified on-board/off-board gap impacting Access Management, resolved by updating organizational procedure shortfalls
+Advised the development and implementation of Business Continuity and Disaster Recovery (BCP&DRP) Plans for 2 corporate R&D, 4
+manufacture, and 1 commercial site Â Â 
+Recruited and led 3 security contractors build the risk assessment team charged with analyzing critical infrastructure, developing reports to
+document system vulnerabilities, and recommending appropriate solutions
+Managed and executed a proactive continuous risk assessment process focusing on emerging risk throughout the corporation
+Collaborated with external auditors to conduct in-depth compliance audits and penetration testing, presenting results to seniorÂ 
+Led internal audit exit meetings to discuss findings and management action plans, and planned and executed follow-up testing to ensure
+action plans were properlyÂ 
+Demonstrated autonomous decision making and critical thinking skills in performing analytical procedures, ensuring the effectiveness of the
+scope of the engagement
+Senior SAP Security and Control Consultant 
+September 2010 to January 2014 Company Name - City , State
+Conducted system security assessments based on NIST 800-53 for a public sector
+Generated security documentation, including: security assessment reports; system security plans; contingency plans; and disaster recovery
+plans
+Provided security support and evaluation to development teams in order to integrate information assurance/security throughout the System
+Life Cycle Development of major and minor application releases
+Configured and installed of GRC at various clients and ensured that segregation of duties (SOD) policies are successfully highlighted or
+mitigated, customized the ruleset at action and permission level for SOD violations 
+Utilized Suite GRC 5.3 to perform SOD analysis within the Risk Analysis Remediation module (RAR), created and provisioned Super User
+Privilege Management (SPM) roles & user ID's through the SPM module and created user access requests in the Compliant User
+Provisioning (CUP) module
+Designed and created SAP roles including parent/derived composite and single security roles, security processes and user assignment
+workflows, and custom security restrictions; investigated and resolved SAP security issues through creation and changes to security roles
+Leveraged SAP's profile generator and authorization management tool to address security defects during a project's testing cycles, scope
+change requests and production support
+Consulted with key project and client stakeholders to solicit into the business and IT process control design
+Led control validation workshops with client team members Managed integration activities across related project teams and driving cross-
+team issue; coordinated with project team leads (functional and technical) and SAP security team members to resolve issues timely
+Led an internal team to develop the Enterprise Value Delivery methodology and templates for the SAP implementation engagements;
+developed training programs on firm technology project standards and delivered the training to ~200 professionals
+Audit Intern 
+January 2010 to August 2010 Company Name - City , State
+Assessed the accessibility for 2 University of Texas websites accessed by 30,000+ users; developed the test scripts recurrently used by
+other engagements
+Worked closely with the department head to deploy an automated audit tool that led to streamlined processes
+Provided training sessions to 7 summer interns about the Audit Process
+IT Audit Intern 
+January 2009 to August 2009 Company Name - City , State
+Worked with Team Manager to consolidate 3 excel reports into one dashboard to monitor the 10-student team productivity to better
+manage multiple audit engagements
+Promoted to the lead of 10 interns and assisted the director to manage the project status
+Education
+Master : Accounting (GPA 3.7) , 2009 McCombs School of Business; University of Texas at Austin; Austin, TX
+B.S : Accounting (GPA 4.0) , 2008 Jinan University; Guangzhou, China
+System Experience
+Enterprise Resource Planning (ERP) Business Solution - SAP GRC 10.1, SAP ECC 6.0, SRM 7.0, EWM 9.1, Sourcing 7.0, Solution
+Manager 7.01, BW 7.01, BPC 10.0, PI 7.3, Model N 5.6
+Quality Software - HP Quality Center, Service Desk, IT Remedy, ServiceNow Platform
+Data Analysis - MS Excel, MS Access, QlikView
+Hobbies and Interest
+A serious cyclist and obstacle racer with a competitive mindset
+A world traveler and have been to 25 countries in 2 years
+Passionate about house improvement projects
