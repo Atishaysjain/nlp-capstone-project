@@ -6,6 +6,10 @@ import spacy
 import nltk
 from collections import defaultdict
 from nltk.corpus import stopwords
+from preprocessor import EncoderWithChunks
+import torch
+import json
+import matplotlib.pyplot as plt
 
 nltk.download('stopwords', quiet=True)
 stop_words = set(stopwords.words('english'))
@@ -106,8 +110,30 @@ def extract_resume_sections(pdf_path):
 
 
 #generate embeddings from resume sections
-def generate_embeddings(structured_resume_path):
+def generate_embeddings(sections_dict, model_name="sentence-transformers/all-mpnet-base-v2", device="cpu"):
     print("Generating embeddings for resume sections...")
+    
+    encoder = EncoderWithChunks(model_name=model_name, framework="pt", device=device)
+
+    section_keys = [
+        "summary", "experience", "skills", "education",
+        "interest", "projects", "certifications", "publications"
+    ]
+
+    embeddings = []
+    for key in section_keys:
+        text = sections_dict.get(key, "")
+        if not text.strip():
+            embeddings.append([])
+        else:
+            encoded = encoder.encode(text)
+            serialized = [e.tolist() for e in encoded]
+            embeddings.append(serialized)
+
+    del encoder
+    torch.cuda.empty_cache()
+
+    return embeddings
 
 
 #match the resume to job descriptions
@@ -121,6 +147,22 @@ def main():
     #extract text from PDF resume into structured CSV
     structured_resume_csv = extract_resume_sections(input_pdf)
     print(structured_resume_csv)
+
+    #convert to dict with proper keys
+    section_names = [
+        "summary", "experience", "skills", "education",
+        "interest", "projects", "certifications", "publications"
+    ]
+    sections_dict = dict(zip(section_names, structured_resume_csv))
+
+    #generate embeddings
+    embeddings = generate_embeddings(sections_dict)
+
+    for i, section in enumerate(section_names):
+        print("\nEmbeddings for section ",section,":")
+        print(embeddings[i][:1]) 
+
+
 
 
 if __name__ == "__main__":
