@@ -10,10 +10,150 @@ from preprocessor import EncoderWithChunks
 import torch
 import json
 import matplotlib.pyplot as plt
+from sklearn.metrics.pairwise import cosine_similarity
+import numpy as np
 
 nltk.download('stopwords', quiet=True)
 stop_words = set(stopwords.words('english'))
 nlp = spacy.load("en_core_web_sm")
+
+
+models = [
+    "sentence-transformers/all-MiniLM-L6-v2",
+]
+
+EMB_COLS = [
+    "summary-embeddings", "experience-embeddings", "skills-embeddings",
+    "education-embeddings", "interest-embeddings", "projects-embeddings",
+    "certifications-embeddings", "publications-embeddings"
+]
+
+cls_dimensions = {
+    "bert-base-uncased": 768,
+    "bert-large-uncased": 1024,
+    "distilbert-base-uncased": 768,
+    "roberta-base": 768,
+    "albert-base-v2": 768,
+    "sentence-transformers/all-mpnet-base-v2": 768,
+    "sentence-transformers/all-MiniLM-L6-v2": 384
+}
+
+EXCLUDED_CATEGORIES = {
+    "ADVOCATE", "AGRICULTURE", "APPAREL", "ARTS", "AUTOMOBILE",
+    "BPO", "BUSINESS-DEVELOPMENT", "CONSULTANT", "DIGITAL-MEDIA", "PUBLIC-RELATIONS", "SALES",
+    "FITNESS",
+}
+
+def decode_and_pool_embedding(cell, dim=768):
+    try:
+        # Step 1: decode if string
+        if isinstance(cell, str):
+            cell = json.loads(cell)
+        
+        # Step 2: if still empty or bad
+        if not cell:
+            return np.zeros(dim)
+
+        # Step 3: pool multiple chunks
+        return np.mean([np.array(c) for c in cell], axis=0)
+    
+    except Exception as e:
+        print(f"Error pooling embedding: {e}")
+        return np.zeros(dim)
+
+def evaluate_predictions(predictions: dict, ground_truth: dict, resume_categories: dict, k: int = 25, ground_truth_top_k: int = 5):
+    top1_hits = 0
+    mrr = []
+    evaluated_count = 0
+    top5_coverage = []
+    top5_hits = []
+
+    for filename, pred_indices in predictions.items():
+        category = resume_categories.get(filename, "Unknown").upper()
+        if category in EXCLUDED_CATEGORIES:
+            continue
+
+        true_indices = ground_truth.get(filename, [])
+        if not true_indices:
+            continue
+
+        true_indices = true_indices[:ground_truth_top_k]
+
+        # Top-1 Accuracy (is top-1 prediction in top-5 GT)
+        if pred_indices[0] in true_indices:
+            top1_hits += 1
+
+        top5_pred = set(pred_indices[:k])
+        top5_truth = set(true_indices[:ground_truth_top_k])
+        top5_match_count = len(top5_pred & top5_truth)
+        top5_hits.append(top5_match_count / 5)
+
+        # Top-5 Recall: how many of the top-5 GT are found in top-25 predictions
+        top5_covered = len(set(true_indices[:5]) & set(pred_indices[:25]))
+        top5_coverage.append(top5_covered / 5)
+
+        # MRR: rank of first correct match in top 25
+        reciprocal_rank = 0
+        for rank, pred in enumerate(pred_indices[:k], start=1):
+            if pred in true_indices:
+                reciprocal_rank = 1 / rank
+                break
+        mrr.append(reciprocal_rank)
+
+        evaluated_count += 1
+
+    return {
+        "Top-1 Accuracy": top1_hits / evaluated_count if evaluated_count else 0,
+        "Top-5 GT Covered in Top-25 Preds": sum(top5_coverage) / evaluated_count if evaluated_count else 0,
+        "MRR": sum(mrr) / evaluated_count if evaluated_count else 0,
+        "Evaluated Samples": evaluated_count
+    }
+
+def normalize_filename(filename):
+    return filename.replace(".pdf", "").replace(".txt", "")
+
+gt_df = pd.read_csv("resume_matches_output.csv")
+
+def get_ground_truth(row):
+    return [
+        row["top match JD 1 index"],
+        row["top match JD 2 index"],
+        row["top match JD 3 index"],
+        row["top match JD 4 index"],
+        row["top match JD 5 index"],
+    ]
+
+ground_truth = {
+    normalize_filename(row["filename"]): get_ground_truth(row)
+    for _, row in gt_df.iterrows()
+}
+
+#mapping resume section → JD section
+section_dict = {
+    "skills-embeddings": [
+        "Required_Skills-embedding"
+    ],
+    "education-embeddings": [
+        "Educational_Requirements-embedding"
+    ],
+    "experience-embeddings": [
+        "Experience_Level-embedding",
+        "Core_Responsibilities-embedding"
+    ],
+    "summary-embeddings": [
+        "Core_Responsibilities-embedding",
+        "Experience_Level-embedding",
+    ]
+}
+
+#weights per resume section
+section_weights = {
+    "skills-embeddings": 0.45,
+    "education-embeddings": 0.1,
+    "experience-embeddings": 0.35,
+    "summary-embeddings": 0.1
+}
+
 
 #define known headers
 SECTION_HEADERS = {
@@ -110,7 +250,7 @@ def extract_resume_sections(pdf_path):
 
 
 #generate embeddings from resume sections
-def generate_embeddings(sections_dict, model_name="sentence-transformers/all-mpnet-base-v2", device="cpu"):
+def generate_embeddings(sections_dict, model_name="sentence-transformers/all-MiniLM-L6-v2", device="cpu"):
     print("Generating embeddings for resume sections...")
     
     encoder = EncoderWithChunks(model_name=model_name, framework="pt", device=device)
@@ -137,12 +277,75 @@ def generate_embeddings(sections_dict, model_name="sentence-transformers/all-mpn
 
 
 #match the resume to job descriptions
-def match_to_jobs(embedding_csv_path):
+def match_to_jobs(resume_embeddings, resume_filename="unknown_resume.pdf", resume_category="unknown", model_name="sentence-transformers/all-MiniLM-L6-v2", device="cpu"):
     print("Matching resume to job descriptions...")
+
+    safe_model_name = model_name.replace("/", "_").replace("-", "_")
+    embedding_model_name = model_name.replace("/", "_")
+    EMB_DIM = cls_dimensions[model_name]
+
+    # Load JD data and decode their embeddings
+    base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+    jd_path = os.path.join(base_dir, "jd_embeddings", f"jd_{embedding_model_name}.csv")
+    jd_data = pd.read_csv(jd_path)
+
+    # Decode JD section embeddings
+    all_jd_cols = {col for jd_cols in section_dict.values() for col in (jd_cols if isinstance(jd_cols, list) else [jd_cols])}
+    for jd_col in all_jd_cols:
+        jd_data[jd_col] = jd_data[jd_col].apply(lambda x: decode_and_pool_embedding(x, EMB_DIM))
+    jd_vectors_dict = {col: np.stack(jd_data[col].values) for col in all_jd_cols}
+
+    # Prepare resume embedding dict
+    section_keys = list(section_dict.keys())
+    resume_vectors_dict = {}
+    for i, section in enumerate(section_keys):
+        pooled_vector = decode_and_pool_embedding(resume_embeddings[i], EMB_DIM)
+        resume_vectors_dict[section] = pooled_vector.reshape(1, -1)  # 2D for cosine_similarity
+    
+
+    # Compute weighted similarity between resume and JDs
+    num_jds = len(jd_data)
+    similarities = np.zeros(num_jds)
+
+    for res_col, jd_cols in section_dict.items():
+        print("Resume vector shape:", resume_vectors_dict[res_col].shape)
+        print("JD vectors shape:", jd_vectors_dict[jd_col].shape)
+        weight = section_weights.get(res_col, 1.0)
+        jd_cols = jd_cols if isinstance(jd_cols, list) else [jd_cols]
+
+        sim_sum = np.zeros(num_jds)
+        for jd_col in jd_cols:
+            sim_matrix = cosine_similarity(resume_vectors_dict[res_col], jd_vectors_dict[jd_col])
+            sim_sum += sim_matrix[0]  # shape: (num_jds,)
+        
+        sim_avg = sim_sum / len(jd_cols)
+        similarities += weight * sim_avg
+
+    # Get top 5 matches
+    top_indices = np.argsort(-similarities)[:5]
+    output_rows = []
+
+    for rank, job_idx in enumerate(top_indices, start=1):
+        output_rows.append({
+            "resume_filename": resume_filename,
+            "resume_category": resume_category,
+            "gold_jd_indices": [],  # You can fill this from ground truth if needed
+            "predicted_rank": rank,
+            "predicted_jd_index": job_idx,
+            "predicted_jd_title": jd_data.iloc[job_idx].get("position_title", "N/A"),
+            "predicted_jd_company": jd_data.iloc[job_idx].get("company_name", "N/A"),
+            "predicted_jd_description": jd_data.iloc[job_idx].get("job_description", "N/A"),
+            "similarity_score": similarities[job_idx]
+        })
+
+    return output_rows
 
 
 def main():
     input_pdf = "/Users/sumukharadhya/Downloads/273_NLP/capstone/nlp-capstone-project/resume/data/data/ENGINEERING/10030015.pdf"
+    resume_filename = os.path.basename(input_pdf)
+    resume_category = "ENGINEERING"
+
 
     #extract text from PDF resume into structured CSV
     structured_resume_csv = extract_resume_sections(input_pdf)
@@ -161,6 +364,20 @@ def main():
     for i, section in enumerate(section_names):
         print("\nEmbeddings for section ",section,":")
         print(embeddings[i][:1]) 
+    
+    top_matches = match_to_jobs(
+        embeddings,
+        resume_filename=resume_filename,
+        resume_category=resume_category,
+        model_name="sentence-transformers/all-MiniLM-L6-v2",
+        device="cpu"
+    )
+
+    print("\nTop 5 Matching Job Descriptions:\n")
+    for match in top_matches:
+        print(f"Rank {match['predicted_rank']}: {match['predicted_jd_title']} at {match['predicted_jd_company']}")
+        print(f"    ↳ Similarity: {match['similarity_score']:.4f}")
+        print(f"    ↳ Description: {match['predicted_jd_description'][:150]}...\n")
 
 
 
