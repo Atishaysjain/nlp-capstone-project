@@ -12,6 +12,7 @@ import json
 import matplotlib.pyplot as plt
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
+import csv
 
 nltk.download('stopwords', quiet=True)
 stop_words = set(stopwords.words('english'))
@@ -284,26 +285,26 @@ def match_to_jobs(resume_embeddings, resume_filename="unknown_resume.pdf", resum
     embedding_model_name = model_name.replace("/", "_")
     EMB_DIM = cls_dimensions[model_name]
 
-    # Load JD data and decode their embeddings
+    #load JD data and decode their embeddings
     base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
     jd_path = os.path.join(base_dir, "jd_embeddings", f"jd_{embedding_model_name}.csv")
     jd_data = pd.read_csv(jd_path)
 
-    # Decode JD section embeddings
+    #decode JD section embeddings
     all_jd_cols = {col for jd_cols in section_dict.values() for col in (jd_cols if isinstance(jd_cols, list) else [jd_cols])}
     for jd_col in all_jd_cols:
         jd_data[jd_col] = jd_data[jd_col].apply(lambda x: decode_and_pool_embedding(x, EMB_DIM))
     jd_vectors_dict = {col: np.stack(jd_data[col].values) for col in all_jd_cols}
 
-    # Prepare resume embedding dict
+    #prepare resume embedding dict
     section_keys = list(section_dict.keys())
     resume_vectors_dict = {}
     for i, section in enumerate(section_keys):
         pooled_vector = decode_and_pool_embedding(resume_embeddings[i], EMB_DIM)
-        resume_vectors_dict[section] = pooled_vector.reshape(1, -1)  # 2D for cosine_similarity
+        resume_vectors_dict[section] = pooled_vector.reshape(1, -1)
     
 
-    # Compute weighted similarity between resume and JDs
+    #compute weighted similarity between resume and JDs
     num_jds = len(jd_data)
     similarities = np.zeros(num_jds)
 
@@ -321,7 +322,7 @@ def match_to_jobs(resume_embeddings, resume_filename="unknown_resume.pdf", resum
         sim_avg = sim_sum / len(jd_cols)
         similarities += weight * sim_avg
 
-    # Get top 5 matches
+    #get top 5 matches
     top_indices = np.argsort(-similarities)[:5]
     output_rows = []
 
@@ -329,7 +330,7 @@ def match_to_jobs(resume_embeddings, resume_filename="unknown_resume.pdf", resum
         output_rows.append({
             "resume_filename": resume_filename,
             "resume_category": resume_category,
-            "gold_jd_indices": [],  # You can fill this from ground truth if needed
+            "gold_jd_indices": [],
             "predicted_rank": rank,
             "predicted_jd_index": job_idx,
             "predicted_jd_title": jd_data.iloc[job_idx].get("position_title", "N/A"),
@@ -339,6 +340,20 @@ def match_to_jobs(resume_embeddings, resume_filename="unknown_resume.pdf", resum
         })
 
     return output_rows
+
+def write_matches_to_csv(top_matches, output_path="top_resume_matches.csv"):
+    with open(output_path, mode="w", encoding="utf-8", newline="") as file:
+        writer = csv.DictWriter(file, fieldnames=["title", "company", "description", "similarity_score"])
+        writer.writeheader()
+        for match in top_matches:
+            writer.writerow({
+                "title": match["predicted_jd_title"],
+                "company": match["predicted_jd_company"],
+                "description": match["predicted_jd_description"],
+                "similarity_score": round(match["similarity_score"], 4)
+            })
+    print("Top matches written to: ", output_path)
+
 
 
 def main():
@@ -378,6 +393,8 @@ def main():
         print(f"Rank {match['predicted_rank']}: {match['predicted_jd_title']} at {match['predicted_jd_company']}")
         print(f"    ↳ Similarity: {match['similarity_score']:.4f}")
         print(f"    ↳ Description: {match['predicted_jd_description'][:150]}...\n")
+    
+    write_matches_to_csv(top_matches)
 
 
 
