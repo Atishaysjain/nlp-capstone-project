@@ -1,10 +1,25 @@
 from fastapi import FastAPI, UploadFile, File
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 import shutil
 import os
 from main import extract_resume_sections, generate_embeddings, match_to_jobs
 
 app = FastAPI()
+
+# Allow your frontend origin
+origins = [
+    "http://localhost:5173",  # Vite default dev server
+    "https://resume-matcher-ten.vercel.app/"
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,  # or ["*"] to allow all origins (not recommended for production)
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 UPLOAD_DIR = "./uploaded_resumes"
 os.makedirs(UPLOAD_DIR, exist_ok=True)
