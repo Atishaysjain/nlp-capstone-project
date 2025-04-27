@@ -13,6 +13,7 @@ nlp-capstone-project/
 ├── exp/                  # Experiment logs, notebooks, results
 ├── jd_embeddings/        # Precomputed job description embeddings (CSV)
 ├── resume/               # Resume PDFs used for testing
+├── resume-matcher-gui/   # Web-based Graphical User Interface code
 ├── src/                  # Main source code for preprocessing, embedding, matching, and API
 │   ├── main.py           # Command-line flow for processing and matching a resume
 │   ├── api.py            # FastAPI server to upload resumes and return matching JDs
