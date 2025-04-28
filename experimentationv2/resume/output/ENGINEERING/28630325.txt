@@ -1,0 +1,48 @@
+ENGINEERING TEAM LEAD
+Career Overview
+Engineering Team Lead with years of experience working at every level and stage of the software development life-cycle. Independently motivated
+to discover new techniques through self evaluation and improvement. Qualified in coaching individuals and teams on Agile and Scrum principles.
+Detail-oriented professional with extensive software development experience using a wide variety of languages. Believes success is defined by
+highest value delivered in shortest amount of time.
+Qualifications
+Agile coach
+Product owner
+Team lead
+Scrum master
+Web application development
+UI design
+Relational database design
+Skills
+ASP, C#, VB.NET, SOAP, REST
+JQuery, Bootstrap, CSS, HTML5
+MSSQL, MYSQL, DTS, SSIS, SSRS
+IIS 5, IIS 6
+Agile, Scrum, Kanban
+Objective C, PHP, Perl
+Accomplishments
+Designed and prototyped payment processing system for new and legacy applications. Worked closely with product owners and team to
+ensure project delivery was a success.
+Served as agile project manager for multiple application build-outs. Each resulting in long term contracts with clients and new sales.
+Coached engineering teams on agile development methodologies in order to bring estimates within 5% of quoted amounts (down from over
+100%).
+Successfully developed and implemented processes for improving customization delivery and service level agreements.
+Work Experience
+Engineering Team Lead Mar 2011 to Current 
+Company Name ï¼​ City , State
+Coordinate the product road-map through facilitating planning meetings and preparing feature-sets. Prepare technical architecture proposals for
+enhancements and integration of existing third party software systems. Design, document and execute engineering procedures, including
+customization delivery, escalation and technical modernization enhancements. Coach and mentor individuals on principles of software development.
+Software Engineer Nov 2008 to Apr 2011 
+Company Name ï¼​ City , State
+Responsible for research, design and development of enhancements to web based applications. Ensure agile software development principles are
+followed through coaching and mentoring development teams.
+Web Developer Nov 2006 to Dec 2008 
+Company Name ï¼​ City , State
+Develop and maintain web-based applications.
+Jr. Software Engineer Dec 2005 to Dec 2006 
+Company Name ï¼​ City , State
+Investigate tier 2 level issues. Perform maintenance level development changes.
+Education and Training
+Associate of Science , Software Engineering 2015 Milwaukee Area Technical College ï¼​ City , State , US
+Working part-time towards an associates under a transfer agreement with MSOE.
+Principles of Management 2011 MRA ï¼​ City , State , US

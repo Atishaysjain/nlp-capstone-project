@@ -1,0 +1,77 @@
+ENGINEERING LAB TECHNICIAN
+Summary
+To obtain a position in my field of Electronics with a company that offers opportunities for advancement based on strong technical skills and work
+performance.
+Skills
+Construct, test and troubleshoot AC/DC circuits
+Determine voltage, current, resistance and power by calculations and measurements
+Identify electronic components and schematic symbols
+Utilize oscilloscopes to measure AC frequency
+Very proficient in soldering
+Troubleshoot and identify faulty capacitors, inductors and transformers
+Skilled in the use of hand tools for repairing and installing electronics
+Create circuits with Multisim CAD software
+Assemble/disassemble PCs and electronics to the component level
+Familiar in C+, C++, Java script, SQL, Visual Studio, Microsoft Team Foundation, Microsoft Test Manager, Tera Term, GShell, Linux,
+OSi
+Studied and understand Programmable Logic controllers
+Digital communications with fiber optics
+Understand different types of transmission lines: twisted pair, UTP, shielded pair and coaxial
+Proficient with Microsoft Word, Excel, PowerPoint, Access, Outlook
+Strong oral and written communication skills
+Adapt to new technology at an accelerated rate
+Experience
+Engineering Lab Technician Jan 2014 to Jan 2016 
+Company Name ï¼​ City , State
+Run software tests, physical checks and Beverage QA tests on new technology being developed.
+Build test cases for new software builds.
+Perform regression, functional and smoke testing.
+Use refractometers to test brix.
+Use oscilloscopes to test wave patterns in circuits.
+Support different platforms with software installation, light plumbing and testing.
+Trained in All Beverage Quality test tools, including Refractometer, Oscilloscope and Function Generators, Multimeters and all basic hand
+tools.
+Run various test cases on NEW Platforms to ensure stability in units before field release.
+Responsible for Mechanically troubleshooting Lab Fixtures within the Freestyle Platform.
+Calibrate Alpha and Beta prototype units to perform at optimal expectation.
+Work closely with software developers testing strategies in the implementation of software.
+Microsoft test manager to write test cases and create bugs for software development.
+Microsoft Team Foundation Server to add tasks to PBI's.
+Tera Term software application to provide ssh/serial connection to Linux platform devices.
+GShell software to view modify on sub machines.
+Engineering Validation Test Technician Jan 2012 to Jan 2014 
+Company Name ï¼​ City , State
+Test and validate new technology from automotive manufacturers.
+Run environmental tests on infotainment devices.
+Build various wire harnesses for testing equipment.
+Operate thermotron chambers to test stability in head units.
+Perform continuity tests on wiring assemblies.
+Run X-axis, Y-axis and Z-axis vibration tests.
+Test DVD, CD, GPS, USB, and IPOD infotainment devices for manufacturers specifications.
+Electromechanical Technician Jan 2010 to Jan 2012 
+Company Name ï¼​ City , State
+Build and calibrate 9500 series mercury porosimeter instruments.
+Build 2020 series chemisorption and physisorption instruments.
+Electromechanical assembly.
+Assemble PC Boards.
+Use hand tools to build, calibrate and test entire units to completion.
+Troubleshoot components when failures occur in unit boards.
+Assemble plumbing and servo valves.
+Driver/Mall specialist Jan 2001 to Jan 2009 
+Company Name ï¼​ City , State
+Drive and maintain a 30 ft.
+pumper truck.
+Interact and service customers on a daily basis.
+Handled complicated machinery constantly.
+Education and Training
+Associate of Science Degree , Computer and Electronics Engineering Technology 2013 ITT Technical Institute ï¼​ City , State Computer and
+Electronics Engineering Technology
+Bachelor of Science Degree , Electronics and Communication Engineering Technology September, 2013 Electronics and Communication
+Engineering Technology Maintained an A average every quarter since enrolling *Obtained highest honors certificate every quarter 3.7
+Publications
+M.K.I. Waste Oil Systems Steve Brawley (C.E.O. of M.K.I. Waste oil systems) (678)-898- 2283
+Skills
+Alpha, automotive, basic, C+, C++, CAD, CD, oral, DC, DVD, electronics, fiber optics, functional, GPS, hand tools, Java script, Linux, Logic,
+machinery, Access, Excel, Outlook, PowerPoint, Microsoft Word, Multimeters, oscilloscopes, Oscilloscope, OSi, plumbing, Quality, QA,
+repairing, ssh, software developers, software development, software installation, soldering, SQL, test tools, transformers, transmission,
+Troubleshoot, troubleshooting, USB, view, Visual Studio, wiring, written communication skills

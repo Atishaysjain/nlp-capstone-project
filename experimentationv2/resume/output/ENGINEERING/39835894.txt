@@ -1,0 +1,75 @@
+ENGINEERING PROJECT MANAGER
+Summary
+Eleven years of experience in Analog, RF and Mixed Signal Layout Design at module and Chip levels for 180nm, 65nm, 45nm, 28nm TSMC,
+14FF Samsung foundry and 10nm Intel. Experienced in planning, tracking and executing tasks to meet desired deadlines.Â 
+Skills
+Aware of Analog Layout fundamentals like Device
+matching, shielding, Isolation, ESD, Latchup, Antenna,
+EM, DFM
+Physical verification layout using tools like K2Ver,
+Hercules, Caliber, Assura
+Used auto routers tools like ICCT, Chip Assembly
+router, Aprisa, VSR on various blocks to reduce manual
+effort
+Used post layout parasitic extraction tools
+Used Â Nucleus (TI internal tool for ESD and Latchup), SPIRE (TI
+internal tool for EMIR analysis), Voltrace (TI internal tool for High voltage
+Â checks
+Used data management tools like Synchronicity and IC manageÂ 
+Relevant Experience
+Current Company: Aricent Inc.
+Client: Intel USA I am currently being trained in Genesys tool and 10nm Intel flow.
+I am working on blocks like LDO to begin with.
+Client: Qualcomm Pvt Ltd India WTR-RX/TX SYNTH in 14FF (Samsung foundry) : Duration of project - 6 months I managed a team of 6
+who worked on WTR synth project done in 14FF Samsung foundry.
+This is one of the most challenging tasks in my career, as this is the first RF task that I have worked in FF technologies.
+To overcome the challenges I have undergone various FinFet related trainings to understand the process and its impact on layout.
+Experience
+Engineering Project Manager , 12/2012 to 06/2017 Company Name
+I used Gantt chart to schedule the tasks for each individual.
+I also used XL sheet to track the progress and issues on a more micro level.
+These sheets certainly helped us to plan the next project much better.
+WTR-RX/TX SYNTH in 28nm (TSMC) : Duration of project - 6 months I lead a team of 4 which supported a project which was being
+done at Qualcomm USA.
+My role in this project was to have regular discussion with US designers to understand their requirements, later communicate these
+requirements with my team and also track the deliverables.
+I also handled some portion of the TOP level layout tasks.
+I worked on blocks like HFVCO, Regulator, VCO Buffer and LPF during this project.
+I used Gantt chart to schedule the tasks for each individual.
+I also used XL sheet to track the progress and issues on a more micro level.
+WTR QLNA Daisy Chain 180nm (TSMC) : Duration of project - 0.5 months For this particular project I had regular discussions with the
+Packaging team to create the best Daisy Chain structures for a WLP CHIP which I had work on previously.
+I also went through the entire process of Tape Out of this CHIP which included uploaded Tapeout related files to the database and
+reviewing the eJV sent to the FAB.
+WTR QLNA Metal Variants Tapeout 180nm (TSMC) : Duration of project - 0.5 months We needed metal variants for the QLNA chip
+which I previously worked on.
+In design we leave scope for meal options which can be used to study certain features better during testing.
+Here I worked on creating four chips with different metal variant options.
+I also went through the entire process of Tape Out of this CHIP which included uploaded Tapeout related files to the database and
+reviewing the eJV sent to the FAB.
+WTR QLNA in 180nm (TSMC) : Duration of project - 5 months This was my first project in 180nm TSMC process.
+In this project I mentored one other junior in my team who worked on MBIAS block while I worked in creating the LNA.
+WTR RX BBF in 28nm (TSMC/UMC) : Duration of project - 4 months I lead a team of 4 which supported a project which was being
+done at Qualcomm USA.
+My role in this project was to have regular discussion with US designers to understand their requirements, later communicate these
+requirements with my team and also track the deliverables using Gantt chart and XL sheet.
+I worked on the top level and few sub-blocks of BBF in this project.
+WTR FBRX in 28nm (TSMC) : Duration of project - 4 months This task was about working on FBRX module which was previously done.
+There we few issues seen with this blocks performance in post silicon verifications.
+My role in this task was to identify the IQ imbalance which caused performance issues and fix them.
+I was able to meet the designers requirements in this task and was very much appreciated by him once the task was done.
+WTR Low Band Low Noise Amplifier 28nm (TSMC) : Duration of project - 3 months This is a Low Band LNA which operates between
+860 - 900 Mhz frequencies.
+Here layout constraints like coupling, inductance and symmetry were taken care while doing layout.
+Majorly the input devices to which RF_IN signal were given extra care w.r.t coupling and symmetry.
+WTR Mixer, Attenuator in 28nm (TSMC) : Duration of project - 10 months This is the first project which I worked on in RF domain and I
+had a wonderful experience working on this project.
+The blocks that I worked in this project were for a product chip and hence the amount of learning was tremendous in this project.
+The blocks were ready on time with good quality.
+Senior Analog Layout Engineer , 10/2011 to 12/2012 Company Name
+Member of Technical Staff , 06/2006 to 09/2011 Company Name
+Education and Training
+Bachelor of Engineering : Electrical and Electronics , 2006 Visvesvaraya Technological University ï¼​ City , India Electrical and Electronics
+Skills
+Cadence, Data management, database, debugging, features, IQ, layout, layout design, LINUX, meetings, mentor, Windows, migration, next,
+Operating Systems, Packaging, progress, project management, quality, Real Time, Router, Routers, Sun-Solaris

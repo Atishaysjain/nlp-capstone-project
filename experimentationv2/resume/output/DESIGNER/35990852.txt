@@ -1,0 +1,128 @@
+WEBSITE DESIGNER
+Summary
+Software developer well-versed in the entire workflow for developing and implementing websites, including: consulting with the customer,
+designing mock-ups, programming the site, and incorporating customer feedback.
+Skills
+Visual Studio.Net
+ASP, ASP.Net
+MVC 4.0
+Visual Basic.Net
+C#
+Microsoft SQL Server, SQL, Stored Procedures
+TFS (Team Foundation Server)
+HTML5, CSS3
+Javascript, JQuery
+AngularJS
+LINQ
+PHP, mySQL
+Adobe Design Suite
+Agile Software Development Methodology
+Accomplishments
+JCH Digital Designs Portfolio, which lists a number of client sites: http://www.cocs.com/jchdesigns/portfolio.htm.
+Experience
+Website Designer , 12/2016 to Current Company Name ï¼​ City , State
+Currently working as a freelancer to redesign websites for my own clients and customers.
+The process involved working with the client during all stages of development:.
+Discussed requirements, documentation, and business needs regarding the design of the site.
+Created mockups to get client approval before starting the coding.
+Worked with the client throughout the testing stages to make sure they were happy.
+Delivered the final website within the client's budget and the quoted timeframe.
+Used: C#, ASP.Net, HTML5, CSS3, Javascript, JQuery, mySQL, Adobe Design Suite.
+Senior Software Developer , 07/2016 to 11/2016 Company Name ï¼​ City , State
+Contracted to Fiserv and assigned to the Velocity Loan Software Migration project which involved upgrading credit union clients from
+version 2 to 3.
+This involved taking a client's XSLT and XML files and transforming them with custom mapping software into LUXML files, which were
+then processed by the Velocity software.
+Our team reduced the number of hours it took to migrate a client by 62.5%, from 800 hours, down to 500 hours.
+Worked with the lead developer to create testing and review processes to ensure the version 3 mapping files contained the same data and
+calculations as the version 2 mapping files.
+Helped develop unit testing software to ensure the LUXML files were fully tested before delivering them to the client.
+Supervised and reviewed the work of 3 offshore developers in India.
+Used: XML, XSLT, Visual Basic, SQL Server, TFS, JIRA.
+Support Engineer Tier III , 02/2016 to 04/2016 Company Name ï¼​ City , State
+Contracted to Abila, a company which provides accounting and membership-management software to non-profit associations.
+Investigated and resolved tickets escalated from the Tier II engineers.
+Helped resolve the maintenance tickets in queue which resulted in improved metrics for our department and faster issue-resolution time for
+our customers.
+Used C#, Visual Studio 2014, SQL Server 2012, TFS, Agile development, and .NET Framework 4.5.
+Lead Software Developer , 12/2014 to 02/2016 Company Name ï¼​ City , State
+A company which creates digital models for clients for use in artwork, animation, and other projects, as well as designs and develops
+websites.
+Supervised and led a team of developers on a number of projects.
+This included guiding and mentoring the junior developers and helping them improve their skills.
+Worked as a project manager on a project which involved creating a model of a soccer player for a client.
+This included going back and forth between the client and the model-maker to refine the model as needed.
+Created, redesigned, and cleaned up websites for a number of clients, using C#, ASP.Net, AngularJS, and PHP.
+Created digital models of a hospital interior for a medical equipment company.
+This involved having phone meetings with the client to create a list of requirements which were passed to the model-maker.
+Software Developer , 08/2014 to 12/2014 Company Name ï¼​ City , State
+Assigned to Bank of America's CaseCura application, which gathers evidence and documents from for use in legal cases.
+Created new user interface (UI) designs by replacing obsolete pages with data-bound dynamic grid web controls.
+This improved the user experience, which led to happier users.
+Led design and documentation sessions to get user feedback at every step in the design process.
+This helped our team determine the best course of action for new feature requests and let the users be more involved in the decision-making
+process.
+Led user-acceptance review meetings after the code changes were complete.
+This ensured that the code met the user's specifications before the code was put into production.
+Participated in daily scrum meetings to make sure all software development was on schedule.
+Used: C#, MVC, TFS, .NET Framework 4.5, JIRA for ticket tracking, SQL Server, Agile development methodologies.
+Software Developer , 10/2013 to 02/2014 Company Name ï¼​ City , State
+Contracted to AgriLogic, a crop-insurance company.
+Assigned to the AgAdvantage Legacy application, which processed crop insurance policies.
+Also investigated and determined the best course of action for maintenance tickets received from the business analysts.
+Worked closely with the business analysts and QA team to ensure all code followed the company's standards.
+Was instrumental in reducing the number of maintenance tickets in the queue: when I started in October, there were around 50 tickets; by
+February, we managed to reduce the number to about 3 or 4 a day.
+Participated in the weekly "Lunch & Learn" meetings where all the developers would discuss a current issue and brainstorm about how to
+solve it.
+Used VB.Net, Visual Studio 2012, MVC, SQL Server, Atlassian JIRA (source code repository), .NET Framework 4.5.
+Programmer Analyst , 02/2013 to 09/2013 Company Name ï¼​ City , State
+FBC Mortgage is an Orlando based mortgage company.
+Responsible for creating web-based applications to help increase the productivity of different departments, including:.
+Created web-based reports for the underwriters to better help them determine which loans and customers needed their immediate attention.
+Created a console-based application for the legal/ compliance department to alert them of any loans which could be considered high-risk so
+they could take appropriate action.
+Created web-based reports for the CFO which analyzed the credit scores and debt-to-income ratio for loan applications so he could
+determine the financial risk of the loans.
+Maintained and upgraded the existing web-based reports based on feedback from the loan openers, loan officers, and loan processors.
+Helped to create and develop the Customer Mortgage Application, which let customers apply for a mortgage online.
+I designed the graphics and layout, and then worked with the rest of team to connect the UI to the business layer of code.
+Helped mentor and assist the junior-level developers with coding or design issues.
+Used: Visual Studio 2012, ASP.Net, C#, MVC, Javascript, jQuery, Entity Framework 5, TFS (Team Foundation Server), Adobe
+Photoshop, web forms, SQL Server.
+Lead Software Developer , 09/2004 to 02/2013 Company Name ï¼​ City , State
+A company which creates digital models for clients for use in artwork, animation, and other projects, as well as designs and develops
+websites.
+Supervised and led a team of developers on a number of projects.
+This included guiding and mentoring the junior developers and helping them improve their skills.
+Consulted and developed websites for clients, using HTML ASP, and C#, as well as mySQL for database access.
+Managed a team of vendors who created their own digital models and products for sale at the Vanishing Point website.
+I designed, created, and programmed the Vanishing Point website from scratch, using ASP and mySQL, which includes a marketplace to
+purchase and download products, an image gallery, and sales report pages for vendors.
+Software Developer , 02/2002 to 09/2004 Company Name ï¼​ City , State
+Contracted to AT&T in Orlando, FL as a member of the development team which upgraded, maintained, and monitored the Remittance
+Resolution System (RRS)- a system which processed over 8.7 million records and $4.2 billion in customer payments and refunds (2002
+data).
+My specific responsibilities included: Monitored the daily reports to make sure they accurately reflected the payments processed by the
+system.
+Upgraded the reports as needed, based on user feedback and requests.
+Used VB 6, Windows NT, SQL Server 7, and Crystal Reports 8.5.
+Re-designed and re-architected the RRS trouble-ticket database system to upgrade it from a Microsoft Access file to a completely new
+ASP/ web based application with a SQL Server database backend.
+I was also assigned the task of adding additional features, such as an all-new interface (including new graphics and all-new layout), new
+security (users would now have to login), user auditing (tracking who updated what information), additional reports, additional fields (to
+accommodate Sarbanes-Oxley code-change regulations) and to consolidate numerous systems into one database.
+Used ASP, HTML, and SQL Server 2000.
+Hosted an hour-long panel discussion on the history and development of video games and digital artwork at MegaCon 2015 (April 2015).
+Around 250 people attended, with people standing against the side and rear walls.
+I've been using the Adobe Suite of tools since 1999.
+I'm as comfortable with graphic design as I am with coding so I can wear multiple hats as part of a development team.
+Education and Training
+B.A : 1995 University of Maryland ï¼​ City , State
+Skills
+.NET, ASP.Net, VB.Net, Visual Basic.Net, accounting, Adobe Suite, Adobe, Adobe Photoshop, Agile, animation, ASP, auditing, budget, credit,
+Crystal Reports 8.5, CSS3, client, clients, database, decision-making, documentation, XML, features, financial, forms, forth, graphic design,
+graphics, HTML, HTML5, PHP, image, insurance, Javascript, JQuery, layout, legal, legal/ compliance, meetings, mentor, mentoring, access,
+Microsoft Access, C#, SQL Server 2000, SQL Server 7, Windows NT, Migration, MVC 4.0, MVC, mySQL, developer, policies, design
+process, processes, processors, profit, coding, QA, sales, Sarbanes-Oxley, scrum, Software Development, testing software, Microsoft SQL
+Server, SQL, SQL Server, phone, upgrading, upgrade, user interface, video, Visual Basic, VB 6, Visual Studio, website, websites, XSLT

@@ -1,0 +1,202 @@
+MECHANICAL DESIGNER
+Summary
+Im offering over twenty-eight (28) years of extensive working knowledge of the principles, theories and concepts in the design-engineering field.
+A self-motivated, assertive individual, who learns quickly, accepts new challenges, works well independently and also in team environments; lives
+up to high personal standards integrity/ethics; pro-actively demonstrates good interface/communication, task management.
+Highlights
+3D Model part design and assembly development
+including BOM generation.
+Create weight distribution analysis as well as present
+findings and able to defend assumptions.
+Heavy and light structural frame design and aluminum mounting platform design.
+Strong under standing of hydraulic components and able to do troubleshooting with the
+ability to develop and improve hydraulic circuits from existing schematics.
+Experience
+Company Name May 2013 to July 2015 Mechanical Designer 
+City , State
+As a member of the Research and Technology team, I was able to be a part of several projects focused on saving the company money by
+reducing down time of equipment, use of tested and approved quality parts and material.
+Designs were developed with the use of Creo Parametric 2.0, Windchill and Autodesk Inventor 2015.
+Designed, tested and implemented a pneumatic circuit to insure proper conditions existed prior to engaging and dis-engaging the clutch on
+the Frac pump units.
+This circuit protects the clutch from premature failure and unnecessary ware.
+Investigated Fluid End failures and corrected drawing errors related to seat angel.
+This significantly increased the life of the Fluid Ends.
+Created approved source control drawings for the fluid end valves and seats witch eliminated the use of misaligned seat and premature
+washouts of the fluid ends.
+Designed a cross unit manifold used to connect up to twenty two (22) Frac Pumps to run off natural gas or field gas.
+This significantly reduced fuel cost across the fleet of Frac pumps.
+Troubleshot and redesigned the hydraulic circuit on the fleets sand conveyers.
+This redesign significantly reduced down time and reduced the amount of training needed for field hands.
+Troubleshot and redesigned the hydraulic circuit on a potential venders sand conveyor to correct an issue they were not able to correct.
+This redesign involved changing the spool in the PVG valve and installing a cross port relief valve and some re-plumbing of the hydraulic
+circuit.
+Troubleshot and corrected the spillage of sand from the sand conveyors.
+This reduced the amount of down time related to sand cleanup and removal.
+Designed a dust control system for the company's fleet of sand kings.
+Company Name April 2011 to May 2013 Mechanical Designer 
+City , State
+As a member of the Coil Tubing Unit (CTU) team, I help to ensure our design and manufactured products meet the rigorous industry
+standards established by the American Petroleum Institute and the International Standards Organization by the use of 3D parametric model
+generation and manipulation using Autodesk Inventor Pro 2012 (Routed Systems - Tube and Pipe) and Autodesk Vault Professional 2102.
+Create weight distribution analysis as well as present findings and able to defend assumptions.
+CTU trailer layout redesigned to eliminate costly manufacturing rework, errors and confusion.
+Hydraulic Wet Kit assembly and frame design.
+Heavy and light structural frame design and aluminum mounting platform design.
+Capable of setting up 3D models for use with the integrated Autodesk stress analysis FEA with the understanding of setting the
+convergence, material, constraints and loads with the ability to interpret hot spots and make adjustments to the model.
+Have knowledge of, and can apply, the use of section modulus tables to determine how one shape compares to another in strength for a
+directional load Able to research possible problems with material selection or component interface and present options.
+Vendor/Purchasing Q &A sit-in's for second sourcing prospects.
+Direct and indirect interaction with customer regarding additional customer supplied hardware installations.
+Take initiative to procure data (research) and make contacts in order to bring viable solutions to the forefront.
+Company Name January 2009 to February 2010 Planning Engineer 
+City , State
+Applied Aerodynamics Inc. is a FAA/EASA Repair Station and is focused on, but not limited to, Repair / Overhaul / Manufacturing of flight
+control surfaces and aircraft composites.
+I was responsible for the planning of incoming repair orders for aviation parts and for repair station planning and work instruction for aircraft
+components from minor skin repairs to complete rib, skin and spar replacement.
+As Planning Engineer I also created and developed internal procedures and assured compliance to the D1-51991 Digital Product Definition
+(DPD) for Boeing Suppliers.
+The successful on-sight Boeing DPD audit allowed Applied Aerodynamics to begin downloading, receiving, and/or using DPD data for
+manufacturing and repair of Boeing parts.
+I interact with contracts, customer service, engineering, purchasing and internal fabrication shops.
+I would review orders and procedures for process improvements.
+As Planning Engineer I was also heavily involved in the Parts Manufacturer Approval (PMA) development at Applied Aerodynamics.
+Parts Manufacturer Approval (PMA) is an approval granted by the United States Federal Aviation Administration (FAA) to a manufacturer
+of aircraft parts.
+Company Name October 2006 to December 2008 Senior Manufacturing Planner 
+City , State
+AeroParts Manufacturing and Repair is focused on sheet-metal detail parts, assemblies and drop-hammer stampings.
+The FAA/EASA Repair Station overhauls metal and fiberglass ducting for large commercial aircraft.
+As Sr. Planner I was responsible for the planning of all incoming production orders for new aviation parts and for repair station planning and
+work instruction for aircraft components.
+I interact with contracts, customer service, engineering, purchasing and internal fabrication shops.
+I would review orders and procedures for process improvements.
+I would ensure that all customer requirements are verified in existing orders and reviewed in new orders before releasing to subsequent
+operations.
+I reviewed all job folders, customer requirements and developed a plan to have the parts manufactured based on the contractual
+requirements.
+I would develop a "Master Shop Traveler" by: Inputting information per purchase order and/or drawing.
+Assign a "task number" (traveler number).
+Input manufacturing instructions, sequences, and inspection points as required.
+Input Specifications, verification and testing needs, etc.
+into job costing system.
+Create and print the shop traveler.
+As Senior Manufacturing Planner I would release shop traveler to production /stores for issuance of product, material(s), and/or tooling
+required to begin production flow.
+I would also Review completed travelers for "approved" change(s) made during production.
+Categorize required change(s) has either "one-time deviation only" or "required on future production".
+If change(s) are "required for future production" then enter change(s) into system and forward that information to the contract department
+for pricing adjustments on future sales.
+I was also responsible for conduct technical and estimating support by researching and reviewing work order requirements as requested by
+Production, Quality, and/or Management as well as providing lead-time estimates, manufacturing methods, historical planning information,
+etc.
+I was responsible for the planning of all incoming production orders for new aviation parts and for repair station planning and work
+instruction for aircraft components.
+I interact with contracts, customer service, engineering, purchasing and internal fabrication shops.
+I would review orders and procedures for process improvements.
+Company Name June 2004 to July 2006 Senior Mechanical Designer 
+City , State
+I was responsible for designing electro-mechanical assemblies for Mobile Command and Communications Systems for military and
+commercial applications such as the Beyond Line-of-Sight High Mobility Digital Group Multiplexer Assemblage (BLOS HMDA).
+BLOS HMDA is housed in an S805 Shelter; it is mounted and transported on an ECV HMMWV.
+The design employs a rack mounting system for mounting electronics and equipment that is based on EIA standards.
+Included, but not limited to, my responsibilities are: troubleshooting existing solid models, generating new solid models, and supporting
+documentation for the following: Sheet Metal Fabrication, Assemblies and Subassemblies Welding, Punching, Forming and Machining
+Electro-Mechanical Assemblies and Subassemblies Cable and Harness Assemblies All design and documentation were prepared using
+SolidWorks Rev 2004 and Rev 2005, in compliance MIL-STD-100E; ANSI Y14.5M-1982; ASME Y14.5-1994 requirements and
+industry standards.
+Company Name June 2002 to November 2003 Senior Mechanical Designer 
+City , State
+The U.S.
+Department of Energy's Waste Isolation Pilot Plant (WIPP) is the world's first underground repository licensed to safely and permanently
+dispose of excess transuranic radioactive waste from research and production of nuclear weapons.
+Project facilities include disposal rooms mined 2,150 feet underground in a 2,000-foot thick salt formation.
+In my position, as the Senior Mechanical Designer, I supported design and documentation of the following projects associated with Remote
+Handling of Transuranic Radioactive Waste: Underground Radios Continues Air Monitoring (CAM) Remote Alarm, Filter Clip 2Â½ Ton
+Jib Crane for the Cask Preparation Station Radiation Source Holders Elevated Work Platform for Cask Preparation Station Shrouded
+Probe assemblies Hydraulic Wrench System for 10-160B Casks.
+10-160B Road Cask Lid Vent Tool Underground Ventilation System and Underground Bulkhead Assemblies.
+Company Name August 1996 to June 2001 Senior Mechanical Designer 
+City , State
+Supported design and documentation of electro-mechanical packaging of data acquisition electronics, instrumentation, missile, and satellite
+guidance systems utilizing global positioning system (GPS).
+Units are connected to multiple sensors and actuators throughout an expendable launch vehicle such as ATLAS IIAR, DELTA II, and
+DELTA III.
+Supported new product design, by provided all supporting design and documentation of tooling, wiring fixtures and assembly fixtures for
+programs I was assigned.
+Design layouts, assembly drawings, parts list, and engineering details were generated in AutoCAD-R14 in compliance with MIL-STD-
+100E; ANSIY14.5M-1982; ASMEY14.5-1994 requirements.
+Presented design proposals to management and our customers.
+Company Name August 1994 to March 1996 Senior Mechanical Designer 
+City , State
+Specialized in mechanical engineering/aerospace design and electro-mechanical packaging of black boxes.
+Generated AutoCAD-R12 design layouts, assembly drawings, and engineering details from verbal instructions and engineering sketches to
+DOD-STD-100C, MIL-STD-100E/, and corporate standards.
+Established datum's, dimensions, geometric tolerances to ANSI Y14.5M-1982 requirements, and application of standard notes, material
+call-outs and generation of parts list.
+Performed change order tracking, statistical data and checking functions.
+Maintained web-based mechanical parts Library.
+Developed solutions and provided technical assistance to internal engineering; troubleshooting/configuration management change order
+problems.
+Company Name October 1992 to August 1994 Senior Mechanical Designer 
+City , State
+Extensive design technology and manufacturing of Vertical and Horizontal Shaft High Velocity Impact Crushers and associated components,
+castings, precision machinery, and other heavy mining, structural steel, and industrial equipment.
+Analyze and investigate pertinent design factors such as ease of manufacturing, availability of materials and equipment, interchangeability,
+replaceability, strength weight efficiency, and contractual specification requirements.
+Design and produce layouts of complex assemblies, detail parts of devices, mechanisms and structures of high velocity impact rock crushing
+manufacturing equipment.
+Develop new product, process and service concepts.
+Provide technical advice and project leadership to management.
+Strong customer, internal, and subcontractor interface and coordination.
+Communicate with line manufacturing engineering regarding tool needs and change orders.
+Resolve technical problems on designs to assure cost-effective manufacturing production and workable tooling.
+Apply tolerance specifications, and make decisions as to whether tolerances could be met.
+Recommend tooling changes for a cost-effective production.
+Supervised generation of drawings to MIL-SPEC and ANSI standards.
+Audited layouts and drawings for clarity, completeness, standards, procedures, specifications and for accuracy of calculations and
+dimensions.
+Company Name June 1986 to October 1992 Senior Mechanical Designer 
+City , State
+Specialized in mechanical engineering/aerospace design and electro-mechanical packaging of black boxes. Generated AutoCAD-R12 design
+layouts, assembly drawings, and engineering details from verbal instructions and engineering sketches to DOD-STD-100C, MIL-STD-100E/, and
+corporate standards. Established datum's, dimensions, geometric tolerances to ANSI Y14.5M-1982 requirements, and application of standard
+notes, material call-outs and generation of parts list. Performed change order tracking, statistical data and checking functions. Maintained web-
+based mechanical parts Library. Developed solutions and provided technical assistance to internal engineering; troubleshooting/configuration
+management change order problems.
+Education
+Hydraulics Training 2012 Certification
+Completed 60 hours Industrial Hydraulics Training (Level I, Level II and Hydraulic Trouble Shooting).
+Federal Aviation Administration 2004 License : Private Pilot's License
+Earned Federal Aviation Administration FAA Private Pilot's License
+New Mexico State University 2003 Pro/Engineer Certification : Pro/Engineer City , State
+Completed certification program for Pro/Engineer
+South Plains College 1986 Associates Degree : Drafting Technology City , State
+Applied Science & Drafting Technology
+Affiliations
+Aircraft Owners and Pilots Association (AOPA) Member.
+Accomplishments
+Capable of setting up 3D models for use with the integrated Autodesk stress analysis FEA with the understanding of setting the
+convergence, material, constraints and loads with the ability to interpret hot spots and make adjustments to the model.
+Have knowledge of, and can apply, the use of section modulus tables to determine how one shape compares to another in strength for a
+directional load Able to research possible problems with material selection or component interface and present options.
+Direct and indirect interaction with customer regarding additional customer supplied hardware installations.
+3D Model part design and assembly development including BOM generation.
+Take initiative to procure data (research) and make contacts in order to bring viable solutions to the forefront Recent 60 hours Industrial
+Hydraulics Training (Level I, Level II and Hydraulic Trouble Shooting).
+Posses an understanding of hydraulic components and able to do troubleshooting with the ability to develop and improve hydraulic circuits
+from existing schematics.
+High-density packaging, 3-D Solid Modeling, , large and small mechanisms, sheet metal, wire harness, and installation control drawings.
+Working knowledge of: DOD-STD-100E, DOD-D-1000, ANSI Y14.5M-1982, ASME Y14.5-1994 standards/specifications.
+Additional Information
+HONORS AND ACHIEVEMENTS
+President's List (4.0 GPA) two semesters, Dean's List, Academic Scholarship, Honorary Draftsperson of the Year 1986, member National
+Honor Society while attending South Plains College. Maintained a 4.0 GPA at National College.
+Received Spot Award, Honored with You Make a Difference, and two Letters of Commendation during employment at Honeywell
+Defense Avionics Div
+Skills
+Extremely computer literate and proficient in the use of Microsoft Suites, Word, Excel, Autodesk Inventor Pro 2012 (Routed Systems - Tube and
+Pipe) and Autodesk Vault Professional 2102, certification in Pro/Engineer, Creo, ComputerVision 3-D Personal Designer, CADDS4X-
+SUNhardware, AutoCAD-R2002, SolidWorks, FastCAD, ProCAD. Â 

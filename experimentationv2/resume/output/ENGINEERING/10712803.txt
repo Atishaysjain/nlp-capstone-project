@@ -1,0 +1,103 @@
+ENGINEERING SERVICES MANAGER
+Executive Profile
+A results driven Controls Engineer and Project Manager with over 20 years of experience in manufacturing. Skilled in Industrial Automation and
+Process Engineering with a strong mechanical design background. Proven ability to lead and motivate high performance teams. History of building
+systems with improved functionality and productivity, consistently meeting critical requirements.
+Skill Highlights
+Proficient in process engineering and applying process needs to
+available technology to improve production availability and
+uptime.
+Proficient in process engineering and applying process needs to
+available technology to improve production runablility and uptime.
+Professional Experience
+Engineering Services Manager 02/2013 ï¼​ 08/2015 Company Name City , State
+Accountable for maintaining the efficiency and effectiveness of all production manufacturing processes required to manufacture a high quality
+product in a repeatable and cost effective manner and provide overall customer satisfaction.
+Manage all engineering services with provision of all energy sources. Accountable for all mechanical repairs, design and construction within
+all departments and the resources engaged in the provision of these services both internal and external.
+Support waste water operations by providing advanced troubleshooting on Siemens PLC's. Configured WINCC SCADA system.
+Ensure that all expenditures both in supplies and staffing are optimized and maintained within budget.
+Developed asset management software to track cost, asset history and work order tracking.
+Performed advanced troubleshooting and PLC support for all plant equipment.
+Electrical Superintendent 05/2008 ï¼​ 02/2013 Company Name City , State
+Primary responsibilities include supervising and coordinating all electrical and instrumentation activities.
+Accountable for the proper operation of all automation and controls on production equipment, power distribution systems, plant
+communications (phones, networks) and security systems.
+Managed projects for installation of new equipment, from design concept to installation and start up.
+Managed large network of Allen-Bradley PLC's, including ControLogix, CompactLogix and micro controllers with FactoryTalk View ME
+and SE human machine interfaces.
+Managed the installation and startup of several new projects over $1MM: HG Molenaar cooker/cooler, Buscetto steam peeler, Navatta
+steam peeler, Zilli-Bellini diced tomato filling line.
+Perform advanced troubleshooting and PLC support for all plant equipment.
+Trained electricians and instrument technicians in advanced VFD troubleshooting and configuration, PLC programming, process control and
+applicable regulations including NFPA 70E and NEC codes.
+Project Manager 05/2005 ï¼​ 05/2008 Company Name City , State
+Responsible to review and interpret proposed designs, drawings, and specifications for suitability and initiate revisions where appropriate.
+Managed a team of 5 engineers in the design of various machine sections to ensure on-time project completion.
+Supervised the mechanical and electrical assembly of equipment to ensure that sections are completed on time and meet customer specs.
+Managed cross-functional teams to insure on time installation of equipment at customers facilities.
+Coordinated with vendors and other contractors to complete equipment installation.
+Developed and administered project budgets and fiscal controls, contracts, and quality control provisions for projects.
+Facility Supervisor 04/2004 ï¼​ 05/2005 Company Name City , State
+Managed the activities of 6 maintenance personnel.
+Accountable for projects involving the construction of new buildings and facilities, also the alteration or modification of existing units.
+Performed advanced troubleshooting and repairs on production equipment, such as hydraulic presses, autoclaves and other equipment used
+in composite molding.
+Design, layout and installation of industrial automation used in production equipment.
+PLC and HMI programming, primarily Allen-Bradley SLC500 platform.
+Maintenance Manager/Safety & Environmental Manager 01/1996 ï¼​ 04/2004 Company Name City , State
+Tyco purchased the facility in 2001.
+Managed the operations and activities of plant maintenance and engineering personnel.
+Accountable for compliance with applicable federal, state and local laws and regulations, securing all required permits, and coordinating with
+local authorities.
+Maintain a proficiency and applied understanding of all aspects of plant engineering including: Electrical systems - Circuit planning, Power
+distribution, Illumination, Instrumentation and controls, Electrical machinery, Codes and standards.
+Mechanical Systems - HVAC, Pumps piping and plumbing, Compressors and compressed air systems, Power transmission, Material
+handling and storage, Fire protection, Structural design and analysis, Building and life safety codes.
+Maintenance - Systems reliability, Understanding drawings and specifications, Maintenance programs and management, Preventive and
+predictive maintenance practices, Maintenance parts and supplies inventory management, Building and grounds, Housekeeping.
+Administration and Supervision - Manpower planning, Personnel development, Labor relations, Project administration and management,
+Record keeping.
+Environmental, Safety and Health management - Noise control, Air quality control, Water quality control, Solid waste handling, Hazardous
+materials controls, Regulations codes and standards.
+Responsible for the installation, programming, maintenance and operation of new material handling control system.
+Created custom database and production/accounting programs with Microsoft Access.
+Performed advanced troubleshooting on all plant equipment.
+Converted antiquated Modicon PLC control system to Allen-Bradley PLC with Wonderware man machine interface(HMI).
+Trained plant maintenance personnel on PLC programming, AC/DC drive troubleshooting and advanced electrical controls troubleshooting.
+Maintenance Technician 04/1995 ï¼​ 12/1995 Company Name City , State
+Performed routine electrical and mechanical maintenance and emergency repairs on automated PLC controlled conveyors, pallet wrappers,
+burn-in towers and other equipment used in the assembly of Apple computers.
+Completed PLC logic changes from verbal or written instruction and maintained logic backups with revision history.
+Electrician 08/1991 ï¼​ 04/1995 Company Name City , State
+Responsible for repairing and maintaining plastic extrusion equipment in the production of plastic bags and stretch pallet wrap.
+Performed process troubleshooting of entire production lines, including programmable logic controllers (PLC's), AC inverters and DC
+drives, AC and DC motors and all associated control equipment.
+Maintained all aspects of plant utilities including chillers, air compressors and power distribution.
+Completed electrical installations from blueprints, sketches or verbal instructions with little or no supervision.
+Designed and implemented a Computerized Maintenance Management System(CMMS) that allowed for more efficient tracking of
+maintenance resources and cost.
+Helped set up and run a successful predictive/preventive maintenance program that greatly reduced cost of emergency repairs.
+Instructed other electricians in maintenance and troubleshooting of AC and DC drives and P.L.C.
+programming.
+Microwave Communications Technician 02/1987 ï¼​ 04/1991 Company Name City , State
+Worked for a rebuild facility doing repairs and overhauls of a wide variety of communications equipment. Primary job was to rebuild
+microwave communications equipment. Also repaired UHF and VHF radios.
+Created a computerized inventory control program that greatly reduced the amount of man-hours required to perform quarterly inventories.
+Education
+2015 Certificate of Completion : AIB - HACCP Online Course - Haccp/Food Safety
+2004 Select One : Yuba Community College - Business Management City , State
+Coursework in Business Management
+2003 NEEC Building Operator Certification : Butte College - Basic Electronics, Drafting City , State
+1985 High School Diploma : Elk Creek High School City , State
+Select One : Better Process Control School City , State , USA 
+Level 1 : NEEC Building Operator
+Skills
+accounting, Apple computers, asset management, automation, basic, blueprints, budgets, budget, C, CA, hardware, concept, contracts, client,
+database, DC, delivery, design and construction, directing, Electrical systems, electronics, equipment installation, filling, Fire protection, Food
+safety, Hammer, HVAC, instruction, inventory management, inventory control, Labor relations, layout, logic, Logistics, machinery, maintenance
+schedules, manufacturing processes, materials, Mechanical, Microsoft Access, 2000, Microsoft NT server, Microsoft Windows NT Server,
+microwave, NEC, network, networks, Novell, Personnel, PLC programming, PLC, plumbing, Power distribution, process control, process
+engineering, Programming, quality, quality control, radio, Record keeping, repairs, repairing, Safety, safety codes, SCADA, Siemens PLC,
+staffing, supervising, Supervision, surveys, technical support, phones, transmission, troubleshooting, UHF, utilities, validation, VHF, View, Water
+quality, Wonderware, written

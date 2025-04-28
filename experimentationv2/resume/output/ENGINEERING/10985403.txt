@@ -1,0 +1,60 @@
+MECHANICAL ENGINEERING INTERN
+Summary
+CAD | CAM | Finite Element Analysis | Mechanical Design | Product Design and Development
+Skills
+5 years of experience with CAD packages (SolidWorks, Autodesk Inventor, AutoCAD, CATIA, PTC CREO)
+2.5 years of experience with CAE Softwares (HyperMesh, Abaqus, ANSYS, Optistruct)
+2.5 years of experience with Analysis (Linear & Non-linear Static, Dynamic, GD & T, Tolerance Analysis, Design Optimization)
+Experience with Sheet metal, Design for manufacturing, generating Bill of Materials, DFMEA, Sculpting.
+Experience with advanced material selection for rapid prototyping, advanced manufacturing, welding and 3D printing.
+Experience
+09/2013 to 05/2014
+Company Name
+Finite Element Analysis of Industrial Robotic Assembly, Illinois Institute of Technology, Chicago Jan - May 2016.
+Conceptualized, brainstormed and designed a 6-axis SCARA Robot for pick and place operation in automotive industry.
+Performed static analysis with stainless steel 304 to evaluate the maximum load an assembly can lift before yielding.
+Also, analyzed Gripper and joints to eradicate future failures.
+Optimized design using OptiStruct by varying mesh sizes and element order.
+Simulated assembly with dynamic analysis to find distorted elements and to verify optimized structure.
+Reliability Engineering Analysis on Automotive Oil Pump, Illinois Institute of Technology, Chicago Sept - Dec 2015.
+Used industrial reliability specifications to select the power consumption and flow rate at three distinct levels of rpm to study its variability.
+Improved system using Taguchi analysis by optimizing signal to noise ratio.
+Conducted Failure Mode Effect Analysis (FMEA) to analyze potential causes of failures to deliver clean oil upon demand Abstracted and
+designed Near Dry Machine with two inlet nozzles.
+Performed fluid analysis and actual results on lathe machine.
+Provided vegetable oil as a coolant with pressurized air on flank face of the tool, which resulted in unburnt and recyclable chips.
+Gearbox Design, Narsee Monjee Institute of Management Studies, Mumbai Jan - May 2013.
+Designed a gear box with different gears such as spur, helical worm by considering seals, lubricating oil and bearings.
+Assigned materials and performed dynamic simulation to define contact surfaces.
+06/2013 to 08/2013
+Mechanical Engineering Intern Company Name
+Initiated a project to perform a failure investigation in mufflers due to the low clearance of roads and provided feedback.
+Established and coordinated maintenance, GD&T, safety procedures, service schedule and supply of materials in the maintenance shop.
+Developed failure reports including feedback based on common failures from the automotive industry.
+Set up and calibrated accelerometers on Hyundai cars to conduct tests to analyze the modes of vibration of vehicle and the steering column.
+05/2012 to 07/2012
+Manufacturing Engineering Intern Company Name
+Analyzed automation, process parameters, different equipment to shape and control the profile of chips and Manufacturing process of Hot
+Strip Coil.
+Re-designed the existing shop floor to improve space utilization, increase material flow, optimize labor and reduce holding costs by 5% and
+improved space utilization by 20%.
+Performed statistical analysis on historical data of the operating parameters using SPC and DOE's to identify significant factors contributing
+to process deviation and affecting the cold crushing strength of the pellet.
+Generated Bill of Materials and calculated overall manufacturing cost.
+Education and Training
+May 2017
+Master's : Mechanical & Aerospace Engineering Illinois Institute of Technology (IIT) ï¼​ City , State Mechanical & Aerospace Engineering 3.5/4.0
+Advanced CAD/CAM, Engineering Analysis, Finite Element Analysis, Advanced Manufacturing
+May 2014
+Bachelor of Technology : Mechanical Engineering Narsee Monjee Institute of Management Studies ï¼​ City India Mechanical Engineering 3.19/4.0
+Work History
+Company Name
+Certifications
+Autodesk Certified Professional in Autodesk Inventor Professional Software. (License # 00313355) *Autodesk Certified Associate in AutoCAD
+Software. (License # 00296190)
+Publications
+Parekh R., Chaudhary R., Ingle A. (PhD), "Reliability of Dissimilar Metal Joints using Fusion Welding: A Review" presented at the International
+Conference on Machine learning, Electrical and Mechanical Engineering (ICMLEME'2014), Dubai (UAE)
+Skills
+3D, ANSYS, AutoCAD, automation, Automotive, CAD/CAM, CAD, CATIA, Dec, Engineering Analysis, lathe, Manufacturing process,
+Materials, material selection, Oil, Optimization, pick, prototyping, Robotic, safety, simulation, SolidWorks, SPC, statistical analysis, welding

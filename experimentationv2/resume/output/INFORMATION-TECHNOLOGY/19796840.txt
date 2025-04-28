@@ -1,0 +1,185 @@
+INFORMATION TECHNOLOGY AUDITOR
+Skills
+PeopleSoft HCM 8.8/9.x, PeopleSoft Financials 8.8/9.x, PeopleTools 8.51/ 8.54, SQL Developer, MS Office, Visio, MS Project, Dell Stat
+5.6/5.7, SQL Developer, Application Designer, Putty, SharePoint, HP Application Lifecycle Management, Oracle Enterprise Manager, STAT
+Admin, TOAD, Service Now, Remedy, Heat, Oracle E-Business, Asset Suite 8.
+Experience
+10/2016 to Current
+Information Technology Auditor Company Name ï¼​ City , State
+Participate in the annual risk assessment and audit planning process covering IT, financial, operational, and contract areas.
+Assist with IT audits and reviews including user access, database and service configurations, security, and policy and procedural
+compliance.
+Perform IT project pre and post audit assessments.
+Participate in external cyber related audits and assessments.
+Assist with IT portion of annual assessment of internal controls over financial reporting (Sarbanes Oxley - SOX).
+Includes risk assessment, control walkthroughs, control testing, remediation assistance, report of results to IT management and other
+management, and collaboration with our external financial IT auditors.
+Consult on IT matters within non-IT focused audits and reviews performed internal audit.
+Assist and consult with IT management on upgrades, implementations, and action plans resulting from various audits and assessments.
+Assists and provides support to others auditing the Association as needed.
+Train and educate members of the internal audit team and other personnel on IT audit methods and emerging IT risks.
+Coordinates work of internal auditors when assigned to assist with special/complex audits.
+Adhere to company policies, programs and procedures as well as Critical Infrastructure Protection (CIP), Western Electricity Coordinating
+Council (WECC), Federal Energy Regulatory Commission (FERC), North American Electric Reliability Corporation (NERC), and
+Midwest Reliability Organization (MRO) standards and Equal Employment Opportunity (EEO) laws and regulations.
+04/2015 to 10/2016
+PeopleSoft Security Administrator III Company Name ï¼​ City , State
+Work closely with the internal and external audit department to provide reports and documentation for compliance.
+Perform user access recertification, operational audits, quarterly performance assessments for Segregation of Duty /SOX controls by
+compiling and distributing monthly and quarterly user access reports.
+Provide functional expertise and guidance to developers for technical solutions in modules of PeopleSoft Core Financials, and other
+applications.
+Provision user security for PeopleSoft Financials.
+Ensure that appropriate roles, permission lists, and row level security exists for all functional areas.
+Create new business process flows and functional designs for Enterprise Learning Management requirements.
+Work with the business owners, data owners, end users, and external auditors on fit gap analysis and remediation for process requirements,
+improvements, and recommend best practice solutions.
+Determine the risks associated with the access and highlight any risks to management.
+Obtain report approval from business units and data owners of financial systems for review and user access validation.
+Perform data migrations across multiple environments using Dell Stat 5.6/5.7.
+Streamline and close the gaps of the employee onboarding and termination process.
+Analyze, monitor, and troubleshoot business processes of systems that interface with PeopleSoft Financials.
+Create, analyze and monitor access including creation, deletion and modification of access.
+Coordinate and manage application release processes with various teams.
+Interact with different teams of project managers, developers, quality engineers, peers, and other team members from integration teams.
+07/2014 to 04/2015
+Sr. Application Systems Analyst Company Name ï¼​ City , State
+Worked with business owner to gather and document business requirements and business processes.
+Created and configured Work centers, Dashboards, and Interaction Hubs for HCM,and Financials using PeopleSoft 9.2 PeopleTools
+framework.
+Provisioned user security and functional support for PeopleSoft HR, PS Financials, PS Campus Solutions, and Workday HCM.
+Ensure that appropriate roles, permission lists, and row level security exist for all functional areas.
+Mapped security parameters for PeopleSoft 9.1 to 9.2 upgrade.
+Worked with third party vendors to implement solution.
+Created and maintained documentation of application support and technical environments.
+Performed data cleanup and validation of security roles and permission lists.
+Performed user security role recertification to ensure SOX and Data Privacy assessments.
+Prepared applications for Identity Access Management.
+Identified and resolved application issues effectively and in a timely manner.
+Provided advanced technical application support and troubleshooting.
+Performed service request changes and assigned work accurately and efficiently.
+Supported remote users using Citrix Remote Desktop, Microsoft Lyncs.
+10/2007 to 07/2014
+Sr. ERP Security Analyst/Team Lead/Project Lead Company Name ï¼​ City , State
+As a team lead, was responsible for implementation, troubleshooting, cybersecurity assessments, PeopleSoft user security reviews and
+security support, user system access review, and upgrades for PeopleSoft HRMS, PeopleSoft Financial systems, and Workday HCM.
+Ensure that appropriate roles, permission lists, and row level security exists for all functional areas.
+Responsible for working with stakeholder to gather requirements to bridge the gap between US Oncology (USON) and McKesson
+Specialty Health for the merger.
+Worked with stakeholders to perform comprehensive requirements gathering for onboarding new oncology clinics into the McKesson
+network.
+Gathered the requirements and implemented the change to transfer USON corporate employees to McKesson's PeopleSoft HCM.
+Managed application project initiatives, procurement, and change management; this included impacts to business applications, processes
+and supplier management day-to-day planning, audit schedules, risk management, compliance, and ensuring the team met its required level
+of service for production.
+Responsible for coordinating with IT support teams on major incident management issues using ITIL best practices.
+Performed business processes creation, analysis, and re-engineering.
+Provided specialized training on application functionality.
+Investigated and resolved IT issues and complaints from end users, business owners, and stakeholders.
+Supported and maintained other applications such as IKnowMed EHR.
+Managed and performed change management of security initiatives and business process changes for PeopleSoft HRMS, PeopleSoft
+Financials including Grants, and Workday HCM.
+On boarded new oncology practices; worked with the clients to perform fit/gap analysis to integrate the practices into the McKesson
+network.
+PeopleSoft functions included the creation, and modification of the roles and permission lists, updates to row level security, processes, and
+query security.
+Responsible for the creation, modification and terminations security of users for iKnowMed EHR, PeopleSoft, Oracle, Siebel, and
+additional medical systems.
+Served as a core team member for the EIB uploads, implementation and integration of security and business processes for Workday HCM,
+Payroll, Time Tracking Absence Management and Compensation Modules.
+Provided both technical and functional support for PeopleSoft Financials, PeopleSoft HR, and Workday HCM.
+Actively provided PeopleSoft security subject matter expertise to the internal audit team to assist in evaluating the adequacy and
+effectiveness of application controls monitored annually.
+Maintained security documentation including migration requests, security component and object standards and definitions, and weekly status
+reports.
+Created and maintained security admission procedures for each application.
+Managed and generated weekly security reports for security incidents in the Heat incident handling tool to reduce the number of security
+issues and defects and enhance application controls and monitoring.
+Developed and distributed quarterly security audit reports for the business owners' review and signoff.
+Worked with the business owners to identify risk, define business processes, and reduce granting excessive access to users.
+Coordinated business owner process approvals and authorization for requisition approvals, invoice approvals, employee time approvals,
+and user provisioning.
+Participated in change management meetings to add value through perspective and awareness of impacts to operational changes proposed.
+Contributed ideas for building efficiency within the department and business units.
+04/2007 to 10/2007
+Manager Company Name ï¼​ City , State
+Managed and assisted in development of major incident management procedures to be followed by IT staff in resolving network related
+issues.
+Served a key role in the Remedy implementation project; this included the installation and creation of data structure requirements and value
+data population in the new Remedy incident handling tool.
+Created a Change Management strategy and established reinforcement mechanisms and celebration of success.
+Developed and maintained a network infrastructure that met all service level requirements and provided additional capacity for growth.
+Applied a structured ITIL major incident management and change management approach and methodology.
+Identified potential people-side risks and anticipated points of resistance; developed specific plans to mitigate or address the concerns.
+Provided the documentation, tracking of potential gaps and risks, and status of mitigation steps to reduce these risks.
+Conducted readiness assessments, evaluated results and presented findings.
+Developed a set of actionable and targeted change management plans - including communication plan, sponsor roadmap, coaching plan,
+training plan and resistance management plan.
+Supported the execution of plans by employee-facing managers, business leaders, and stakeholders.
+Conducted active and visible coaching to change sponsors' executive leaders.
+Created and managed systems metrics to track adoption, utilization and proficiency of individual changes.
+Identified resistance and performance gaps, and worked to develop and implement corrective actions.
+03/2006 to 04/2007
+Lead Client Security Analyst Company Name ï¼​ City , State
+Served as the liaison between the business and IT departments supporting global accounts for companies located all over the world.
+Worked with developers to implement changes in production.
+Led a team of five employees including first level support located in Gurgaon, India to provide production security issue resolution.
+Met with business team to determine requirements and define new process flows for new teams.
+Gathered requirements for newly created teams and determined which business applications/environments were necessary for proper job
+performance.
+Developed and enforced policy regarding mandatory security procedures.
+Documented functional/training procedures and implement changes to security procedures.
+Instituted security policies as dictated by business needs.
+Regularly met with internal and external auditors to perform security walkthroughs and assisted in documenting test plans and mitigating
+findings.
+Ensured SOX/SAS70 audit compliance by performing monthly/quarterly user audits.
+Developed and maintained documentation for audit compliance.
+Performed Business Impact Analysis and Cost/Benefit Analysis for potential tools, applications, hardware, and system solutions.
+Chaired weekly meetings to address various client issues.
+Worked with stakeholders to identify and moderate risks.
+Created new roles, maintained segregation of duties and ensured appropriate access levels for applications maintained across
+product/business lines.
+Structured roles/permissions according to design specifications and user specifications.
+Managed Siebel queues to disseminate, track, and evaluate security requests received by Client Security.
+Implemented modifications to request processes.
+Participated in functional testing.
+Implemented and tested changes to online request processes.
+05/2002 to 03/2006
+Sr. Technical Analyst Company Name ï¼​ City , State
+Coordinated with analysts/programmers to evaluate, modify, test, debug, and maintain applications.
+Performed parallel testing and functional testing during PeopleSoft upgrades.
+Administered PeopleSoft security to create, modify, and delete the security of users.
+Diagnosed and resolved software issues and defects.
+Accurately interpreted and fulfilled customer requirements to achieve customer satisfaction.
+Provided third level end user support.
+Worked with network and application support team to resolve technical issues.
+Created and maintained support roles and permissions lists based on functional specifications and security requirement requests.
+Identified and managed problems, determined root cause, and initiated corrective action and risk mitigation where applicable.
+Provided support for AS/400 Mainframe, E-Procurement, PeopleSoft, VPN connectivity, Blackberry, and other applications.
+Documented new/existing functional processes and procedures, as well as created knowledgebase articles related to previously
+undocumented resolutions.
+Worked on business process re-engineering initiatives.
+Established and maintained cooperative working relationships and an effective system of communication within the organization.
+Developed training and technical documentation and performed end user training.
+Facilitated weekly continuous improvement meetings with business users to identify enhancement requests and production support issues.
+Participated in weekly production support meetings with IT.
+Maintained issue and development task list documentation and status reporting on issues and enhancement requests of business users.
+02/2000 to 09/2001
+Systems Infrastructure Analyst Company Name ï¼​ City , State
+10/1999 to 02/2000
+Technology Service Consultant Company Name ï¼​ City , State
+Education and Training
+B.B.A : Management Information Systems University of Houston Management Information Systems
+2010
+Certified Information Systems Auditor (CISA) Certification
+- 1085531 *Legacy MCSE, CCNA, and Novell certified *Delta Sigma Pi Business Fraternity *Agrium Women's Leadership Group
+Skills
+Streamline, approach, AS/400, audit reports, auditing, business owner, business process, business processes, business process re-engineering,
+CCNA, Change Management, CISA, Citrix, coaching, hardware, continuous improvement, Council, Client, clients, customer satisfaction,
+database, Dell, documentation, E-Business, Financials, Financials 8.8, Financial, financial reporting, functional, Grants, HP, Hubs, HR, Information
+Systems, internal audit, IT management, IT support, ITIL, Leadership, team lead, Mainframe, meetings, Access, MCSE, MS Office, MS Project,
+SharePoint, migration, Enterprise, network, Novell, Oncology, Oracle Enterprise Manager, Oracle, Developer, Payroll, PeopleSoft HRMS,
+PeopleSoft, PeopleSoft 9.1, PeopleSoft 9.2, PeopleTools, PeopleTools 8.51, personnel, policies, processes, Procurement, quality, re-
+engineering, reporting, requirement, requirements gathering, risk assessment, risk management, Sarbanes Oxley, SAS, Siebel, Sigma, SQL,
+strategy, Structured, supplier management, user support, user training, technical documentation, TOAD, troubleshoot, troubleshooting, upgrades,
+upgrade, validation, VPN, Visio, articles

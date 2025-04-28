@@ -1,0 +1,61 @@
+MECHANICAL DESIGN ENGINEERING INTERN
+Summary
+To secure a full time Combustion Engineer position applying strong fundamentals for application, research, and development in the areas of
+Combustion and Fluids and Thermal Sciences and other allied Mechanical Engineering related functions
+Highlights
+AutoCAD Mechanical, Pro/Engineer (Pro/E), MATLAB, PTC Creo, Revit, Autodesk Inventor, GD&T, Solidworks, Microstation, ANSYS
+Mechanical and Microsoft Office (Word, Excel, PowerPoint, Project) Tools
+Experience
+Mechanical Design Engineering Intern 05/2014 to 08/2014 Company Name City , State
+Familiarized with & utilized ASME Engineering Design, Drafting & Documentation Standards Provided support to the engineering team in
+developing conceptual layout drawings and performed various engineering studies to obtain the simplest and the most efficient engineering
+solution for Pressure Vessel design and piping design and specification Developed drawings, schematics and P&ID's using AutoCAD
+Mechanical and Microstation according to ANSI Document Control & Management System for electronic as well as hard copy documents
+- Coordinated the organizing, scanning, retrieval and distribution of engineering documents for Project Managers.
+Manufacturing Engineering Intern 08/2012 to 05/2013 Company Name City , State
+Designed and successfully operated a Compact Inserts Drying Machine Researched past techniques used for drying of inserts to identify the
+flaws and consolidated ideas in a team of three people on how to eliminate theses flaws Designed a pneumatic cylinder to lift the cabinet
+door using a Direction Control Valve Modelled an aesthetically good looking cabinet head using Pro/Engineer (Pro/E) Calculated the
+required heat transfer rates and air flow rates for the appropriate selection of SILVENT air nozzle and KANTHAL air heater Increased the
+production rate by 16.67% and reduced the cycle time by 1 minute and floor area by 61.87% Reduced the overall power consumption
+thereby increasing the profit by Rs.
+426,336 per annum.
+Mechanical Engineering Intern 06/2011 to 07/2011 Company Name State
+Opportunity to learn more about Fixed and Rotary Wing Aircraft Engines and their thermodynamics Exposed to different kinds of turbo
+machines for e.g.
+Gas Turbines, and the application of the concepts of fluid mechanics and heat transfer to their working The training also involved a know-
+how of Avionics and Accessories and MRO (Manufacture, Maintenance, Repair and Overhaul) Activities Hands-on experience with Lathe,
+Drill, Mill and CNC Machine.
+08/2014 to 12/2014 Company Name
+Sponsored by New York State Energy Research and Development Authority (NYSERDA) as a part of advance innovative energy
+solutions Reviewed the existing literature on the different pyrolysis models used to characterize biomass Performed heating experiments
+using a DSC-TGA to study the pyrolysis of BioBlock Using TGA, calculated the kinetic parameters like activation energy and rate constant
+from the obtained mass v/s temperature and derivative of mass loss v/s temperature curves Determined the heat of pyrolysis and specific
+heat using the heat flow v/s temperature and derivative of heat flow v/s temperature curve obtained from the DSC Finally, created a
+decomposition model based on the experimental results Solving Non-Linear Euler Equation for Gas Dynamics using CFD tools, November
+2014 Â​ December 2014 Solution for the Euler equation for Gas Dynamics was obtained using First Order Lax Friedrich Scheme, Runge
+Â​ Kutta Fourth Order Â​ TVD Scheme and Lax Wendroff Method Fundamental properties of the schemes were compared and discussed
+in detail Solution obtained by each numerical method was presented along with a conclusion on which of the 3 methods was more accurate
+Numerical solution to the Prandtl-Glauert equation for inviscid, non-heat conducting perfect gas free flow, September 2014 Â​ October
+2014 In this project, the Wave Equation is solved using two different numerical methods, namely Successive Over- Relaxation and
+Alternating Direction Grid generation is discussed in detail and results obtained using analytical as well as numerical methods were compared
+FBG Sensors in Oil/Gas Permanent Downhole Measurement Applications, January 2014 Â​ May 2014 Analyzed how FBG Sensors are
+used for Permanent Downhole Measurement Applications Studied the sensing mechanism of FBG Sensors Summarized the/ findings in the
+form of report and power point presentation Closed-Ended Oscillating Heat Pipe, October 2011 Presented a seminar on Closed-Ended
+Oscillating Heat Pipe as a part of coursework Discussed in detail the basic concepts, principle of operation, advantages, limitations and
+unique applications of the non-conventional heat pipe.
+Education
+Master of Science : Mechanical Engineering December 2014 SUNY, University at Buffalo GPA: GPA: 3.4/4.0 Mechanical Engineering GPA:
+3.4/4.0
+Bachelor of Engineering : Mechanical Engineering May 2013 University of Pune GPA: GPA: 3.6/4.0 Mechanical Engineering GPA: 3.6/4.0
+Academic Combustion, Heat Transfer, Fluid Mechanics, Computational Fluid Dynamics, Applied Thermodynamics, Turbomachines, Combustion
+Laser Diagnostics, Industrial Fluid Power, Metallurgy, Machine Design, Mechanical System Design, Advance Material Science and Material
+Science & Corrosion
+Publications
+Student Member: Society of Automotive Engineers, May 2010 Â​ May 2013 Presented a paper on 'Alternate Fuels in IC Engine' at PVG College
+of Engineering, Pune 2011 Presented a paper on 'Removal of Toxic Metals from Wastewater by Activated Carbon from Agro-Industrial By-
+Product' at MMM College of Engineering, Pune 2011
+Skills
+Academic, ANSYS, AutoCAD, basic, CNC, Direction, Documentation, Drafting, DSC, Engineer, Laser, Lathe, layout, MATLAB, Mechanical,
+Excel, Microsoft Office, PowerPoint, power point, Word, Microstation, Mill, Oil, organizing, profit, Research, scanning, schematics, Scheme,
+Solidworks, specification, System Design, unique

@@ -1,0 +1,68 @@
+SYSTEMS ENGINEERING MANAGER
+Summary
+Multifaceted Technical Manager with a broad spectrum of experience and knowledge excelling at being a conduit between the technical domain
+and financial processes. Proficient in numerous areas from hardware engineering, software engineering and subcontracts management. Technical
+Manager for $60M+ in complex software development including the functional management of 70+ Systems Engineers, Software Engineers, Test
+Engineers, Technical Artists and Game Developers.
+Skills
+Technical Management: MS Project, Agile Software Development, Jira, Handsoft, ePDM, Data Analysis, Customer Management
+Systems : Hardware-Software Integration Rational Requisite Pro, ClearQuest, Visio,DOORS, LEAN/Six Sigma, Safety Engineering,
+Requirements Engineering Creation, System Architecture
+Design: Creo, Solidworks, ANSYS 14, DFMA, DFA/DFM, AutoCAD, Zemax, Unigraphics, Â Â Â Â I-deas, Intralink, Windchill
+Drafting: Engineering Drawings, GD&T, Tolerances, Bill of Materials, Cage Codes, ASME Standards, Weld and Material Callouts
+Development: C++, JAVA, MathCAD, Matlab, Simulink, Microsoft Visual Studio
+Clearance: Active Secret Security Clearance
+Experience
+Company Name February 2010 to Current Systems Engineering Manager 
+City , State
+Technical Program Manager for LCS Game Based Learning
+Manage 63 Systems Engineers, Software Engineers, Test Engineers, Technical Artists and Game Developers
+Responsible for budget, scope and schedule for $55M worth of training software development Â 
+Led the setup of cross-functional team based development resulting in $12M+ cost savings Â 
+Championed the engineering of an enterprise architecture that included a tool suite for game development that is being used on an enterprise
+level
+Technical point of contact for the US Navy ranging from product design to schedule and budget reviews Â 
+Managed 5 subcontractors including budget, scope and schedule for each company
+Technical Program Manager for Emirates Airlines Game Based Learning for Cabin Crews Â 
+Manage 7 Systems Engineers, Software Engineers, Test Engineers, Technical Artists and Game Developers Â 
+Piloted the evolution of a mobile based training platform to serve over 20,000 trainees on multiple mobile platforms
+Lead Systems Engineer for LCS Mission Bay Trainer(MBT) Proposal
+Led a cross functional team in the design of over $20M worth of heavy equipment replicating the Mission Bays of LCS 3 and LCS 4 Â 
+Designed multimillion-dollar simulated Launch and Recovery Systems
+Key contributor to proposal-pricing and estimating-efforts
+System Engineer for Littoral Combat Ship(LCS) Curriculum Proposal
+Developed architecture for training courseware for the LCS ships inclusive of 300M of software development Â 
+Generated Learning Objective environment architecture Â 
+Led the integration and configuration of sample product demonstrating level 3 IMI training in a 3D environment Â 
+Composed pricing model and technical manpower estimates for LCS curriculum proposal inclusive of $300M over a 5 year PoPÂ 
+Systems Engineer for M134a Dillon Minigun Simulator Â 
+Developed System Design and System Requirements for M134a including 3 large projection screens, simulated weapon and computing
+hardware Â 
+Designed system simulating the timing of the feeder/delinker
+Mechanical Engineer for design and production of Bradley Fighting Vehicle Simulator Â 
+Received performance award for opto-mechanical design on the Bradley Simulator Â 
+Designed HVAC system to cool display and electronic instruments *by analyzing heat emitted from electronic instruments and designed
+cooling system using a series of fans and heat sinks
+Designed precision mounts for optical and visual instruments *Mounts designed were adjustable while still maintaining durability. Designing
+of mounts consisted of stress and strain analysis, material selection, vibration and shock analysis, and manufacturability analysis. Working
+with RTV bonding to mounts lenses and LED/LCD screens.
+Utilized elastomeric materials and polyurethane foam for vibration and shock support Â 
+Designed mounting system to interface OLED screen and circuit board
+Adopted FARO arm to collect data for precision measurements
+Company Name March 2009 to February 2010 Co-op 
+City , State
+Developed a physics system for damage assessment on a fighter aircraft (MIG-29A) for fragmentation and blast damage from an air-to-air
+missile (AIM-120) Â 
+System simulated results by calculating penetration from fragmentation damage on the skin of the aircraft and structural damage from the
+shockwave of the blast Â 
+Developed a six degree of freedom physics model for a C-17 aircraft
+Company Name December 2009 to May 2010 Physics Consultant 
+City , State
+Developed a physics model of water flow and pressure against human muscle proving water pressure can cause shearing of female
+reproductive muscles during watercraft accidents by calculating the amount of stress on the muscle created by the high velocity fluid entering
+the female reproductive system
+Languages
+Bilingual Arabic/English (US Citizen)
+Education
+University of Central Florida 2010 Bachelor of Science : Mechanical Engineering City , State
+University of California, San Diego 2015 Enterprise System Architecture City , State

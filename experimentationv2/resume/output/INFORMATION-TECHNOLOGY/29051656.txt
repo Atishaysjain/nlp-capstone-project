@@ -1,0 +1,82 @@
+INFORMATION TECHNOLOGY SPECIALIST
+Summary
+An organized DBA professional with over 6years hands-on experience supporting Oracle databases, Sql Server databases and AWS
+infrastructure. Equipped with excellent communication and interpersonal skills; a highly organized individual and team player who possesses strong
+analytical and problem solving skills, and is who is committed in delivering quality services to customers/clients.
+Experience
+Information Technology Specialist 03/2018 to Current Company Name City , State
+Â Primary responsibilities include production support, installation and configuration, migration, backup and recovery, performance tuning,
+cloning, security, upgrades, and patches.
+Planned, installed and upgraded multiple Oracle databases from 11.2.0.4 to 12.2.0.
+Added targets to OEM 13c and used OEM 13c to monitored databases.
+Created rules, security profiles using OEM 13c.
+Performed Hot/Cold Backup, Recovery and Cloning of databases using RMAN
+Planned and implemented Backup strategies, used RMAN and Crontab to schedule backup.
+Installed and upgraded databases from MySQL 5.6 to 5.7 and implemented mysqld_multi for better performance.
+Migrated databases from on-premise to AWS using Database migration services.
+Launched and maintained RDS and EC2 instances in AWS.
+Created Snapshots, Elastic IPs, EBS Volumes, Security Groups per clients/costumers request.
+Performed cross region replication with S3.
+Created security groups to manage inbound and outbound rules.
+Database Administrator 12/2014 to Current Company Name City , State
+Troubleshot and resolved web application issues escalated from customer support and other departments with a 100% success rate.
+Worked with clients to analyze computing and network needs and implemented appropriate solutions within each department's budget.
+Analyzed performance monitoring/tuning/troubleshooting - Oracle database performance tuning services with EXPLAIN PLAN, TKPROF,
+STATSPACK, AWR and SQL TRACE.
+Installed, configured and maintained Physical, Logical, Active standby databases supported by Data guard on Oracle 11g, and 10g RAC
+servers for the purpose of disaster recovery procedures.
+Generated ASH, ADDM and AWR Reports using OEM from Oracle 10g, 11g and 12c database and analyzed the reports for Oracle wait
+events, time consuming SQL queries, tablespace growth, and database growth.
+Implemented database re-organizations as required to improved performance and ensure maximum up-time of the database; implemented
+SQL Access and SQL Tuning advisers recommendations.
+Launched and maintained RDS and EC2 instances in AWS.
+Created Snapshots, Elastic IPs, EBS Volumes, Security Groups per clients/costumers request.
+Planned and implemented high availability solutions such as Real Application Cluster (RAC) in Oracle 11gR2 Grid and 10g on ASM and
+ACFS file systems.
+Migrated multiple stand-alone databases to RAC databases using Rconfig, RMAN and OEM.
+Migrated single instance databases from NON-ASM to ASM file system to improve performance.
+Installed Oracle 10g, 11g and 12c software and created multiple databases including Plug-able and container databases in oracle 12c.
+Implemented TDE, Data Redaction and database Auditing to improved data integrity and security.
+Applied PSU on standalone TEST environment using OPatch and same PSU (Grid and RDBMS Patching) on production cluster using
+OPatch Auto.
+Replicated data in real time using Oracle Golden Gate and Oracle streams.
+Analyzed, interpreted and troubleshot Golden Gate related issues.
+Designed and implemented different backup strategies like Cold, Hot backup using RMAN with Flash Recovery Area and Logical Backups
+with EXPDP/IMPDP.
+Scheduled RMAN backups, purge jobs, Maintenance Jobs using DBMS_JOBS, DBMS_SCHEDULER, Crontab and OEM.
+Implemented and managed logical backup/recovery with Datapump and Export/Import utilities.
+Cloned databases using RMAN and Manually using scripts.
+Implemented Point In Time Recovery on one or more tablespaces to recover lost of a table(s) while eliminating down time for the database.
+Installed SQL Server EE 2012 on windows and created databases, triggers, tables, procedures, functions and database diagrams.
+Upgraded databases from 10g to 11g and to 12c using DBUA, Datapump, Manually, Transportable Tablespace and Oracle Dataguard.
+Oracle Database Administrator 07/2012 to 10/2014 Company Name City , State
+Prepared technical architecture proposals for enhancements and migrated an existing standalone database to RAC database.
+Provided senior technical support to Developers and troubleshot performance issues and maintained high availability and security of
+databases.
+Analyzed and tuned the Database to identify potential database bottle necks such as response delay, locking contention, wait event using
+tools like STATSPACK, EXPLAIN PLAN, and TKPROF.
+Collaborated and worked together with development and operations staff and resolved problems quickly and efficiently.
+Maintained Physical, Logical, Active standby databases supported by Data guard on Oracle 11g, and 10g RAC servers for the purpose of
+disaster recovery procedures.
+Installed, configured, deployed and monitored different databases and application servers using Oracle OEM 12c Grid Control.
+Worked efficiently in Database administration activities such as User management, Space management, Monitoring, Creating Database,
+Managing Oracle Instance and Database security and Materialized views.
+Maintained and administered high availability solutions such as Real Application Cluster (RAC) in Oracle 11gR2 Grid and 10g on ASM file
+system.
+Planned and applied PSU/CPU patches and upgraded multiple databases from 10g to 11g.
+Replicated data in real time using oracle Golden Gate.
+Increased data security; implemented TDE and database auditing and created threshold on database metrics and set alert for a more
+stronger security.
+Maintained Active Data guard, creating both Logical and Physical Standby databases for data disaster recovery solutions.
+Worked on 24/7 environments, supported, monitored, managed and troubleshot database related issues over 300 oracle 10g, 11g and 12c
+databases with sizes from 300G to 2TB.
+Implemented backup strategies used RMAN for incremental/full backup and Datapump to backup logical components.
+Education and Training
+Bachelor of Science : Civil Engineering University Of Buea City , State , Cameroon Civil Engineering
+Technical Environment
+Databases: Oracle 10g, 11g, 12c, MySQL 5.6, 5.7, Sql Server 2008, 2012
+Platforms: Oracle Enterprise Linux 5.11, 6.7, 7, HP-UX 10.x, 11.x. Sun Solaris 2.5, 2.6, Windows Server 2008
+Tools : TKPROF, EXPLAIN PLAN, STATSPACK, AWR, and ADDM Toad, Putty, X-wing32, WinSCP.Â 
+Database Utilities : Oracle Enterprise Manager, Real Application Cluster, ASM, Transportable Tablespaces, SQL*Loader, RMAN,
+DataPump, Export, Import
+Languages :Â  Â·SQL*PLUS, PL/SQL, UNIX Shell Scripting, Ksh, bash

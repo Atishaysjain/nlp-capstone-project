@@ -1,0 +1,149 @@
+ASSOCIATE CONSULTANT
+Professional Summary
+7+ years of experience in Analysis, Design, Coding, Testing, Database Administrator & Production Support of application software in Mainframe
+platform.
+Having working Domain experience in the areas of Banking, Financial, Warehouse, Legacy System.
+Extensive hands on experience on IBM Mainframe Application programming using COBOL II, CICS, JCL, DB2, VSAM, UNIX.
+Using BRIO for generation of Usage Reports.
+Extensively used debugging tools such as XPEDITOR, IBM DEBUGER.
+Hands on experience on DB2 tools such as QMF, SPUFI, FILE-AID, DB2 Admin, DB2 command editor.
+Expertise in using configuration management tools ENDEVOR, SCLM.
+Good exposure on Analysis and Designing of Documents like Software requirement Specifications (SRS) and specification design documents
+(HLD and LLD).
+Expertise in using scheduling tool OPC.
+Excellent in Problem Troubleshooting, Problem resolution and root cause analysis.
+Excellent knowledge of both Batch and Online Systems running on Mainframes.
+CERTIFICATIONS: IBMCertified z/OS Database AdmiN,DB2 Application Developer and DB2 UDB V8 family Fundamentals
+Certifications. Â 
+Key Skills
+OS : MVS, OS/390, Z/OS, Windows, UNIX.
+Databases : DB2,VASM ORACLE, SQL.
+Tools/Utilities : TSO/ISPF, RACF, OPC, QMF, FILE-AID, SPUFI, XPEDITOR, ENDEVOR,
+ABEND-AID, SDF, DCLGEN, SUPER-C,IBM SORT, ICETOOL, BMS, Quality Center (8.2),
+Clear Quest, Fault Analyzer, SDSF, FTP,IBM UTILITIES, JCL UTILITIES. DB2 ADMIN
+PANEL,SONAR,RDZ,MQ Shooter
+Languages : COBOL,
+JCL, CICS, VSAM,
+SQL, HTML, XML,
+JavaScript, REXX and
+Java
+PC Applications : MS-
+Word, Excel, MS-Office,
+MS Access.
+OLTP : CICS.
+Experience
+Associate Consultant 
+October 2010 to July 2014 Company Name ï¼​ City , State
+HSBC CORE BANKING 
+October 2010 to July 2014 Company Name ï¼​ City
+HSBC Database : DB2 9.0 Team Size : 10 Role : Developer -> Team Member -> Team Lead Env : Mainframe Z/OS Technology : IBM-
+MVS, DB2, SPUFI, Scheduler, REXX, JCL/PROC, VS COBOL-II, COBOL, CICS, ENDEVOR, EXPEDITOR, R2DS, MQ Roles /
+Responsibilities: Managed Team of more than 7 members Proactively taking up the responsibilities as and when demanded Done Resource
+Management activities: Resource Onboarding, Fun Fridays, News-Letter, team outings, Daily status reporting, Leave management,
+timesheet management without any schedule slippage Mentored the new team members and solve their technical issues and prepared
+documentation for commonly occurring technical issues.
+Worked in different modules / streams as below during the project tenure: Product and parameters Account maintenance Cheque
+management Account value Taxation Advice, statements and reporting Exception handling Bulk inputs Fees & Interests OAM Gained in-
+depth core banking knowledge like important control record setup, complete transaction flow on an account and application of fees and
+interest on an account.
+Providing design proposals and Development of new programs to handle various functions of banking activities both online and batch.
+Creating the CICS MAP from scratch and developing the Presentation layer and service programs As a coordinator for various releases,
+taken responsibility of daily status reporting and follow ups as and when required, resolved proactively functional/technical hurdles that can
+impact the deliverables, which resulted in timely and flawless delivery for all the releases Creating High level design document and providing
+best architectural solution possible Providing of Techinical Specifications based on business requirment.
+Proving the solutions for performance tunning and working on testing part, STUB creation and other activity for tunning Creating UTP for
+the service and online programs Tracking and reporting all the defects in SIT and sent out status reports as and when required Working in
+POC project for E2E process of reengineering activity Resolving production issues, Abends & tickets, working on code changes,
+scheduling change, bug fixing, completing adhoc & business requests were our priority work.
+Gain ability to work under high pressure and to complete deliverables on time with high quality Working in a team, which had team members
+of similiar experience as of me and proving myself among them would also be the one of the important achivement Active player in project /
+allocating tasks within team and timely delivered the tasks to clients Involved in various Reviews of project deliverables - Document
+Reviews, Code Reviews, peer reviews Handle the responsibility of arranging the knowledge improving sessions for team which includes
+domain knowledge, technical sessions and walkthrough of projects so that all the team member have the knowledge of all the projects and
+all are in same platform Emphasis on preparing document in every phase of project like testing reports, learning's during project, technical
+issues faced in project and how it was solved as if someone else faces it they can directly refer to document and solve in less time.
+Creation of STUB program / Batch modules for manipulation of 20 million records Working on Performance Testing and Tuning for
+different Batch programs.
+Active participation in Impact Analysis, Coding and Unit Testing, AIT / SIT phases.
+Involved in various Reviews of project deliverables - Document Reviews, Code Reviews, peer reviews Involved in Retrofit activity and
+Reviews.
+Working in SIT defect resolution team.
+SYSTEM ENGINEER 
+March 2007 to October 2010 Company Name ï¼​ City , State
+Education
+MBA : Finance , 2011 Symbiosis University ï¼​ City , State , INDIA
+BE Computer - Pune University 2005
+Accomplishments
+OHCB project is development of a new platform for processing the banking business of HSBC in mainframes Currently this project is in its
+SIT phase for Term Deposit and initial design for Lending.
+As a part of one HSBC initiative HSBC is Developing new product named OHCB on Mainframes platform which will have all the existing
+functionality of it's existing core banking product HUB which is on AS400.
+In conjuction with the current functionality of HUB, HSBC has decided to include additional functionality in the OHCB to meet One HSBC
+solution.
+Currently 53 countries uses HUB as their primary banking system.
+OHCB architecture is totally service based so that it remains very loosely coupled and can interact with other OH (One HSBC) financial
+product like OH payment, OH forex, OH cards , OHCDM etc easily.
+This is the flagship project for HSBC and OHCB will be deployed in all the 85+ countries where HSBC is currently in business by year
+2020.
+2.
+IBM INDIA PVT LTD, Pune (System Engineer: Mar 2007 - Oct 2010) PROJECT: MIW (MARKETPLACE INFORMATION
+WAREHOUSE) Developer / DBA Apr 2009 - Oct 2010 Client : IBM, USA Tools : SCLM, RMDS, DB2 Admin Panel, Spufi, QMF,
+Brio.
+Platform : Z/OS.
+Languages : PL1, JCL, VSAM, DB2.
+Database : DB2 8.0 / 9.0 Team Size : 7 Roles / Responsibilities: DBA Activities (Solving user queries, Loading / Unloading data,
+Authorization, Execution of Utilities) Change request estimation / updating and scheduling, project metrics management using RPM tool
+Active participation in Application design.
+Responsible for Change Request Management, Code development / delivery Creation of BRIO Reports Unit testing and documenting unit
+test results.
+Review of program specifications, unit test specifications and unit test results Production Support (L3) / Resolution of abends Description:
+Marketplace Information Warehouse (MIW) is a part of IW suite of applications.
+MIW houses multiple sources of data and makes this data easy to use by cleaning, processing, linking, and further defining the data for
+faster delivery of information that is critical to the business needs of sales and marketing professionals.
+Data is both licensed from external sources and compiled by IBM internally.
+MIW receives External data from its Vendors.
+MIW refines and process raw information received from different vendors into useful information, which is loaded to DB2 tables.
+IBM sales and marketing team access this data using different online interfaces.
+The information that MIW receives and process differ for different vendors.
+PROJECT: LDW ESW Developer Apr 2007 - Mar 2009 Client : IBM, Germany Platform : Z/OS.
+Tools : Spufi, QMF, Brio, DB2, TSO/ISPF Team Size : 2 Roles / Responsibilities: Responsible Application design.
+Production Support.
+Creating Report on BRIO depending on Requirements.
+Scheduling the jobs in OPC.
+DBA Activities.
+Participate in project meeting.
+Description: EBI (Enterprise Business Information) Operation includes three batches, one for each GEO (EMEA, NA and AP) running
+overnight.
+The batches feed daily IDOCs from CBS located on SAP environment to S&D IW located on MVS/DB2 environment through FODS
+(Fulfillment Operational Data Store).
+The LDW ESW is physically located on an MVS/DB2 environment in UK/Portsmouth - UK MVS TSOBA.
+There will be no direct access to the LDW ESW system on TSOBA for the common users (key users and LCM have direct access).
+Edge-On-Demand is used as a front-end tool with BRIO as the query tool behind.
+It's a WEB based solution, which supports different formats (BRIO, HTML, and L123).
+PROJECT: LDS (LEGACY DATA SYSTEMS) Developer Oct 2007 - Mar 2009 Client : IBM, Germany Platform : Z/OS.
+Tools : Spufi, QMF, Brio, DB2, TSO/ISPF Team Size : 2 Roles / Responsibilities: Responsible Application design.
+Production Support.
+Creating Report on BRIO depending on Requirements.
+Scheduling the jobs in OPC.
+DBA Activities.
+Participate in project meeting.
+Description: The Legacy Data Store (LDS) as a logical part of the EDW consists of 12 tables.
+It is a system which receives data from the Legacy Warehouse systems and stores it in the S&D Information Warehouse.
+The whole transmission system consists of two parts: 1) The sending part on Legacy Warehouse Country side 2) The receiving part on
+S&D IW side For each sending system exists in the S&D IW one dedicated receiving System.
+The sending and the receiving systems are developed as OPC job net running under MVS.
+Each job net consists of several jobs, which usually executes one program, but there are also jobs executing more than one.
+A program is a MVS/DB2 Utility or a PL/I Program.
+Because up to 12 tables are fed, there are also 12 interfaces, each responsible for one target table.
+Dependent from the target table, every interface has a specific layout and record format.
+The two subsystems communicate with the help of a trigger file.
+This file indicates that a sending action has successfully completed and the data can be accessed on the receiving side.
+If no trigger file is received on the target side, no processing take place.
+Skills
+analytical skills, banking, CICS, COBOL-II, COBOL, client, clients, Database, delivery, documentation, ENDEVOR, English, File-Aid,
+functional, Hindi, IBM, DB2, DB2 8.0, DB2 9.0, IBM-MVS, ISPF, JCL, Languages, team building, Team Lead, Mainframe, MS-Access,
+Windows, News-Letter, OS, Developer, PL1, Coding, proposals, QMF, quality, Quest, reengineering, reporting, REXX, scheduling, SPUFI,
+SQL, TSO, UDB, VSAM
+Additional Information
+PERSONAL DETAILS Date of Birth : 20-08-1983 Sex : Female Marital Status : Married
+Hobbies, Interest : Watching movies, Listening music Swapanali Dhend

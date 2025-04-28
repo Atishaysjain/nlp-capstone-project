@@ -1,0 +1,134 @@
+INFORMATION TECHNOLOGY SPECIALIST/SYSTEM ANALYSIS
+Summary
+I have over 10 years of professional service in Information Technology Support and Technical Operations in working with the Federal Government
+and private sectors. I have a broad knowledge and expertise in strategic planning, IT Business Systems, Network Operations, IT Security and
+System Analysis. My goal is to secure permanent employment within a outstanding organization that offer opportunities for growth and
+advancement, while implementing a high degree of professionalism, enthusiasm, initiative on a daily basis.
+Highlights
+Active Top Security Clearance/SCI
+Certified Cisco Network Associate
+Certified CompTIA Security+
+Microsoft SharePoint 2010 Train
+Experience
+Company Name February 2015 to May 2016 Information Technology Specialist/System Analysis 
+City , State
+Serve as IT System Analyst; assist with business process improvement efforts, responsible for the physical setup of computer workstations,
+configuration of Microsoft Outlook 2013, operation, and integration of hardware and software components associated with databases that
+support the Department of The Army.
+Monitor network to ensure network availability to all system users and perform necessary maintenance to support network availability.
+Collaborate and work together with Joint Service Provider, Information Technology Agency, DISA and Video Teleconference Team,
+coordinate and implement superior IT services to Army G-3-5-7staff and customers.
+Develop document and implement IT asset management program to identify the location and maintain accountability of IT equipment.
+Serve as Contract Office Representative, effectively manage Verizon service contract, in business systems tools such as Contractor
+Performance Assessment Reporting System (CPARS) and Wide Area Work Flow (WAWF).
+Manage IT related issues in through trouble ticketing system known as Remedy.
+Coordinate with custom care liaison regarding Technical Assessment and Cost Estimate, Life Cycle Replacement.
+Prepare documentation on complex systems, processes in assigned functional area of responsibility and maintain business continuity plan.
+Manage copier and printer inventory program
+Serves as Entitlement Manager for DoD Enterprise Email system, create distribution list, email accounts, restrict and grant permission to
+both individual and group emails.
+Responsible for analyzing new information technology equipment and conduct testing of product and services.
+Responsible for migration of ISDN and VOIP telephone systems of over 1500 users. Ensure corrective actions to restore operational
+services the Verizon software applications.
+Provide technical assistance and desktop support on various operating systems and applications.
+Conduct information assurance and security training and manage network account access requests.
+Serve as an advisor to the Chief Information Officer on matters relating to security vulnerabilities and threats to G-3-5-7's computer
+systems.
+Develop corresponding security countermeasures necessary to protect technical, complex, sensitive and classified information processed on
+Army computer equipment.
+Provide technical support and assist in preparing and implementing policy guidance to G-3-5-7 organization.
+Evaluate adequacy of new or revised information security policy, standards, and procedural guidance and support for the protection of
+information technology systems.
+Work closely with program and project activities to develop safeguards for the computers that are connected to Army networks.
+Review operational and technical security aspects associated with specific sites and facilities to determine vulnerability and threat.
+Company Name October 2013 to December 2014 Information Technology Specialist/Network Administrator 
+City , State
+Serve as a system analyst; primary job duty is to monitor servers and load balancers activity through sophisticated software applications
+such as HP Business Services Manager, HP Network Node Manager, and HP Operation Manager for UNIX.
+Schedule application stop monitoring through platform on mainframes.
+Assist both national and international Boeing and AT&T customers when alarms are received from voice over internet protocol telephone,
+Break/Fix, wireless LAN control (access point) circuit, catalytic switches, routers, servers and flight line managed applications.
+Preform triage procedures then trouble shoot and escalate service ticket, assign tickets into the appropriate network or global group for
+further investigation (usually Tier 3 IT help desk or higher support).
+Operate and utilizes various software applications to include but not limited to: SPARK instant messaging, Same Time Lotus Notes,
+Microsoft LYNC, and Network Data Viewer (NDV), Remedy ticketing, Riverbed, Names and Address Management System (NAMS),
+Circuit Design & Configuration (CDC) and Cisco Prime.
+Daily reports, manage ticketing disposal and conduct shift change brief.
+Monitor functionality, information assurance, security, and integrity of internet services; troubleshoots and resolves technical problems with
+the design and delivery of internet services; collects and analyzes internet service usage and performance statistics; evaluates new internet
+services and technologies; and provides technical advice to internet content providers.
+Company Name April 2005 to July 2013 Information Technology Specialist 
+City , State
+Knowledge of data communications, networking equipment such as wide area network, local network routers, switches assist in trouble
+shooting devices and computers with end users.
+Coordinates and schedule with ATT internet provider to set up and install voice teleconferences (VTC) through Polygram system, provided
+IT telephone support, customer service, employ Microsoft Windows 7, and operating systems upgrade.
+Image hard-drives through use of Ghost Cast server, unlock computers through Dame Ware remote access, and utilize active directory
+program, reset pins and passwords.
+Ability to support common applications and access/password management used in the industry, including Microsoft, Active Directory,
+Resource Access Control Facility (RACF) environments.
+Knowledge of information systems security policies and assurance.
+Enterprise server, LAN, e-mail system administration experience and issue help desk trouble tickets.
+Managed highly classified telecommunication materials.
+Received and distributed sensitive items to over 100 organizations with no deficiencies.
+Maintained and tracked incoming/ outgoing security material.
+Assisted with the standard procedure to ship and package of electronic equipment.
+Issued special telecommunication encryption keys to civilian companies and military commands.
+Provide strategic planning and operation support to command group in Germany.
+Preformed analytical, technical and administrative work planning, daily inventory, diagnose and respond to customer incident reports, site
+evaluation to ensure clients are incompliance, resolved issues with loading keys into electronic simple key loader, prepare reports, brief
+clients and higher chain of command and supervised four personals.
+Implemented and preformed retention control program of military personnel.
+Providing guidance on administrative and military personnel matters.
+Installs, maintains, and troubleshoots Signal support equipment and terminal devices.
+Installs, operates, and maintains designated radio and data distribution systems.
+Maintains selected electronic devices.
+Performs Signal support functions, to include providing technical assistance and training for user owned and operated automation and
+communications equipment.
+Prepares maintenance and supply requests for unit level Signal support.
+Operates and performs preventive maintenance checks and services on assigned vehicles.
+Supervises, installs, maintains and troubleshoots Signal support systems and terminal devices, to include radio, wire, and battlefield
+automated systems.
+Provides technical assistance and unit level training for automation, communication, and user owned and operated Signal equipment.
+Disseminates information services policy Installs, operates and performs preventive maintenance checks and services on power generators.
+Performed duties as an aviation operations specialist in the primarily job responsibility to schedule and dispatch tactical aircraft missions.
+Operate one of the largest fleets of aircraft in the world and keep them running safe and efficient.
+Process local and cross-country flight clearances.
+Check accuracy of flight plans and coordinate them.
+Maintain flight logs on incoming/outgoing flights and individual flight records.
+Alert crash crews of emergencies.
+Interpret and post weather reports.
+Company Name March 2004 to April 2006 Data Entry Specialist 
+City , State
+Served as a medical reviewer and data entry processor of DOT physical examines of various clients into medical system program Occulink,
+Microsoft excel for tracking of missing information.
+Performed administrative duties, customer service, maintained files, and medical records.
+Correspond and coordinated with medical professionals, performed client audit, analyst.
+physical exams to ensure accuracy of medical history, educated clients on quality assurance, proper data processing, expedition of timely
+feedback, exams and increase productivity.
+Process data entry and transmits data to appropriate site.
+Edits and performs quality assurance and quality control checks during the input of data from source documents.
+Assists in quality control edits by retrieving reports for the data collectors and Team Chief.
+Organizes all completed source documents and mail with appropriate attachments to filing site.
+Makes weekly transaction tapes along with weekly form counts and prepares tapes and forms to be mailed to appropriate site.
+Plan and schedule installation of new or modified hardware, operating systems, and applications software.
+Maintain systems configuration and manage installation and integration of systems fixes, updates, and enhancements.
+Oversee/perform equipment installation or relocation, testing and acceptance processes.
+Analyze and evaluate work concerned with integrated systems of computer programs and/or computer equipment.
+Develop and document systems administration standard operating procedures.
+Education
+GRANTHAM UNIVERSITY 2017 Master of Science : Information Management Technology City , State 
+SAINT LEO UNIVERSITY 2015 Bachelor of Business Administration : Management City , State
+SAINT LEO UNIVERSITY 2013 Associate of Arts : Liberal Arts City , State
+Additional Information
+Active Top Secret Clearance, Graduate of Signal Systems Support Advance Leader Course in Information Systems and Networking training,
+Military Good Conduct Awards, Overseas Ribbons, Operation Iraq Freedom Award, Global War on Terrorism Award, and Certificate of
+Appreciation. Golden Harvest volunteer community services. Recognized as Non-Commission Officer of the Month December 2012 and a
+candidate for Battalion Non-Commission Officer of the year March 2012.
+Skills
+Active Directory, Microsoft Outlook 2013, Windows 7, Windows 10, system security, data automation, Circuit Design application, UNIX client
+server, interpersonal skills, hardware and software installations, network systems, content encryption, customer relations, desktop support,
+telecommunications, databases query, electronic filing, forms, Microsoft Windows deployment, software Imaging, contract specialist and
+acquisition. Supply and property inventory, WAN, LAN, Lotus Notes, mainframes, materials, trouble shooting and ticketing systems, network
+security,policies, formal presentations, quality assurance, Life Cycle Replacement (LCR), radio communication, geographical statistics, strategic
+planning, supervisor, Cisco switches and routers, system administration, and technical support.

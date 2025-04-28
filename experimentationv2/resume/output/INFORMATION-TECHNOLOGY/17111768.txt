@@ -1,0 +1,162 @@
+INFORMATION TECHNOLOGY PROJECT MANAGER SYSTEM ANALYSIS (SYSANALSYS) [GS-2210-12]
+Professional Overview
+Highly-qualified Department of Defense (DoD) Program Manager (PM) professional, driven to maximize Mission Partner (MP) operationa
+efficiency through planning, project management and Infrastructure Technology (IT) expertise. Excels at building dynamic team relationships and
+achieves project management process improvements. Looking to continue federal career as a strategic planner possessing exceptional knowledge
+understanding support agreements, basis of estimates, fiscal analysis, financial reporting, cost projections, business proposals and increased overall
+responsibilities within federal service. 
+Relevant Professional Experience
+January 2010 to Current
+Company Name City , State Information Technology Project Manager System Analysis (SYSANALSYS) [GS-2210-12]
+*Holds Active Security Clearance*Â 
+Member of the Development and Business Center for Defense Logistics Agency (DLA), Defense Finance and Accounting Service (DFAS)
+Program Management Office (PMO), as well as the Mission Partner Engagement Office (MPEO)/Engagement Executive (EE) team (BDM11).
+Principle Job Duties:
+Engage with various DISA mission partners to provide critical IT requirement proficiency and Project Management support leveraging the
+DISA End-to-End (E-2-E) Business Flow Process
+Positioned as the DISA Program Manager for DLA's dynamic and complex Enterprise Business Systems (EBS) Test and Development
+(TD) environment which generates $39 million in annual revenue for the agency
+Also serving as the primary DISA Subject Matter Expert (SME) government Program Lead (PL) for the DoD mandated Federal Data
+Center Consolidation Initiative (FDCCI) providing IT and project support for Defense Contract Management Agency (DCMA), Defense
+Manpower Data Center (DMDC), Office of Personnel Management (OPM) and DFAS
+DISA Project Manager support includes skill(s) in the following:
+Serving as the primary Point of Contact (POC) to the Mission Partner for identifying, tracking, managing and resolving project issues within
+Operational Environments (OEs) and applications
+Strong in-depth knowledge and understanding of DISA computing service offerings
+Providing functional and technical requirement analysis of all new DISA Mission Partner project initiatives through Service Request Forms
+(SRFs)
+Create workload utilization documentation of customer environments
+Schedule and facilitate Mission Partner stakeholder meetings to ensure all project risk has been identified and mitigated
+Develop and manage the overall project work plan for each Mission Partner project to be certain all workload has beenÂ  identified and
+completed on time
+Coordinate with DISA Information Assurance (IA) personnel to ensure that Mission Partner IT systems have the required DoD Information
+Assurance Certificates and Accreditation Process (DIACAP) package completed, making certain the customer is in compliance before
+implementation of their application(s)
+Effectively manage project scope to ensure baseline time frames and tasks are delivered, unless changes were approved through the
+Baseline Change Request (BCR) process.
+Proactively manage the development of customer business proposals which are derived from approved Bill of Materials (BOM) and
+Solution Designs (SD)
+Monitor the timely acceptance of all project basis of estimate and receipt of Mission Partner funding
+Analyze and coordinate with customer to review upcoming Fiscal Year (FY) cost projection
+Ensure that the processing of Authorization Increases (AI) have been accepted
+Monitor the judicious execution of all preparation activities for Initial Operating Environment (IOE) of all Mission Partner IT systems,
+including arrival of hardware infrastructure and software delivery
+Completing the IOE checklist while staying in direct communication with the Customer Account Representative (CAR) assigned to the
+application(s) to assist in initiating Mission Partner billing to the appropriate Billing Account Number (BAN), for both implementation and
+recurring charges
+Coordinate with customer and CAR to review support agreement for application(s)
+Ensure that the timely execution of all Initial Operating Capability (IOC) preparation activities have been completed - including application
+build and testing have been concluded, Security Technical Implementation Guides (STIGs) have been applied, proper ports and protocols
+have been identified, Enclave Connection Authority (ECA) has been approved by the proper Designating Approval Authority (DAA) and
+Go-Live has been coordinated
+Transitioning projects to operational sustainment of all closeout activities resulting in Full Operational Capability (FOC)
+DISA Project Manager experienced in various technologies:
+Multiple hardware OE chip-sets including x-86, Itanium, SPARC and PA-RISC
+Multiple software Operating Systems (OS) including Windows Server 2008 R2, Windows Server 2012 R2, Red Hat Enterprise Linux
+(RHEL), Hewlett Packard UNIX (HPUX), Solaris and SUSE
+Relational Database Management Systems (RDBMS) such as Oracle and Microsoft SQL
+?Converged IT systems including Hewlett Packard (HP) HANA appliance and System Analyses Program (SAP) Business Warehouse
+Accelerator (BWA)
+Virtual Operating Environment (VOE) platforms such as Microsoft VMWare
+?Cloud computing environments such as DISA milCloud
+Various enterprise storage platforms including Storage Area Network (SAN), Network Attached Storage (NAS) and Content
+Addressable Storage (CAS)
+?Numerous enterprise storage vendor devices such as Hitachi Virtual Storage Platform (VSP) and HP 3Par for SAN, NetApp for NAS
+and EMC Centera for CAS
+Application and database consolidation devices including Oracle Supercluster
+Disaster Recovery (DR) / Continuity of Operations (COOP) planning and initiation
+While supporting Mission Partner projects, IT systems and overall initiatives, important knowledge has been obtained in the
+following competencies:Â 
+Defining and collecting tracking metrics to ensure that project deliverables are produced, accurate and accounted for
+Facilitating project meetings with DISA internal team members, Mission Partners and various stakeholders
+Hosting collaboration sessions dedicated to developing project scope, formulate agendas and negotiate schedules
+?Managing expectations of Mission Partner IT requests and notional time frames for project completion
+Providing excellent customer service to ensure Mission Partner obtains operational sustainment for their applications and environments
+Technical analysis of DISA Capacity Services IT solutions
+Initiating processes to ensure project objectives are completed
+Negotiate with Mission Partner to solve complex technical and schedule hurdles
+?Comparative analysis of modified business proposal from the original estimate
+Analyze proof-of-concept solutions
+Application migrations
+?Compile and dissemination of all project documentation and noteworthy information to appropriate customer stakeholders
+Presenting clear and concise weekly project status reports to management
+Creating senior leadership briefings for high visibility Mission Partner initiatives
+?
+Supplementary key proficiencies:
+A ccumulated an average rating score of 4.57 (outstanding) over the previous five years during annual Performance Work Plan
+& Appraisal review
+Superior oral and written communication skills
+Able to convey highly technical concepts in a manner that all can understand
+Strong technical acumen allows the development of trusted relationships with Mission Partner and DISA functional teams
+Routinely manages a demanding workload in spite of limited resources, conflicting priorities and demanding customers
+Outstanding team member willing to share knowledge, experience and recommendations with co-workers
+Willingly takes additional workload and responsibilities to support the overall agency mission
+A consummate professional that represents DISA in an articulate and professional manner
+Holds self to highest standards
+January 2010 to January 2014
+Company Name City , State
+Relevant Training:
+Action Officer Course
+Acquisition Training 101
+Aspiring Leaders
+Briefing Techniques
+Customer Service Excellence
+Empowerment
+Interpersonal Communication
+Network Operations 100
+Planning, Programming, Budgeting and Execution course
+Teambuilding
+This Is Transforming DISA
+August 2009 to January 2010
+Company Name City , State Computer Technician Specialist
+Managed, provisioned, configured, built and staged operational computer systems for Navy/Marine Corps Intranet project
+March 2008 to August 2009
+Company Name City , State IT Specialist STEP (Student Technology Education Program) 
+Reported to Lead Supervisor of DISA Naval service desk support
+Independently managed and filed data tape entry into appropriate storage drives
+Consistently received excellent evaluations on reviews
+Education and Coursework
+2015
+Shippensburg University 
+City , State , USA Organizational Development and Leadership (ODL) 
+Master of Science
+Concentration: Public Organizations
+Relevant Courses:
+Applied Organizational Leadership and Analysis
+Ethics for Public Service Managers
+Leadership, Charge and Innovation
+Leadership, Theory and Practice
+Policy Implementation and Administration
+Public Policy Analysis
+Organizational Theory and Behavior
+Research Methods
+?
+2009
+YTI Career Technical Instituation 
+City , State , USA Network and Internet Security Administration (NISA) 
+Associate Technical
+Relevant Areas of Study:
+Applications
+Computer hardware and technology
+Operating systems and provisioning
+Virtual machines
+Security and system hardening
+Network configurations
+Backup imaging and disaster recovery
+2006
+Millersville University 
+City , State , USA Sociology 
+Bachelor of Arts
+Certifications, Training and Noteables
+CompTIA Security+ certified (active)
+Information Technology Infrastructure Library (ITIL) Foundation Certification in IT Service Management
+Foundations of Project Management for IT Professionals
+Introduction to IT Project Management 
+The Project Management Professional (PMP) Certification Exam Camp
+Microsoft Project 2010 Level 1 and 2 Training
+Defense Acquisition University: Developing a Systems Engineering Plan
+Defense Acquisition University: DISA Information Systems Engineering Seminar (ISES)
+Defense Acquisition University: Engineering Management Workshop (EMW)
+Defense Acquisition University: Fundamentals of System Acquisition Management
+Was a member of the System Integration and Delivery (SID) proposal evaluation team to negotiate new vendor award. The SID team
+support contract is worth $45 million

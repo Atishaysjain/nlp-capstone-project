@@ -1,0 +1,77 @@
+ENGINEERING OPERATIONS DIRECTOR
+Executive Profile
+Senior Software Executive Senior Software Executive who is a key contributor to strategic planning and product development. Highly skilled at
+creating and implementing key software improvements and process changes by uncovering major process limitations, maximizing profitability,
+scalability, and competition in the global marketplace. Accomplishments (over last 15 years +) Reported directly to C-level executives and Board
+members, successfully bridging the gap between the business and Engineering, implementing strategic plans and ensuring that the engineering teams
+are aligned to business goals. Agile expert and evangelist, running software development teams for over 17 years and specifically agile software
+development for more that 13 years. Reorganized and transitioned many teams and companies to become smooth running agile groups, drastically
+reducing delivery issues, making the work very transparent, empowering team members to become self-directed and accountable to their
+commitments. Skilled at managing entire software development process and employees including QA, Project Management, Technical Support, on
+and offshore teams, contractors, subsidiaries, and merger/acquisitions. Successfully on-boarded the engineers and technology from an acquired
+company and quickly merged their intellectual property (IP) into the main product line. Advocate for strong Engineering Best Practices, including
+design & code reviews, paired programming, unit tests and continuous integration testing through automation. Including, establishing leading and
+trailing engineering metrics, which provide strong indicators of product quality and delivery schedule. Managed globally distributed teams ranging
+from 15-60 people, with P&L responsibilities between $2M - $6M. Teams have been located in US, Germany, Hungary, Russia, China, and
+Argentina. Consistently an early adopter of critical trends in methodologies and practices, which transform and refine processes to increase the
+delivery of business value.
+Skill Highlights
+Technology Â· Java Â· Amazon AWS Â· Hibernate Â· PHP Â· EC2 Â· Elastic Search Â· C++ Â· JSMVC Â· JUnit Â· C Â· HTML Â·
+Selenium Â· CanJS Â· CSS Â· Aurora Â· PL/SQL Â· Bootstrap Â· Jenkins Â· Oracle Â· Python Â· Phabricator Â· My/SQL Â· AJAX Â·
+GitHub Â· JavaScript Â· Camel Â· Jira Â· REST and SOAP services Â· MongoDB Â· Perl
+Professional Experience
+Engineering Operations Director 
+January 2014 to Current Company Name ï¼​ City , State
+A high growth company, whose suite of services help researchers successfully communicate their work.
+Identified misalignment between technical teams and business, reorganized the technical teams and aligned technical metrics to support
+business KPIs, increasing revenue and cost savings.
+Doubled team to 20 people in 4 months, by introducing a new improved hiring process that quickly filtered out non-qualified candidates and
+increased our acceptance rate to over 90%.
+Awarded Culture Champion Award.
+Director of Software Development 
+January 2012 to January 2014 Company Name ï¼​ City , State
+A non-profit organization devoted to the advancement and well-being of dogs.
+Turned around a multiyear software delivery failure, by re-architecting the approach taken, changing the technology used, and transitioning
+the team to Agile; putting the software back on budget and on time.
+Reduced technical dependency on old technologies by road mapping out a multiyear strategic technology plan, reducing number of
+technologies used throughout the department by 50%.
+Responsible for web based PCI compliant e-commerce software, connected to an enterprise database.
+Chief Operating Officer 
+January 2010 to January 2012 Company Name ï¼​ City , State
+Public safety software and services company focused on enterprise-class software for Fire and EMS Departments.
+Implemented a SaaS solution, allowing smaller towns and cities the ability to use and integrate with the Fire and EMS software.
+Reduced customer's server upgrade time from 4 days to 4 hours.
+Removed the requirement, caused by software limitations, that hard mounted mobile computers be removed from fire trucks and brought
+into the IT dept for upgrades.
+Reduced a mobile computer's install and upgrade times from 1 day per machine to 2 hours.
+Vice President of Engineering 
+January 2001 to January 2010 Company Name ï¼​ City , State
+A mid-sized 3D software company for creating digital models of physical objects, including both 'off-the-shelf' and customized commercial
+applications.
+The software is used globally in markets such as: rapid prototyping, reverse engineering, inspection, and healthcare.
+Grew revenue from $0 to over $16M with a CAGR greater than 30% for 6 consecutive years.
+Integral in receiving 6 term sheets of similar valuation resulting in $8M in VC funds in 2008.
+Expanded company organically from 22 to 110 employees, coordinated effectively with Sales, Product Development, and Marketing teams
+to produce globally competitive products.
+Conceived of and implemented critical changes in software architectural designs creating a partner eco- system.
+Director of Software Development 
+January 2000 to January 2001 Company Name ï¼​ City , State
+A 30 person company using its patented lens system to project a standard 3D image into a 180 degree.
+hemispherical screen using software to convert the flat image to the curved surface without distortion.
+Engineering Manager/Senior Software Engineer 
+January 1996 to January 2000 Company Name ï¼​ City , State
+A 60 person company providing B2B and B2C real-time 3D solutions, via the Internet.
+Software Engineer 
+January 1993 to January 1996 Company Name ï¼​ City , State
+Software Engineer 
+January 1989 to January 1993 Company Name ï¼​ City , State
+Education
+Postgraduate courses in Cognitive and Neural Systems : 1991 Boston University ï¼​ City , State
+M. S : Computer Science , 1989 Union College ï¼​ City , State Computer Science Masters Project: A Netless Neural Network - presented on
+August 16, 1989 at International Conference on Expert Systems and Neural Networks - Theory & Applications
+B. S : Computer Science , 1988 Union College ï¼​ City , State Computer Science
+Skills
+3D, Agile, AJAX, approach, B2B, budget, C, C++, competitive, CSS, database, delivery, e-commerce, Expert Systems, funds, hiring, HTML,
+PHP, image, inspection, Java, JavaScript, Marketing, MongoDB, enterprise, Network, Networks, Neural, Oracle, PL/SQL, PCI, Perl, Product
+Development, profit, prototyping, Public safety, Python, real-time 3, receiving 6, requirement, Sales, SOAP, SQL, strategic, upgrades, upgrade,
+valuation, VC

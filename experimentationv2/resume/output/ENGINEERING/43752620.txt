@@ -1,0 +1,84 @@
+ENGINEERING INTERN
+Summary
+Automotive Engineer seeking Systems Engineer position at your esteemed organization with scope for career advancement and professional
+development.
+Skills
+AutoCAD, Ansys, Cero, CATIA, HyperMesh, DFMEA, MS Office Suite, Fortran, C, MATLAB/Simulink, CNC Programming
+Experience
+Dec 2016 
+Company Name
+Identified technological changes, key issues, trends, design and refined the vehicle definition.
+Illustrated vehicle design and highlighted major interior and exterior dimensions of the vehicle concept.
+Presented a technology plan on the above parameters.
+Simulation and Analysis of 1-2 Shift Processes of a 6-speed FWD AT, University of Michigan-Dearborn, March 2017.
+Established a mathematic model for the transmission-vehicle system consisting of general state variable equation, specific state variable
+equation for the 1st gear, 1-2 shift process and 2nd gear operation.
+Simulated the launch of the vehicle from rest in 1st gear, initiated 1-2 shift at a speed of 15 mph, and 2nd gear operation for 2 seconds with
+an open torque converter and a fixed throttle position using MATLAB/Simulink.
+Reduced torque overshoot by spark retarding, and careful calibration of the oncoming clutch.
+Further, torque hole was reduced to maximum extent with help of spark retard.
+Modelling of Vehicle cooling system, University of Michigan-Dearborn, November 2016.
+Built a Simulink model of vehicle cooling system consisting of four sub models namely, engine operation, air flowrate, coolant flowrate and
+heat transfer.
+Determined coolant flow rate, heat rejection from the engine, and engine outlet coolant temperature for different vehicle speeds by executing
+the simulation model.
+Computational Analysis of Hemispherical Radiating Fin, Visvesvaraya Technological University, April 2015.
+Derived heat transfer equations by using two-dimensional conduction equation in spherical coordinates and subjected the same to radiative
+boundary condition, with constant base temperature.
+Solved derived equations using Finite Difference Method and Gauss-Seidel iterations by writing a code in FORTRAN 95.
+Determined Heat transfer improvement as a function of thermal conductivity and emissivity, with and without irradiation.
+The hemispherical fin starts to radiate heat for thermal conductivity > 3 (W/mK) and absorbs heat for thermal conductivity < 3="">
+Engineering Intern Jan 2016 to Jun 2016 
+Company Name ï¼​ City
+Completed basic and advanced level of training from regional training office of Maruti Suzuki India Limited.
+Implemented 5S, Kaizen, Poka-yoke in servicing of automobiles.
+Overhauled Engines and Transmissions with assistance of technicians.
+Carried out tasks such as inspection and replacement of clutch, common rail, glow plugs, spark plugs, head gaskets, shims, tappets, brake
+pads, brake shoes, brake fluid, engine oil, coolant, EGR systems, VVT systems, engine filters, fuel filters, wheel bearings.
+Gained knowledge in working of CAN Bus systems.
+Assisted technicians in cylinder compression test, servicing of inter-coolers, suspension systems, brake systems.
+Operated SDT (Suzuki Diagnostic Tool) to inspect, analyze and eliminate errors caused by various sensors and actuators present in
+different vehicle systems.
+Mechanical Engineering Intern Jul 2014 
+Company Name ï¼​ City
+The main objective of the internship was to understand the different mechanisms and technical concepts involved in the end to end
+manufacturing of rail coaches and engines.
+The internship helped get a feel of industry environment.
+Witnessed various concepts such as welding, sheet metal works, CNC machine working etc.
+Benchmarking and Preliminary analysis (Mid-Size SUV), University of Michigan-Dearborn, September 2016.
+Collected Customer requirements from surveys, websites, magazine and, blogs.
+Conducted a benchmarking study of competitor vehicles with the reference selected vehicle.
+Developed preliminary specifications of the target vehicle.
+Developed Pugh Diagrams to determine how the target vehicle and benchmarked vehicles compare with the reference vehicle.
+QFD, requirement cascade and interface analysis for a selected vehicle system (Instrument Panel), University of Michigan-Dearborn,
+October 2016.
+Determined functional specifications through the application of the Quality Function Deployment (QFD) to a selected vehicle system.
+Cascaded vehicle attributes and sub-attributes requirements to vehicle system and its sub-system requirements.
+Developed interface diagram and interface matrix for the selected vehicle system included all major sub-systems.
+Identified and analyzed major trade-offs considered in designing the selected system to fit and work with other vehicle systems.
+Business Plan Development (Mid-Size SUV), University of Michigan-Dearborn, November 2016.
+Determined and developed various features, options, unique characteristics of vehicle systems and provided a brief description of the
+proposed vehicle.
+Determined the characteristics of anticipated customers and provided a brief description of market segment.
+Determined selling price and sales projection of the proposed vehicle.
+Developed Gantt chart and System Engineering 'V' model to show the vehicle program timings and various gateways.
+Determined costs, prepared revenue summary table, developed plots of curves containing life-cycle costs and revenues for the vehicle
+program.
+Constructed a benchmarking table that included comparisons done between target vehicle and competitors and risks involved for the
+addition of new features.
+Education and Training
+Master of Science , Automotive Systems Engineering May 2018 University of Michigan ï¼​ City , State Automotive Systems Engineering 3.72
+Bachelor of Engineering , Mechanical Engineering June 2015 Visvesvaraya Technological University ï¼​ City , India Mechanical Engineering 75.35
+Certifications
+Product Development, Systems Engineering, Automotive Powertrains, Vehicle Thermal Management, Strength of Materials, Design of Machine
+Elements, Fluid Mechanics, Heat Transfer, Thermodynamics
+Skills
+Ansys, AutoCAD, automobiles, Automotive, basic, Benchmarking, Business Plan Development, C, calibration, CATIA, CNC, concept,
+designing, dimensions, features, FORTRAN, functional, gateways, inspection, inspect, market, Materials, MATLAB, MS Office Suite, office,
+works, oil, Processes, Product Development, Programming, Quality, requirement, selling, sales, Simulation, surveys, Systems Engineering, System
+Engineering, transmission, unique, websites, welding
+Additional Information
+HONORS AND ACTIVITIES *Presented a technical seminar on "MOTOR VEHICLE WITH INSERTABLE FOUR WHEEL DRIVE",
+Visvesvaraya Technological University. *Non-Resident Graduate Scholarship Recipient, Fall 2016 and Winter 2017 terms, University of
+Michigan-Dearborn. *Top 10 in a class of 140 students at PES Institute of Technology South Campus, Visvesvaraya Technological
+University.

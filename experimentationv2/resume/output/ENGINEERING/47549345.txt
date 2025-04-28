@@ -1,0 +1,57 @@
+S
+ENGINEERING INSTRUCTOR
+Summary
+Seeking an Internship/Co-op in the field of Electrical/Instrumentation & Control Engineering for Spring & Summer 2017
+Highlights
+MATLAB, Simulink, Siemens PSS@E, Power World, ETAP, LabVIEW, Multisim, RT-LAB, C++, MS office.
+Certificate in Industrial Automation & Control from Apollo Knowledge Institute. July 2012 - Sept 2012
+Skills acquired in PLC programming (Allen Bradley & Siemens PLC), HMI, SCADA, Servo drives, VFD, Hydraulic & Pneumatic
+control system.
+Experience
+Engineering Instructor 
+Company Name Jun 2016 to Jul 2016
+Instruct and supervise high school students to build engineering projects.
+List of projects: http://www.bluestampengineering.com/meet-the-students/palo-alto-16/.
+Graduate Teaching Assistant 
+City , State Company Name / Jun 2015 to Current
+Assist professor in teaching courses Control system, Electrical & Electronic circuits, Computer based industrial power system protection, &
+Introduction to C++ programming.
+Instrumentation & Control Engineer 
+City Company Name / Oct 2012 to Dec 2014
+Execution experience with DCS (Honeywell Experion PKS (C300 controller)) & ESD systems.
+Supervised all Electrical & Instrumentation Installation & Commissioning activities including Control & motor loop check, Panel testing,
+Field Instrument & Control Valve testing of Shah Gas Development Project, Abu Dhabi, UAE.
+Prepared all engineering documents such as Instrument Index, Instrument & Control Valve Datasheets, Cause and Effect drawings, Hook
+up Drawing, MTO, Material Requisition, Vendor offer evaluation, Technical write up, preparation of control system philosophy, FAT
+procedure etc.
+IEEE, API, ISA, IEC, NEC standards.).
+Intern 
+City , State Company Name / Dec 2011 to Dec 2011
+Interacted & worked with plant operator and chief engineer on SCADA, HMI, PLC, control panel wiring, flow, pressure, level transmitter
+& control valves.
+RESEARCH & PROJECT Research on "Dynamic Stability of Grid-Microgrid interconnection system using Fuzzy Logic Controller".
+To design a fuzzy logic controller to limit the switching transients and enable a smooth transition of Microgrid from Islanded mode to Grid-
+connected mode.
+Matlab/Simulink-Simpower system and Opal-RT for simulation) Project on "Close loop traffic control system using PLC (Programmable
+Logic controller)".
+To control the time period of traffic lights based on density of traffic using PLC (used LG PLC for simulation).
+Education
+Master of Science : Electrical Engineering University of Houston May 2017 City , State Electrical Engineering 3.85
+Digital Control System, Linear Multivariable Control System, Smart Grid Technology (Convex Optimization, Unit commitment, Economic
+dispatch), Industrial Power System Protection, Power System Analysis.
+Bachelor of Technology : Instrumentation & Control Engineering Nirma University May 2012 City , India Instrumentation & Control Engineering
+3.5
+Analog & Digital systems, Control System Design, Power Electronics, Instrumentation System.
+Certifications
+Certificate in SPI Intools from Smart Brains Engineering Pvt. Ltd. April 2014 - May 2014 *Skills acquired in SPI Intools, AutoCAD.
+Professional Affiliations
+IEEE April 2015 - Present
+Skills
+API, Apollo, AutoCAD, Automation, C++, C++ programming, com, Controller, Electronics, engineer, engineering projects, FAT, Drawing, http,
+ISA, LabVIEW, Logic, MATLAB, MS office, NEC, Optimization, philosophy, PLC programming, PLC, RESEARCH, SCADA, Siemens,
+Siemens PLC, simulation, System Design, System Analysis, teaching, wiring
+Additional Information
+AWARDS, ACHIEVEMENTS & PUBLICATION *12th Annual Graduate Research Conference (GRC 2016, UH), 'Fuzzy controlled
+VSC of Battery storage system for seamless transition of Microgrid between grid-tied and islanded mode: 1-2' *Runners up in Robocon
+2010, India (International level Robotics event organized by Asia - Pacific Broadcasting Union). *Graduate Tuition Fellowship, University
+of Houston 2015 - 2016.

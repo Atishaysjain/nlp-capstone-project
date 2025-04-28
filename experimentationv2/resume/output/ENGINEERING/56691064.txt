@@ -1,0 +1,70 @@
+ENGINEERING TECHNICIAN
+Summary
+An experienced CAD and GIS Technician able to produce detailed drawings and maps which are clear and accurate. I am able to analyze
+databases and generate custom maps and reports with different tools of the trade. I am always curious to learn new skills and technologies that
+enhance my productivity in a complex organization. Adaptable to work for long periods and under the most stressed situations without losing focus
+and patience.
+Highlights
+Operating Systems: Windows XP/ Vista/7 ArcGIS 9.3.1, 10.0
+C# (Basic) Telvent ArcFM 9.3.1/10.0.3
+Java (Basic) ArcGIS extensions
+AutoCAD (2008 - 2013) Arc Toolbox
+AutoCAD Map 3D 2008 Enghouse NetWORKS 4.7.1
+3D Studio Max 2009 ERDAS Imagine 9.3
+Revit 2009 Microsoft Office (Up to 2010)
+GeoExplorer 6000 Series GeoXH GPS Pathfinder Office Software
+Magellan Mobile Mapper 6 Basic Surveying Principles
+MS Project Remote Sensing
+Garmin Oregon 550 Adobe CS4 (Photoshop, InDesign, Illustrator)
+Google Earth Google SketchUp (Up to ver. 7)
+Clinometer MicroStation (Basic)
+Able to lift, push, pull and carry 40 pounds or more
+Languages: Armenian
+Experience
+Company Name Engineering Technician 07/2014 to Current
+Updating the map book settings to publish water tiles of atlas map Generating system valve and hydrant data per tile using Crystal Reports
+Creating Tree GIS database - subtypes, domains, required fields with data types, geo-coding about 38,000 tree addresses Analyzing DB
+and generating reports per engineer requests Digitizing of Fiber Optics and tube allocation using Telvent fiber manager Creating custom
+maps for research studies Updating GIS, CAD, and other records based on asbuilts received Cover the front counter answering phone calls
+and customer walk-ins (when necessary) AutoCAD drafting (street lighting, substations, electrical substructure and wiring, and customer
+primary services) Perform various queries for street lighting, electrical engineering, and water engineering departments Updated GWP
+Electric and Water 5 Year CIP Plan Cross training with Electrical Planners - New and updated meter spots Created address geocode and
+updated xml to set as default Review, reconcile, and post GIS edits to parent version while supervisor is on vacation Linked transformers to
+customer meter data for transformer load study.
+Company Name Assistant Engineering Technician 11/2013 to 07/2014
+Maintained the ArcFM stored display for the Electric viewers and editors Edit of electrical features in a versioned enterprise database Error
+check and tracing for Phase and Feeder connectivity Consolidated five street light databases into one (GPS, Versioned GIS, AutoCAD/MS
+Access, Disconnected, and Duplicated) Created custom street light maps for the Street light HPS Conversion Master Plan Updated
+Customer Service, Substructure, Substation, Street Lighting and Wiring drawings Conversion of paper and scanned images to AutoCAD
+format Researched new City Fiber routes using GIS Reviewed and fixed any errors for cartographic representation Worked as a team for a
+two phase Service Point ID mapping for electrical services to the customer side Helped Engineering staff with any GIS related issues
+Checked off permits for new constructions Updated wall maps at the Utility Operation Center and Howard Substation Updated and plotted
+4kV/12kV feeder conversion map for the next three years Worked with ISD-IT to publish web maps.
+Company Name Hourly City Worker 12/2007 to 09/2012
+Approved Electrical and Fiber Optic edits to parent version Updates to the GIS manual for work procedures Trained co-workers to use
+GIS / ArcFM Created data dictionary for GPS collection project of the Street Lights Prepared maps and reports for extension of Fiber
+Optics Reviewed Plan Checks for GWP Fiber Optics Plotted sectional and primary maps from CAD and GIS Installation of ArcGIS and
+ArcFM Created and maintained personal geodatabases Assisted in creation of mapping standards and other procedures Updated the 5
+Year CIP Plan Mapped/Updated electrical assets within GIS and CADD: Electric Vehicle (EV), Service Drops, Tropos, Ice Bears,
+Underground/Overhead Distribution lines, Vaults, Pull Boxes, Basemap, Poles, Pedestals Assisted in obtaining bearing and distances for
+electrical easement deed Digitized electrical and water easements Updated Glendale's Municipal Code Book.
+Education
+Bachelor of Science : Geography Social Sciences June, 2012 California Polytechnic State University Pomona GIS GPA: Pi Gamma Mu
+Geography Pi Gamma Mu Social Sciences
+Associates Degree : Architecture June, 2009 Glendale Community College Architecture
+Civil Design Technology December, 2012 Rio Hondo Community College Civil Design Technology
+GCC Certificate, Architectural CAD GCC Certificate, Architectural Drafting GPA: President and Vice President of the American Society of
+Engineers and Architects Club (ASEA) Dean's list President and Vice President of the American Society of Engineers and Architects Club
+(ASEA) Dean's list
+Work History
+Company Name
+Professional Affiliations
+ESRI User Conference, Attended Seminars/Workshops (San Diego, CA) Basic Data Collection using TerraSync v4.0x Field Software GPS Data
+Collection for GIS - Best Practice ESRI Certificate, Cartographic Design Using ArcGIS 9
+Additional Information
+2 | Page
+Skills
+3D, 3D Studio Max, Adobe, Photoshop, Architectural Drafting, AutoCAD, Basic, book, CAD, Conversion, Crystal Reports, Customer Service,
+data dictionary, databases, database, drafting, Edit, electrical engineering, engineer, xml, features, Fiber Optics, GIS, GPS, HPS, Illustrator,
+InDesign, Java, Lighting, Mapper 6, MS Access, C#, Microsoft Office, Office, MS Project, 3.1, Windows XP, MicroStation, enterprise,
+NetWORKS 4.7.1, next, Operating Systems, DB, coding, research, Revit, supervisor, phone, transformers, transformer, Vista, Wiring

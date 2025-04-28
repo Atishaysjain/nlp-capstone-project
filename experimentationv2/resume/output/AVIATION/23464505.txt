@@ -1,0 +1,53 @@
+JAVA INTERN
+Career Overview
+Developer well-versed in structuring, developing and implementing interactive websites. with experience in back-end programming, relational
+databases and performance testing SAN.
+Education
+May 2015 Wichita State University ï¼​ City , State Master of Science Computer Science GPA: GPA: 3.93/4
+GPA: 3.92/4
+May 2013 BMSCE ï¼​ City , State Bachelor of Engineering Computer Science GPA: GPA: 8.81/10
+GPA: 8.81/10
+Qualifications
+Programming and design skills
+Strong analytical skills
+Optimizing and performance tuning
+Experience with writing and executing test plans
+Experience working in Agile Software development
+methodology
+Capable of working simultaneously on diverse projects individually and as
+a team
+Experience in project presentations and enthusiasm in understanding new
+concepts
+Technical Skills
+Server-side technologies : servlets, JSP, J2EE technologies, Hibernate3.x, JPA, Spring 3.0, Struts 2.0, EJB, JMS, Design patterns, SQL,
+Pl/SQL
+Client-side scripting : HTML5, CSS, Java Script, AngularJS, Jquery and bootstrap
+Consuming and producing SOAP and Restful web services (XML and JSON)
+C, C++,Unix system programming, CUDA, Perl
+Data Structures, Operating system concepts, multicore and multi-threaded programming, SAN, UNIX
+Tools : Eclipse, IOmeter , Code Warrior, vi editor, Visual Studio, Arduino, Oracle 11g, Code Blocks, iSCSI initiator, NetApp internal
+tools, Navicat, JConsole, JMeter, tomcat, JBOSS, Git
+Technical projects
+Unix system programming : Built a binary search tree using system calls in C (on Linux platform) to sort a file of records Implementation
+of Unix commands : tail, tee, cp and mv, in C
+Parallel Apriori algorithm proposal on Nvidia GPU Performance of Apriori algorithm with multiple threads on a single-core machine was
+compared against multi-threading on GPU. The newly proposed algorithm reduces the processing overhead on GPU.
+Leave management system: Designed and implemented a module to help the organization to log the attendance of employees with its
+biometric system. This project had html, jquery, AngularJS for front-end and Spring MVC, Hibernate running on tomcat server in the back
+end and Oracle 11g server as database
+Work Experience
+Java intern , 06/2013 ï¼​ Current Company Name ï¼​ City , State
+Designing and implementing Leave Management System for internal use(Spring MVC)
+Receiving training in core java and J2EE technologies
+Consuming and producing web services for a bank application
+Creating Single Page Application in AngularJS
+Test contractor (Performance and Benchmarking team) , 05/2014 ï¼​ 05/2015 Company Name ï¼​ City , State
+Executed test cases and analyze performance numbers against benchmarks
+Conducted root-cause analysis for performance degradation in controller firmware builds by running continuous performance verification
+(PCV) tests daily.
+Participated in scrum meetings
+Automated using Action Word Script (AWS), batch script, Java ( Member of automation team)
+Graduate Research Assistant , 12/2013 ï¼​ 05/2014 Company Name ï¼​ City , State
+Managed and maintained NIAR composites database
+Created charts and updated the database
+Wrote macros for doing data analysis

@@ -1,0 +1,113 @@
+MANAGER ENGINEERING MANUFACTURING SYSTEMS ENGINEERING MANAGER
+Summary
+Personable Engineering Manager successful at building strong cross sector professional relationships. Manages large and complex projects for the
+heritage ES now MS sector while maintaining high team morale and energy. Skilled mentor and mediator who excels at bringing out the best in
+team members.
+Experience
+Company Name City , State Manager Engineering Manufacturing Systems Engineering Manager 08/2015
+Drafted action plans and led collaboration meetings with functional organization executives to review project status and proposed changes.
+Collaborated with cross-functional teams to draft project schedules and plans.
+Manage a team of 8 direct Manufacturing Systems Engineering (MSE) leads within the Manufacturing Engineering (ME) organization that
+are responsible for developing, maintaining, and integrating web tools to be used by manufacturing, engineering, and business systems and
+processes.
+Provide tactical and strategic IT leadership and coordination for Manufacturing System Engineering tools products, processes, applications
+and technology.
+Support the Manufacturing Engineering directorate with IT activities including strategy development, budget and cost management, product
+and service acquisition and delivery, teaming relationships and communication activities thereby ensuring timely and cost effective delivery
+and customer satisfaction.
+Company Name City , State Manager Engineering Process Initiatives Manager 04/2015 to 08/2015
+Managed a team of 15 direct and dotted line sector-wide process leads with an operating budget of $5M within the Engineering,
+Manufacturing, & Logistics (EM&L) Process Initiatives (PI) organization that are responsible for integrating sector-wide engineering and
+business processes.
+Coordinate process efforts across the sector and facilitate collaboration for consistent, compliant and affordable processes consistent with
+CMMI and ISSO standards.
+Governed the sector wide development and migration efforts from SharePoint 2010 to SharePoint 2013 for Engineering, Manufacturing, &
+Logistics (EM&L).
+Efforts include defining scope of work, financial planning, governance, strategic planning and delivery.
+Manage all aspects of the project plan for successful phased migrations using distributed resources.
+Worked closely with the Enterprise Shared Services team (ESS) to streamline migration plans, communications, and training material for the
+Electronic Systems (ES) sector for SharePoint 2013.
+Company Name City , State Manager Engineering Process Manager 04/2014 to 04/2015
+Managed a team of six sector-wide process leads with an operating budget of $2M within the Engineering, Manufacturing, & Logistics
+(EM&L) Process Initiatives (PI) organization who are responsible for integrating sector-wide engineering and business processes.
+Coordinate process efforts across the Engineering East organization and facilitate collaboration for consistent, compliant and affordable
+processes consistent with CMMI and ISSO standards.
+Defined and coordinated sector-wide migration efforts for SharePoint 2007 to SharePoint 2010.
+Efforts include defining scope of work, financial planning, governance, strategic planning and delivery.
+Managed all aspects of the project plan for successful phased migrations using distributed resources.
+Directed sector wide implementations of knowledge transfer/sharing projects in SharePoint 2010 to include the Reuse Library, Lessons
+Learned, and Idea Exchange.
+Champion existing projects; moving them forward by encouraging innovation, communication, and adoption; as well as developing teams for
+new projects.
+Developed and administered sector wide training classes for SharePoint 2010.
+Delivery includes campus-based and virtually led SharePoint classes containing 15 participants per class.
+Company Name City , State Business Process Analyst 12/2012 to 04/2014
+Planned, monitored, and tracked assigned change request progress for quarterly software development lifecycle release schedules.
+Proactively identify and resolve issues, escalate problems, and facilitate cross-team coordination in support of the Medicare Beneficiary
+Database Suite of Systems (MBDSS), under the direction of the Centers for Medicare and Medicaid Services (CMS) as well as the Social
+Security Administration (SSA).
+Served as a primary resource for interfacing with end users, Information Technology (ITS) staff, and stakeholders to develop and manage
+requirements for mission-critical systems and business needs.
+Articulated written and oral requirements with CMS leaders, subject matter experts, and business partners.
+Participated in process improvement development for monitoring program progress, intervention, and problem solving to meet productivity,
+quality, customer-satisfaction goals, and Northrop Grumman strategic objectives.
+Received the October 2013 Northrop Grumman MBDSS Shout Out Award for managing a complex and difficult change request using
+strong organizational and leadership skills, providing technical support and creative solutions to ensure the work remained on target.
+Company Name City , State Requirements Manager 04/2011 to 11/2012
+Oversaw various IT system development processes to implement the Cultural Knowledge Consortium (CKC) enterprise web based portal
+solution.
+This effort was under the general direction of Army TRADOC G2 with a budget of 3.6mil.
+Maintained continuous alignment of the CKC IT project scope with strategic CKC program business objectives, and make
+recommendations to modify the program to enhance effectiveness toward the business result or strategic intent in support of the
+organizational mission.
+Identified CKC technical and program specific requirements while building credibility, establishing rapport, and maintaining communication
+with stakeholders at multiple levels, including those external to the organization through the development of the CKC Project Charter,
+Project Plan and Functional Requirements Documentation.
+Presented periodic dashboard reports on the current IT project, future collaboration opportunities and client issues on the CKCs enterprise
+web based technical solution to Army TRADOC G2 leadership.
+Company Name City , State Applications Specialist 08/2009 to 02/2011
+Delivered IT support for the physician practice management tool Epic.
+Managing system conversions, deployment, performance tuning, and monitoring of Epic Summer 2009 from Epic Spring 2007.
+Performed organizational business and systems analysis to properly document workflows and execute training plans.
+Review documentation for validity/completeness, authored and participated in overall project documentation for Electronic Health Records.
+Gathered and assessed needs from internal business units; recommended solutions to resolve issues (e.g., process workflow, printing issues,
+and access options); and tested functional specifications for Epic.
+Worked in partnership with multiple departments, management teams, physicians, and personnel in the use of business and clinical
+information systems across the organization while incorporating Electronic Health Record technology.
+Company Name City , State Business Systems Analyst 01/2009 to 08/2009
+Managed a multifunctional team of employees who provided short term SDLC analysis, design, coding, and testing for a centrally hosted
+web solution application for the Norfolk Naval Shipyard while implementing CMMI level 3 best practices.
+Served as the Process and Product Quality Assurance Auditor (PPQA) and Metrics Coordinator.
+Responsibilities included implementing the PPQA process on the team by developing the audit plan, executing audits, documenting non
+compliances and following up on open noncompliance actions.
+Collaborated with user representatives from public shipyards and NAVSEA 04X sponsor to research solution alternatives, define
+requirements for the conversion of the NWEPS application to a web based business intelligence application which included Earned Value
+Management, Strategic Workload Forecasting, Human Resource Management and Quality Performance modules.
+Company Name City , State Information Architect 08/1996 to 01/2009
+Governed focus groups and cross functional project teams to resolve functional and technical processes with the implementation of
+qualitative and quantitative decision support programs for a managed care organization.
+Automated manual processes to drive gains in data tracking/accuracy, workgroup efficiency and profitability.
+Through the use and creation of dashboards and ad-hoc reports using MS Access, Excel, and Cognos, data management strategies were
+implemented that transformed the Medicaid health plan data into actionable information for improving clinical and financial outcomes with
+significant ROI's.
+This process netted an additional $690k in capitation revenue for fiscal year 2009.
+Evaluated and supported development, integration, and implementation of automated business intelligence information systems such as
+Cognos and SAS for Medicaid health plan data through the use of database design, modeling, and management developed streamlined
+procedures that decreased labor time and eliminated redundancies in data management which generated a cost savings of $6K for Fiscal
+Year 2009.
+Created a process for use by external Medicare auditors that resulted in cost avoidance for Optima Health -Government Programs, which
+generated a savings between $40K and $125K in 2009 due to internal vendor review and consulting.
+Education
+Masters of Business Administration : Project Management 2011 NOVA SOUTHEASTERN UNIVERSITY DISS, Attending BRENAU
+UNIVERSITY , City , State , US
+Project Management
+Bachelor of Science : Management Information Systems 2008 NORFOLK STATE UNIVERSITY , City , State , US
+Management Information Systems
+Associate of Science : Business Administration 2002 TIDEWATER COMMUNITY COLLEGE , City , State , US
+Business Administration
+Skills
+Adobe Captivate, Blackboard, Business Objects, Clarity, Cerner, DOORS, eCHIMP, Eclipsys, EHRs, EPIC, HBOC, MACESS, IDX, I-MAX
+FACET, HEAT, SQL Server 2005, Cognos, ER/Studio, Mini-tab, Oracle, SAS, SharePoint Foundation 2007/2010, SPSS, and pcAnywhere.
+User Level:
+Advanced user of the Microsoft Office suite of software packages to include: Excel, Word, One Note, Outlook, Power Point, Project,
+SharePoint, and Visio.
