@@ -1,0 +1,78 @@
+{
+    "data": {
+        "jobs": [
+            {
+                "title": "Software Engineer",
+                "company": "TechCorp",
+                "description": "We are looking for a skilled software engineer to join our team... Our beliefs are the foundation for how we conduct business every day.  We live each day guided by our core values of Inclusion, Innovation, Collaboration, and Wellness. Together, our values ensure that we work together as one global team with our customers at the center of everything we do – and they push us to ensure we take care of ourselves, each other, and our communities.",
+                "similarity_score": 95
+            },
+            {
+                "title": "Frontend Developer",
+                "company": "DesignWorks",
+                "description": "DesignWorks is seeking a frontend developer to build modern web interfaces... Our beliefs are the foundation for how we conduct business every day.  We live each day guided by our core values of Inclusion, Innovation, Collaboration, and Wellness. Together, our values ensure that we work together as one global team with our customers at the center of everything we do – and they push us to ensure we take care of ourselves, each other, and our communities.",
+                "similarity_score": 88
+            },
+            {
+                "title": "Software Engineer",
+                "company": "TechCorp",
+                "description": "We are looking for a skilled software engineer to join our team... Our beliefs are the foundation for how we conduct business every day.  We live each day guided by our core values of Inclusion, Innovation, Collaboration, and Wellness. Together, our values ensure that we work together as one global team with our customers at the center of everything we do – and they push us to ensure we take care of ourselves, each other, and our communities.",
+                "similarity_score": 85
+            },
+            {
+                "title": "Software Engineer",
+                "company": "TechCorp",
+                "description": "We are looking for a skilled software engineer to join our team... Our beliefs are the foundation for how we conduct business every day.  We live each day guided by our core values of Inclusion, Innovation, Collaboration, and Wellness. Together, our values ensure that we work together as one global team with our customers at the center of everything we do – and they push us to ensure we take care of ourselves, each other, and our communities.",
+                "similarity_score": 85
+            },
+            {
+                "title": "Software Engineer",
+                "company": "TechCorp",
+                "description": "We are looking for a skilled software engineer to join our team... Our beliefs are the foundation for how we conduct business every day.  We live each day guided by our core values of Inclusion, Innovation, Collaboration, and Wellness. Together, our values ensure that we work together as one global team with our customers at the center of everything we do – and they push us to ensure we take care of ourselves, each other, and our communities.",
+                "similarity_score": 81
+            },
+            {
+                "title": "Frontend Developer",
+                "company": "DesignWorks",
+                "description": "DesignWorks is seeking a frontend developer to build modern web interfaces... Our beliefs are the foundation for how we conduct business every day.  We live each day guided by our core values of Inclusion, Innovation, Collaboration, and Wellness. Together, our values ensure that we work together as one global team with our customers at the center of everything we do – and they push us to ensure we take care of ourselves, each other, and our communities.",
+                "similarity_score": 78
+            },
+            {
+                "title": "Frontend Developer",
+                "company": "DesignWorks",
+                "description": "DesignWorks is seeking a frontend developer to build modern web interfaces... Our beliefs are the foundation for how we conduct business every day.  We live each day guided by our core values of Inclusion, Innovation, Collaboration, and Wellness. Together, our values ensure that we work together as one global team with our customers at the center of everything we do – and they push us to ensure we take care of ourselves, each other, and our communities.",
+                "similarity_score": 78
+            },
+            {
+                "title": "Software Engineer",
+                "company": "TechCorp",
+                "description": "We are looking for a skilled software engineer to join our team...",
+                "similarity_score": 85
+            },
+            {
+                "title": "Frontend Developer",
+                "company": "DesignWorks",
+                "description": "DesignWorks is seeking a frontend developer to build modern web interfaces...",
+                "similarity_score": 78
+            },
+            {
+                "title": "Software Engineer",
+                "company": "TechCorp",
+                "description": "We are looking for a skilled software engineer to join our team...",
+                "similarity_score": 85
+            },
+            {
+                "title": "Software Engineer",
+                "company": "TechCorp",
+                "description": "We are looking for a skilled software engineer to join our team...",
+                "similarity_score": 85
+            },
+            {
+                "title": "Frontend Developer",
+                "company": "DesignWorks",
+                "description": "DesignWorks is seeking a frontend developer to build modern web interfaces...",
+                "similarity_score": 78
+            }
+        ]
+    }
+}
