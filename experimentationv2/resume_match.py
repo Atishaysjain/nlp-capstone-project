@@ -183,7 +183,7 @@ for model in models:
         jd_data[jd_col] = jd_data[jd_col].apply(lambda x: decode_and_pool_embedding(x, EMB_DIM))
     jd_vectors_dict = {col: np.stack(jd_data[col].values) for col in all_jd_cols}
 
-    df = pd.read_csv(f"df_resume_{safe_model_name}.csv")
+    df = pd.read_csv(f"resume_embeddings/df_resume_{safe_model_name}.csv")
     for res_col in section_dict.keys():
         df[res_col] = df[res_col].apply(lambda x: decode_and_pool_embedding(x, EMB_DIM))
     resume_vectors_dict = {col: np.stack(df[col].values) for col in section_dict.keys()}
