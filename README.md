@@ -111,7 +111,7 @@ These are computed in the `evaluate_predictions()` function in `main.py`.
 
 ## Notes on Folder Contents
 
-- `exp/`: Contains experiment results, logs, and variations of runs (for model tuning or evaluation)
+- `experimentationv2/`: Contains experiment results, logs, and variations of runs (for model tuning or evaluation)
 - `resume/`: Stores test resumes (PDFs) that are passed through the pipeline
 - `jd_embeddings/`: Stores JD vectors that were generated ahead of time and used during matching
 
