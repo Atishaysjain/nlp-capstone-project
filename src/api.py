@@ -42,6 +42,9 @@ async def get_matches(file: UploadFile = File(...)):
     #generate embeddings
     resume_embeddings = generate_embeddings(sections_dict)
 
+    #TODO: Get resume category
+    
+
     #match to job descriptions
     top_matches = match_to_jobs(
         resume_embeddings,

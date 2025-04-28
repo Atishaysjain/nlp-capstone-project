@@ -62,38 +62,59 @@ def decode_and_pool_embedding(cell, dim=768):
         print(f"Error pooling embedding: {e}")
         return np.zeros(dim)
 
-def evaluate_predictions(predictions: dict, ground_truth: dict, resume_categories: dict, k: int = 25, ground_truth_top_k: int = 5):
+def evaluate_predictions(predictions: dict, ground_truth: dict, resume_categories: dict, k: int = 5, ground_truth_top_k: int = 5):
     top1_hits = 0
     mrr = []
     evaluated_count = 0
-    top5_coverage = []
-    top5_hits = []
+    topk_coverage = []
+    topk_hits = []
 
-    for filename, pred_indices in predictions.items():
-        category = resume_categories.get(filename, "Unknown").upper()
+    clean_ground_truth = {}
+    
+    for k, v in ground_truth.items():
+        cleaned_list = [int(x) for x in v if not (isinstance(x, float) and math.isnan(x))]
+        clean_ground_truth[k] = cleaned_list
+
+
+    for file, pred_indices in predictions.items():
+        category = resume_categories.get(file, "Unknown").upper()
         if category in EXCLUDED_CATEGORIES:
             continue
 
-        true_indices = ground_truth.get(filename, [])
+        try:
+            filename = int(file)
+        except:
+            continue
+
+        if filename not in clean_ground_truth:
+            continue
+        
+        evaluated_count += 1
+        true_indices = clean_ground_truth.get(filename, [])
         if not true_indices:
             continue
 
         true_indices = true_indices[:ground_truth_top_k]
+        if not true_indices:
+            continue
 
-        # Top-1 Accuracy (is top-1 prediction in top-5 GT)
+        actual_gt_count = len(true_indices)
+
+        # Top-1 Accuracy: is top-1 prediction in ground truth?
         if pred_indices[0] in true_indices:
             top1_hits += 1
 
-        top5_pred = set(pred_indices[:k])
-        top5_truth = set(true_indices[:ground_truth_top_k])
-        top5_match_count = len(top5_pred & top5_truth)
-        top5_hits.append(top5_match_count / 5)
+        topk_pred = set(pred_indices[:k])
+        topk_truth = set(true_indices)
 
-        # Top-5 Recall: how many of the top-5 GT are found in top-25 predictions
-        top5_covered = len(set(true_indices[:5]) & set(pred_indices[:25]))
-        top5_coverage.append(top5_covered / 5)
+        topk_match_count = len(topk_pred & topk_truth)
+        topk_hits.append(topk_match_count / actual_gt_count)  # divide by actual number of GT
 
-        # MRR: rank of first correct match in top 25
+        # Top-k Recall: how many ground truth items were found in top-k predictions
+        topk_covered = len(topk_pred & topk_truth)
+        topk_coverage.append(topk_covered / actual_gt_count)
+
+        # MRR: rank of first correct match
         reciprocal_rank = 0
         for rank, pred in enumerate(pred_indices[:k], start=1):
             if pred in true_indices:
@@ -101,14 +122,13 @@ def evaluate_predictions(predictions: dict, ground_truth: dict, resume_categorie
                 break
         mrr.append(reciprocal_rank)
 
-        evaluated_count += 1
-
     return {
         "Top-1 Accuracy": top1_hits / evaluated_count if evaluated_count else 0,
-        "Top-5 GT Covered in Top-25 Preds": sum(top5_coverage) / evaluated_count if evaluated_count else 0,
+        "Top-3 GT Covered in Top-10 Preds": sum(topk_coverage) / evaluated_count if evaluated_count else 0,
         "MRR": sum(mrr) / evaluated_count if evaluated_count else 0,
         "Evaluated Samples": evaluated_count
     }
+
 
 def normalize_filename(filename):
     return filename.replace(".pdf", "").replace(".txt", "")
@@ -119,9 +139,7 @@ def get_ground_truth(row):
     return [
         row["top match JD 1 index"],
         row["top match JD 2 index"],
-        row["top match JD 3 index"],
-        row["top match JD 4 index"],
-        row["top match JD 5 index"],
+        row["top match JD 3 index"]
     ]
 
 ground_truth = {
@@ -248,8 +266,6 @@ def extract_resume_sections(pdf_path):
 
     return ordered_sections
     
-
-
 #generate embeddings from resume sections
 def generate_embeddings(sections_dict, model_name="sentence-transformers/all-MiniLM-L6-v2", device="cpu"):
     print("Generating embeddings for resume sections...")
@@ -281,7 +297,6 @@ def generate_embeddings(sections_dict, model_name="sentence-transformers/all-Min
 def match_to_jobs(resume_embeddings, resume_filename="unknown_resume.pdf", resume_category="unknown", model_name="sentence-transformers/all-MiniLM-L6-v2", device="cpu"):
     print("Matching resume to job descriptions...")
 
-    safe_model_name = model_name.replace("/", "_").replace("-", "_")
     embedding_model_name = model_name.replace("/", "_")
     EMB_DIM = cls_dimensions[model_name]
 
@@ -289,40 +304,44 @@ def match_to_jobs(resume_embeddings, resume_filename="unknown_resume.pdf", resum
     base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
     jd_path = os.path.join(base_dir, "jd_embeddings", f"jd_{embedding_model_name}.csv")
     jd_data = pd.read_csv(jd_path)
-
+    jd_original = pd.read_csv("training_data.csv")
+    jd_data = pd.merge(jd_data, jd_original[["position_title", "category"]], on="position_title", how="left")
+    
     #decode JD section embeddings
     all_jd_cols = {col for jd_cols in section_dict.values() for col in (jd_cols if isinstance(jd_cols, list) else [jd_cols])}
     for jd_col in all_jd_cols:
         jd_data[jd_col] = jd_data[jd_col].apply(lambda x: decode_and_pool_embedding(x, EMB_DIM))
     jd_vectors_dict = {col: np.stack(jd_data[col].values) for col in all_jd_cols}
 
-    #prepare resume embedding dict
+    # Get JD categories
+    jd_categories_list = jd_data["category"].fillna("Unknown").str.strip().str.upper().values
+
+    # Prepare resume embedding dict
     section_keys = list(section_dict.keys())
     resume_vectors_dict = {}
     for i, section in enumerate(section_keys):
         pooled_vector = decode_and_pool_embedding(resume_embeddings[i], EMB_DIM)
         resume_vectors_dict[section] = pooled_vector.reshape(1, -1)
-    
 
-    #compute weighted similarity between resume and JDs
+    # Compute weighted similarity only with JDs of matching category
     num_jds = len(jd_data)
     similarities = np.zeros(num_jds)
 
     for res_col, jd_cols in section_dict.items():
-        print("Resume vector shape:", resume_vectors_dict[res_col].shape)
-        print("JD vectors shape:", jd_vectors_dict[jd_col].shape)
         weight = section_weights.get(res_col, 1.0)
         jd_cols = jd_cols if isinstance(jd_cols, list) else [jd_cols]
 
-        sim_sum = np.zeros(num_jds)
         for jd_col in jd_cols:
-            sim_matrix = cosine_similarity(resume_vectors_dict[res_col], jd_vectors_dict[jd_col])
-            sim_sum += sim_matrix[0]  # shape: (num_jds,)
-        
-        sim_avg = sim_sum / len(jd_cols)
-        similarities += weight * sim_avg
+            res_vector = resume_vectors_dict[res_col]
+            jd_vector = jd_vectors_dict[jd_col]
 
-    #get top 5 matches
+            # Compute similarity
+            sim_matrix = cosine_similarity(res_vector, jd_vector)[0]  # shape: (num_jds,)
+            for idx in range(num_jds):
+                if resume_category.strip().upper() == jd_categories_list[idx]:  # Match category
+                    similarities[idx] += weight * sim_matrix[idx]
+
+    # Get top 5 matches
     top_indices = np.argsort(-similarities)[:5]
     output_rows = []
 
@@ -360,7 +379,6 @@ def main():
     input_pdf = "/Users/sumukharadhya/Downloads/273_NLP/capstone/nlp-capstone-project/resume/data/data/ENGINEERING/10030015.pdf"
     resume_filename = os.path.basename(input_pdf)
     resume_category = "ENGINEERING"
-
 
     #extract text from PDF resume into structured CSV
     structured_resume_csv = extract_resume_sections(input_pdf)
