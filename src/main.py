@@ -313,17 +313,17 @@ def match_to_jobs(resume_embeddings, resume_filename="unknown_resume.pdf", resum
         jd_data[jd_col] = jd_data[jd_col].apply(lambda x: decode_and_pool_embedding(x, EMB_DIM))
     jd_vectors_dict = {col: np.stack(jd_data[col].values) for col in all_jd_cols}
 
-    # Get JD categories
+    #get JD categories
     jd_categories_list = jd_data["category"].fillna("Unknown").str.strip().str.upper().values
 
-    # Prepare resume embedding dict
+    #prepare resume embedding dict
     section_keys = list(section_dict.keys())
     resume_vectors_dict = {}
     for i, section in enumerate(section_keys):
         pooled_vector = decode_and_pool_embedding(resume_embeddings[i], EMB_DIM)
         resume_vectors_dict[section] = pooled_vector.reshape(1, -1)
 
-    # Compute weighted similarity only with JDs of matching category
+    #compute weighted similarity only with JDs of matching category
     num_jds = len(jd_data)
     similarities = np.zeros(num_jds)
 
@@ -335,13 +335,13 @@ def match_to_jobs(resume_embeddings, resume_filename="unknown_resume.pdf", resum
             res_vector = resume_vectors_dict[res_col]
             jd_vector = jd_vectors_dict[jd_col]
 
-            # Compute similarity
-            sim_matrix = cosine_similarity(res_vector, jd_vector)[0]  # shape: (num_jds,)
+            #compute similarity
+            sim_matrix = cosine_similarity(res_vector, jd_vector)[0]  #shape: (num_jds,)
             for idx in range(num_jds):
-                if resume_category.strip().upper() == jd_categories_list[idx]:  # Match category
+                if resume_category.strip().upper() == jd_categories_list[idx]:
                     similarities[idx] += weight * sim_matrix[idx]
 
-    # Get top 5 matches
+    #get top 5 matches
     top_indices = np.argsort(-similarities)[:5]
     output_rows = []
 
