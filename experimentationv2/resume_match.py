@@ -174,7 +174,7 @@ for model in models:
 
     jd_data = pd.read_csv(f"../jd_embeddings/jd_{embedding_model_name}.csv")
 
-    jd_original = pd.read_csv("training_data.csv")
+    jd_original = pd.read_csv("jd_data.csv")
     jd_data = pd.merge(jd_data, jd_original[["position_title", "category"]], on="position_title", how="left")
 
     # Flatten JD section embeddings
