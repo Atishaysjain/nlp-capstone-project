@@ -53,6 +53,6 @@ tsne_visualizations/: Directory containing generated 2D visualizations (plots) o
 
 
 ## Matching Resumes and Job Descriptions
-
+jd_classification.py: Script to classify the job descriptions into a category and writes the category back to jd_data.csv
 resume_match.py: Implements weighted cosine similarity for matching resumes to job descriptions, leveraging embeddings generated previously.
 
