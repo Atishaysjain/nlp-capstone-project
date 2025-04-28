@@ -46,7 +46,7 @@ async def get_matches(file: UploadFile = File(...)):
     top_matches = match_to_jobs(
         resume_embeddings,
         resume_filename=file.filename,
-        resume_category="uploaded",
+        resume_category="ENGINEERING",
         model_name="sentence-transformers/all-MiniLM-L6-v2",
         device="cpu"
     )
