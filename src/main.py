@@ -304,7 +304,7 @@ def match_to_jobs(resume_embeddings, resume_filename="unknown_resume.pdf", resum
     base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
     jd_path = os.path.join(base_dir, "jd_embeddings", f"jd_{embedding_model_name}.csv")
     jd_data = pd.read_csv(jd_path)
-    jd_original = pd.read_csv("../exp/training_data.csv")
+    jd_original = pd.read_csv("../experimentationv2/jd_data.csv")
     jd_data = pd.merge(jd_data, jd_original[["position_title", "category"]], on="position_title", how="left")
     
     #decode JD section embeddings
